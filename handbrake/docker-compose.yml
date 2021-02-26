@@ -1,0 +1,13 @@
+version: '3.3'
+services:
+  handbrake:
+    image: jlesage/handbrake
+    container_name: handbrake
+    ports:
+        - 8005:5800
+    volumes:
+        - ./config:/config:rw
+        - ./storage:/storage:ro
+        - ./watch:/watch:rw
+        - ./output:/output:rw
+    restart: unless-stopped

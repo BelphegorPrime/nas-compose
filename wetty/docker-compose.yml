@@ -1,0 +1,8 @@
+version: '3.3'
+services:
+    wetty:
+      image: wettyoss/wetty
+      container_name: wetty
+      restart: unless-stopped
+      ports:
+        - 8003:3000
