@@ -19,6 +19,4 @@ docker-compose files for my private NAS
     - copy a wireguard config file to `vpn/wg0.conf`
   - jdownloader
     - copy `vpn/.env.example` to `vpn/.env` and set some env variables
-  - onedrive
-    - before using it you have to auth. Use the following command `docker run -it --name onedrive -v ./onedrive_conf:/onedrive/conf -v "./data:/onedrive/data" -e "ONEDRIVE_UID:1000" -e "ONEDRIVE_GID:1000" driveone/onedrive:latest`
 - wetty (port: 8003)

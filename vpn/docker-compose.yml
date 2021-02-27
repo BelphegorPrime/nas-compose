@@ -33,18 +33,6 @@ services:
     network_mode: "service:wireguard"
     restart: unless-stopped
 
-  # Check README for first run
-  onedrive:
-    image: driveone/onedrive:latest
-    container_name: onedrive
-    environment:
-      - ONEDRIVE_UID=1000
-      - ONEDRIVE_GID=1000
-    volumes:
-      - ./onedrive_conf:/onedrive/conf
-      - ./data:/onedrive/data
-    restart: unless-stopped
-
 networks:
   vpn:
     driver: bridge
