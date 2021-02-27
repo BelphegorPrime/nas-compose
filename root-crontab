@@ -34,6 +34,8 @@
 @reboot bash /srv/dev-disk-by-label-media/appdata/backup/runBackup.sh
 @reboot bash /srv/humbleTroveDownloader/runTroveDownloader.sh
 
+@reboot rclone mount --daemon onedrive:OpenMediaVault /srv/onedrive
+
 #00 23 * * 1-4 sudo shutdown -h now
 
 #00 1  * * 1-4 sudo shutdown -h now
