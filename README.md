@@ -4,6 +4,7 @@ docker-compose files for my private NAS
 ## services:
 
 - diun
+  - copy "diun/.env.example" to "diun/.env" and set some env variables
 - dozzle (port: 8004)
 - handbreak (port: 8005)
 - heimdall (port: 8000, 4430)
