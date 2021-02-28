@@ -18,5 +18,5 @@ services:
       - DIUN_PROVIDERS_DOCKER_WATCHSTOPPED=true
     labels:
       - diun.enable=true
-      - diun.watch_repo=tru
+      - diun.watch_repo=true
     restart: unless-stopped
