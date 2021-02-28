@@ -45,3 +45,4 @@ docker-compose files for my private NAS
 - wetty (port: 8003)
   - Description:
     - web based SSH connection
+  - copy `wetty/.env.example` to `wetty/.env` and set some env variables
