@@ -28,7 +28,7 @@
     ]
   },
   {
-    "domain": "handbreak.local.net",
+    "domain": "handbrake.local.net",
     "portMap": [
       {
         "from": 80,
