@@ -46,7 +46,7 @@ conf.forEach(c => {
     }
     frontends[pm.from].push({
         dom: c.domain,
-        back: process.env.ip+":"+pm.to
+        back: pm.ip ? `${pm.ip}:${pm.to}` : `${process.env.ip}:${pm.to}`
     })
   })
 });
