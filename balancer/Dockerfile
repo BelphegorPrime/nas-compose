@@ -1,9 +1,13 @@
-FROM node:lts as builder
+FROM node:lts AS builder
 
 WORKDIR /app
 
+RUN npm init -y
+RUN npm i dotenv
+
 COPY ./balancer.json .
 COPY ./balancer.js .
+COPY ./.env .
 
 RUN node balancer.js
 

@@ -1,3 +1,85 @@
 [
-
+  {
+    "domain": "dozzle.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8004
+      }
+    ]
+  },
+  {
+    "domain": "handbreak.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8005
+      }
+    ]
+  },
+  {
+    "domain": "heimdall.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8000
+      },
+      {
+        "from": 443,
+        "to": 4430
+      }
+    ]
+  },
+  {
+    "domain": "jellyfin.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8001
+      },
+      {
+        "from": 1900,
+        "to": 1900
+      },
+      {
+        "from": 7359,
+        "to": 7359
+      }
+    ]
+  },
+  {
+    "domain": "nextcloud.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8006
+      }
+    ]
+  },
+  {
+    "domain": "portainer.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8002
+      },
+      {
+        "from": 9000,
+        "to": 9000
+      },
+      {
+        "from": 9999,
+        "to": 9000
+      }
+    ]
+  },
+  {
+    "domain": "wetty.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8003
+      }
+    ]
+  }
 ]

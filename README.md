@@ -3,6 +3,11 @@ docker-compose files for my private NAS
 
 ## services:
 
+- balancer
+  - Description:
+    - node script to generate a haproxy conf for the running services 
+  - copy `balancer/.env.example` to `balancer/.env` and set some env variables
+  - ATTENTION! The SSL certificate in `balancer/cert` is self-signed and should not be used when the machine is exposed to the world wide web aka the internet 
 - diun
   - copy `diun/.env.example` to `diun/.env` and set some env variables
 - dozzle (port: 8004)
