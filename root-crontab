@@ -22,24 +22,18 @@
 #
 # m h  dom mon dow   command
 
-#@reboot bash /srv/dev-disk-by-label-media/appdata/vpn/restartVPN.sh
-#@reboot wg-quick up vpn_ro_wg
-@reboot bash /srv/dev-disk-by-label-media/appdata/wol/activate-wol.sh
-#@reboot bash /srv/dev-disk-by-label-media/appdata/jdownloader/forceStart.sh
+@reboot bash /srv/nas-compose/scripts/activate-wol.sh
+@reboot bash /srv/nas-compose/scripts/restartVPNService.sh
 @reboot sudo powertop --auto-tune
-#@reboot bash /srv/dev-disk-by-label-media/appdata/restartContainerScreen.sh
 
-#0 12 * * 1 bash /srv/dev-disk-by-label-media/appdata/backup/runBackup.sh
-#0 12 * * 3 bash /srv/humbleTroveDownloader/runTroveDownloader.sh
-@reboot bash /srv/dev-disk-by-label-media/appdata/backup/runBackup.sh
-@reboot bash /srv/humbleTroveDownloader/runTroveDownloader.sh
+@reboot bash /srv/nas-compose/scripts/runBackup.sh
+@reboot bash /srv/nas-compose/scripts/runTroveDownloader.sh
 
 @reboot rclone mount --daemon onedrive:OpenMediaVault /srv/onedrive
 
+# monday until thursday 11:00PM
 #00 23 * * 1-4 sudo shutdown -h now
-
-#00 1  * * 1-4 sudo shutdown -h now
+# saturday 01:00AM
 #00 1  * * 6   sudo shutdown -h now
-#00 23 * * 0   sudo shutdown -h now
-#00 1  * * 0   sudo shutdown -h now
+# sunday 11:00PM
 #00 23 * * 0   sudo shutdown -h now
