@@ -7,7 +7,9 @@ services:
     volumes:
       - ./config:/config
       - ./cache:/cache
-      - ./media:/media
+      - /srv/dev-disk-by-label-media/Anime:/media/Anime
+      - /srv/dev-disk-by-label-media/Movies:/media/Movies
+      - /srv/dev-disk-by-label-media/Series:/media/Series
     ports:
       - 8001:8096
       #- 4431:8920
