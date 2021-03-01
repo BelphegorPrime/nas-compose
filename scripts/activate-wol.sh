@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-sleep 10;
+sleep 30;
 
 ethtool -s enp5s0 wol d;
 
