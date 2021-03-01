@@ -22,14 +22,7 @@
 #
 # m h  dom mon dow   command
 
-@reboot bash /srv/nas-compose/scripts/activate-wol.sh >/dev/null 2>&1
-@reboot bash /srv/nas-compose/scripts/restartVPNService.sh >/dev/null 2>&1
-@reboot sudo powertop --auto-tune >/dev/null 2>&1
-
-@reboot bash /srv/nas-compose/scripts/runBackup.sh >/dev/null 2>&1
-@reboot bash /srv/nas-compose/scripts/runTroveDownloader.sh >/dev/null 2>&1
-
-@reboot rclone mount --daemon onedrive:OpenMediaVault /srv/onedrive >/dev/null 2>&1
+@reboot bash /srv/nas-compose/scripts/atReboot.sh >/dev/null 2>&1
 
 # monday until thursday 11:00PM
 #00 23 * * 1-4 sudo shutdown -h now >/dev/null 2>&1
