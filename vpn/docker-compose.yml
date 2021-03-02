@@ -27,7 +27,7 @@ services:
       - wireguard
     volumes:
       - ./config:/opt/JDownloader/cfg
-      - /srv/dev-disk-by-label-media/Downloads:/opt/JDownloader/Downloads
+      - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
     env_file:
       - .env
     network_mode: "service:wireguard"
