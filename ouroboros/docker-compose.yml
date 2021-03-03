@@ -5,10 +5,10 @@ services:
     container_name: ouroboros
     environment:
       - CLEANUP=true
-      - INTERVAL=300
+      - INTERVAL=3600
       - LOG_LEVEL=info
       - SELF_UPDATE=true
-      - IGNORE=jellyfin portainer
+      - IGNORE=jellyfin portainer mongo influxdb postgres mariadb
       - TZ=Europe/Berlin
     restart: unless-stopped
     volumes:

@@ -1,0 +1,83 @@
+version: '2'
+services:
+  avidemux:
+    image: jlesage/avidemux
+    ports:
+      - 5803:5800
+    volumes:
+      - ./avidemux:/config:rw
+      - ./media:/storage:rw
+    environment:
+      - USER_ID=1000
+      - GROUP_ID=100
+      - TZ=Europe/Berlin
+    restart: unless-stopped
+
+  mediainfo:
+    image: jlesage/mediainfo
+    ports:
+      - 5804:5800
+    volumes:
+      - ./mediainfo:/config:rw
+      - ./media:/storage:ro
+    environment:
+      - USER_ID=1000
+      - GROUP_ID=100
+      - TZ=Europe/Berlin
+    restart: unless-stopped
+
+  tsmuxer:
+    image: jlesage/tsmuxer
+    ports:
+      - 5805:5800
+    volumes:     
+      - ./tsmuxer:/config:rw
+      - ./media:/storage:rw
+    environment:
+      - USER_ID=1000
+      - GROUP_ID=100
+      - TZ=Europe/Berlin
+    restart: unless-stopped
+
+  dupeguru:
+    image: jlesage/dupeguru
+    ports:
+      - 5806:5800
+    volumes:
+      - ./dupeguru:/config:rw
+      - ./media:/storage:rw
+    environment:
+      - USER_ID=1000
+      - GROUP_ID=100
+      - TZ=Europe/Berlin
+    restart: unless-stopped
+
+  filebot:
+    image: jlesage/filebot
+    ports:
+      - 5807:5800
+    volumes:
+      - ./filebot:/config:rw
+      - ./media:/storage:rw
+    environment:
+      - USER_ID=1000
+      - GROUP_ID=100
+      - TZ=Europe/Berlin
+    restart: unless-stopped
+
+  handbrake:
+    image: jlesage/handbrake
+    ports:
+      - 5808:5800
+    volumes:
+      - ./handbrake:/config:rw
+      - ./media:/storage:ro
+      - ./downloads/watch:/watch:rw
+      - ./downloads/output:/output:rw
+    environment:
+      - AUTOMATED_CONVERSION_PRESET=General/Very Fast 1080p30
+      - AUTOMATED_CONVERSION_FORMAT=mp4
+      - USER_ID=1000
+      - GROUP_ID=100
+      - TZ=Europe/Berlin
+    restart: unless-stopped

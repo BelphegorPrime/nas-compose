@@ -1,8 +1,9 @@
-version: '3.3'
+version: '2.4'
 services:
   handbrake:
     image: jlesage/handbrake
     container_name: handbrake
+    user: 0:0
     ports:
         - 8005:5800
     volumes:
@@ -10,4 +11,9 @@ services:
         - ./storage:/storage:ro
         - ./watch:/watch:rw
         - ./output:/output:rw
+        - ./raw:/raw:rw
+    devices:
+      - /dev/dri:/dev/dri
     restart: unless-stopped
+    privileged: true
+    cpus: 5.5

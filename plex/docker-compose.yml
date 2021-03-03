@@ -1,0 +1,17 @@
+version: '3.3'
+services:
+    plex:
+        image: plexinc/pms-docker
+        container_name: plex
+        restart: unless-stopped
+        ports:
+            - 32400:32400/tcp
+        environment:
+            - TZ=Europe/Berlin
+        volumes:
+            - ./config:/config
+            - ./transcode:/transcode
+            - /srv/dev-disk-by-label-media/media:/data
+        devices:
+            - /dev/dri:/dev/dri
+

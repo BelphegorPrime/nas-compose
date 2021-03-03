@@ -1,0 +1,56 @@
+version: '3.3'
+services:
+  logspout:
+    image: gliderlabs/logspout
+    container_name: logspout
+    restart: unless-stopped
+    command: 'syslog://logstash:5000'
+    volumes:
+      - /var/run/docker.sock:/tmp/docker.sock
+    ports:
+      - 5602:80
+    depends_on:
+      - elasticsearch
+      - logstash
+      - kibana
+
+  logstash:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    container_name: logstash
+    restart: unless-stopped
+    depends_on:
+      - elasticsearch
+      - kibana
+
+  kibana:
+    image: kibana:7.6.1
+    container_name: kibana
+    restart: unless-stopped
+    volumes:
+      - ./kibana/config:/usr/share/kibana/config
+    environment:
+      - ELASTICSEARCH_URL=http://elasticsearch:9200
+      - LOGSPOUT=ignore
+    depends_on:
+      - elasticsearch
+    ports:
+      - 5601:5601
+
+  elasticsearch:
+    image: elasticsearch:7.6.1
+    container_name: elasticsearch
+    restart: unless-stopped
+    volumes:
+      - ./data:/usr/share/elasticsearch/data
+    environment:
+      - discovery.type=single-node
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+      - LOGSPOUT=ignore
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+

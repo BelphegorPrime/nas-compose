@@ -7,6 +7,7 @@ services:
     volumes:
       - ./config:/config
       - ./cache:/cache
+      - ./transtmp:/transtmp
       - /srv/dev-disk-by-label-media/media/Anime:/media/Anime
       - /srv/dev-disk-by-label-media/media/Movies:/media/Movies
       - /srv/dev-disk-by-label-media/media/Series:/media/Series
@@ -16,5 +17,6 @@ services:
       - 7359:7359/udp
       - 1900:1900/udp
     devices:
-      - /dev/dri:/dev/dri
+      - /dev/dri/renderD128:/dev/dri/renderD128
+      - /dev/dri/card0:/dev/dri/card0
     restart: unless-stopped

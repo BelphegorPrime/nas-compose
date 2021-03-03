@@ -1,18 +1,20 @@
 version: '3.3'
 services:
   nextcloud:
-    image: nextcloud
+    image: nextcloud:apache
     container_name: nextcloud
     environment:
       - MYSQL_PASSWORD=nextcloud
       - MYSQL_DATABASE=nextcloud
       - MYSQL_USER=nextcloud
       - MYSQL_HOST=nextcloud-db
+      - REDIS_HOST=nextcloud-redis
     volumes:
-      - ./data:/var/www/html/data
-      - ./config.php:/var/www/html/config/config.php:rw
-      # new installation
-      - ./CAN_INSTALL:/var/www/html/config/CAN_INSTALL:rw
+      - ./config:/var/www/html
+      - /srv:/media/data:rw
+    networks:
+      - redisnet
+      - dbnet
     ports:
       - 8006:80
     restart: unless-stopped
@@ -23,6 +25,8 @@ services:
     command: --transaction-isolation=READ-COMMITTED --binlog-format=ROW
     volumes:
       - ./db:/var/lib/mysql
+    networks:
+      - dbnet
     environment:
       - MYSQL_ROOT_PASSWORD=nextcloud
       - MYSQL_PASSWORD=nextcloud
@@ -35,3 +39,9 @@ services:
     image: redis:alpine
     container_name: nextcloud-redis
     restart: unless-stopped
+    networks:
+      - redisnet
+
+networks:
+  dbnet:
+  redisnet:

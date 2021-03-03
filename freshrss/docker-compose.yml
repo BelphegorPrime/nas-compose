@@ -1,0 +1,27 @@
+version: "3"
+
+services:
+  freshrss_postgresql:
+    image: postgres:alpine
+    container_name: freshrss_postgres
+    restart: unless-stopped
+    volumes:
+      - ./db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=freshrss
+      - POSTGRES_PASSWORD=freshrss
+      - POSTGRES_DB=freshrss
+
+  freshrss:
+    image: freshrss/freshrss
+    container_name: freshrss
+    restart: unless-stopped
+    ports:
+      - 8002:80
+    depends_on:
+      - freshrss_postgresql
+    volumes:
+      - ./data:/var/www/FreshRSS/data
+    environment:
+      - CRON_MIN=*/20
+      - TZ=Europe/Berlin

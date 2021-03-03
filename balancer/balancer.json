@@ -19,6 +19,25 @@
     ]
   },
   {
+    "domain": "fritz.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "ip": "192.168.0.1",
+        "to": 80
+      }
+    ]
+  },
+  {
+    "domain": "airsonic.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8007
+      }
+    ]
+  },
+  {
     "domain": "dozzle.local.net",
     "portMap": [
       {

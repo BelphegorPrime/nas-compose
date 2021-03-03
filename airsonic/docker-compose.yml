@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+  airsonic:
+    image: airsonic/airsonic
+    container_name: airsonic
+    ports:
+      - 8007:4040
+    volumes:
+      - ./data:/airsonic/data
+      - /srv/dev-disk-by-label-media/media/Music:/airsonic/music
+      - /srv/dev-disk-by-label-media/media/Playlists:/airsonic/playlists
+      - /srv/dev-disk-by-label-media/media/Podcasts:/airsonic/podcasts
+    restart: unless-stopped
+#    environment:
+#      - JAVA_OPTS="-DDatabaseConfigType=embed -DDatabaseConfigEmbedDriver=com.mysql.jdbc.Driver -DDatabaseConfigEmbedUrl=jdbc:mysql://mysql:3306/airsonic -DDatabaseConfigEmbedUsername=root -DDatabaseConfigEmbedPassword=airsonic"
+
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    environment:
+      - MYSQL_DATABASE=airsonic
+      - MYSQL_ROOT_PASSWORD=airsonic
+    volumes:
+      - ./db:/var/lib/mysql
+    restart: unless-stopped

@@ -8,6 +8,9 @@ docker-compose files for my private NAS
 
 ## services:
 
+- [airsonic](https://airsonic.github.io/)
+  - Description:
+    - Airsonic is a free, web-based media streamer, providing ubiquitous access to your music.
 - balancer
   - Description:
     - node script to generate a [haproxy](http://www.haproxy.org) conf for the running services 
@@ -21,6 +24,12 @@ docker-compose files for my private NAS
 - [dozzle](https://dozzle.dev/) (port: 8004)
   - Description:
     - A web based docker container log viewer
+- [freshrss](https://freshrss.org/)
+  - Description:
+    - RSS aggregator
+- [guacamole](https://guacamole.apache.org/)
+  - Description:
+    - Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 - [handbrake](https://handbrake.fr/) (port: 8005)
   - Description:
     - Video encoder
@@ -29,15 +38,28 @@ docker-compose files for my private NAS
     - home service dashboard
 - [jellyfin](https://jellyfin.org/) (port: 8001, 7359, 1900)
   - Description:
-    - Multimedia Server
+    - open source Multimedia Server
+- logs
+  - Description:
+    - [Elastic Stack](https://www.elastic.co/) Logging
+- mediaStack
+  - Description:
+    - multiple multimedia en- and decoding
+  - [avidemux](http://avidemux.sourceforge.net/)
+  - [mediainfo](https://mediaarea.net/en/MediaInfo)
+  - [tsmuxer](https://www.videohelp.com/software/tsMuxeR)
+  - [dupeguru](https://dupeguru.voltaicideas.net/)
+  - [filebot](https://www.filebot.net/)
+  - another [handbrake](https://handbrake.fr/)
 - [nextcloud](https://nextcloud.com/) (port: 8006)
   - Description:
     - personal cloud storage
-  - when it is a new installation create an empty file `nextcloud/CAN_INSTALL`.
-  - after installation delete `nextcloud/CAN_INSTALL`
 - [ouroboros](https://github.com/pyouroboros/ouroboros)
   - Description:
     - automatic docker upgrader
+- [plex](https://www.plex.tv/)
+  - Description:
+    - closed source Multimedia Server
 - [portainer](https://www.portainer.io/) (port: 8002, 9000)
   - Description:
     - web interface to manage docker container instances
@@ -48,6 +70,8 @@ docker-compose files for my private NAS
     - copy a wireguard config file to `vpn/wg0.conf`
   - [jdownloader](https://github.com/jaymoulin/docker-jdownloader)
     - copy `vpn/.env.example` to `vpn/.env` and set some env variables
+  - [transmission](https://transmissionbt.com/)
+  - nginx proxy to forward torrent through wireguard
 - [wetty](https://github.com/butlerx/wetty) (port: 8003)
   - Description:
     - web based SSH connection
