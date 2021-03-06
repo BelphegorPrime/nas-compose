@@ -11,4 +11,6 @@ then
   # Size ~ 3,58TB
   rsync -avu --delete /srv/dev-disk-by-label-media/media/Games $DIR/
   # Sizes Total ~ 6,57TB
+else
+  echo "cold8TB drives directory $DIR does not exist"
 fi

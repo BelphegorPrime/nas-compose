@@ -13,4 +13,6 @@ then
   # Size ~ 0,000TB
   #rsync -avu --delete /srv/dev-disk-by-label-media/media/Movies $DIR/
   # Sizes Total > 7TB
+else
+  echo "cold16TB drives directory $DIR does not exist"
 fi

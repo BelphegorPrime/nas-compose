@@ -23,4 +23,6 @@ then
   # Size ~ 0,016TB
   rsync -avu --delete /srv/dev-disk-by-label-media/media/Podcasts $DIR/
   # Sizes Total ~ 0,89TB
+else
+  echo "cold2TB drives directory $DIR does not exist"
 fi
