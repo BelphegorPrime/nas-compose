@@ -1,8 +1,14 @@
 #! /usr/bin/env bash
 
+UUID=28b81fe9-324f-4956-9b99-9136a371f7db
+DIR="/srv/dev-disk-by-uuid-$UUID"
+
 # 28b81fe9-324f-4956-9b99-9136a371f7db === cold8TB (7,22 TB)
-# Size ~ 2,99TB
-rsync -avu --delete /srv/dev-disk-by-label-media/media/Anime /srv/dev-disk-by-uuid-28b81fe9-324f-4956-9b99-9136a371f7db/
-# Size ~ 6,4TB
-rsync -avu --delete /srv/dev-disk-by-label-media/media/Games /srv/dev-disk-by-uuid-28b81fe9-324f-4956-9b99-9136a371f7db/
-# Sizes Total ~ 6,4TB
+if [[ -d $DIR ]]
+then
+  # Size ~ 2,99TB
+  rsync -avu --delete /srv/dev-disk-by-label-media/media/Anime $DIR/
+  # Size ~ 3,58TB
+  rsync -avu --delete /srv/dev-disk-by-label-media/media/Games $DIR/
+  # Sizes Total ~ 6,57TB
+fi

@@ -1,4 +1,3 @@
-#! /usr/bin/env bash
+#! /bin/bash
 
-# TODO think about good file structure
-rsync -avu --delete /srv/dev-disk-by-label-media/media /srv/dev-disk-by-label-backup
+rsync -avu --delete --exclude "lost+found" --exclude "Downloads" --exclude "DownloadsTransmission" /srv/dev-disk-by-label-media/media /srv/dev-disk-by-label-backup
