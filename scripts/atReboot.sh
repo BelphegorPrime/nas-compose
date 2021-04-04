@@ -3,8 +3,8 @@
 sleep 10;
 
 # restart docker vpn services
-cd /srv/nas-compose/vpn || exit;
-docker-compose up -d --build;
+docker-compose -f /srv/nas-compose/vpn/docker-compose.yml down;
+docker-compose -f /srv/nas-compose/vpn/docker-compose.yml up -d;
 
 # power adjustments
 powertop --auto-tune
