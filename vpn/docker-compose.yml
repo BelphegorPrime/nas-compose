@@ -12,6 +12,7 @@ services:
       - TZ=Europe/Berlin
     ports:
       - 51820:51820/udp
+      - 5800:5800
     volumes:
       - ./wg0.conf:/config/wg0.conf
       - /lib/modules:/lib/modules:ro
@@ -34,35 +35,32 @@ services:
       - PGID=1000
       - PUID=1000
 
-  jdownloader:
-    image: jaymoulin/jdownloader
-    container_name: jdownloader
-    user: 1002:100
+#  jdownloader:
+#    image: jaymoulin/jdownloader
+#    container_name: jdownloader
+#    user: 1002:100
+#    depends_on:
+#      - wireguard
+#    volumes:
+#      - ./config:/opt/JDownloader/cfg
+#      - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
+#    env_file:
+#      - .env
+#    network_mode: "service:wireguard"
+#    restart: unless-stopped
+
+  jdownloader-2:
+    image: jlesage/jdownloader-2
+    container_name: jdownloader-2
     depends_on:
       - wireguard
     volumes:
-      - ./config:/opt/JDownloader/cfg
-      - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
+      - ./config:/config:rw
+      - /srv/dev-disk-by-label-media/media/Downloads:/output:rw
     env_file:
       - .env
     network_mode: "service:wireguard"
     restart: unless-stopped
-
-#  jdownloader-2:
-#    image: jlesage/jdownloader-2
-#    container_name: jdownloader-2
-#    depends_on:
-#      - wireguard
-#    volumes:
-#      - ./config:/config:rw
-#      - /srv/dev-disk-by-label-media/media/Downloads:/output:rw
-#    ports:
-#      - 5800:5800
-#    dns:
-#      - 8.8.8.8
-#    env_file:
-#      - .env
-#    restart: unless-stopped
 
   transmission:
     image: linuxserver/transmission
