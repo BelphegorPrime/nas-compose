@@ -35,19 +35,19 @@ services:
       - PGID=1000
       - PUID=1000
 
-  jdownloader:
-    image: jaymoulin/jdownloader
-    container_name: jdownloader
-    user: 1002:100
-    depends_on:
-      - wireguard
-    volumes:
-      - ./config:/opt/JDownloader/cfg
-      - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
-    env_file:
-      - .env
-    network_mode: "service:wireguard"
-    restart: unless-stopped
+#  jdownloader:
+#    image: jaymoulin/jdownloader
+#    container_name: jdownloader
+#    user: 1002:100
+#    depends_on:
+#      - wireguard
+#    volumes:
+#      - ./config:/opt/JDownloader/cfg
+#      - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
+#    env_file:
+#      - .env
+#    network_mode: "service:wireguard"
+#    restart: unless-stopped
 
   jdownloader-update:
     image: jaymoulin/jdownloader
