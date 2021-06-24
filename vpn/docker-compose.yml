@@ -18,6 +18,8 @@ services:
       - /lib/modules:/lib/modules:ro
     sysctls:
       - net.ipv4.conf.all.src_valid_mark=1
+    dns:
+      - 8.8.8.8
     restart: unless-stopped
 
   proxy:
@@ -46,8 +48,6 @@ services:
       - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
     env_file:
       - .env
-    dns:
-        - 8.8.8.8
     network_mode: "service:wireguard"
     restart: unless-stopped
 
