@@ -46,6 +46,8 @@ services:
       - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
     env_file:
       - .env
+    dns:
+        - 8.8.8.8
     network_mode: "service:wireguard"
     restart: unless-stopped
 
