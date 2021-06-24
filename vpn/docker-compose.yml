@@ -17,6 +17,9 @@ services:
       - /lib/modules:/lib/modules:ro
     sysctls:
       - net.ipv4.conf.all.src_valid_mark=1
+    networks:
+      wg-network:
+        ipv4_address: 192.168.168.1
     restart: unless-stopped
 
   proxy:
