@@ -19,7 +19,7 @@ services:
       - net.ipv4.conf.all.src_valid_mark=1
     networks:
       wg-network:
-        ipv4_address: 192.168.168.1
+        ipv4_address: 192.168.0.1
     restart: unless-stopped
 
   proxy:
@@ -50,7 +50,7 @@ services:
 #      - .env
 #    networks:
 #      wg-network:
-#        ipv4_address: 192.168.168.4
+#        ipv4_address: 192.168.0.4
 #    restart: unless-stopped
 
   jdownloader-2:
@@ -70,8 +70,7 @@ services:
       - .env
     networks:
       wg-network:
-        ipv4_address: 192.168.168.4
-    network_mode: "service:wireguard"
+        ipv4_address: 192.168.0.4
     restart: unless-stopped
 
 #  jdownloader-update:
@@ -84,7 +83,7 @@ services:
 #      - .env
 #    networks:
 #      wg-network:
-#        ipv4_address: 192.168.168.4
+#        ipv4_address: 192.168.0.4
 #    dns:
 #      - 8.8.8.8
 
@@ -101,7 +100,7 @@ services:
       - PASS=admin
     networks:
       wg-network:
-        ipv4_address: 192.168.168.5
+        ipv4_address: 192.168.0.5
     volumes:
       - ./transmission/config:/config
       - ./watch:/watch
@@ -113,4 +112,4 @@ networks:
   wg-network:
     ipam:
       config:
-        - subnet: 192.168.168.0/28
+        - subnet: 192.168.0.0/28
