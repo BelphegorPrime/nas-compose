@@ -12,15 +12,11 @@ services:
       - TZ=Europe/Berlin
     ports:
       - 51820:51820/udp
-#      - 5800:5800
     volumes:
       - ./wg0.conf:/config/wg0.conf
       - /lib/modules:/lib/modules:ro
     sysctls:
       - net.ipv4.conf.all.src_valid_mark=1
-    networks:
-      wg-network:
-        ipv4_address: 192.168.0.2
     restart: unless-stopped
 
   proxy:
@@ -38,54 +34,35 @@ services:
       - PGID=1000
       - PUID=1000
 
-#  jdownloader:
-#    image: jaymoulin/jdownloader
-#    container_name: jdownloader
-#    user: 1002:100
-#    depends_on:
-#      - wireguard
-#    volumes:
-#      - ./config:/opt/JDownloader/cfg
-#      - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
-#    env_file:
-#      - .env
-#    networks:
-#      wg-network:
-#        ipv4_address: 192.168.0.4
-#    restart: unless-stopped
-
-  jdownloader-2:
-    image: jlesage/jdownloader-2
-    container_name: jdownloader-2
+  jdownloader:
+    image: jaymoulin/jdownloader
+    container_name: jdownloader
+    user: 1002:100
     depends_on:
       - wireguard
     volumes:
-      - ./config:/config:rw
-      - /srv/dev-disk-by-label-media/media/Downloads:/output:rw
-    ports:
-      - 5800:5800
-    dns:
-      - 8.8.8.8
+      - ./config:/opt/JDownloader/cfg
+      - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
     env_file:
       - .env
-    networks:
-      wg-network:
-        ipv4_address: 192.168.0.4
+    network_mode: "service:wireguard"
     restart: unless-stopped
 
-#  jdownloader-update:
-#    image: jaymoulin/jdownloader
-#    container_name: jdownloader-update
-#    user: 1002:100
+#  jdownloader-2:
+#    image: jlesage/jdownloader-2
+#    container_name: jdownloader-2
+#    depends_on:
+#      - wireguard
 #    volumes:
-#      - ./config:/opt/JDownloader/cfg
-#    env_file:
-#      - .env
-#    networks:
-#      wg-network:
-#        ipv4_address: 192.168.0.4
+#      - ./config:/config:rw
+#      - /srv/dev-disk-by-label-media/media/Downloads:/output:rw
+#    ports:
+#      - 5800:5800
 #    dns:
 #      - 8.8.8.8
+#    env_file:
+#      - .env
+#    restart: unless-stopped
 
   transmission:
     image: linuxserver/transmission
@@ -98,18 +75,9 @@ services:
       - TZ=Europe/Berlin
       - USER=admin
       - PASS=admin
-    networks:
-      wg-network:
-        ipv4_address: 192.168.0.5
+    network_mode: "service:wireguard"
     volumes:
       - ./transmission/config:/config
       - ./watch:/watch
       - /srv/dev-disk-by-label-media/media/DownloadsTransmission:/downloads
     restart: unless-stopped
-
-
-networks:
-  wg-network:
-    ipam:
-      config:
-        - subnet: 192.168.0.0/28
