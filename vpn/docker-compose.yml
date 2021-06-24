@@ -12,6 +12,7 @@ services:
       - TZ=Europe/Berlin
     ports:
       - 51820:51820/udp
+      - 5800:5800
     volumes:
       - ./wg0.conf:/config/wg0.conf
       - /lib/modules:/lib/modules:ro
@@ -19,7 +20,7 @@ services:
       - net.ipv4.conf.all.src_valid_mark=1
     networks:
       wg-network:
-        ipv4_address: 192.168.0.1
+        ipv4_address: 192.168.0.2
     restart: unless-stopped
 
   proxy:
