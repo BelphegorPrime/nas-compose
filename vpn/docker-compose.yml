@@ -12,7 +12,7 @@ services:
       - TZ=Europe/Berlin
     ports:
       - 51820:51820/udp
-      - 5800:5800
+#      - 5800:5800
     volumes:
       - ./wg0.conf:/config/wg0.conf
       - /lib/modules:/lib/modules:ro
