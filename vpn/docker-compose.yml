@@ -10,6 +10,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Europe/Berlin
+      - INTERNAL_SUBNET=10.13.13.0 #optional
     ports:
       - 51820:51820/udp
       - 5800:5800
