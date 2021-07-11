@@ -3,18 +3,17 @@ services:
     netdata:
         image: netdata/netdata
         container_name: netdata
-        user: 0:0
+        hostname: netdata.locale.net
         ports:
             - 19999:19999
         volumes:
-            - ./config:/etc/netdata
             - ./lib:/var/lib/netdata
             - ./cache:/var/cache/netdata
             - /etc/passwd:/host/etc/passwd:ro
             - /etc/group:/host/etc/group:ro
             - /proc:/host/proc:ro
             - /sys:/host/sys:ro
-            - /etc/os-release:/host/etc/os-release:ro
+            - /var/run/docker.sock:/var/run/docker.sock:ro
         restart: unless-stopped
         cap_add:
             - SYS_PTRACE
