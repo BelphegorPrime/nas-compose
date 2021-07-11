@@ -3,6 +3,7 @@ services:
     netdata:
         image: netdata/netdata
         container_name: netdata
+        user: 0:0
         ports:
             - 19999:19999
         volumes:
