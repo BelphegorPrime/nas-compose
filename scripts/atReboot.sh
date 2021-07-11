@@ -14,7 +14,7 @@ bash -c "
     if ! screen -ls | grep -q \"backup\"; then
         screen -dm -S backup;
     fi
-    screen -r backup -X stuff \"bash /srv/nas-compose/scripts/runBackup .sh \n\";
+    screen -r backup -X stuff \"bash /srv/nas-compose/scripts/runBackup.sh \n\";
 "
 
 # run Humble Trove Downloader
