@@ -1,7 +1,6 @@
 #! /usr/bin/env bash
 
-#DIR="/srv/dev-disk-by-label-cold16TB"
-DIR="/srv/dev-disk-by-id-usb-TOSHIBA_MG08ACA16TE_RANDOM__F9D3073F4917-0-1-part1"
+DIR="/srv/dev-disk-by-label-cold16TB"
 
 # cold16TB (14,55 TB)
 if [[ -d $DIR ]]
