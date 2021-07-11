@@ -4,11 +4,12 @@ services:
         image: netdata/netdata
         container_name: netdata
         hostname: netdata.locale.net
-        user: 0:0
         ports:
             - 19999:19999
         volumes:
+            # folder ./lib needs to be writeable for anyone
             - ./lib:/var/lib/netdata
+            # folder ./cache needs to be writeable for anyone
             - ./cache:/var/cache/netdata
             - /etc/passwd:/host/etc/passwd:ro
             - /etc/group:/host/etc/group:ro
