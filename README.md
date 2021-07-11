@@ -51,6 +51,9 @@ docker-compose files for my private NAS
   - [dupeguru](https://dupeguru.voltaicideas.net/)
   - [filebot](https://www.filebot.net/)
   - another [handbrake](https://handbrake.fr/)
+- [netdata](https://netdata.cloud/) (port: 19999)
+  - Description:
+    - real time monitoring
 - [nextcloud](https://nextcloud.com/) (port: 8006)
   - Description:
     - personal cloud storage

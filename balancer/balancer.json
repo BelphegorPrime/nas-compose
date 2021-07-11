@@ -115,5 +115,14 @@
         "to": 8003
       }
     ]
+  },
+  {
+    "domain": "netdata.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 19999
+      }
+    ]
   }
 ]
