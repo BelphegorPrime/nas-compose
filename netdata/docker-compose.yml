@@ -4,7 +4,7 @@ services:
         image: netdata/netdata
         container_name: netdata
         hostname: netdata.locale.net
-        user: 1000:1000
+        user: 0:0
         ports:
             - 19999:19999
         volumes:
