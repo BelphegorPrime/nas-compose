@@ -18,12 +18,12 @@ bash -c "
 "
 
 # run Humble Trove Downloader
-bash -c "
-    if ! screen -ls | grep -q \"trove\"; then
-        screen -dm -S trove;
-    fi
-    screen -r trove -X stuff \"cd /srv/humbleTroveDownloader && /srv/humbleTroveDownloader/trove_downloader run \n\";
-"
+#bash -c "
+#    if ! screen -ls | grep -q \"trove\"; then
+#        screen -dm -S trove;
+#    fi
+#    screen -r trove -X stuff \"cd /srv/humbleTroveDownloader && /srv/humbleTroveDownloader/trove_downloader run \n\";
+#"
 
 # mount onedrive
 rclone mount --daemon onedrive:OpenMediaVault /srv/onedrive
