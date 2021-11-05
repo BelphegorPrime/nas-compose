@@ -8,6 +8,7 @@ services:
             - 32400:32400/tcp
         environment:
             - TZ=Europe/Berlin
+            - PLEX_CLAIM=${PLEX_CLAIM:-"claim-L-S_syn_daaaaaaaaaaaaaa"}
         volumes:
             - ./config:/config
             - ./transcode:/transcode
