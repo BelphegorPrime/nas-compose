@@ -51,9 +51,9 @@ services:
       retries: 5
     volumes:
       - ./paperless:/usr/src/paperless/data
-      - /srv/documents/media:/usr/src/paperless/media
-      - /srv/documents/consume:/usr/src/paperless/consume
-      - /srv/documents/export:/usr/src/paperless/export
+      - /srv/paperless/documents:/usr/src/paperless/media
+      - /srv/paperless/documents:/usr/src/paperless/consume
+      - /srv/paperless/documents:/usr/src/paperless/export
     env_file: .env
     environment:
       PAPERLESS_REDIS: redis://broker:6379
@@ -87,3 +87,22 @@ services:
   tika:
     image: apache/tika
     restart: unless-stopped
+
+  rclone:
+    image: rclone/rclone
+    container_name: rclone
+    restart: unless-stopped
+    user: 0:0
+    cap_add:
+      - SYS_ADMIN
+    security_opt:
+      - apparmor:unconfined
+    volumes:
+      - ~/.config/rclone:/config/rclone
+      - /srv/paperless:/data:shared
+      - /etc/passwd:/etc/passwd:ro
+      - /etc/group:/etc/group:ro
+    devices:
+      - /dev/fuse
+    command:
+      - mount --daemon onedrive:Documents/paperless /data/documents
