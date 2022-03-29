@@ -124,5 +124,14 @@
         "to": 19999
       }
     ]
+  },
+  {
+    "domain": "paperless.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8008
+      }
+    ]
   }
 ]
