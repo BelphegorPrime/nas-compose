@@ -37,14 +37,16 @@ services:
       - PUID=1000
 
   jdownloader:
-    image: jaymoulin/jdownloader
+    image: jaymoulin/jdownloader:1.4.3
     container_name: jdownloader
     user: 1002:100
     depends_on:
       - wireguard
     volumes:
       - ./config:/opt/JDownloader/cfg
+      - ./jdlogs:/opt/JDownloader/logs
       - /srv/dev-disk-by-label-media/media/Downloads:/opt/JDownloader/Downloads
+      - /etc/localtime:/etc/localtime:ro
     env_file:
       - .env
     network_mode: "service:wireguard"
