@@ -21,6 +21,8 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 #
 # m h  dom mon dow   command
+* */1 * * * bash /srv/nas-compose/scripts/paperless/download.sh
+* */1 * * * bash /srv/nas-compose/scripts/paperless/upload.sh
 
 @reboot bash /srv/nas-compose/scripts/atReboot.sh >/dev/null 2>&1
 
