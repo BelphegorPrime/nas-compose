@@ -74,9 +74,9 @@ services:
     volumes:
       - ./data/db:/var/lib/postgresql/data
     environment:
-      POSTGRES_DB: paperlessngx
-      POSTGRES_USER: paperlessngx
-      POSTGRES_PASSWORD: paperlessngx
+      POSTGRES_DB: paperless
+      POSTGRES_USER: paperless
+      POSTGRES_PASSWORD: paperless
 
   gotenberg:
     image: gotenberg/gotenberg:7
