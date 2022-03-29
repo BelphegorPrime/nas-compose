@@ -51,9 +51,9 @@ services:
       retries: 5
     volumes:
       - ./paperless:/usr/src/paperless/data
-      - /srv/dev-disk-by-label-media/media/Documents/media:/usr/src/paperless/media
-      - /srv/dev-disk-by-label-media/media/Documents/consume:/usr/src/paperless/consume
-      - /srv/dev-disk-by-label-media/media/Documents/export:/usr/src/paperless/export
+      - /srv/documents/media:/usr/src/paperless/media
+      - /srv/documents/consume:/usr/src/paperless/consume
+      - /srv/documents/export:/usr/src/paperless/export
     env_file: .env
     environment:
       PAPERLESS_REDIS: redis://broker:6379

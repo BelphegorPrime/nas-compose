@@ -27,3 +27,4 @@ bash -c "
 
 # mount onedrive
 rclone mount --daemon onedrive:OpenMediaVault /srv/onedrive
+rclone mount --daemon onedrive:Documents/paperless /srv/documents
