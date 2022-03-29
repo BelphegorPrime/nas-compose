@@ -51,9 +51,9 @@ services:
       retries: 5
     volumes:
       - ./paperless:/usr/src/paperless/data
-      - /srv/paperless/documents:/usr/src/paperless/media
-      - /srv/paperless/documents:/usr/src/paperless/consume
-      - /srv/paperless/documents:/usr/src/paperless/export
+      - /srv/paperless/documents:/usr/src/paperless/media:rshared
+      - /srv/paperless/documents:/usr/src/paperless/consume:rshared
+      - /srv/paperless/documents:/usr/src/paperless/export:rshared
     env_file: .env
     environment:
       PAPERLESS_REDIS: redis://broker:6379
@@ -99,10 +99,13 @@ services:
       - apparmor:unconfined
     volumes:
       - ~/.config/rclone:/config/rclone
-      - /srv/paperless:/data:shared
+      - /srv/paperless:/data:rshared
       - /etc/passwd:/etc/passwd:ro
       - /etc/group:/etc/group:ro
+    environment:
+      - PUID=0
+      - PGID=0
     devices:
       - /dev/fuse
-    command:
-      - mount --daemon onedrive:Documents/paperless /data/documents
+    command: "mount onedrive:Documents/paperless /data/documents --allow-other --allow-non-empty --vfs-cache-mode full"
+#    command: "mount gd-tv:   /data/gd-tv    --allow-other --transfers 1 --dir-cache-time 1000h --buffer-size 8M --log-file /data/logs/tv.log --log-level DEBUG"
