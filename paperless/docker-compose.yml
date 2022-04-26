@@ -33,7 +33,7 @@ version: "3.4"
 
 services:
   webserver:
-    image: ghcr.io/paperless-ngx/paperless-ngx:latest
+    image: ghcr.io/paperless-ngx/paperless-ngx:beta
     container_name: paperless
     user: 0:0
     restart: unless-stopped
