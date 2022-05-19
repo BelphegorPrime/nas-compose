@@ -33,7 +33,7 @@ version: "3.4"
 
 services:
   webserver:
-    image: ghcr.io/paperless-ngx/paperless-ngx:beta
+    image: ghcr.io/paperless-ngx/paperless-ngx:latest
     container_name: paperless
     user: 0:0
     restart: unless-stopped
@@ -42,6 +42,7 @@ services:
       - broker
       - gotenberg
       - tika
+      - mail
     ports:
       - 8008:8000
     healthcheck:
@@ -62,6 +63,7 @@ services:
       PAPERLESS_TIKA_ENABLED: 1
       PAPERLESS_TIKA_GOTENBERG_ENDPOINT: http://gotenberg:3000
       PAPERLESS_TIKA_ENDPOINT: http://tika:9998
+      PAPERLESS_ENABLE_UPDATE_CHECK: 1
     extra_hosts:
       - "host.docker.internal:host-gateway"
 
@@ -90,6 +92,13 @@ services:
   tika:
     image: apache/tika
     restart: unless-stopped
+
+  mail:
+    image: shenxn/protonmail-bridge:latest
+    container_name: mail
+    restart: unless-stopped
+    volumes:
+      - ./data/protonmail:/root
 
 #  rclone:
 #    image: rclone/rclone
