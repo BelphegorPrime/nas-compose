@@ -9,6 +9,7 @@ services:
       - ./cache:/cache
       - ./transtmp:/transtmp
       - /srv/dev-disk-by-label-media/media/Anime:/media/Anime
+      - /srv/dev-disk-by-label-media/media/Animation:/media/Animation
       - /srv/dev-disk-by-label-media/media/Movies:/media/Movies
       - /srv/dev-disk-by-label-media/media/Series:/media/Series
     ports:
