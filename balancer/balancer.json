@@ -151,5 +151,14 @@
         "to": 8010
       }
     ]
+  },
+  {
+    "domain": "akaunting.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8011
+      }
+    ]
   }
 ]
