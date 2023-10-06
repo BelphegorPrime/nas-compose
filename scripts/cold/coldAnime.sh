@@ -9,5 +9,5 @@ then
   # Size ~ 2,99TB
   rsync -avu --delete /srv/dev-disk-by-label-media/media/Anime $DIR/
 else
-  echo "cold8TB drives directory $DIR does not exist"
+  echo "coldAnime drives directory $DIR does not exist"
 fi

@@ -9,10 +9,6 @@ if [[ -d $DIR ]]
 then
   # Size ~ 12,1TB
   rsync -avu --delete /srv/dev-disk-by-label-media/media/Series $DIR/
-
-  # Size ~ 2,29TB
-  rsync -avu --delete /srv/dev-disk-by-label-media/media/Movies $DIR/
-  # Sizes Total ~ 14,39TB
 else
-  echo "cold16TB drives directory $DIR does not exist"
+  echo "coldSeries drives directory $DIR does not exist"
 fi

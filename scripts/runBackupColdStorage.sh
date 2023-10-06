@@ -2,8 +2,10 @@
 
 bash cold/cold2TB.sh;
 
-#bash cold/coldGames.sh;
+bash cold/coldGames.sh;
 
 bash cold/coldAnime.sh;
 
-bash cold/cold16TB.sh;
+bash cold/coldMovies.sh;
+
+bash cold/coldSeries.sh;

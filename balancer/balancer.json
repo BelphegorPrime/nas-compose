@@ -133,5 +133,23 @@
         "to": 8008
       }
     ]
+  },
+  {
+    "domain": "mealie.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8009
+      }
+    ]
+  },
+  {
+    "domain": "audiobookshelf.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8010
+      }
+    ]
   }
 ]
