@@ -8,6 +8,7 @@ services:
     volumes:
       - /srv/dev-disk-by-label-media/media/audiobooks:/audiobooks
       - /srv/dev-disk-by-label-media/media/podcasts:/podcasts
+      - /srv/dev-disk-by-label-media/media/Ebooks:/ebooks
       - ./config:/config
       - ./metadata:/metadata
     restart: unless-stopped

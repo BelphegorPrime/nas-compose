@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  lanraragi:
+    image: difegue/lanraragi:latest
+    ports:
+      - 8013:3000
+    volumes:
+      - /srv/dev-disk-by-label-media/media/porn/doujinji:/home/koyomi/lanraragi/content
+      - ./database:/home/koyomi/lanraragi/database
+    environment:
+      # root user
+      - LRR_UID=0
+      - LRR_GID=0
+    restart: always

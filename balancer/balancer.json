@@ -29,6 +29,26 @@
     ]
   },
   {
+    "domain": "udm.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "ip": "192.168.1.1",
+        "to": 80
+      }
+    ]
+  },
+  {
+    "domain": "udm.local.net",
+    "portMap": [
+      {
+        "from": 443,
+        "ip": "192.168.1.1",
+        "to": 443
+      }
+    ]
+  },
+  {
     "domain": "airsonic.local.net",
     "portMap": [
       {
@@ -160,5 +180,52 @@
         "to": 8011
       }
     ]
+  },
+  {
+    "domain": "stash.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8012
+      }
+    ]
+  },
+  {
+    "domain": "cockpit.local.net",
+    "portMap": [
+      {
+        "from": 443,
+        "to": 9090
+      }
+    ]
+  },
+  {
+    "domain": "ha.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "ip": "192.168.10.101",
+        "to": 8123
+      }
+    ]
+  },
+  {
+    "domain": "dockge.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 5001
+      }
+    ]
+  },
+  {
+    "domain": "lanraragi.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8013
+      }
+    ]
   }
+
 ]

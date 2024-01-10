@@ -12,6 +12,7 @@ services:
       - /srv/dev-disk-by-label-media/media/Animation:/media/Animation
       - /srv/dev-disk-by-label-media/media/Movies:/media/Movies
       - /srv/dev-disk-by-label-media/media/Series:/media/Series
+      - /srv/dev-disk-by-label-media/media/Ebooks:/media/Ebooks
     ports:
       - 8001:8096
       #- 4431:8920
