@@ -6,9 +6,32 @@ services:
     ports:
       - 8010:80
     volumes:
-      - /srv/dev-disk-by-label-media/media/audiobooks:/audiobooks
-      - /srv/dev-disk-by-label-media/media/podcasts:/podcasts
-      - /srv/dev-disk-by-label-media/media/Ebooks:/ebooks
+      - audiobooks:/audiobooks
+      - podcasts:/podcasts
+      - ebooks:/ebooks
       - ./config:/config
       - ./metadata:/metadata
+    environment:
+      - NODE_ENV=production
+      - NODE_OPTIONS=--max-old-space-size=8192
     restart: unless-stopped
+
+volumes:
+  audiobooks:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/audiobooks
+        o: username=marcel,password=Night17293
+  podcasts:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/podcasts
+        o: username=marcel,password=Night17293
+  ebooks:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Ebooks
+        o: username=marcel,password=Night17293

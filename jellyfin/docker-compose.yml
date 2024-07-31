@@ -4,21 +4,62 @@ services:
     image: jellyfin/jellyfin
     container_name: jellyfin
     user: 0:0
+    group_add:
+      - "104"
     volumes:
       - ./config:/config
       - ./cache:/cache
       - ./transtmp:/transtmp
-      - /srv/dev-disk-by-label-media/media/Anime:/media/Anime
-      - /srv/dev-disk-by-label-media/media/Animation:/media/Animation
-      - /srv/dev-disk-by-label-media/media/Movies:/media/Movies
-      - /srv/dev-disk-by-label-media/media/Series:/media/Series
-      - /srv/dev-disk-by-label-media/media/Ebooks:/media/Ebooks
+      - anime_german:/media/Anime_German
+      - anime:/media/Anime
+      - animation:/media/Animation
+      - movies:/media/Movies
+      - series:/media/Series
+      - ebooks:/media/Ebooks
     ports:
       - 8001:8096
       #- 4431:8920
       - 7359:7359/udp
       - 1900:1900/udp
-#    devices:
-#      - /dev/dri/renderD128:/dev/dri/renderD128
+    devices:
+      - /dev/dri/renderD128:/dev/dri/renderD128
 #      - /dev/dri/card0:/dev/dri/card0
     restart: unless-stopped
+
+volumes:
+    anime_german:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Anime_German
+        o: username=marcel,password=Night17293
+    anime:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Anime
+        o: username=marcel,password=Night17293
+    animation:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Animation
+        o: username=marcel,password=Night17293
+    movies:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Movies
+        o: username=marcel,password=Night17293
+    series:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Series
+        o: username=marcel,password=Night17293
+    ebooks:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Ebooks
+        o: username=marcel,password=Night17293
