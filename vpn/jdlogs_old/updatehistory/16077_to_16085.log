@@ -1,0 +1,135 @@
+Thu May 19 19:36:03 GMT 2022
+Package: package_1652958640029.awf
+Install
+Write Revision: 16078
+----------------Plugins----------------
+   jd/plugins/hoster/DropgalaxyIn$1.class
+   jd/plugins/hoster/DropgalaxyIn$2.class
+   jd/plugins/hoster/DropgalaxyIn.class
+   jd/plugins/hoster/KernelVideoSharingComV2HostsDefault.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1652962239672.awf
+Install
+Write Revision: 16081
+----------------Plugins----------------
+   jd/plugins/decrypter/PhotobucketComAlbum.class
+   jd/plugins/hoster/DropgalaxyIn$1.class
+   jd/plugins/hoster/DropgalaxyIn$2.class
+   jd/plugins/hoster/DropgalaxyIn.class
+   jd/plugins/hoster/HqwoCc.class
+   jd/plugins/hoster/PhotobucketCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1652965839689.awf
+Install
+Write Revision: 16083
+----------------Plugins----------------
+   jd/plugins/hoster/DropgalaxyIn.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1652980240602.awf
+Install
+Write Revision: 16084
+----------------Plugins----------------
+   jd/plugins/decrypter/GenericRedirectors.class
+   jd/plugins/decrypter/OrfAt$1.class
+   jd/plugins/decrypter/OrfAt.class
+   jd/plugins/decrypter/Porn3dxComCrawler.class
+   jd/plugins/decrypter/VKontakteRu$1.class
+   jd/plugins/decrypter/VKontakteRu.class
+   jd/plugins/decrypter/XhamsterShorturls.class
+   jd/plugins/hoster/DdownloadCom.class
+   jd/plugins/hoster/ElitefileNet.class
+   jd/plugins/hoster/HotlinkCc.class
+   jd/plugins/hoster/PluralsightCom$QUALITY.class
+   jd/plugins/hoster/PluralsightCom.class
+   jd/plugins/hoster/PreFilesCom.class
+   jd/plugins/hoster/SubyShareCom.class
+   jd/plugins/hoster/TakefileLink.class
+   jd/plugins/hoster/TiktokCom.class
+   jd/plugins/hoster/VKontakteRuHoster$1.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$1.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$2.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$3.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$4.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$5.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$6.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$7.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality$8.class
+   jd/plugins/hoster/VKontakteRuHoster$Quality.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$1.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$2.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$3.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode$4.class
+   jd/plugins/hoster/VKontakteRuHoster$QualitySelectionMode.class
+   jd/plugins/hoster/VKontakteRuHoster.class
+   jd/plugins/hoster/VoeSx.class
+   jd/plugins/hoster/WupfileCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/org/jdownloader/downloader/segment/SegmentDownloader$1.class
+   JD: Core.jar/org/jdownloader/downloader/segment/SegmentDownloader$2.class
+   JD: Core.jar/org/jdownloader/downloader/segment/SegmentDownloader.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction$4.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ConfirmIncompleteArchiveAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DeleteFileOptions.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DockingPosition$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DockingPosition$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DockingPosition.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState$4.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DonateButtonState.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath$1.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath$2.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath$3.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$DownloadFolderChooserDialogDefaultPath.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$LinkDoubleClickAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$LookAndFeelType.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$NewLinksInLinkgrabberAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$PackageDoubleClickAction.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$Position.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$PremiumStatusBarDisplay.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$RlyWarnLevel.class
+   JD: Core.jar/org/jdownloader/settings/GraphicalUserInterfaceSettings$ShowSpeedInWindowTitleTrigger.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$2$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$3.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$4.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$5.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$6$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog$6.class
+   JD: libs/JDGUI.jar/jd/gui/swing/dialog/AboutDialog.class
+   libs/JDGUI.jar
+Package: package_1652983840185.awf
+Install
+Write Revision: 16085
+----------------Plugins----------------
+   jd/plugins/hoster/XvideosCore$1.class
+   jd/plugins/hoster/XvideosCore.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

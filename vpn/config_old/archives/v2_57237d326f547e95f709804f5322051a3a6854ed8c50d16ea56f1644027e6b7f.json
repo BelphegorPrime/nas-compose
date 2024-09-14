@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/01 Kapitel 1 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/02 Kapitel 2 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/03 Kapitel 3 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/04 Kapitel 4 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/05 Kapitel 5 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/06 Kapitel 6 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/07 Kapitel 7 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/08 Kapitel 8 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/09 Kapitel 9 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/10 Kapitel 10 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/11 Kapitel 11 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/12 Kapitel 12 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/13 Kapitel 13 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/14 Kapitel 14 - Die drei Garridebs - Gerd Köster liest Sherlock Holmes Band 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 07 - Die drei Garridebs (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

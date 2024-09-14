@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/6986986327857",
+    "files" : [ "/opt/JDownloader/Downloads/6986986327857/Masters.of.Sex.S04E06.Nur.die.Familie.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e06-480p.mkv", "/opt/JDownloader/Downloads/6986986327857/Masters.of.Sex.S04E06.Nur.die.Familie.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e06-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

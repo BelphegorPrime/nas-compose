@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Halo S01E07 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Halo S01E07 1080p/Halo.S01E07.GERMAN.DL.1080p.WEB.h264-FENDT/Halo.S01E07.GERMAN.DL.1080p.WEB.h264-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/Halo S01E07 1080p/Halo.S01E07.GERMAN.DL.1080p.WEB.h264-FENDT/halo.s01e07.german.dl.1080p.web.h264-fendt.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/TEZHBDFCSWDEWE",
+    "files" : [ "/opt/JDownloader/Downloads/TEZHBDFCSWDEWE/Masters.of.Sex.S04E03.The.Pleasure.Protocol.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e03-480p.mkv", "/opt/JDownloader/Downloads/TEZHBDFCSWDEWE/Masters.of.Sex.S04E03.The.Pleasure.Protocol.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e03-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

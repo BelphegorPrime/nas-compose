@@ -1,0 +1,7 @@
+------------------------Thread: 38:jd.controlling.downloadcontroller.DownloadController.log-----------------------
+--ID:38TS:1718237238751-6/13/24, 12:07:18 AM -  [jd.controlling.downloadcontroller.DownloadController$7(run)] -> Init DownloadList
+--ID:38TS:1718237238752-6/13/24, 12:07:18 AM -  [jd.controlling.downloadcontroller.DownloadController(findAvailableDownloadLists)] -> Collect Lists
+--ID:38TS:1718237238761-6/13/24, 12:07:18 AM -  [jd.controlling.downloadcontroller.DownloadController(findAvailableDownloadLists)] -> Lists: [/opt/JDownloader/cfg/downloadList76781.zip, /opt/JDownloader/cfg/downloadList76780.zip, /opt/JDownloader/cfg/downloadList76779.zip, /opt/JDownloader/cfg/downloadList76778.zip, /opt/JDownloader/cfg/downloadList76777.zip, /opt/JDownloader/cfg/downloadList76776.zip]
+--ID:38TS:1718237238761-6/13/24, 12:07:18 AM -  [jd.controlling.downloadcontroller.DownloadController(loadFile)] -> Load List: /opt/JDownloader/cfg/downloadList76781.zip
+--ID:38TS:1718237238829-6/13/24, 12:07:18 AM -  [jd.controlling.downloadcontroller.DownloadController$7(run)] -> LinkList found: 2/16
+--ID:38TS:1718237239196-6/13/24, 12:07:19 AM -  [org.jdownloader.plugins.controller.host.PluginFinder(_assignHost)] -> Could not assign any host for: 1718237238831.com

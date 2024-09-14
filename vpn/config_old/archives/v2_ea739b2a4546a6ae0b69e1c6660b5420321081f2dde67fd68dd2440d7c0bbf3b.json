@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD187SEU",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD187SEU/Shoot.em.Up.2007.GERMAN.800p.microHD.x264-Raistlin911/Shoot.em.Up.2007.GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

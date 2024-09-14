@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bleach",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bleach/86b9c523df1412a543f0440332de29b3.txt",
+                                                              "/opt/JDownloader/Downloads/Bleach/Bleach278.mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

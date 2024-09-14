@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 035 - Die letzte Symphonie/35 - Die letzte Symphonie.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 035 - Die letzte Symphonie/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 035 - Die letzte Symphonie/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 035 - Die letzte Symphonie/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 035 - Die letzte Symphonie/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

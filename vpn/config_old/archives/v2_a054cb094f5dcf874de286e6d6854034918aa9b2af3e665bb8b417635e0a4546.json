@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/01 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/02 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/03 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/04 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/05 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/06 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/07 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/08 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/09 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/10 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/11 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/12 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/13 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/14 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/15 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/16 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/17 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/18 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/19 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/20 Lyssa.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Lyssa Ein Geheimnis-Krämer Fall (ungekürzt)/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

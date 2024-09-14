@@ -1,0 +1,33 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Das Todeskarusell - 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 078 - Das Todeskarusell/_play.m3u"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

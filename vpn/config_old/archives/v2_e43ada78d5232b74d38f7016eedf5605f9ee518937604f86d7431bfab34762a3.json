@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bleach",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bleach/12a8baf10dfe30b0c79bf2b0f0eca5a5.txt",
+                                                              "/opt/JDownloader/Downloads/Bleach/Bleach218/Bleach 218.mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

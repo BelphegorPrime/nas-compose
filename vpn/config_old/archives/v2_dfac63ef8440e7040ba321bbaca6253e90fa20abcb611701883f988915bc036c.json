@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bleach",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bleach/f36bff96d31b28b994a21c76c2f43722.txt",
+                                                              "/opt/JDownloader/Downloads/Bleach/Bleach143[GWS]/Bleach 143 [GWS].mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/3 Engel f_u00fcr Charlie 2019 (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/3 Engel f_u00fcr Charlie 2019 (microHD)/3.Engel.fuer.Charlie.2019.GERMAN.800p.microHD.x264-RED/3 Engel für Charlie 2019 (microHD).mkv"
+                                                             ]
+                                        }
+}

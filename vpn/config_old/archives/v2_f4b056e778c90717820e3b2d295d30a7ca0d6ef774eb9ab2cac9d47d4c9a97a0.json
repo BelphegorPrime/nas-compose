@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/[TnF]Bleach TYBW 11[SD][555AB670]",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/[TnF]Bleach TYBW 11[SD][555AB670]/[TnF]Bleach_TYBW_11[SD][555AB670].mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

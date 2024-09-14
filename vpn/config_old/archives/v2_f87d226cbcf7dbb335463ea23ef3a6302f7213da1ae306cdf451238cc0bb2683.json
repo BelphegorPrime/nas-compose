@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/zdvbghnbhjuh",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E01.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E02.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E03.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E04.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E05.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E06.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E07.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E08.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E09.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E10.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E11.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E12.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E13.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E14.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E15.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E16.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E17.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E18.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E19.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E20.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E21.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E22.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E23.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E24.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E25.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E26.DL.576p.DVD.x264.mkv",
+                                                              "/opt/JDownloader/Downloads/zdvbghnbhjuh/bostonx2/S02/Boston.Legal.S02E27.DL.576p.DVD.x264.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 011 - Im kalten Nebel der Themse/11 - Im kalten Nebel der Themse.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 011 - Im kalten Nebel der Themse/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 011 - Im kalten Nebel der Themse/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 011 - Im kalten Nebel der Themse/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 011 - Im kalten Nebel der Themse/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

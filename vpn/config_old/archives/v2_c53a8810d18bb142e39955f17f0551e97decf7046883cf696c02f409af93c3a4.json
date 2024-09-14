@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Furia S01 720P WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Furia S01 720P WEB/furia.s01e05.german.dl.720p.web.x264-wayne.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

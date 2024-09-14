@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Betrifft_ VAMPIRE!!! - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 072 - Betrifft - VAMPIRE!!!/_play.m3u"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/NarutoShippuuden",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/NarutoShippuuden/[TnF]Naruto_Shippuuden_401[720p][AF38E5D7].mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

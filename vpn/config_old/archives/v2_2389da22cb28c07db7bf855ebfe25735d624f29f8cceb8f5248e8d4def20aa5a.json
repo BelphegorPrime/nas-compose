@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Peacemaker 2022 S01 720p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Peacemaker 2022 S01 720p BluRay/Peacemaker.2022.S01E05.German.DL.720p.BluRay.x264-iNTENTiON/peacemaker.2022.s01e05.german.dl.720p.bluray.x264-intention.mkv",
+                                                              "/opt/JDownloader/Downloads/Peacemaker 2022 S01 720p BluRay/Peacemaker.2022.S01E05.German.DL.720p.BluRay.x264-iNTENTiON/peacemaker.2022.s01e05.german.dl.720p.bluray.x264-intention.nfo",
+                                                              "/opt/JDownloader/Downloads/Peacemaker 2022 S01 720p BluRay/Peacemaker.2022.S01E05.German.DL.720p.BluRay.x264-iNTENTiON/Subs/peacemaker.2022.s01e05.german.dl.720p.bluray.x264-intention.subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

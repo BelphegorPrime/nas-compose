@@ -1,0 +1,30 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/01 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/02 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/03 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/04 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/05 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/06 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/07 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/08 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/09 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/10 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/11 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/12 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/13 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/Sherlock Holmes & Co - 05 Das Spinnennetz/14 Das Spinnennetz.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/_Reflinks für Unterstützung/Rapidgator_ Bitte klicken um mich zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 05 Das Spinnennetz/_Reflinks für Unterstützung/Turbobit.net_ Bitte klicken um mich zu Unterstützen, Danke.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

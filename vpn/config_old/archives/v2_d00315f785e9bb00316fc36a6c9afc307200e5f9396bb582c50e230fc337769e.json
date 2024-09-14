@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/01 - Kapitel 1 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/02 - Kapitel 2 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/03 - Kapitel 3 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/04 - Kapitel 4 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/05 - Kapitel 5 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/06 - Kapitel 6 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/07 - Kapitel 7 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/08 - Kapitel 8 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/09 - Kapitel 9 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/10 - Kapitel 10 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/11 - Kapitel 11 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/12 - Kapitel 12 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/13 - Kapitel 13 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/14 - Kapitel 14 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/15 - Kapitel 15 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/16 - Kapitel 16 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/17 - Kapitel 17 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/18 - Kapitel 18 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/19 - Kapitel 19 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/20 - Kapitel 20 - Der Mann mit der Schramme - Gerd Köster liest Sherlock Holmes, Band 32.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 32 - Der Mann mit der Schramme (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

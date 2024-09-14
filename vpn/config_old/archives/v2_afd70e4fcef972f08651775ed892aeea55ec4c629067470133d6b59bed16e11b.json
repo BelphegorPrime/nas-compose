@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/NarutoShippuuden",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/NarutoShippuuden/[TnF]Naruto_Shippuuden_376-377[720p][0153ECAB].mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

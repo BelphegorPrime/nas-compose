@@ -1,0 +1,28 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/01 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/02 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/03 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/04 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/05 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/06 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/07 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/08 DOORS X - Dämmerung.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/DOORS X - Dämmerung.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS X - Dämmerung/Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

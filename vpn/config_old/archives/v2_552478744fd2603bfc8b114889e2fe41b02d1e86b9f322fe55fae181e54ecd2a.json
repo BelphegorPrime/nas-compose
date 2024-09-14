@@ -1,0 +1,23 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/hdftufzikmnydfdte",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited.idx",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited.mkv",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited.nfo",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited.sfv",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited.sub",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited-eng.idx",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited-eng.sub",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited-forced.idx",
+                                                              "/opt/JDownloader/Downloads/hdftufzikmnydfdte/the.100.s04e05.german.dl.1080p.bluray.x264-excited-forced.sub"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

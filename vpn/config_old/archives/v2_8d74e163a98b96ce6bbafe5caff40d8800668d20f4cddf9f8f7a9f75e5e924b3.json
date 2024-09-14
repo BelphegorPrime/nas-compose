@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 034 - Die quietschende Tür/34 - Die quietschende Tür.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 034 - Die quietschende Tür/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 034 - Die quietschende Tür/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 034 - Die quietschende Tür/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 034 - Die quietschende Tür/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

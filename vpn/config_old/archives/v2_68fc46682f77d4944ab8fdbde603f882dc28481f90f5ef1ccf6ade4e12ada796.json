@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bleach",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bleach/964f212086633ae0d092333cb3cf4dcf.txt",
+                                                              "/opt/JDownloader/Downloads/Bleach/Bleach260_H264/[BNFs]Bleach_260_H264.mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E02",
+    "files" : [ "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E02/Prodigal.Son.Der.Moerder.in.Dir.S02E02.Teufelswerk.GERMAN.HDTVRip.x264-MDGP/mdgp-prodigalsondermoerderindirs02e02-480p.mkv", "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E02/Prodigal.Son.Der.Moerder.in.Dir.S02E02.Teufelswerk.GERMAN.HDTVRip.x264-MDGP/mdgp-prodigalsondermoerderindirs02e02-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

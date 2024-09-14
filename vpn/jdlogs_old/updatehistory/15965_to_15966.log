@@ -1,0 +1,64 @@
+Sat Mar 19 15:51:55 GMT 2022
+Package: package_1647625987224.awf
+Install
+Write Revision: 15966
+----------------Plugins----------------
+   jd/plugins/decrypter/GoogleDrive$GdriveException.class
+   jd/plugins/decrypter/GoogleDrive$GdriveFolderStatus.class
+   jd/plugins/decrypter/GoogleDrive.class
+   jd/plugins/decrypter/InstaGramComDecrypter.class
+   jd/plugins/decrypter/NaughtyamericaCom.class.removed
+   jd/plugins/decrypter/NaughtyamericaComCrawler.class
+   jd/plugins/decrypter/PicsVc.class
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/hoster/AljazeeraCom.class.removed
+   jd/plugins/hoster/CommonsWikimediaOrg.class
+   jd/plugins/hoster/DoodstreamCom.class
+   jd/plugins/hoster/InstaGramCom$1.class
+   jd/plugins/hoster/InstaGramCom.class
+   jd/plugins/hoster/KernelVideoSharingComV2$1.class
+   jd/plugins/hoster/KernelVideoSharingComV2.class
+   jd/plugins/hoster/KernelVideoSharingComV2HostsDefault.class
+   jd/plugins/hoster/NaughtyamericaCom$1.class
+   jd/plugins/hoster/NaughtyamericaCom.class
+   jd/plugins/hoster/Offline.class
+   jd/plugins/hoster/TwitterCom$1.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface$TRANSLATION.class.removed
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface.class.removed
+   jd/plugins/hoster/TwitterCom.class
+   jd/plugins/hoster/ZeveraCore$1.class
+   jd/plugins/hoster/ZeveraCore$2.class
+   jd/plugins/hoster/ZeveraCore$3.class
+   jd/plugins/hoster/ZeveraCore.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+   translations/org/jdownloader/gui/translate/GuiTranslation.zh_CN.lng
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$1.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$10.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$11.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$12.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$13.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$2.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$3.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$4$1.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$4.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$5.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$6.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$7.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$8$1.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$8.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController$9.class
+   JD: Core.jar/org/jdownloader/controlling/hosterrule/HosterRuleController.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/NaughtyamericaConfig$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/NaughtyamericaConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/NaughtyamericaConfig$VideoImageGalleryCrawlMode$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/NaughtyamericaConfig$VideoImageGalleryCrawlMode$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/NaughtyamericaConfig$VideoImageGalleryCrawlMode$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/NaughtyamericaConfig$VideoImageGalleryCrawlMode.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/NaughtyamericaConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/TwitterConfigInterface$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/TwitterConfigInterface.class
+   libs/laf/flatlaf.license

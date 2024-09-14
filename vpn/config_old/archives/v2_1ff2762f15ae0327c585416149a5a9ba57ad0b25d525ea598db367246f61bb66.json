@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 001 - Im Schatten des Rippers/01 - Im Schatten des Rippers.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 001 - Im Schatten des Rippers/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 001 - Im Schatten des Rippers/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 001 - Im Schatten des Rippers/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 001 - Im Schatten des Rippers/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

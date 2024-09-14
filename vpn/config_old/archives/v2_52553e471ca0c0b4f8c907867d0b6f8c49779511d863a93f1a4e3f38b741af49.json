@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD449SPW",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD449SPW/Spawn.1997.GERMAN.1080p.microHD.x264-Raistlin911/Spawn.1997.GERMAN.1080p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

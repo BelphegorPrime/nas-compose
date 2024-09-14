@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Wall Street (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Wall Street (microHD)/Wall.Street.1987.GERMAN.1040p.microHD.x264-RED/Wall Street (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

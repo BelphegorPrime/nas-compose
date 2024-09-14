@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Massive Talent 2022 AC3 Web",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Massive Talent 2022 AC3 Web/Massive.Talent.2022.German.AC3.Web.H264/Massive.Talent.2022.German.AC3.Web.H264.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

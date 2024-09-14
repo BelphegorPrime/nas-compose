@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Das Buch von Boba Fett S01E05 1080P",
+    "files" : [ "/opt/JDownloader/Downloads/Das Buch von Boba Fett S01E05 1080P/Das.Buch.von.Boba.Fett.S01E05.GERMAN.DL.1080P.WEB.H264-WAYNE/das.buch.von.boba.fett.s01e05.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Das Buch von Boba Fett S01E05 1080P/Das.Buch.von.Boba.Fett.S01E05.GERMAN.DL.1080P.WEB.H264-WAYNE/das.buch.von.boba.fett.s01e05.german.dl.1080p.web.h264-wayne.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

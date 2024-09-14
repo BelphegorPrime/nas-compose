@@ -1,0 +1,30 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/01-SHERLOCK HOLMES CHRONICLES _ Die Pappschachtel.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/02-SHERLOCK HOLMES CHRONICLES _ Also - das.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/03-SHERLOCK HOLMES CHRONICLES _ Soviel zum Daily Chronicle.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/04-SHERLOCK HOLMES CHRONICLES _ Sicher ist Ihnen aufgefallen.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/05-SHERLOCK HOLMES CHRONICLES _ Einen Augenblick spaeter.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/06-SHERLOCK HOLMES CHRONICLES _ Vielleicht.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/07-SHERLOCK HOLMES CHRONICLES _ Sherlock Holmes.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/08-SHERLOCK HOLMES CHRONICLES _ Von diesem Tag an.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/09-SHERLOCK HOLMES CHRONICLES _ Sie verliess.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/10-SHERLOCK HOLMES CHRONICLES _ Ich war in diesem Augenblick.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/SHC_81_Booklet_final-jhqhif.pdf",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 081 - Die Pappschachtel/SHC_81_Pappschachtel.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

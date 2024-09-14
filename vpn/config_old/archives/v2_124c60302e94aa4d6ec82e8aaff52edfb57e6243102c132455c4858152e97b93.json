@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/What We Do in the Shadows S03 720p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/What We Do in the Shadows S03 720p WEB/What.We.Do.in.the.Shadows.S03E10.German.DL.720p.WEB.h264-OHD.mkv"
+                                                             ]
+                                        },
+ "autoExtract"                        : "UNSET",
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : []
+}

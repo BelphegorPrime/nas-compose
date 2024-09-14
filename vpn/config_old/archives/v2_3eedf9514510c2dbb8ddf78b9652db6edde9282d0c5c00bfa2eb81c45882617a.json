@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Transporter 2 - The Mission (mircoHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Transporter 2 - The Mission (mircoHD)/Transporter.The.Mission.2005.German.834p.microHD.x264-RED/The Transporter 2 - The Mission (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

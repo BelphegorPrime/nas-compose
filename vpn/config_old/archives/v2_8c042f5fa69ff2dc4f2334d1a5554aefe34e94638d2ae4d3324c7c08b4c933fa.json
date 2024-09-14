@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Boys S03E06 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Boys S03E06 1080P/The.Boys.S03E06.GERMAN.DL.1080P.WEB.H264-WAYNE/the.boys.s03e06.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/The Boys S03E06 1080P/The.Boys.S03E06.GERMAN.DL.1080P.WEB.H264-WAYNE/the.boys.s03e06.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E09",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E09/Star.Wars.The.Clone.Wars.S07E09.German.Webrip.x264-jUNiP/clonewars.s07e09-sd.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

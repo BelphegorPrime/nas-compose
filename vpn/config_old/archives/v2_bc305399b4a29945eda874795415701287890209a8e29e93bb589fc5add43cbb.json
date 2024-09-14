@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Saint Seiya Die Krieger des Zodiac Der Film BDRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Saint Seiya Die Krieger des Zodiac Der Film BDRip/Saint.Seiya.Die.Krieger.des.Zodiac.Der.Film.2023.German.BDRip.x264-LizardSquad/saint.seiya.die.krieger.des.zodiac.der.film.2023.german.bdrip.x264-lizardsquad.mkv",
+                                                              "/opt/JDownloader/Downloads/Saint Seiya Die Krieger des Zodiac Der Film BDRip/Saint.Seiya.Die.Krieger.des.Zodiac.Der.Film.2023.German.BDRip.x264-LizardSquad/saint.seiya.die.krieger.des.zodiac.der.film.2023.german.bdrip.x264-lizardsquad.nfo",
+                                                              "/opt/JDownloader/Downloads/Saint Seiya Die Krieger des Zodiac Der Film BDRip/Saint.Seiya.Die.Krieger.des.Zodiac.Der.Film.2023.German.BDRip.x264-LizardSquad/Subs/saint.seiya.die.krieger.des.zodiac.der.film.2023.german.bdrip.x264-lizardsquad.subs.rar",
+                                                              "/opt/JDownloader/Downloads/Saint Seiya Die Krieger des Zodiac Der Film BDRip/Saint.Seiya.Die.Krieger.des.Zodiac.Der.Film.2023.German.BDRip.x264-LizardSquad/Subs/saint.seiya.die.krieger.des.zodiac.der.film.2023.german.bdrip.x264-lizardsquad.subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

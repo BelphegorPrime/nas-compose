@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD287DTP2",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD287DTP2/Die.Tribute.von.Panem.-.Catching.Fire.2013.GERMAN.800p.microHD.x264-Raistlin911/Die.Tribute.von.Panem.-.Catching.Fire.2013.GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

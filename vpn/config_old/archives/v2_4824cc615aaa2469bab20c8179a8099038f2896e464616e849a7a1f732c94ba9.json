@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/01 - Kapitel 1 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/02 - Kapitel 2 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/03 - Kapitel 3 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/04 - Kapitel 4 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/05 - Kapitel 5 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/06 - Kapitel 6 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/07 - Kapitel 7 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/08 - Kapitel 8 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/09 - Kapitel 9 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/10 - Kapitel 10 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/11 - Kapitel 11 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/12 - Kapitel 12 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/13 - Kapitel 13 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/14 - Kapitel 14 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/15 - Kapitel 15 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/16 - Kapitel 16 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/17 - Kapitel 17 - Das Abenteuer des roten Kreises - Gerd Köster liest Sherlock Holmes, Band 30.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 30 - Das Abenteuer des roten Kreises/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/d-aeonflux-1080p",
+    "files" : [ "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/d-aeonflux-1080p.mkv", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/d-aeonflux-1080p.nfo", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/d-aeonflux-1080p.sfv", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/Sample/d-aeonflux-1080p-sample.mkv", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/Subs/d-aeonflux-1080p-eng.idx", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/Subs/d-aeonflux-1080p-eng.sub", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/Subs/d-aeonflux-1080p-subs.rar", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/Subs/d-aeonflux-1080p-subs.sfv", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/Subs/d-aeonflux-1080p.idx", "/opt/JDownloader/Downloads/d-aeonflux-1080p/d-aeonflux-1080p/Aeon.Flux.2005.German.DL.1080p.BluRay.x264-DETAiLS/Subs/d-aeonflux-1080p.sub" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

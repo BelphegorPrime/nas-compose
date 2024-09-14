@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Wall Street - Geld schläft nicht (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Wall Street - Geld schläft nicht (microHD)/Wall.Street.2.Geld.schlaeft.nicht.2010.GERMAN.816p.microHD.x264-RED/Wall Street - Geld schläft nicht (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

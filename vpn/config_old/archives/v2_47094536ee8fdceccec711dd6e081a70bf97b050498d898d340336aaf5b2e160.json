@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Passagier 57 UNCUT (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Passagier 57 UNCUT (microHD)/Passagier.57.1992.GERMAN.UNCUT.800p.microHD.x264-RED/Passagier 57 (microHD).mkv"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

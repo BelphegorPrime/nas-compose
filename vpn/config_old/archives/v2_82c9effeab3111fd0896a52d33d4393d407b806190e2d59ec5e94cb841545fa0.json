@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Terminal List Die Abschussliste S01 720p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Terminal List Die Abschussliste S01 720p WEB/the.terminal.list.die.abschussliste.s01e04.german.dl.720p.web.h264-wvf.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

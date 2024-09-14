@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/01 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/02 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/03 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/04 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/05 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/06 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/07 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/08 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/09 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/10 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/11 Die Hexe von Whitechapel.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 09 Die Hexe von Whitechapel/Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

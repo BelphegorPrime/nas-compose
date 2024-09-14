@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads",
+    "files" : [ "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/LICENSE", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/config.json", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/cpuminer.bat", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/readme.txt", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/WinRing0x64.sys", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-aes-sse42.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-avx.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-avx2-sha-vaes.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-avx2.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-avx512-sha-vaes.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-avx512-sha.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-avx512.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-sse2.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-sse42.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-ssse3.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-zen.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-zen2.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/cpuminer-zen3.exe", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/libcrypto-1_1-x64.dll", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/libcurl-4.dll", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/libgcc_s_seh-1.dll", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/libstdc++-6.dll", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/libwinpthread-1.dll", "/opt/JDownloader/Downloads/cpuminer-gr-1.2.4.1-x86_64_windows/binaries/zlib1.dll" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

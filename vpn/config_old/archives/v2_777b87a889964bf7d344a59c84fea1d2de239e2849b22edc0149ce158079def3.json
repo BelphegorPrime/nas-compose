@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/00 - The Sandman_ Akt III.m3u",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/01 - Vorspann _ Prolog _ Episode 1_ Der Gesang des Orpheus.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/02 - Episode 2_ Höhenangst.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/03 - Episode 3_ Die Blumen der Liebe.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/04 - Episode 4_ Kurze Leben - Kapitel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/05 - Episode 5_ Kurze Leben - Kapitel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/06 - Episode 6_ Kurze Leben - Kapitel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/07 - Episode 7_ Kurze Leben - Kapitel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/08 - Episode 8_ Kurze Leben - Kapitel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/09 - Episode 9_ Kurze Leben - Kapitel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/10 - Episode 10_ Kurze Leben - Kapitel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/11 - Episode 11_ Kurze Leben - Kapitel 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/12 - Episode 12_ Kurze Leben - Kapitel 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/13 - Episode 13_ Als sie sich selbst begegneten.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/14 - Episode 14_ World's End - Eine Geschichte aus zwei Städten.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/15 - Episode 15_ World's End - Cluracans Geschichte.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/16 - Episode 16_ World's End - Hobs Leviatan.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/17 - Episode 17_ World's End - Der Goldjunge.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/18 - Episode 18_ World's End - Leichentücher.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/19 - Episode 19_ World's End - Das Ende der Welten.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/20 - Abspann.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/Neil Gaiman, Dirk Maggs - The Sandman Akt III (Ungekürzt)/cover.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

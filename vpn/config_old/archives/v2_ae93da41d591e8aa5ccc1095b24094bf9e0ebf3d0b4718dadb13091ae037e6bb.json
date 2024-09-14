@@ -1,0 +1,33 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Das Rätsel des Rad Fahrenden Affen - 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 077 - Das Rätsel des Rad Fahrenden Affe/_play.m3u"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

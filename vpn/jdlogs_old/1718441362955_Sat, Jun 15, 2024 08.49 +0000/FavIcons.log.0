@@ -1,0 +1,47 @@
+------------------------Thread: 447:FavIcons-----------------------
+--ID:447TS:1718441446130-6/15/24, 8:50:46 AM -  [jd.controlling.faviconcontroller.FavIcons(createDefaultFavIcon)] -> createDefaultFavIcon: pornhub.com
+--ID:447TS:1718441446809-6/15/24, 8:50:46 AM -  [] -> Exception thrown at jd.controlling.faviconcontroller.FavIcons.createDefaultFavIcon(FavIcons.java:473):
+java.lang.InternalError: java.lang.reflect.InvocationTargetException
+	at java.desktop/sun.font.FontManagerFactory$1.run(FontManagerFactory.java:86)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/sun.font.FontManagerFactory.getInstance(FontManagerFactory.java:74)
+	at java.desktop/sun.font.SunFontManager.getInstance(SunFontManager.java:251)
+	at java.desktop/sun.font.FontDesignMetrics.getMetrics(FontDesignMetrics.java:265)
+	at java.desktop/sun.java2d.SunGraphics2D.getFontMetrics(SunGraphics2D.java:856)
+	at jd.controlling.faviconcontroller.FavIcons.createDefaultFavIcon(FavIcons.java:434)
+	at jd.controlling.faviconcontroller.FavIcons.getDefaultIcon(FavIcons.java:210)
+	at jd.controlling.faviconcontroller.FavIcons.getDefaultIcon(FavIcons.java:199)
+	at org.jdownloader.DomainInfo.getFavIcon(DomainInfo.java:105)
+	at org.jdownloader.DomainInfo.getFavIcon(DomainInfo.java:122)
+	at org.jdownloader.api.content.v2.ContentAPIImplV2.getFavIcon(ContentAPIImplV2.java:117)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.appwork.remoteapi.InterfaceHandler.invoke(InterfaceHandler.java:258)
+	at org.appwork.remoteapi.RemoteAPI._handleRemoteAPICall(RemoteAPI.java:342)
+	at org.jdownloader.api.RemoteAPIController$1._handleRemoteAPICall(RemoteAPIController.java:153)
+	at org.appwork.remoteapi.SessionRemoteAPI.onGetSessionRequest(SessionRemoteAPI.java:78)
+	at org.appwork.utils.net.httpserver.session.HttpSessionController.onGetRequest(HttpSessionController.java:126)
+	at org.jdownloader.api.RemoteAPISessionControllerImp.onGetRequest(RemoteAPISessionControllerImp.java:77)
+	at org.appwork.utils.net.httpserver.HttpConnection.run(HttpConnection.java:528)
+	at org.jdownloader.api.myjdownloader.MyJDownloaderConnectThread$7.run(MyJDownloaderConnectThread.java:914)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:488)
+	at java.desktop/sun.font.FontManagerFactory$1.run(FontManagerFactory.java:84)
+	... 23 more
+Caused by: java.lang.NullPointerException
+	at java.desktop/sun.awt.FontConfiguration.getVersion(FontConfiguration.java:1288)
+	at java.desktop/sun.awt.FontConfiguration.readFontConfigFile(FontConfiguration.java:225)
+	at java.desktop/sun.awt.FontConfiguration.init(FontConfiguration.java:107)
+	at java.desktop/sun.awt.X11FontManager.createFontConfiguration(X11FontManager.java:765)
+	at java.desktop/sun.font.SunFontManager$2.run(SunFontManager.java:440)
+	at java.base/java.security.AccessController.doPrivileged(Native Method)
+	at java.desktop/sun.font.SunFontManager.<init>(SunFontManager.java:385)
+	at java.desktop/sun.awt.FcFontManager.<init>(FcFontManager.java:35)
+	at java.desktop/sun.awt.X11FontManager.<init>(X11FontManager.java:56)
+	... 28 more
+

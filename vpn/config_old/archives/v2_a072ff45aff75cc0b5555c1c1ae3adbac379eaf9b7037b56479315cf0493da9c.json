@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S01E04.Kollision.German.DL.720p.BluRay.x264-JaJunge/jajunge-heroes.s01e04.720p.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S01E04.Kollision.German.DL.720p.BluRay.x264-JaJunge/jajunge-heroes.s01e04.720p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

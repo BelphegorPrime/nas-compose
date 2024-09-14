@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/1 - Folge 2_ Der zerbrochene Armreif, Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/10 - Folge 2_ Der zerbrochene Armreif, Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/11 - Folge 2_ Der zerbrochene Armreif, Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/12 - Folge 2_ Der zerbrochene Armreif, Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/13 - Folge 2_ Der zerbrochene Armreif, Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/14 - Folge 2_ Der zerbrochene Armreif, Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/15 - Folge 2_ Der zerbrochene Armreif, Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/16 - Folge 2_ Der zerbrochene Armreif, Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/17 - Folge 2_ Der zerbrochene Armreif, Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/18 - Folge 2_ Der zerbrochene Armreif, Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/19 - Folge 2_ Der zerbrochene Armreif, Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/2 - Folge 2_ Der zerbrochene Armreif, Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/20 - Folge 2_ Der zerbrochene Armreif, Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/21 - Folge 2_ Der zerbrochene Armreif, Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/22 - Folge 2_ Der zerbrochene Armreif, Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/23 - Folge 2_ Der zerbrochene Armreif, Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/24 - Folge 2_ Der zerbrochene Armreif, Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/25 - Folge 2_ Der zerbrochene Armreif, Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/3 - Folge 2_ Der zerbrochene Armreif, Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/4 - Folge 2_ Der zerbrochene Armreif, Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/5 - Folge 2_ Der zerbrochene Armreif, Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/6 - Folge 2_ Der zerbrochene Armreif, Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/7 - Folge 2_ Der zerbrochene Armreif, Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/8 - Folge 2_ Der zerbrochene Armreif, Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/9 - Folge 2_ Der zerbrochene Armreif, Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 002 - Der zerbrochene Armreif/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

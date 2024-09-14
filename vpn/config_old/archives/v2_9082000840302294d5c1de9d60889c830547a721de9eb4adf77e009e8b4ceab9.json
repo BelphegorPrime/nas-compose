@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Rookie S06E03 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Rookie S06E03 1080P/The.Rookie.S06E03.GERMAN.DL.1080P.WEB.H264.REPACK-WAYNE/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/The Rookie S06E03 1080P/The.Rookie.S06E03.GERMAN.DL.1080P.WEB.H264.REPACK-WAYNE/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/The Rookie S06E03 1080P/The.Rookie.S06E03.GERMAN.DL.1080P.WEB.H264.REPACK-WAYNE/the.rookie.s06e03.german.dl.1080p.web.h264.repack-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/The Rookie S06E03 1080P/The.Rookie.S06E03.GERMAN.DL.1080P.WEB.H264.REPACK-WAYNE/the.rookie.s06e03.german.dl.1080p.web.h264.repack-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

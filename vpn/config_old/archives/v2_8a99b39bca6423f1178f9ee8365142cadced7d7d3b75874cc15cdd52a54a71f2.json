@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/1 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/10 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/11 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/12 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/13 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/14 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/15 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/16 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/17 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/18 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/19 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/2 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/20 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/21 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/22 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/3 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/4 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/5 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/6 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/7 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/8 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/9 - Folge 27_ Der Schrei der Banshee, Episode 2, Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 027 - Der Schrei der Banshee, Episode 2/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

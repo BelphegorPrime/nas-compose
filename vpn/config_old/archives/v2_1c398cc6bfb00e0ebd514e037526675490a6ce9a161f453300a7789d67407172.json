@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/House of the Dragon S01E03 2160p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/House of the Dragon S01E03 2160p/House.of.the.Dragon.S01E03.Der.Zweite.seines.Namens.German.DD51.Synced.DL.2160p.HBOMaxUHD.DV.HDR.HEVC-TVS/tvs-hotd-dd51-sed-dl-26p-hbouhd-dv-hdr-hevc-s01e03.mkv",
+                                                              "/opt/JDownloader/Downloads/House of the Dragon S01E03 2160p/House.of.the.Dragon.S01E03.Der.Zweite.seines.Namens.German.DD51.Synced.DL.2160p.HBOMaxUHD.DV.HDR.HEVC-TVS/tvs-hotd-dd51-sed-dl-26p-hbouhd-dv-hdr-hevc-s01e03.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

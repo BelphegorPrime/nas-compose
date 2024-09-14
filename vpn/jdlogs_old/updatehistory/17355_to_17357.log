@@ -1,0 +1,20 @@
+Wed Jun 12 15:32:18 GMT 2024
+Package: package_1718190210384.awf
+Install
+Write Revision: 17357
+----------------Plugins----------------
+   jd/plugins/decrypter/RecurbateComProfile.class
+   jd/plugins/decrypter/VimmNetCrawler.class
+   jd/plugins/hoster/GoogleDrive$1.class
+   jd/plugins/hoster/GoogleDrive$2.class
+   jd/plugins/hoster/GoogleDrive$JsonSchemeType.class
+   jd/plugins/hoster/GoogleDrive.class
+   jd/plugins/hoster/ModelKarteiDe.class
+   jd/plugins/hoster/RecurbateCom.class
+   jd/plugins/hoster/TorboxApp$1.class
+   jd/plugins/hoster/TorboxApp.class
+   jd/plugins/hoster/VimmNet.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

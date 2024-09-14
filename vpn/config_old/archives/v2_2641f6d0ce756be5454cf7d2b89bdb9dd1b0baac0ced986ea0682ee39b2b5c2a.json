@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die Welt in den Farben der Nacht S02 GERMAN AAC DOKU 1080p WEB x265-w00t - thewooter",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Welt in den Farben der Nacht S02 GERMAN AAC DOKU 1080p WEB x265-w00t - thewooter/Die.Welt.in.den.Farben.der.Nacht.S02E06.Winter.der.Eisbaeren.GERMAN.AAC.DOKU.1080p.WEB.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

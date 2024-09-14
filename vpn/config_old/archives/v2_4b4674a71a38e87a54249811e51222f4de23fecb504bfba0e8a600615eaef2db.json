@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Neulicht (ungekürzt)/001 - Neulicht.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Neulicht (ungekürzt)/002 - Neulicht.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Neulicht (ungekürzt)/003 - Neulicht.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Neulicht (ungekürzt)/004 - Neulicht.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Neulicht (ungekürzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

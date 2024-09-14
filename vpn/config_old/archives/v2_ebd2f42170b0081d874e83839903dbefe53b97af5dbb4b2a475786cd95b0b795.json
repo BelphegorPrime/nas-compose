@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Frieren Nach dem Ende der Reise S01E21 German DL AAC 720p CR WEB h264-DK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Frieren Nach dem Ende der Reise S01E21 German DL AAC 720p CR WEB h264-DK/Frieren.Nach.dem.Ende.der.Reise.S01E26.German.DL.AAC.720p.CR.WEB.h264-DK.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,26 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/4356894567857",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e01.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e02.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e03.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e04.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e05.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e06.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e07.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e08.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e09.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e10.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e11.avi",
+                                                              "/opt/JDownloader/Downloads/4356894567857/4356894567857/boledvd-s05e12e13.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

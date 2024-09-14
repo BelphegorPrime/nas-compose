@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Panther Wakanda Forever 2160p UHD BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Panther Wakanda Forever 2160p UHD BluRay/Black.Panther.Wakanda.Forever.2022.German.DL.2160p.UHD.BluRay.x265-ENDSTATiON/Black.Panther.Wakanda.Forever.2022.German.DL.2160p.UHD.BluRay.x265-ENDSTATiON.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Panther Wakanda Forever 2160p UHD BluRay/Black.Panther.Wakanda.Forever.2022.German.DL.2160p.UHD.BluRay.x265-ENDSTATiON/black.panther.wakanda.forever.2022.german.dl.2160p.uhd.bluray.x265-endstation.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

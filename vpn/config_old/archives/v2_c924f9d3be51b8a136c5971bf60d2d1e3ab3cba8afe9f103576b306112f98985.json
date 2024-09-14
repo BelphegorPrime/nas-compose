@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/American Gods S03E05",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/American Gods S03E05/American.Gods.S03E05.German.WEBRip.Xvid-FSX/american.gods.s03e05.german.web.xvid-fsx.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

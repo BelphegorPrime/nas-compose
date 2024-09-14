@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 222 - Die.Frage.Aller.Fragen.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 201 - Die.Doppelgaengerin.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 202 - Teuflische.Toene.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 203 - Quelle.In.Gefahr.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 204 - Der.Unheimliche.Verehrer.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 205 - Der.netteste.Milliardaer.der.Welt.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 206 - Der.Killersatellit.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 207 - Comeback.Fuer.Al.Capone.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 208 - Kleiner.Mann.Ganz.Gross.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 209 - Der.Spielzeugmacher.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 210 - Der.Metallganove.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 211 - Das.Herz.des.Drachen.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 212 - Faradays.Erfindung.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 213 - Phoenix.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 214 - Dianas.Jagd.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 215 - Das.gelbe.Licht.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 216 - Lucky.Leon.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 217 - Projekt.Wiederauferstehung.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 218 - Die.Zeitmaschine.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 219 - Versuchskaninchen.Jimmy.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 220 - Das.rote.Kryptonit.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s02 German DVDRip/Superman - Die Abenteuer von Lois und Clark 221 - Auch.Superhelden.Brauchen.Anwaelte.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

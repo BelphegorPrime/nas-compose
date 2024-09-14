@@ -1,0 +1,156 @@
+------------------------Thread: 29:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:29TS:1718317404872-6/13/24, 10:23:24 PM -  [jd.controlling.linkcollector.LinkCollector(<init>)] -> LinkChecker Enabled:true
+------------------------Thread: 39:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:39TS:1718317404872-6/13/24, 10:23:24 PM -  [jd.controlling.linkcollector.LinkCollector(findAvailableCollectorLists)] -> Collect Lists
+--ID:39TS:1718317404875-6/13/24, 10:23:24 PM -  [jd.controlling.linkcollector.LinkCollector(findAvailableCollectorLists)] -> Lists: [/opt/JDownloader/cfg/linkcollector5943.zip, /opt/JDownloader/cfg/linkcollector5942.zip, /opt/JDownloader/cfg/linkcollector5941.zip, /opt/JDownloader/cfg/linkcollector5940.zip, /opt/JDownloader/cfg/linkcollector5939.zip, /opt/JDownloader/cfg/linkcollector5938.zip]
+--ID:39TS:1718317404913-6/13/24, 10:23:24 PM -  [jd.controlling.linkcollector.LinkCollector$17(run)] -> CollectorList found: 0/0
+------------------------Thread: 436:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:436TS:1718318824044-6/13/24, 10:47:04 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718318824036|Origin:MYJD
+------------------------Thread: 546:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:546TS:1718319023277-6/13/24, 10:50:23 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319023276|Origin:MYJD
+------------------------Thread: 558:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:558TS:1718319023492-6/13/24, 10:50:23 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319023492|Origin:MYJD
+------------------------Thread: 574:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:574TS:1718319024142-6/13/24, 10:50:24 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319024142|Origin:MYJD
+------------------------Thread: 591:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:591TS:1718319024793-6/13/24, 10:50:24 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319024793|Origin:MYJD
+------------------------Thread: 607:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:607TS:1718319025782-6/13/24, 10:50:25 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319025782|Origin:MYJD
+------------------------Thread: 614:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:614TS:1718319026103-6/13/24, 10:50:26 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319026103|Origin:MYJD
+------------------------Thread: 621:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:621TS:1718319026546-6/13/24, 10:50:26 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319026546|Origin:MYJD
+------------------------Thread: 665:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:665TS:1718319056958-6/13/24, 10:50:56 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319056958|Origin:MYJD
+------------------------Thread: 706:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:706TS:1718319077531-6/13/24, 10:51:17 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319077531|Origin:MYJD
+------------------------Thread: 805:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:805TS:1718319316431-6/13/24, 10:55:16 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319316431|Origin:MYJD
+------------------------Thread: 859:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:859TS:1718319386138-6/13/24, 10:56:26 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319386138|Origin:MYJD
+------------------------Thread: 913:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:913TS:1718319403164-6/13/24, 10:56:43 PM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718319403163|Origin:MYJD
+------------------------Thread: 3198:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3198TS:1718341783183-6/14/24, 5:09:43 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718341783183|Origin:MYJD
+------------------------Thread: 3226:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3226TS:1718341786468-6/14/24, 5:09:46 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718341786467|Origin:MYJD
+------------------------Thread: 3278:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3278TS:1718341798669-6/14/24, 5:09:58 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718341798668|Origin:MYJD
+------------------------Thread: 3365:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3365TS:1718342004518-6/14/24, 5:13:24 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342004518|Origin:MYJD
+------------------------Thread: 3431:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3431TS:1718342113733-6/14/24, 5:15:13 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342113732|Origin:MYJD
+------------------------Thread: 3444:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3444TS:1718342113948-6/14/24, 5:15:13 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342113948|Origin:MYJD
+------------------------Thread: 3460:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3460TS:1718342114596-6/14/24, 5:15:14 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342114596|Origin:MYJD
+------------------------Thread: 3477:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3477TS:1718342115362-6/14/24, 5:15:15 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342115362|Origin:MYJD
+------------------------Thread: 3493:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3493TS:1718342115958-6/14/24, 5:15:15 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342115958|Origin:MYJD
+------------------------Thread: 3506:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3506TS:1718342116653-6/14/24, 5:15:16 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342116653|Origin:MYJD
+------------------------Thread: 3519:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3519TS:1718342117460-6/14/24, 5:15:17 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342117459|Origin:MYJD
+------------------------Thread: 3532:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3532TS:1718342118034-6/14/24, 5:15:18 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342118034|Origin:MYJD
+------------------------Thread: 3547:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3547TS:1718342118816-6/14/24, 5:15:18 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342118815|Origin:MYJD
+------------------------Thread: 3560:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3560TS:1718342119365-6/14/24, 5:15:19 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342119365|Origin:MYJD
+------------------------Thread: 3573:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3573TS:1718342120181-6/14/24, 5:15:20 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342120179|Origin:MYJD
+------------------------Thread: 3586:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3586TS:1718342120739-6/14/24, 5:15:20 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342120739|Origin:MYJD
+------------------------Thread: 3724:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3724TS:1718342288072-6/14/24, 5:18:08 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342288071|Origin:MYJD
+------------------------Thread: 3736:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3736TS:1718342288516-6/14/24, 5:18:08 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342288515|Origin:MYJD
+------------------------Thread: 3800:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3800TS:1718342342194-6/14/24, 5:19:02 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342342194|Origin:MYJD
+------------------------Thread: 3812:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3812TS:1718342342511-6/14/24, 5:19:02 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342342510|Origin:MYJD
+------------------------Thread: 3828:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3828TS:1718342343165-6/14/24, 5:19:03 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342343165|Origin:MYJD
+------------------------Thread: 3844:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3844TS:1718342343821-6/14/24, 5:19:03 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342343820|Origin:MYJD
+------------------------Thread: 3860:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3860TS:1718342344484-6/14/24, 5:19:04 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342344483|Origin:MYJD
+------------------------Thread: 3873:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3873TS:1718342345237-6/14/24, 5:19:05 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342345236|Origin:MYJD
+------------------------Thread: 3890:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3890TS:1718342352378-6/14/24, 5:19:12 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342352378|Origin:MYJD
+------------------------Thread: 3929:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3929TS:1718342359736-6/14/24, 5:19:19 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342359735|Origin:MYJD
+------------------------Thread: 3936:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3936TS:1718342359962-6/14/24, 5:19:19 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342359962|Origin:MYJD
+------------------------Thread: 3943:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3943TS:1718342360427-6/14/24, 5:19:20 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342360427|Origin:MYJD
+------------------------Thread: 3950:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3950TS:1718342360646-6/14/24, 5:19:20 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342360646|Origin:MYJD
+------------------------Thread: 3957:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3957TS:1718342360993-6/14/24, 5:19:20 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342360993|Origin:MYJD
+------------------------Thread: 3964:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3964TS:1718342361340-6/14/24, 5:19:21 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342361340|Origin:MYJD
+------------------------Thread: 3971:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3971TS:1718342361669-6/14/24, 5:19:21 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342361668|Origin:MYJD
+------------------------Thread: 3978:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3978TS:1718342361998-6/14/24, 5:19:21 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342361997|Origin:MYJD
+------------------------Thread: 3985:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3985TS:1718342362322-6/14/24, 5:19:22 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342362322|Origin:MYJD
+------------------------Thread: 3993:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:3993TS:1718342362650-6/14/24, 5:19:22 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342362649|Origin:MYJD
+------------------------Thread: 4000:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4000TS:1718342362977-6/14/24, 5:19:22 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342362976|Origin:MYJD
+------------------------Thread: 4007:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4007TS:1718342363292-6/14/24, 5:19:23 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342363292|Origin:MYJD
+------------------------Thread: 4014:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4014TS:1718342363734-6/14/24, 5:19:23 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342363733|Origin:MYJD
+------------------------Thread: 4021:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4021TS:1718342363971-6/14/24, 5:19:23 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342363971|Origin:MYJD
+------------------------Thread: 4028:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4028TS:1718342364418-6/14/24, 5:19:24 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342364418|Origin:MYJD
+------------------------Thread: 4035:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4035TS:1718342364698-6/14/24, 5:19:24 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342364697|Origin:MYJD
+------------------------Thread: 4043:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4043TS:1718342365017-6/14/24, 5:19:25 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342365017|Origin:MYJD
+------------------------Thread: 4050:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4050TS:1718342365336-6/14/24, 5:19:25 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342365336|Origin:MYJD
+------------------------Thread: 4082:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4082TS:1718342372536-6/14/24, 5:19:32 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342372535|Origin:MYJD
+------------------------Thread: 4089:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4089TS:1718342372963-6/14/24, 5:19:32 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342372963|Origin:MYJD
+------------------------Thread: 4096:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4096TS:1718342373184-6/14/24, 5:19:33 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342373184|Origin:MYJD
+------------------------Thread: 4103:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4103TS:1718342373503-6/14/24, 5:19:33 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342373503|Origin:MYJD
+------------------------Thread: 4110:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4110TS:1718342373829-6/14/24, 5:19:33 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342373829|Origin:MYJD
+------------------------Thread: 4207:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4207TS:1718342420048-6/14/24, 5:20:20 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342420048|Origin:MYJD
+------------------------Thread: 4218:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4218TS:1718342420393-6/14/24, 5:20:20 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342420392|Origin:MYJD
+------------------------Thread: 4234:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4234TS:1718342421031-6/14/24, 5:20:21 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342421031|Origin:MYJD
+------------------------Thread: 4250:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4250TS:1718342421690-6/14/24, 5:20:21 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342421690|Origin:MYJD
+------------------------Thread: 4266:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4266TS:1718342422343-6/14/24, 5:20:22 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342422342|Origin:MYJD
+------------------------Thread: 4279:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4279TS:1718342423100-6/14/24, 5:20:23 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342423100|Origin:MYJD
+------------------------Thread: 4292:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4292TS:1718342423638-6/14/24, 5:20:23 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342423639|Origin:MYJD
+------------------------Thread: 4305:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4305TS:1718342424306-6/14/24, 5:20:24 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342424305|Origin:MYJD
+------------------------Thread: 4319:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4319TS:1718342424948-6/14/24, 5:20:24 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342424948|Origin:MYJD
+------------------------Thread: 4332:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4332TS:1718342425696-6/14/24, 5:20:25 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342425696|Origin:MYJD
+------------------------Thread: 4347:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4347TS:1718342426330-6/14/24, 5:20:26 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342426330|Origin:MYJD
+------------------------Thread: 4360:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4360TS:1718342427466-6/14/24, 5:20:27 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342427465|Origin:MYJD
+------------------------Thread: 4374:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4374TS:1718342428122-6/14/24, 5:20:28 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342428122|Origin:MYJD
+------------------------Thread: 4387:jd.controlling.linkcollector.LinkCollector.log-----------------------
+--ID:4387TS:1718342428774-6/14/24, 5:20:28 AM -  [jd.controlling.linkcollector.LinkCollector(newJobLinkCrawler)] -> Added CrawlerJob:ID:1718342428774|Origin:MYJD

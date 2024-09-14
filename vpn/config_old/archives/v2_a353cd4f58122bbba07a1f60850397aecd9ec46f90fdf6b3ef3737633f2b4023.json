@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/StWaReb S02E22 Ezras Versuchung Teil2 bd 7p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/StWaReb S02E22 Ezras Versuchung Teil2 bd 7p/Star.Wars.Rebels.S02E21.Ezras.Versuchung.Teil1.German.DL.720p.BluRay.x264-RSG/rsg-rebels.s02e21-720p.mkv",
+                                                              "/opt/JDownloader/Downloads/StWaReb S02E22 Ezras Versuchung Teil2 bd 7p/Star.Wars.Rebels.S02E21.Ezras.Versuchung.Teil1.German.DL.720p.BluRay.x264-RSG/rsg-rebels.s02e21-720p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

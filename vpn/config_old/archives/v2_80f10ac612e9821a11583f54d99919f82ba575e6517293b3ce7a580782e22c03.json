@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD71RVD",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD71RVD/Reservoir.Dogs.1992.GERMAN.800p.microHD.x264-Raistlin911/Reservoir.Dogs.1992.GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

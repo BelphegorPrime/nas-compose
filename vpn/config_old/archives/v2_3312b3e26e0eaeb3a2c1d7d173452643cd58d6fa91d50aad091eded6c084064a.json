@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/01 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/02 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/03 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/04 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/05 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/06 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/07 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/08 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/09 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/10 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/11 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/12 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/13 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/14 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/15 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/16 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/17 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/18 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/19 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/20 - Sherlock Holmes und der Räuber aus der Baker Street - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 25 - Sherlock Holmes und der Räuber aus der Baker Street (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

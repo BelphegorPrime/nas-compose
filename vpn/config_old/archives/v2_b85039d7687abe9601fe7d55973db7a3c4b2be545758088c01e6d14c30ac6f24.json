@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Prodigal Son S02E13",
+    "files" : [ "/opt/JDownloader/Downloads/Prodigal Son S02E13/Prodigal.Son.S02E13.Letztes.Wochenende.GERMAN.AC3.WEBRip.x264-DLD/Prodigal.Son.S02E13.Letztes.Wochenende.GERMAN.AC3.WEBRip.x264-DLD.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

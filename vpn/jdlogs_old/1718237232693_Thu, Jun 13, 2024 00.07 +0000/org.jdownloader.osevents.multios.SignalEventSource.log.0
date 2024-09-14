@@ -1,0 +1,7 @@
+------------------------Thread: 29:org.jdownloader.osevents.multios.SignalEventSource.log-----------------------
+--ID:29TS:1718237240821-6/13/24, 12:07:20 AM -  [org.jdownloader.osevents.multios.SignalEventSource(reg)] -> register signal: INT->SIGINT
+--ID:29TS:1718237240821-6/13/24, 12:07:20 AM -  [org.jdownloader.osevents.multios.SignalEventSource(reg)] -> register signal: TERM->SIGTERM
+--ID:29TS:1718237240821-6/13/24, 12:07:20 AM -  [org.jdownloader.osevents.multios.SignalEventSource(reg)] -> register signal: HUP->SIGHUP
+--ID:29TS:1718237240821-6/13/24, 12:07:20 AM -  [org.jdownloader.osevents.multios.SignalEventSource(setIgnore)] -> ignore(true signal: HUP->HUP=true
+------------------------Thread: 12379:org.jdownloader.osevents.multios.SignalEventSource.log-----------------------
+--ID:12379TS:1718272870143-6/13/24, 10:01:10 AM -  [org.jdownloader.osevents.multios.SignalEventSource(handle)] -> Signal handler called for signal:TERM|15

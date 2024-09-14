@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Foundation S02E02 1080P WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Foundation S02E02 1080P WEB/Foundation.S02E02.GERMAN.DL.1080P.WEB.H264-WAYNE/foundation.s02e02.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Foundation S02E02 1080P WEB/Foundation.S02E02.GERMAN.DL.1080P.WEB.H264-WAYNE/foundation.s02e02.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

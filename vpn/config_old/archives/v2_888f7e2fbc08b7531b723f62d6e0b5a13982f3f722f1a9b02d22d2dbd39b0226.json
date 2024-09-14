@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/gdrtuztfjhsfserest",
+    "files" : [ "/opt/JDownloader/Downloads/gdrtuztfjhsfserest/Masters.of.Sex.S04E01.Freefall.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e01-480p.mkv", "/opt/JDownloader/Downloads/gdrtuztfjhsfserest/Masters.of.Sex.S04E01.Freefall.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e01-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

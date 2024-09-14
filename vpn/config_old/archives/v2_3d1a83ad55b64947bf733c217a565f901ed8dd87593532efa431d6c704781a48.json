@@ -1,0 +1,20 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S03E13.Feuer.German.DL.720p.BluRay.x264-JaJunge/jajunge-heroes.s03e13.720p.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S03E13.Feuer.German.DL.720p.BluRay.x264-JaJunge/jajunge-heroes.s03e13.720p.nfo",
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S03E13.Feuer.German.DL.720p.BluRay.x264-JaJunge/Subs/jajunge-heroes.s03e13.720p-forced.idx",
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S03E13.Feuer.German.DL.720p.BluRay.x264-JaJunge/Subs/jajunge-heroes.s03e13.720p-forced.sub",
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S03E13.Feuer.German.DL.720p.BluRay.x264-JaJunge/Subs/jajunge-heroes.s03e13.720p.idx",
+                                                              "/opt/JDownloader/Downloads/Heroes COMPLETE German DL 720p BluRay x264-Scene - filecrypt/Heroes.S03E13.Feuer.German.DL.720p.BluRay.x264-JaJunge/Subs/jajunge-heroes.s03e13.720p.sub"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

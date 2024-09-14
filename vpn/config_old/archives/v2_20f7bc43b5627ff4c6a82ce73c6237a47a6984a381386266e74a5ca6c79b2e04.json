@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/PewPewPewAni web 7p S02E16",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/PewPewPewAni web 7p S02E16/Star.Wars.The.Bad.Batch.S02E03.German.DL.720p.WEB.h264-WvF/star.wars.the.bad.batch.s02e03.german.dl.720p.web.h264-wvf.nfo",
+                                                              "/opt/JDownloader/Downloads/PewPewPewAni web 7p S02E16/Star.Wars.The.Bad.Batch.S02E03.German.DL.720p.WEB.h264-WvF/star.wars.the.bad.batch.s02e03.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/PewPewPewAni web 7p S02E16/Star.Wars.The.Bad.Batch.S02E03.German.DL.720p.WEB.h264-WvF/ReUp.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Mandalorian 2019 S03E03 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Mandalorian 2019 S03E03 1080p/The.Mandalorian.2019.S03E03.German.DL.EAC3.1080p.DSNP.WEB.H264-ZeroTwo/The.Mandalorian.2019.S03E03.German.DL.EAC3.1080p.DSNP.WEB.H264-ZeroTwo.mkv",
+                                                              "/opt/JDownloader/Downloads/The Mandalorian 2019 S03E03 1080p/The.Mandalorian.2019.S03E03.German.DL.EAC3.1080p.DSNP.WEB.H264-ZeroTwo/ZeroTwo-The.Mandalorian.2019.S03E03.1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

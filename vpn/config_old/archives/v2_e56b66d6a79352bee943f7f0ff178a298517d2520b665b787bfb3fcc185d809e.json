@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/1 - Der verschwundene Bräutigam (Teil 1).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/10 - Der verschwundene Bräutigam (Teil 10).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/11 - Der verschwundene Bräutigam (Teil 11).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/12 - Der verschwundene Bräutigam (Teil 12).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/13 - Der verschwundene Bräutigam (Teil 13).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/14 - Der verschwundene Bräutigam (Teil 14).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/15 - Der verschwundene Bräutigam (Teil 15).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/16 - Der verschwundene Bräutigam (Teil 16).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/17 - Der verschwundene Bräutigam (Teil 17).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/18 - Der verschwundene Bräutigam (Teil 18).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/19 - Der verschwundene Bräutigam (Teil 19).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/2 - Der verschwundene Bräutigam (Teil 2).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/20 - Der verschwundene Bräutigam (Teil 20).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/21 - Der verschwundene Bräutigam (Teil 21).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/22 - Der verschwundene Bräutigam (Teil 22).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/23 - Der verschwundene Bräutigam (Teil 23).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/3 - Der verschwundene Bräutigam (Teil 3).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/4 - Der verschwundene Bräutigam (Teil 4).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/5 - Der verschwundene Bräutigam (Teil 5).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/6 - Der verschwundene Bräutigam (Teil 6).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/7 - Der verschwundene Bräutigam (Teil 7).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/8 - Der verschwundene Bräutigam (Teil 8).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/9 - Der verschwundene Bräutigam (Teil 9).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 025 - Der verschwundene Bräutigam/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

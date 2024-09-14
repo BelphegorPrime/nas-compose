@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Midnight in Paris 2011 German DL 1080p BluRay x264 PROPER-DETAiLS",
+    "files" : [ "/opt/JDownloader/Downloads/Midnight in Paris 2011 German DL 1080p BluRay x264 PROPER-DETAiLS/Midnight.in.Paris.2011.German.DL.1080p.BluRay.x264.PROPER-DETAiLS/d-mip-1080p.mkv", "/opt/JDownloader/Downloads/Midnight in Paris 2011 German DL 1080p BluRay x264 PROPER-DETAiLS/Midnight.in.Paris.2011.German.DL.1080p.BluRay.x264.PROPER-DETAiLS/d-mip-1080p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

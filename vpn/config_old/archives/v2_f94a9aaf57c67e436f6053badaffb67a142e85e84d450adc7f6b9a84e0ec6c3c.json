@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/01 Kapitel 1 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/02 Kapitel 2 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/03 Kapitel 3 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/04 Kapitel 4 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/05 Kapitel 5 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/06 Kapitel 6 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/07 Kapitel 7 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/08 Kapitel 8 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/09 Kapitel 9 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/10 Kapitel 10 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/11 Kapitel 11 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/12 Kapitel 12 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/13 Kapitel 13 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/14 Kapitel 14 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/15 Kapitel 15 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/16 Kapitel 16 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/17 Kapitel 17 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/18 Kapitel 18 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/19 Kapitel 19 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/20 Kapitel 20 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/21 Kapitel 21 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/22 Kapitel 22 - Silberstrahl - Gerd Köster liest Sherlock Holmes Band 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 21 - Silberstrahl (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

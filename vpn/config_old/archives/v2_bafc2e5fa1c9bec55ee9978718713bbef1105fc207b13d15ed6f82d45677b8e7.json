@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD288DTP3",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD288DTP3/Die.Tribute.von.Panem.-.Mockingjay.-.Teil.1.2014,GERMAN.800p.microHD.x264-Raistlin911/Die.Tribute.von.Panem.-.Mockingjay.-.Teil.1.2014.GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

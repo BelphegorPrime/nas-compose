@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Killers Bodyguard 2 EXTENDED AC3D DL 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Killers Bodyguard 2 EXTENDED AC3D DL 1080p BluRay/Killers.Bodyguard.2.2021.EXTENDED.German.AC3D.DL.1080p.BluRay.x264-PS/ps-killers2.bd108.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

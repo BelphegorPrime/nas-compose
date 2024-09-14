@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/ncis #18 sd german",
+    "files" : [ "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E01.Die.rechte.Hand.(Sturgeon.Season).mp4", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E02.Der.Beginn.einer.wunderbaren.Freundschaft.(Everything.Starts.Somewhere).mp4", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E03.Der.Schatz.am.Ende.der.Welt.(Blood And Treasure).mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E04.Was.ist.das.nur.mit.den.Bahamas.(Sunburn).mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E05.Der.Kopf.der.Schlange.(Head.Of.The.Snake).mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E06.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E07.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E08.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E09.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E10.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E11.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E12.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E13.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E14.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E15.mkv", "/opt/JDownloader/Downloads/ncis #18 sd german/NCIS.S18E16.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

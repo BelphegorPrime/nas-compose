@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 02 - Eine Studie in Scharlachrot I - Drebber/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 02 - Eine Studie in Scharlachrot I - Drebber/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 02 - Eine Studie in Scharlachrot I - Drebber/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 02 - Eine Studie in Scharlachrot I - Drebber/Sherlock Holmes Legends - 2 - Eine Studie in Scharlachrot I.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 02 - Eine Studie in Scharlachrot I - Drebber/Sherlock Holmes Legends - 2 - Eine Studie in Scharlachrot I_ Drebber (BQ).jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

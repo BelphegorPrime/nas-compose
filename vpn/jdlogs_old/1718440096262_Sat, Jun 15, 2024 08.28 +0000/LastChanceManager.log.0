@@ -1,0 +1,139 @@
+------------------------Thread: 18:LastChanceManager.log-----------------------
+--ID:18TS:1718440177417-6/15/24, 8:29:37 AM -  [] -> Exception thrown at org.jdownloader.update.lastchance.LastChanceManager.log(LastChanceManager.java:454):
+org.jdownloader.update.lastchance.FailedException: org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: Could not Connect to https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+	at org.jdownloader.update.lastchance.LastChanceManager.httpFirstTry(LastChanceManager.java:413)
+	at org.jdownloader.update.lastchance.LastChanceManager.download(LastChanceManager.java:208)
+	at org.jdownloader.update.lastchance.LastChanceManager.internalRun(LastChanceManager.java:166)
+	at org.jdownloader.update.lastchance.LastChanceManager.run(LastChanceManager.java:114)
+	at org.jdownloader.update.launcher.SecondLevelLauncher$1.run(SecondLevelLauncher.java:191)
+Caused by: org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: Could not Connect to https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.download(HttpClientImpl.java:187)
+	at org.jdownloader.update.lastchance.LastChanceManager.httpFirstTry(LastChanceManager.java:394)
+	... 4 more
+
+--ID:18TS:1718440177419-6/15/24, 8:29:37 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400 via [Direct]
+--ID:18TS:1718440177419-6/15/24, 8:29:37 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(internalDownloadWithProxy)] -> Try Proxy: Direct
+--ID:18TS:1718440177419-6/15/24, 8:29:37 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Download to /tmp/lastChanceSrc17184401563623164126610600915134lch Size before: 0 bytes
+--ID:18TS:1718440198444-6/15/24, 8:29:58 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+URL-Parameters:
+   app   : JD (REPO_NAME)
+   pkh   : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   jh    : 59c2a529835e35de3300741f5b712a9f
+   rev   : 17372 (REPO_REVISION)
+   srev  : 17372 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   urev  : 17400 (UPDATER_REVISION)
+   surev : 17400 (UPDATER_SUPER_REVISION)
+Host: update.jdownloader.org
+Connection-Timeout: 60000ms
+Read-Timeout: 300000ms
+----------------Request-------------------------
+-------------Not Connected Yet!-----------------
+----------------Response Information------------
+-------------Not Connected Yet!------------------
+
+
+--ID:18TS:1718440198444-6/15/24, 8:29:58 AM -  [] -> Exception thrown at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.log(HttpClientImpl.java:951):
+org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: java.net.UnknownHostException: Could not resolve: -update.jdownloader.org<->update.jdownloader.org-
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.download(BasicHTTP.java:343)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.download(BasicHTTP.java:178)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalActualDownload(HttpClientImpl.java:656)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalDownloadWithProxy(HttpClientImpl.java:768)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.download(HttpClientImpl.java:139)
+	at org.jdownloader.update.lastchance.LastChanceManager.httpSecondTry(LastChanceManager.java:356)
+	at org.jdownloader.update.lastchance.LastChanceManager.download(LastChanceManager.java:217)
+	at org.jdownloader.update.lastchance.LastChanceManager.internalRun(LastChanceManager.java:166)
+	at org.jdownloader.update.lastchance.LastChanceManager.run(LastChanceManager.java:114)
+	at org.jdownloader.update.launcher.SecondLevelLauncher$1.run(SecondLevelLauncher.java:191)
+Caused by: org.appwork.utils.net.BasicHTTP.ReadIOException: java.net.UnknownHostException: Could not resolve: -update.jdownloader.org<->update.jdownloader.org-
+	... 10 more
+Caused by: java.net.UnknownHostException: Could not resolve: -update.jdownloader.org<->update.jdownloader.org-
+	at org.appwork.utils.net.httpconnection.HTTPConnectionUtils.resolvHostIP(HTTPConnectionUtils.java:868)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionUtils.resolvHostIP(HTTPConnectionUtils.java:475)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.resolvHostIP(HTTPConnectionImpl.java:785)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.getRemoteIPs(HTTPConnectionImpl.java:790)
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.connect(HTTPConnectionImpl.java:921)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.download(BasicHTTP.java:269)
+	... 9 more
+
+--ID:18TS:1718440198444-6/15/24, 8:29:58 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:18TS:1718440198444-6/15/24, 8:29:58 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: java.net.UnknownHostException: Could not resolve: -update.jdownloader.org<->update.jdownloader.org-
+--ID:18TS:1718440198444-6/15/24, 8:29:58 AM -  [] -> Exception thrown at org.jdownloader.update.lastchance.LastChanceManager.log(LastChanceManager.java:454):
+org.jdownloader.update.lastchance.FailedException: org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: Could not Connect to https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+	at org.jdownloader.update.lastchance.LastChanceManager.httpSecondTry(LastChanceManager.java:382)
+	at org.jdownloader.update.lastchance.LastChanceManager.download(LastChanceManager.java:217)
+	at org.jdownloader.update.lastchance.LastChanceManager.internalRun(LastChanceManager.java:166)
+	at org.jdownloader.update.lastchance.LastChanceManager.run(LastChanceManager.java:114)
+	at org.jdownloader.update.launcher.SecondLevelLauncher$1.run(SecondLevelLauncher.java:191)
+Caused by: org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: Could not Connect to https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.download(HttpClientImpl.java:187)
+	at org.jdownloader.update.lastchance.LastChanceManager.httpSecondTry(LastChanceManager.java:356)
+	... 4 more
+
+--ID:18TS:1718440208476-6/15/24, 8:30:08 AM -  [] -> Exception thrown at org.jdownloader.update.lastchance.LastChanceManager.log(LastChanceManager.java:454):
+org.jdownloader.update.lastchance.FailedException: java.net.UnknownHostException: update.jdownloader.org
+	at org.jdownloader.update.lastchance.LastChanceManager.httpThirdTry(LastChanceManager.java:261)
+	at org.jdownloader.update.lastchance.LastChanceManager.download(LastChanceManager.java:223)
+	at org.jdownloader.update.lastchance.LastChanceManager.internalRun(LastChanceManager.java:166)
+	at org.jdownloader.update.lastchance.LastChanceManager.run(LastChanceManager.java:114)
+	at org.jdownloader.update.launcher.SecondLevelLauncher$1.run(SecondLevelLauncher.java:191)
+Caused by: java.net.UnknownHostException: update.jdownloader.org
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:221)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:402)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:657)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1181)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1075)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:163)
+	at org.appwork.updatesys.client.lastchance.LastChanceUtils.lastChanceBasicDownload(LastChanceUtils.java:127)
+	at org.jdownloader.update.lastchance.LastChanceManager.httpThirdTry(LastChanceManager.java:251)
+	... 4 more
+
+--ID:18TS:1718440218488-6/15/24, 8:30:18 AM -  [] -> Exception thrown at org.jdownloader.update.lastchance.LastChanceManager.log(LastChanceManager.java:454):
+org.jdownloader.update.lastchance.FailedException: java.net.UnknownHostException: update.jdownloader.org
+	at org.jdownloader.update.lastchance.LastChanceManager.httpThirdTry(LastChanceManager.java:261)
+	at org.jdownloader.update.lastchance.LastChanceManager.download(LastChanceManager.java:230)
+	at org.jdownloader.update.lastchance.LastChanceManager.internalRun(LastChanceManager.java:166)
+	at org.jdownloader.update.lastchance.LastChanceManager.run(LastChanceManager.java:114)
+	at org.jdownloader.update.launcher.SecondLevelLauncher$1.run(SecondLevelLauncher.java:191)
+Caused by: java.net.UnknownHostException: update.jdownloader.org
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:221)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:402)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at java.base/sun.security.ssl.SSLSocketImpl.connect(SSLSocketImpl.java:657)
+	at java.base/sun.net.NetworkClient.doConnect(NetworkClient.java:177)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:474)
+	at java.base/sun.net.www.http.HttpClient.openServer(HttpClient.java:569)
+	at java.base/sun.net.www.protocol.https.HttpsClient.<init>(HttpsClient.java:265)
+	at java.base/sun.net.www.protocol.https.HttpsClient.New(HttpsClient.java:372)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.getNewHttpClient(AbstractDelegateHttpsURLConnection.java:191)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect0(HttpURLConnection.java:1221)
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.plainConnect(HttpURLConnection.java:1075)
+	at java.base/sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:177)
+	at java.base/sun.net.www.protocol.https.HttpsURLConnectionImpl.connect(HttpsURLConnectionImpl.java:163)
+	at org.appwork.updatesys.client.lastchance.LastChanceUtils.lastChanceBasicDownload(LastChanceUtils.java:127)
+	at org.jdownloader.update.lastchance.LastChanceManager.httpThirdTry(LastChanceManager.java:251)
+	... 4 more
+
+--ID:18TS:1718440218488-6/15/24, 8:30:18 AM -  [] -> Exception thrown at org.jdownloader.update.lastchance.LastChanceManager.log(LastChanceManager.java:454):
+org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: org.jdownloader.update.lastchance.FailedException: org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: Could not Connect to https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+	at org.jdownloader.update.lastchance.LastChanceManager.internalRun(LastChanceManager.java:172)
+	at org.jdownloader.update.lastchance.LastChanceManager.run(LastChanceManager.java:114)
+	at org.jdownloader.update.launcher.SecondLevelLauncher$1.run(SecondLevelLauncher.java:191)
+Caused by: org.jdownloader.update.lastchance.FailedException: org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: Could not Connect to https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+	at org.jdownloader.update.lastchance.LastChanceManager.httpFirstTry(LastChanceManager.java:413)
+	at org.jdownloader.update.lastchance.LastChanceManager.download(LastChanceManager.java:208)
+	at org.jdownloader.update.lastchance.LastChanceManager.internalRun(LastChanceManager.java:166)
+	... 2 more
+Caused by: org.appwork.updatesys.client.defaultimpl.http.NoConnectionException: Could not Connect to https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=59c2a529835e35de3300741f5b712a9f&rev=17372&srev=17372&urev=17400&surev=17400
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.download(HttpClientImpl.java:187)
+	at org.jdownloader.update.lastchance.LastChanceManager.httpFirstTry(LastChanceManager.java:394)
+	... 4 more
+

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Absentia S02 1080P WEB",
+    "files" : [ "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e01.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e02.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e03.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e04.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e05.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e06.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e07.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e08.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e09.german.dl.1080p.web.h264-wayne.mkv", "/opt/JDownloader/Downloads/Absentia S02 1080P WEB/Absentia.S02.COMPLETE.GERMAN.DL.1080P.WEB.H264-WAYNE/absentia.s02e10.german.dl.1080p.web.h264-wayne.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

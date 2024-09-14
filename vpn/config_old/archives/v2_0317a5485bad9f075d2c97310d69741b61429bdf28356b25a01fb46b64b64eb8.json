@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/01 - Kapitel 1 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/02 - Kapitel 2 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/03 - Kapitel 3 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/04 - Kapitel 4 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/05 - Kapitel 5 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/06 - Kapitel 6 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/07 - Kapitel 7 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/08 - Kapitel 8 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/09 - Kapitel 9 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/10 - Kapitel 10 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/11 - Kapitel 11 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/12 - Kapitel 12 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/13 - Kapitel 13 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/14 - Kapitel 14 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/15 - Kapitel 15 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/16 - Kapitel 16 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/17 - Kapitel 17 - Die sechs Napoleonbüsten - Gerd Köster liest Sherlock Holmes, Band 39.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 39 - Die sechs Napoleonbüsten (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

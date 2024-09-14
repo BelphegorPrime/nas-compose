@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Lightning",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Lightning/Black.Lightning.S01E06.German.Dubbed.DL.WEB.x264-BiGiNT/black.lightning.s01e06.german.dubbed.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning/Black.Lightning.S01E06.German.Dubbed.DL.WEB.x264-BiGiNT/black.lightning.s01e06.german.dubbed.dl.web.x264-bigint.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

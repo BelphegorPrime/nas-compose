@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/vxvbrfxgrefrtesrere",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/vxvbrfxgrefrtesrere/Shazam.2019.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-shazam_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/vxvbrfxgrefrtesrere/Shazam.2019.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-shazam_1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/vxvbrfxgrefrtesrere/Shazam.2019.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-shazam_1080p_subs.rar",
+                                                              "/opt/JDownloader/Downloads/vxvbrfxgrefrtesrere/Shazam.2019.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-shazam_1080p_subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

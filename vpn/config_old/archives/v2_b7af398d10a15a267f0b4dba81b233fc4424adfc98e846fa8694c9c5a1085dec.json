@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E06 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E06 720p/Dark.Matter.Der.Zeitenlaeufer.S01E06.German.DL.720p.WEB.h264-WvF/dark.matter.der.zeitenlaeufer.s01e06.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E06 720p/Dark.Matter.Der.Zeitenlaeufer.S01E06.German.DL.720p.WEB.h264-WvF/dark.matter.der.zeitenlaeufer.s01e06.german.dl.720p.web.h264-wvf.nfo",
+                                                              "/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E06 720p/Dark.Matter.Der.Zeitenlaeufer.S01E06.German.DL.720p.WEB.h264-WvF/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E06 720p/Dark.Matter.Der.Zeitenlaeufer.S01E06.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

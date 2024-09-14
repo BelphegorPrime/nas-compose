@@ -1,0 +1,33 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Heroes",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E01.Neubeginn.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E02.Kompass.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E03.Tinte.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E04.Innerer.Frieden.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E05.Besessen.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E06.Tabula.Rasa.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E07.Seltsame.Attraktoren.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E08.Es.war.einmal.in.Texas.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E09.Schattenboxen.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E10.Meines.Bruders.Hüter.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E11.Familienfest.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E12.Die.fünfte.Phase.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E13.Das.Tal.der.Hoffnung.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E14.Zerstörte.Brücken.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E15.Rettungsmission.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E16.Verlorene.Liebe.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E17.Die.Kunst.der.Täuschung.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E18.Die.Mauer.German.DL.BD.x264-4SF.mkv",
+                                                              "/opt/JDownloader/Downloads/Heroes/Heroes.S04.SD/Heroes.S04E19.Der.letzte.Vorhang.German.DL.BD.x264-4SF.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

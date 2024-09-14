@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/01 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/02 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/03 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/04 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/05 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/06 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/07 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/08 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/09 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/10 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/11 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/12 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/13 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/14 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/15 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/16 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/17 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/18 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/19 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/20 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/21 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/22 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/23 Der Gejagte.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 07 Der Gejagte/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

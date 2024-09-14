@@ -1,0 +1,29 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/01-SHERLOCK HOLMES CHRONICLES _ Der rote Kreis.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/02-SHERLOCK HOLMES CHRONICLES _ Gut.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/03-SHERLOCK HOLMES CHRONICLES _ Ein paar Punkte.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/04-SHERLOCK HOLMES CHRONICLES _ Und so kam es.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/05-SHERLOCK HOLMES CHRONICLES _ Um halb eins.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/06-SHERLOCK HOLMES CHRONICLES _ Am Abend.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/07-SHERLOCK HOLMES CHRONICLES _ Als wir eilig.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/08-SHERLOCK HOLMES CHRONICLES _ Die Tuer zur Wohnung.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/09-SHERLOCK HOLMES CHRONICLES _ Eine halbe Stunde spaeter.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/10-SHERLOCK HOLMES CHRONICLES _ Gennaro sagte nie etwas.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/SHC_84_Booklet-ybrf5p.pdf",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 084 - Der rote Kreis/SHC_84_rote-Kreis.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

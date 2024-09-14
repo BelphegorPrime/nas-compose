@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Lightning",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Lightning/Black.Lightning.S01E10.Suenden.des.Vaters.Das.Buch.der.Erloesung.German.DL.NetflixHD.x264-TVS/tvs-bl-dl-nfhd-x264-110.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning/Black.Lightning.S01E10.Suenden.des.Vaters.Das.Buch.der.Erloesung.German.DL.NetflixHD.x264-TVS/tvs-bl-dl-nfhd-x264-110.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

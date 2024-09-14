@@ -1,0 +1,94 @@
+------------------------Thread: 1:org.jdownloader.update.launcher.SecondLevelLauncher.log-----------------------
+--ID:1TS:1718272905880-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: awt.toolkit: sun.awt.X11.XToolkit
+--ID:1TS:1718272905880-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.version: 10
+--ID:1TS:1718272905880-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.encoding.pkg: sun.io
+--ID:1TS:1718272905880-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.cpu.isalist: 
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: classloader_00000001: org.jdownloader.update.launcher.CL2
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.jnu.encoding: UTF-8
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: classloader_00000000: org.jdownloader.update.launcher.ClassLoaderExtensionImpl
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: extlogmanager.avoidsystemclassloader.hack: org.jdownloader.updatev2.JDClassLoaderLauncher$JDCustomRootClassLoader@4c70fda8
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.class.path: /opt/JDownloader/JDownloader.jar
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.vendor: Oracle Corporation
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.arch.data.model: 64
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.util.Arrays.useLegacyMergeSort: true
+--ID:1TS:1718272905881-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor.url: http://java.oracle.com/
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.timezone: GMT
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.name: Linux
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.version: 10
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.java.launcher: SUN_STANDARD
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.country: US
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.net.preferIPv6Addresses: system
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.boot.library.path: /usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64/lib
+--ID:1TS:1718272905882-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.java.command: /opt/JDownloader/JDownloader.jar -norestart
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.rmi.server.useCodebaseOnly: true
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: jdk.debug: release
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.cpu.endian: little
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.home: /root
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.language: en
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: LOG_INIT_DONE: 2 instances
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.vendor: Oracle Corporation
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.version.date: 2018-07-17
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.home: /usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.separator: /
+--ID:1TS:1718272905883-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.compressedOopsMode: 32-bit
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: line.separator: 
+
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.specification.name: Java Platform API Specification
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.vendor: Oracle Corporation
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.awt.graphicsenv: sun.awt.X11GraphicsEnvironment
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.awt.headless: true
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: org.appwork.LoggerFactory: org.appwork.utils.logging2.LogSourceRedirector
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.management.compiler: HotSpot 64-Bit Tiered Compilers
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.rmi.object.trustURLCodebase: false
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.runtime.version: 10.0.2-BellSoft+0
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.name: root
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: path.separator: :
+--ID:1TS:1718272905884-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.cosnaming.object.trustURLCodebase: false
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.version: 6.1.27
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.runtime.name: OpenJDK Runtime Environment
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: file.encoding: UTF-8
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.name: OpenJDK 64-Bit Server VM
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor.url.bug: http://bugreport.java.com/bugreport/
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.io.tmpdir: /tmp
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.version: 10.0.2-BellSoft
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: user.dir: /opt/JDownloader
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: os.arch: amd64
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.specification.name: Java Virtual Machine Specification
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.awt.printerjob: sun.print.PSPrinterJob
+--ID:1TS:1718272905885-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: k: 0dd0ecf7f742873d745106adea00b64a
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.os.patch.level: unknown
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.util.logging.manager: org.appwork.utils.logging2.extmanager.ExtLogManager
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.library.path: /lib;/lib32;/usr/lib:/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vendor: Oracle Corporation
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.info: mixed mode
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.vm.version: 10.0.2-BellSoft+0
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: com.sun.jndi.ldap.object.trustURLCodebase: false
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: sun.io.unicode.encoding: UnicodeLittle
+--ID:1TS:1718272905886-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysProp: java.class.version: 54.0
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: MYJD_DEVICE_NAME: unas
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PATH: /usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LANGUAGE: C.UTF-8
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: XDG_DOWNLOAD_DIR: /opt/JDownloader/Downloads
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: JAVA_HOME: /usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LANG: en_US.UTF-8
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: UMASK: 
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HOSTNAME: cdf56662e03f
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_ALL: C.UTF-8
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LD_LIBRARY_PATH: /lib;/lib32;/usr/lib
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_COLLATE: C
+--ID:1TS:1718272905887-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: LC_CTYPE: en_US.UTF-8
+--ID:1TS:1718272905888-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: PWD: /opt/JDownloader
+--ID:1TS:1718272905888-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: HOME: /root
+--ID:1TS:1718272905888-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> SysEnv: SHLVL: 1
+--ID:1TS:1718272905890-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> jar:file:/opt/JDownloader/JDownloader.jar!/version.nfo:
+${updateclient.revision}
+--ID:1TS:1718272905891-6/13/24, 10:01:45 AM -  [org.appwork.utils.Application(printSystemProperties)] -> file:/opt/JDownloader/build.json:
+{"JDownloaderServerOptionsRevision":5691,"buildTimestamp":1718189780116,"UpdateClientV2Revision":1061,"JDownloaderUpdaterRevision":5770,"AppWorkUtilsRevision":4055,"JDBrowserRevision":48227,"JDClosedRevision":961,"MyJDownloaderClientRevision":46032,"buildDate":"Wed Jun 12 12:56:20 CEST 2024","JDownloaderRevision":48254}
+--ID:1TS:1718272905891-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Args: [-norestart]
+--ID:1TS:1718272905898-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Restart Controller init done in 7
+--ID:1TS:1718272905899-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Parse Arguments
+--ID:1TS:1718272905899-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Parameter Parse done in 0
+--ID:1TS:1718272905899-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Single Instance Controller
+--ID:1TS:1718272905921-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Single Instance init done in 22
+--ID:1TS:1718272905922-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Init UpdateManager
+--ID:1TS:1718272905994-6/13/24, 10:01:45 AM -  [org.jdownloader.update.launcher.SecondLevelLauncher(init)] -> Update Manager init done in 71

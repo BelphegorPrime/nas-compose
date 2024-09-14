@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Vikings Valhalla S01 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Vikings Valhalla S01 1080p WEB/Vikings.Valhalla.S01E06.GERMAN.DL.1080p.WEB.h264-FENDT.mkv"
+                                                             ]
+                                        },
+ "autoExtract"                        : "UNSET",
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "extractPath"                        : null,
+ "removeFilesAfterExtraction"         : "UNSET",
+ "finalPassword"                      : null,
+ "passwords"                          : []
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Jurassic Park 2 (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Jurassic Park 2 (microHD)/Vergessene.Welt.Jurassic.Park.1997.GERMAN.1040p.microHD.x264-RED/Jurassic Park 2 \u2013 Vergessene Welt (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

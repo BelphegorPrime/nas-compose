@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0214/Person.of.Interest.S02E14.Extravganzen.German.DL.1080p.BluRay.x264-RSG/rsg-person-of-interest-s02e14-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0214/Person.of.Interest.S02E14.Extravganzen.German.DL.1080p.BluRay.x264-RSG/rsg-person-of-interest-s02e14-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

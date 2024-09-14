@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Lucifer S05-E01-E08-HD-Repack",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Lucifer S05-E01-E08-HD-Repack/lucifer.s05e07.german.dl.1080p.web.h264.repack-wayne.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

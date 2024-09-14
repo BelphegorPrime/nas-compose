@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/American Gods S03E09",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/American Gods S03E09/American.Gods.S03E09.Die.Kinder.des.Sees.German.WEBRiP.X264-MRW/mrw-americangods_s03e09-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/American Gods S03E09/American.Gods.S03E09.Die.Kinder.des.Sees.German.WEBRiP.X264-MRW/mrw-americangods_s03e09-sd.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

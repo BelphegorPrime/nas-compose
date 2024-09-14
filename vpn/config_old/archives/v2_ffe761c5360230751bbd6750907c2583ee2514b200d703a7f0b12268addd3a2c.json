@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ms Marvel S01E04 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ms Marvel S01E04 1080P/Ms.Marvel.S01E04.GERMAN.DL.1080P.WEB.H264-WAYNE/ms.marvel.s01e04.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Ms Marvel S01E04 1080P/Ms.Marvel.S01E04.GERMAN.DL.1080P.WEB.H264-WAYNE/ms.marvel.s01e04.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

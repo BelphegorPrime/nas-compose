@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Flash 2023 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Flash 2023 1080p WEB/The.Flash.2023.German.DL.1080p.WEB.h264.INTERNAL-WvF/the.flash.2023.german.dl.1080p.web.h264.internal-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/The Flash 2023 1080p WEB/The.Flash.2023.German.DL.1080p.WEB.h264.INTERNAL-WvF/the.flash.2023.german.dl.1080p.web.h264.internal-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

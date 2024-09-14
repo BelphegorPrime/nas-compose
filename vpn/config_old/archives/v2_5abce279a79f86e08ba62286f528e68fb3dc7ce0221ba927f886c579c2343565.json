@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/01 - Sherlock Holmes und das doppelte Verbrechen - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/02 - Sherlock Holmes und das doppelte Verbrechen - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/03 - Sherlock Holmes und das doppelte Verbrechen - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/04 - Sherlock Holmes und das doppelte Verbrechen - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/05 - Sherlock Holmes und das doppelte Verbrechen - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/06 - Sherlock Holmes und das doppelte Verbrechen - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/07 - Sherlock Holmes und das doppelte Verbrechen - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/08 - Sherlock Holmes und das doppelte Verbrechen - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/09 - Sherlock Holmes und das doppelte Verbrechen - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/10 - Sherlock Holmes und das doppelte Verbrechen - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/11 - Sherlock Holmes und das doppelte Verbrechen - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/12 - Sherlock Holmes und das doppelte Verbrechen - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/13 - Sherlock Holmes und das doppelte Verbrechen - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/14 - Sherlock Holmes und das doppelte Verbrechen - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/15 - Sherlock Holmes und das doppelte Verbrechen - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/16 - Sherlock Holmes und das doppelte Verbrechen - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/17 - Sherlock Holmes und das doppelte Verbrechen - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/18 - Sherlock Holmes und das doppelte Verbrechen - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/19 - Sherlock Holmes und das doppelte Verbrechen - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/20 - Sherlock Holmes und das doppelte Verbrechen - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 45 - Sherlock Holmes und das doppelte Verbrechen (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

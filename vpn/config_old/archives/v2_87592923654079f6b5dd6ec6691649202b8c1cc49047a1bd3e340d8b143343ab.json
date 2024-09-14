@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Motherland Fort Salem S03 GERMAN AAC 1080p WEB x265-w00t",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Motherland Fort Salem S03 GERMAN AAC 1080p WEB x265-w00t/Motherland.Fort.Salem.S03E06.Book.Club.GERMAN.AAC.1080p.WEB.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

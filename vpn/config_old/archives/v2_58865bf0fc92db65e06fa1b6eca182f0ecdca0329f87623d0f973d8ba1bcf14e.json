@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Der wunderbare Mr Rogers 720p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Der wunderbare Mr Rogers 720p BluRay/Der.wunderbare.Mr.Rogers.2019.German.720p.BluRay.x264-ROCKEFELLER/rf-dwmr-720p.mkv",
+                                                              "/opt/JDownloader/Downloads/Der wunderbare Mr Rogers 720p BluRay/Der.wunderbare.Mr.Rogers.2019.German.720p.BluRay.x264-ROCKEFELLER/rf-dwmr-720p.nfo",
+                                                              "/opt/JDownloader/Downloads/Der wunderbare Mr Rogers 720p BluRay/Der.wunderbare.Mr.Rogers.2019.German.720p.BluRay.x264-ROCKEFELLER/Subs/rf-dwmr-720p.subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,23 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 13 Das flammende Phantom/Sherlock Holmes & Co - 13 Das flammende Phantom/Kapitel 09.mp3"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

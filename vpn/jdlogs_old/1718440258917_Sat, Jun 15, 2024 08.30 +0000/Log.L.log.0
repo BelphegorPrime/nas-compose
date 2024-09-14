@@ -1,0 +1,32 @@
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1718440259289-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: /opt/JDownloader
+--ID:1TS:1718440259319-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.update.lastchance.LastChanceConfig.json
+--ID:1TS:1718440259360-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.updatev2.UpdateSettings.json
+--ID:1TS:1718440259377-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/Setup.json
+--ID:1TS:1718440259378-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/updateclient/Setup.json
+--ID:1TS:1718440259378-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.Setup|Path:/opt/JDownloader/cfg/updateclient/Setup
+------------------------Thread: 20:Log.L.log-----------------------
+--ID:20TS:1718440259387-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings.json
+--ID:20TS:1718440259387-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.jdownloader.updatev2.InternetConnectionSettings|Path:/opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings
+--ID:20TS:1718440259397-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/HttpSettings.json
+--ID:20TS:1718440259398-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/updateclient/HttpSettings.json
+--ID:20TS:1718440259398-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.UpdateHttpClientOptions|Path:/opt/JDownloader/cfg/updateclient/HttpSettings
+--ID:20TS:1718440259401-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/ProxySelector.json
+--ID:20TS:1718440259401-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.ProxySelectorSettings|Path:/opt/JDownloader/cfg/ProxySelector
+--ID:20TS:1718440259402-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/ProxySelector.proxies.json
+--ID:20TS:1718440259424-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(URL): jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/Setup.updateservers.json
+--ID:20TS:1718440259428-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/update/versioninfo/JD/extensions.json
+--ID:20TS:1718440259428-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:/opt/JDownloader/update/versioninfo/JD/extensions
+--ID:20TS:1718440259435-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/org.appwork.updatesys.client.tracker.TrackConfig.json
+--ID:20TS:1718440259438-6/15/24, 8:30:59 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/update/versioninfo/JDU/extensions.json
+--ID:20TS:1718440259439-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:/opt/JDownloader/update/versioninfo/JDU/extensions
+------------------------Thread: 21:Log.L.log-----------------------
+--ID:21TS:1718440259447-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(info)] -> Translation file missing:org/jdownloader/updatev2/UpdaterTranslation.en.lngUse Annotation Dev fallback
+--ID:21TS:1718440259463-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings.customproxylist.json
+--ID:21TS:1718440259468-6/15/24, 8:30:59 AM -  [org.appwork.loggingv3.LogV3(info)] -> Translation file missing:org/appwork/utils/locale/AWUTranslation.en.lngUse Annotation Dev fallback
+--ID:21TS:1718440277737-6/15/24, 8:31:17 AM -  [org.appwork.loggingv3.LogV3(info)] -> No Vetos
+--ID:21TS:1718440277737-6/15/24, 8:31:17 AM -  [org.appwork.loggingv3.LogV3(info)] -> Fire onShutDownEvents
+--ID:21TS:1718440277737-6/15/24, 8:31:17 AM -  [org.appwork.loggingv3.LogV3(info)] -> Create ExitThread
+--ID:21TS:1718440277737-6/15/24, 8:31:17 AM -  [org.appwork.loggingv3.LogV3(info)] -> Wait
+------------------------Thread: 34:Log.L.log-----------------------
+--ID:34TS:1718440277737-6/15/24, 8:31:17 AM -  [org.appwork.loggingv3.LogV3(info)] -> Exit Now: Code: 0

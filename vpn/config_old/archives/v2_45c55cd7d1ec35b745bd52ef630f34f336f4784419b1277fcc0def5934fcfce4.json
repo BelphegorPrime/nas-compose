@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 414 - Praesident.John.Doe.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 415 - Zwei.Clarks.fuer.Lois.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 416 - Frieden.fuer.die.Welt.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 417 - Die.Fuechsin.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 418 - Der.Schattenkiller.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 419 - Lex.Luthor.Junior.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 420 - Ein.schlechter.Tausch.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 421 - Der.Kinderdieb.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 422 - Dickschaedels.Plan.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 401 - Invasion.in.Smallville.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 402 - Duell.mit.Lord.Nor.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 403 - Die.Hochzeitsfalle.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 404 - Der.boese.Fluch.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 405 - Fuer.immer.jung.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 406 - Der.Fall.Lois.Lane.-.Teil.1.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 407 - Der.Fall.Lois.Lane.-.Teil.2.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 408 - Ein.reizendes.Paar.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 409 - Der.Geist.der.Katie.Banks.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 410 - Lady.Boß.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 411 - Und.taeglich.grueßt.der.Kobold.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 412 - Perry.und.Jerry.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s04 German DVDRip/Superman - Die Abenteuer von Lois und Clark 413 - Ein.schmutziges.Geheimnis.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

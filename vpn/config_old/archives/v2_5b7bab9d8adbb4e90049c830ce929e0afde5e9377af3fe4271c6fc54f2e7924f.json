@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/00 - Die Gehörnten (Geschichten aus dem Schwarzen Turm 2) (Ungekürzt).m3u",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/01 - Vorspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/02 - Kapitel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/03 - Kapitel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/04 - Kapitel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/05 - Kapitel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/06 - Kapitel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/07 - Kapitel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/08 - Kapitel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/09 - Kapitel 8.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/10 - Kapitel 9.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/11 - Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/12 - Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/13 - Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/14 - Kapitel 13.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/15 - Kapitel 14.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/16 - Kapitel 15.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/17 - Kapitel 16.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/18 - Kapitel 17.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/19 - Kapitel 18.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/20 - Abspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/__DDL Premium_200GB_PRO_TAG.url",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 02 - Die Gehörnten (ungekuerzt)/___Rapidgator 24TB_REFLINK für Unterstützung. DANKE.url"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

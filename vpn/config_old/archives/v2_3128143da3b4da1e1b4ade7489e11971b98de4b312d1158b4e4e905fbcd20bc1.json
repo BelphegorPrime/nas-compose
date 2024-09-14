@@ -1,0 +1,22 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/1 - Die letzte Hoffnung der Duncans Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/2 - Die letzte Hoffnung der Duncans Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/3 - Die letzte Hoffnung der Duncans Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/4 - Die letzte Hoffnung der Duncans Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/5 - Die letzte Hoffnung der Duncans Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 009 - Die letzte Hoffnung der Duncans/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

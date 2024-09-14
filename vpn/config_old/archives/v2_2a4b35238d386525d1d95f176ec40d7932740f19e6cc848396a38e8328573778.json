@@ -1,0 +1,15 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Atypical S04 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Atypical S04 720p/Atypical.S04E05.GERMAN.DL.720p.WEB.x264-FENDT.mkv"
+                                                             ]
+                                        }
+}

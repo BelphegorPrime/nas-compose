@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/How I Met Your Father S02 German DL 720p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/How I Met Your Father S02 German DL 720p WEB/How.I.Met.Your.Father.S02E14.German.DL.720p.WEB.h264-WvF/how.i.met.your.father.s02e14.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/How I Met Your Father S02 German DL 720p WEB/How.I.Met.Your.Father.S02E14.German.DL.720p.WEB.h264-WvF/how.i.met.your.father.s02e14.german.dl.720p.web.h264-wvf.nfo",
+                                                              "/opt/JDownloader/Downloads/How I Met Your Father S02 German DL 720p WEB/How.I.Met.Your.Father.S02E14.German.DL.720p.WEB.h264-WvF/Sample/how.i.met.your.father.s02e14.german.dl.720p.web.h264-wvf-sample.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

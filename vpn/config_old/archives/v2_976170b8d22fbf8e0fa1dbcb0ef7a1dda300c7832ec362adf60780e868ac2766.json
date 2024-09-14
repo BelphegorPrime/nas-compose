@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Catch Me If You Can (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Catch Me If You Can (microHD)/Catch.Me.If.You.Can.2002.GERMAN.1080p.microHD.x264-RED/Catch Me If You Can (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

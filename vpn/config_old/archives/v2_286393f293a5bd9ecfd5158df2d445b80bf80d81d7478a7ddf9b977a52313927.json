@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Matrix Resurrections 2021 German Mic 1080p WEB",
+    "files" : [ "/opt/JDownloader/Downloads/Matrix Resurrections 2021 German Mic 1080p WEB/Matrix.Resurrections.2021.German.AC3D.DL.1080p.WEB-DL.h264-PS/ps-mat.res.108.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/01.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/02.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/03.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/04.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/05.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/06.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/07.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/08.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/09.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/10.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/11.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/12.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/13.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/14.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/15.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/16.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/17.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/18.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/19.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/20.mp3",
+                                                              "/opt/JDownloader/Downloads/Neil Gaiman, Dirk Maggs - The Sandman/Cover.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : "forall",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

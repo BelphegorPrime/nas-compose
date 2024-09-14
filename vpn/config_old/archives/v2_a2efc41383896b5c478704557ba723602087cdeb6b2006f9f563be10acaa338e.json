@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Miracle Workers S03E07 720p",
+    "files" : [ "/opt/JDownloader/Downloads/Miracle Workers S03E07 720p/Miracle.Workers.S03E07.GERMAN.DL.720p.WEB.h264-FENDT/Miracle.Workers.S03E07.GERMAN.DL.720p.WEB.h264-FENDT.mkv", "/opt/JDownloader/Downloads/Miracle Workers S03E07 720p/Miracle.Workers.S03E07.GERMAN.DL.720p.WEB.h264-FENDT/miracle.workers.s03e07.german.dl.720p.web.h264-fendt.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

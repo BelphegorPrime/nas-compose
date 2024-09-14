@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/[JoJos Bizarre Adventure - Golden Wind",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/[JoJos Bizarre Adventure - Golden Wind/[Ta@]JoJos_Bizarre_Adventure_-_Golden_Wind_04_[Web,720p,AAC].mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

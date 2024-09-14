@@ -1,0 +1,28 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/1 - Der mysteriöse Tod eines Politikers Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/10 - Der mysteriöse Tod eines Politikers Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/11 - Der mysteriöse Tod eines Politikers Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/2 - Der mysteriöse Tod eines Politikers Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/3 - Der mysteriöse Tod eines Politikers Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/4 - Der mysteriöse Tod eines Politikers Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/5 - Der mysteriöse Tod eines Politikers Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/6 - Der mysteriöse Tod eines Politikers Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/7 - Der mysteriöse Tod eines Politikers Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/8 - Der mysteriöse Tod eines Politikers Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/9 - Der mysteriöse Tod eines Politikers Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 001 - Der mysteriöse Tod eines Politikers/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

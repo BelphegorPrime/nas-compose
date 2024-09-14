@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/hfgtzuztoikjfgst",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/hfgtzuztoikjfgst/Shin.Godzilla.2016.German.1080p.BluRay.x264.RERiP-ENCOUNTERS/encounters-shingodzillarr_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/hfgtzuztoikjfgst/Shin.Godzilla.2016.German.1080p.BluRay.x264.RERiP-ENCOUNTERS/encounters-shingodzillarr_1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/hfgtzuztoikjfgst/Shin.Godzilla.2016.German.1080p.BluRay.x264.RERiP-ENCOUNTERS/Subs/encounters-shingodzillarr_1080p_subs.rar",
+                                                              "/opt/JDownloader/Downloads/hfgtzuztoikjfgst/Shin.Godzilla.2016.German.1080p.BluRay.x264.RERiP-ENCOUNTERS/Subs/encounters-shingodzillarr_1080p_subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

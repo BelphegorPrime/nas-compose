@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Reprisal S01E02 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Reprisal S01E02 720p/Reprisal.S01E02.German.720p.WEB.h264-WvF/reprisal.s01e02.german.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Reprisal S01E02 720p/Reprisal.S01E02.German.720p.WEB.h264-WvF/reprisal.s01e02.german.720p.web.h264-wvf.nfo",
+                                                              "/opt/JDownloader/Downloads/Reprisal S01E02 720p/Reprisal.S01E02.German.720p.WEB.h264-WvF/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

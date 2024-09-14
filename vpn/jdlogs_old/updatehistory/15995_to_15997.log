@@ -1,0 +1,21 @@
+Wed Mar 30 15:31:58 GMT 2022
+Package: package_1648654311850.awf
+Install
+Write Revision: 15997
+----------------Plugins----------------
+   jd/plugins/hoster/ORFMediathek$1.class
+   jd/plugins/hoster/ORFMediathek.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/org/jdownloader/startup/Main$1.class
+   JD: Core.jar/org/jdownloader/startup/Main$2.class
+   JD: Core.jar/org/jdownloader/startup/Main$3$1$1.class
+   JD: Core.jar/org/jdownloader/startup/Main$3$1$2.class
+   JD: Core.jar/org/jdownloader/startup/Main$3$1.class
+   JD: Core.jar/org/jdownloader/startup/Main$3$2.class
+   JD: Core.jar/org/jdownloader/startup/Main$3.class
+   JD: Core.jar/org/jdownloader/startup/Main$4.class
+   JD: Core.jar/org/jdownloader/startup/Main.class

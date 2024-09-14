@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/01 - Sherlock Holmes und der Kampf um die Asche - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/02 - Sherlock Holmes und der Kampf um die Asche - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/03 - Sherlock Holmes und der Kampf um die Asche - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/04 - Sherlock Holmes und der Kampf um die Asche - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/05 - Sherlock Holmes und der Kampf um die Asche - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/06 - Sherlock Holmes und der Kampf um die Asche - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/07 - Sherlock Holmes und der Kampf um die Asche - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/08 - Sherlock Holmes und der Kampf um die Asche - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/09 - Sherlock Holmes und der Kampf um die Asche - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/10 - Sherlock Holmes und der Kampf um die Asche - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/11 - Sherlock Holmes und der Kampf um die Asche - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/12 - Sherlock Holmes und der Kampf um die Asche - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/13 - Sherlock Holmes und der Kampf um die Asche - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/14 - Sherlock Holmes und der Kampf um die Asche - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/15 - Sherlock Holmes und der Kampf um die Asche - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/16 - Sherlock Holmes und der Kampf um die Asche - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/17 - Sherlock Holmes und der Kampf um die Asche - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/18 - Sherlock Holmes und der Kampf um die Asche - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/19 - Sherlock Holmes und der Kampf um die Asche - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/20 - Sherlock Holmes und der Kampf um die Asche - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/21 - Sherlock Holmes und der Kampf um die Asche - Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/22 - Sherlock Holmes und der Kampf um die Asche - Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/23 - Sherlock Holmes und der Kampf um die Asche - Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/24 - Sherlock Holmes und der Kampf um die Asche - Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/25 - Sherlock Holmes und der Kampf um die Asche - Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 44 - Sherlock Holmes und der Kampf um die Asche (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

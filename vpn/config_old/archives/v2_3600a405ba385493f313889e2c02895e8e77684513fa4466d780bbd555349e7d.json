@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Brooklyn Nine Nine S01-S08 COMPLETE GERMAN AC3D 720p WEB x264-w00t - thewooter",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Brooklyn Nine Nine S01-S08 COMPLETE GERMAN AC3D 720p WEB x264-w00t - thewooter/Brooklyn.Nine.Nine.S08E01.The.Good.Ones.GERMAN.AACD.720p.BluRay.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

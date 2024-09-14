@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Phantastische Tierwesen 3 AC3 Dubbed 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Phantastische Tierwesen 3 AC3 Dubbed 1080p WEB/Phantastische.Tierwesen.3.Dumbledores.Geheimnisse.2022.German.DL.AC3.Dubbed.1080p.WEB.h264-PsO/pso-tierwesen3_web.1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Phantastische Tierwesen 3 AC3 Dubbed 1080p WEB/Phantastische.Tierwesen.3.Dumbledores.Geheimnisse.2022.German.DL.AC3.Dubbed.1080p.WEB.h264-PsO/pso-tierwesen3_web.1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

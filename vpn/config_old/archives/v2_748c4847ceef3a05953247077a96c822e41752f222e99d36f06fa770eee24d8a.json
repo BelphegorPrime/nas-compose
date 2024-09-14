@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/madmen3",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E01.Nichts.wie.raus.hier.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E02.Liebe.und.andere.Baustellen.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E03.Im.Rausch.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E04.Mein.Wille.geschehe.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E05.Im.Nebel.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E06.Hereinspaziert.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E07.Trojaner.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E08.Damals.in.Rom.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E09.Abdrift.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E10.Die.Farbe.Blau.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E11.Von.Zigeunern.und.Landstreichern.REPACK.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E12.Trauerspiel.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/madmen3/madmen3/S03/Mad.Men.S03E13.Shut.the.door.have.a.seat.DL.German.Dubbed.WS.BDRiP.XviD-FREAKS.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

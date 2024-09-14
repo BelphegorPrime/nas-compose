@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Homeland S07 German BDRip x264-iNTENTiON",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Homeland S07 German BDRip x264-iNTENTiON/Homeland.S07E05.German.BDRip.x264-iNTENTiON/homeland.s07e05.german.bdrip.x264-intention.mkv",
+                                                              "/opt/JDownloader/Downloads/Homeland S07 German BDRip x264-iNTENTiON/Homeland.S07E05.German.BDRip.x264-iNTENTiON/homeland.s07e05.german.bdrip.x264-intention.nfo",
+                                                              "/opt/JDownloader/Downloads/Homeland S07 German BDRip x264-iNTENTiON/Homeland.S07E05.German.BDRip.x264-iNTENTiON/Subs/homeland.s07e05.german.bdrip.x264-intention.subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

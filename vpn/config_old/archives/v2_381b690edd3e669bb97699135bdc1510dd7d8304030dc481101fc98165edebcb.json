@@ -1,0 +1,21 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Michael J. Sullivan - Die Riyria-Chroniken 03 - Der Anschlag auf Dulgath/DerAnschlagaufDulgath-Teil1DieRiyria-Chroniken3_ep7.mp3",
+                                                              "/opt/JDownloader/Downloads/Michael J. Sullivan - Die Riyria-Chroniken 03 - Der Anschlag auf Dulgath/DerAnschlagaufDulgath-Teil2DieRiyria-Chroniken3_ep7.mp3",
+                                                              "/opt/JDownloader/Downloads/Michael J. Sullivan - Die Riyria-Chroniken 03 - Der Anschlag auf Dulgath/Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Michael J. Sullivan - Die Riyria-Chroniken 03 - Der Anschlag auf Dulgath/Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Michael J. Sullivan - Die Riyria-Chroniken 03 - Der Anschlag auf Dulgath/Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Michael J. Sullivan - Die Riyria-Chroniken 03 - Der Anschlag auf Dulgath/Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Michael J. Sullivan - Die Riyria-Chroniken 03 - Der Anschlag auf Dulgath/Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

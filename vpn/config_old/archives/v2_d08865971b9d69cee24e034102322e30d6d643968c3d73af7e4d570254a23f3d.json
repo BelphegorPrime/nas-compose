@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 007 - Der Smaragd des Todes/07 - Der Smaragd des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 007 - Der Smaragd des Todes/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 007 - Der Smaragd des Todes/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 007 - Der Smaragd des Todes/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 007 - Der Smaragd des Todes/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

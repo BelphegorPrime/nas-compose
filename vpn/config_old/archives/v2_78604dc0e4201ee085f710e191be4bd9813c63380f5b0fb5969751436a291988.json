@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Obi-Wan Kenobi S01E05 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Obi-Wan Kenobi S01E05 1080p/Obi-Wan.Kenobi.S01E05.GERMAN.DL.1080p.WEB.h264-FENDT/Obi-Wan.Kenobi.S01E05.GERMAN.DL.1080p.WEB.h264-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/Obi-Wan Kenobi S01E05 1080p/Obi-Wan.Kenobi.S01E05.GERMAN.DL.1080p.WEB.h264-FENDT/obi-wan.kenobi.s01e05.german.dl.1080p.web.h264-fendt.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

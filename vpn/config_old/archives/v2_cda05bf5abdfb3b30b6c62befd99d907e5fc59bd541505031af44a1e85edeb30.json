@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E01.GERMAN.DL.1080p.WEB.H264.REPACK-FENDT/Sample/the.grand.tour.s04e01.german.dl.1080p.web.h264.repack-fendt-sample.mkv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E01.GERMAN.DL.1080p.WEB.H264.REPACK-FENDT/The.Grand.Tour.S04E01.GERMAN.DL.1080p.WEB.H264.REPACK-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E01.GERMAN.DL.1080p.WEB.H264.REPACK-FENDT/the.grand.tour.s04e01.german.dl.1080p.web.h264.repack-fendt.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

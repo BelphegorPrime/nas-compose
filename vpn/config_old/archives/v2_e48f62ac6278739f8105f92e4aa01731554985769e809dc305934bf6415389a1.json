@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Boruto Naruto Next Generations S01E290 GerEngSub AAC 720p WebDL x264-Tanuki",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Boruto Naruto Next Generations S01E290 GerEngSub AAC 720p WebDL x264-Tanuki/Boruto.Naruto.Next.Generations.S01E068.GerEngSub.AAC.720p.WebDL.x264-Tanuki.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

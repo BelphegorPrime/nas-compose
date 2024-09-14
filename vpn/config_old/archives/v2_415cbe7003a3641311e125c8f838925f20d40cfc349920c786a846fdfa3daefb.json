@@ -1,0 +1,33 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/01 - Kapitel 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/02 - Kapitel 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/03 - Kapitel 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/04 - Kapitel 04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/05 - Kapitel 05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/06 - Kapitel 06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/07 - Kapitel 07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/08 - Kapitel 08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/09 - Kapitel 09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/10 - Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/11 - Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/12 - Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/13 - Kapitel 13.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Reflexion (ungekürzt)/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

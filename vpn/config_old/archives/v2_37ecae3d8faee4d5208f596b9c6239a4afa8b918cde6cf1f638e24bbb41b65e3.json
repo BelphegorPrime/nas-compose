@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/back.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/front.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/front2.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Sherlock Holmes & Co - 14 Der Mann in Orange/Kapitel 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 14 Der Mann in Orange/Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

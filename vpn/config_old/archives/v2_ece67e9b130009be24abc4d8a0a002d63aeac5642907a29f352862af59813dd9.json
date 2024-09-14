@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD135ZOM",
+    "files" : [ "/opt/JDownloader/Downloads/ArchonMHD135ZOM/Zoomania.2016.GERMAN.800p.microHD.x264-Raistlin911/Zoomania.2016.GERMAN.800p.microHD.x264-Raistlin911.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Dexter New Blood S01E04 720p",
+    "files" : [ "/opt/JDownloader/Downloads/Dexter New Blood S01E04 720p/Dexter.New.Blood.S01E04.German.DL.720p.WEB.h264-OHD/Dexter.New.Blood.S01E04.German.DL.720p.WEB.h264-OHD.mkv", "/opt/JDownloader/Downloads/Dexter New Blood S01E04 720p/Dexter.New.Blood.S01E04.German.DL.720p.WEB.h264-OHD/dexter.new.blood.s01e04.german.dl.720p.web.h264-ohd.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

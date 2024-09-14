@@ -1,0 +1,34 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/01 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/02 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/03 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/04 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/05 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/06 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/07 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/08 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/09 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/10 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/11 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/12 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/13 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/14 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/15 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/16 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/17 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/18 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/19 Der zerbrochene Armreif.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/Sherlock Holmes & Co - 02 Der zerbrochene Armreif/20 Der zerbrochene Armreif.mp3"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

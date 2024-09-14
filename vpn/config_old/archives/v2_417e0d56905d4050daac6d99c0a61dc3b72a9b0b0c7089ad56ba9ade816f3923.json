@@ -1,0 +1,28 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Starfield-RUNE",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/language.changer.exe",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/language.changer.ini",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/language.changer.resources/bassmod.dll",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/language.changer.resources/header.jpg",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/languages.conf",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/Starfield.exe",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/Starfield.rne",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/steam_api64.dll",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/steam_api64.rne",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/steam_emu.ini",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/RUNE/steam_emu_t",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/rune.nfo",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/Update/Setup-1.cdx",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield.Language.Pack-RUNE/Update/Setup.exe"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

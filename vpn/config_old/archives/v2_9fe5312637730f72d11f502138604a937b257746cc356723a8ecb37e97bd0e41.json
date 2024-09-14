@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Marvels 2023 AC3 LD 1080p WEBRiP",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Marvels 2023 AC3 LD 1080p WEBRiP/The.Marvels.2023.German.AC3.LD.1080p.WEBRiP.h264-WOTT/The.Marvels.2023.German.AC3.LD.1080p.WEBRiP.h264-WOTT.mkv",
+                                                              "/opt/JDownloader/Downloads/The Marvels 2023 AC3 LD 1080p WEBRiP/The.Marvels.2023.German.AC3.LD.1080p.WEBRiP.h264-WOTT/The.Marvels.2023.German.AC3.LD.1080p.WEBRiP.h264-WOTT.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

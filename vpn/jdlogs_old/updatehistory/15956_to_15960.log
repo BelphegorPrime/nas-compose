@@ -1,0 +1,321 @@
+Thu Mar 17 06:20:28 GMT 2022
+Package: package_1647451697327.awf
+Install
+Write Revision: 15957
+----------------Plugins----------------
+   jd/plugins/decrypter/AdfLy.class
+   jd/plugins/decrypter/Ardmediathek$ArdMetadata.class
+   jd/plugins/decrypter/Ardmediathek$VideoResolution.class
+   jd/plugins/decrypter/Ardmediathek.class
+   jd/plugins/decrypter/BatoTo.class
+   jd/plugins/decrypter/BdsmlrComCrawler.class
+   jd/plugins/decrypter/CrackedCom.class
+   jd/plugins/decrypter/CyberdropMeAlbum.class
+   jd/plugins/decrypter/DeluxemusicTvPlaylist.class
+   jd/plugins/decrypter/FileCryptCc.class
+   jd/plugins/decrypter/FlimmitCom$1.class
+   jd/plugins/decrypter/FlimmitCom.class
+   jd/plugins/decrypter/FreeDiscPlFolder$1.class
+   jd/plugins/decrypter/FreeDiscPlFolder.class
+   jd/plugins/decrypter/InstaGramComDecrypter$1.class
+   jd/plugins/decrypter/InstaGramComDecrypter.class
+   jd/plugins/decrypter/MegaConz$MegaFolder.class
+   jd/plugins/decrypter/MegaConz.class
+   jd/plugins/decrypter/NaughtyamericaCom.class
+   jd/plugins/decrypter/NhentaiNet.class
+   jd/plugins/decrypter/PeerTubeCrawler.class
+   jd/plugins/decrypter/PixivNetGallery.class
+   jd/plugins/decrypter/PremiumizeMeZeveraFolder$1.class
+   jd/plugins/decrypter/PremiumizeMeZeveraFolder$2.class
+   jd/plugins/decrypter/PremiumizeMeZeveraFolder.class
+   jd/plugins/decrypter/RedditCom.class
+   jd/plugins/decrypter/RumbleCom$1.class
+   jd/plugins/decrypter/RumbleCom.class
+   jd/plugins/decrypter/SerienStreamTo$1.class
+   jd/plugins/decrypter/SerienStreamTo.class
+   jd/plugins/decrypter/TbCmV2$8.class
+   jd/plugins/decrypter/TbCmV2.class
+   jd/plugins/decrypter/ThreeQVideo.class
+   jd/plugins/decrypter/TurboBitNetFolder.class
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/decrypter/TwitterComShorturls.class
+   jd/plugins/decrypter/Zro10BasicDecrypt.class.removed
+   jd/plugins/hoster/ARDMediathek.class
+   jd/plugins/hoster/BbcCom.class
+   jd/plugins/hoster/BdsmlrCom.class
+   jd/plugins/hoster/CloudghostNet.class
+   jd/plugins/hoster/CommonsWikimediaOrg.class
+   jd/plugins/hoster/CrackedCom.class
+   jd/plugins/hoster/CutedriveCom.class.removed
+   jd/plugins/hoster/DatPiffCom.class
+   jd/plugins/hoster/DebridLinkFr2$6.class
+   jd/plugins/hoster/DebridLinkFr2.class
+   jd/plugins/hoster/DeluxemusicTv.class.removed
+   jd/plugins/hoster/DepicMe.class
+   jd/plugins/hoster/DigiloadCom.class.removed
+   jd/plugins/hoster/DluploadCom.class
+   jd/plugins/hoster/DocworkspaceCom.class
+   jd/plugins/hoster/DosyaTv.class.removed
+   jd/plugins/hoster/DosyashareCom.class
+   jd/plugins/hoster/FastDownCom.class
+   jd/plugins/hoster/FilestoreTo.class
+   jd/plugins/hoster/FreeDiscPl$1.class
+   jd/plugins/hoster/FreeDiscPl.class
+   jd/plugins/hoster/ImgmazeCom.class
+   jd/plugins/hoster/InstaGramCom$1.class
+   jd/plugins/hoster/InstaGramCom.class
+   jd/plugins/hoster/LiteroticaCom.class
+   jd/plugins/hoster/LiveStreamCom.class
+   jd/plugins/hoster/MegaConz$1.class
+   jd/plugins/hoster/MegaConz$2.class
+   jd/plugins/hoster/MegaConz$3.class
+   jd/plugins/hoster/MegaConz$MegaDownloadLinkDownloadable.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck$1.class
+   jd/plugins/hoster/MegaConz$MegaHashCheck.class
+   jd/plugins/hoster/MegaConz.class
+   jd/plugins/hoster/MixdropCo$1.class
+   jd/plugins/hoster/MixdropCo.class
+   jd/plugins/hoster/NaughtyamericaCom.class
+   jd/plugins/hoster/NhentaiNet.class
+   jd/plugins/hoster/PixivNet$1.class
+   jd/plugins/hoster/PixivNet$2.class
+   jd/plugins/hoster/PixivNet$3.class
+   jd/plugins/hoster/PixivNet$4.class
+   jd/plugins/hoster/PixivNet$5.class
+   jd/plugins/hoster/PixivNet.class
+   jd/plugins/hoster/PobierzBiz$1.class.removed
+   jd/plugins/hoster/PobierzBiz$2.class.removed
+   jd/plugins/hoster/PobierzBiz.class
+   jd/plugins/hoster/PornHubCom.class
+   jd/plugins/hoster/RapidtrafficCore$1.class
+   jd/plugins/hoster/RapidtrafficCore$2.class
+   jd/plugins/hoster/RapidtrafficCore.class
+   jd/plugins/hoster/RapidtrafficPl$1.class.removed
+   jd/plugins/hoster/RapidtrafficPl$2.class.removed
+   jd/plugins/hoster/RapidtrafficPl.class
+   jd/plugins/hoster/RarbgTo.class
+   jd/plugins/hoster/RedditCom.class
+   jd/plugins/hoster/SproutVideoCom.class
+   jd/plugins/hoster/TeraboxCom.class
+   jd/plugins/hoster/TwitterCom$1.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface$TRANSLATION.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface.class
+   jd/plugins/hoster/TwitterCom.class
+   jd/plugins/hoster/UflashTv.class
+   jd/plugins/hoster/UpToBoxCom$1.class
+   jd/plugins/hoster/UpToBoxCom$UptoboxAccountFactory$1.class
+   jd/plugins/hoster/UpToBoxCom$UptoboxAccountFactory.class
+   jd/plugins/hoster/UpToBoxCom.class
+   jd/plugins/hoster/UploadbankCom.class
+   jd/plugins/hoster/VideoFCTwoCore.class
+   jd/plugins/hoster/VimeoCom.class
+   jd/plugins/hoster/YoutubeDashV2$1.class
+   jd/plugins/hoster/YoutubeDashV2$10.class
+   jd/plugins/hoster/YoutubeDashV2$11.class
+   jd/plugins/hoster/YoutubeDashV2$12.class
+   jd/plugins/hoster/YoutubeDashV2$13.class
+   jd/plugins/hoster/YoutubeDashV2$14.class
+   jd/plugins/hoster/YoutubeDashV2$15.class
+   jd/plugins/hoster/YoutubeDashV2$16$1.class
+   jd/plugins/hoster/YoutubeDashV2$16.class
+   jd/plugins/hoster/YoutubeDashV2$17.class
+   jd/plugins/hoster/YoutubeDashV2$2.class
+   jd/plugins/hoster/YoutubeDashV2$3.class
+   jd/plugins/hoster/YoutubeDashV2$4.class
+   jd/plugins/hoster/YoutubeDashV2$5$1.class
+   jd/plugins/hoster/YoutubeDashV2$5.class
+   jd/plugins/hoster/YoutubeDashV2$6.class
+   jd/plugins/hoster/YoutubeDashV2$7.class
+   jd/plugins/hoster/YoutubeDashV2$8.class
+   jd/plugins/hoster/YoutubeDashV2$9.class
+   jd/plugins/hoster/YoutubeDashV2$DashDownloadPluginProgress.class
+   jd/plugins/hoster/YoutubeDashV2.class
+   jd/plugins/hoster/ZeveraCore$1.class
+   jd/plugins/hoster/ZeveraCore$2.class
+   jd/plugins/hoster/ZeveraCore$3.class
+   jd/plugins/hoster/ZeveraCore.class
+----------------Extensions----------------
+   extensions/Extraction.jar
+----------------Direct Files----------------
+   build.json
+   translations/jd/captcha/translate/CaptchaTranslation.zh_CN.lng
+   translations/jd/controlling/reconnect/pluginsinc/liveheader/translate/LiveheaderTranslation.zh_CN.lng
+   translations/jd/controlling/reconnect/pluginsinc/upnp/translate/UpnpTranslation.zh_CN.lng
+   translations/org/jdownloader/extensions/extraction/translate/ExtractionTranslation.zh_CN.lng
+   translations/org/jdownloader/extensions/translator/TranslatorTranslation.zh_CN.lng
+   translations/org/jdownloader/gui/translate/GuiTranslation.zh_CN.lng
+   translations/org/jdownloader/translate/JdownloaderTranslation.zh_CN.lng
+   translations/org/jdownloader/updatev2/UpdaterTranslation.zh_CN.lng
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/jd/controlling/downloadcontroller/AccountCache$1$1.class
+   JD: Core.jar/jd/controlling/downloadcontroller/AccountCache$1.class
+   JD: Core.jar/jd/controlling/downloadcontroller/AccountCache$2.class
+   JD: Core.jar/jd/controlling/downloadcontroller/AccountCache$3.class
+   JD: Core.jar/jd/controlling/downloadcontroller/AccountCache$ACCOUNTTYPE.class
+   JD: Core.jar/jd/controlling/downloadcontroller/AccountCache$CachedAccount.class
+   JD: Core.jar/jd/controlling/downloadcontroller/AccountCache.class
+   JD: Core.jar/jd/plugins/FavitIcon.class
+   JD: Core.jar/jd/plugins/FilePackageView$1.class
+   JD: Core.jar/jd/plugins/FilePackageView$10.class
+   JD: Core.jar/jd/plugins/FilePackageView$2.class
+   JD: Core.jar/jd/plugins/FilePackageView$3.class
+   JD: Core.jar/jd/plugins/FilePackageView$4.class
+   JD: Core.jar/jd/plugins/FilePackageView$5.class
+   JD: Core.jar/jd/plugins/FilePackageView$6.class
+   JD: Core.jar/jd/plugins/FilePackageView$7.class
+   JD: Core.jar/jd/plugins/FilePackageView$8.class
+   JD: Core.jar/jd/plugins/FilePackageView$9.class
+   JD: Core.jar/jd/plugins/FilePackageView$ExtractionPluginState.class
+   JD: Core.jar/jd/plugins/FilePackageView$PluginState.class
+   JD: Core.jar/jd/plugins/FilePackageView$Temp.class
+   JD: Core.jar/jd/plugins/FilePackageView.class
+   JD: Core.jar/jd/plugins/PluginForHost.class
+   JD: Core.jar/jd/plugins/PluginProgress.class
+   JD: Core.jar/jd/plugins/components/SiteType$SiteTemplate.class
+   JD: Core.jar/org/jdownloader/api/content/v2/ContentAPIImplV2.class
+   JD: Core.jar/org/jdownloader/controlling/ffmpeg/FFmpeg.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/DownloadsPanelWidgetContainer.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/WidgetContainer$1$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/WidgetContainer$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/WidgetContainer$2.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/WidgetContainer.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$10.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$11.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$12.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$13.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$14.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$15.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$16.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$17.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$18.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$19.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$2.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$20.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$21.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$22.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$23.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$24.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$25$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$25.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$26.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$3$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$3.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$4.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$5.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$6$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$6.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$7.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$8.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$9.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel$Listener.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/AbstractNodePropertiesPanel.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/DownloadListPropertiesPanel$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/DownloadListPropertiesPanel.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/DownloadPropertiesHeader$1.class
+   JD: Core.jar/org/jdownloader/gui/views/downloads/properties/DownloadPropertiesHeader.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkgrabberWidgetContainer$2.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkgrabberWidgetContainer$3.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkgrabberWidgetContainer$4.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkgrabberWidgetContainer$5.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkgrabberWidgetContainer$6.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkgrabberWidgetContainer$7.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/LinkgrabberWidgetContainer.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/CrawledLinkNodeProperties$1.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/CrawledLinkNodeProperties.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/LinkcrawlerListPropertiesPanel.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/LinkgrabberPropertiesHeader$1.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/LinkgrabberPropertiesHeader$2.class
+   JD: Core.jar/org/jdownloader/gui/views/linkgrabber/properties/LinkgrabberPropertiesHeader.class
+   JD: Core.jar/org/jdownloader/images/AbstractIcon.class
+   JD: Core.jar/org/jdownloader/images/IdentifierImageIcon.class
+   JD: Core.jar/org/jdownloader/images/IdentifierWrapperIcon.class
+   JD: Core.jar/org/jdownloader/plugins/DownloadPluginProgress.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic$XFSApiAccountFactory.class
+   JD: Core.jar/org/jdownloader/plugins/components/XFileSharingProBasic.class
+   JD: Core.jar/org/jdownloader/plugins/components/YetiShareCore$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/YetiShareCore$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/YetiShareCore.class
+   JD: Core.jar/org/jdownloader/plugins/components/abstractSafeLinking.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/BiqleRuConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DeluxemusicTvConfigInterface$TRANSLATION.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/DeluxemusicTvConfigInterface.class.removed
+   JD: Core.jar/org/jdownloader/plugins/components/config/InstagramConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/InstagramConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$LimitMode.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/MegaConzConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$Quality$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$Quality$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$Quality$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$Quality$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$Quality$5.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$Quality.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$QualitySelectionMode$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$QualitySelectionMode$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$QualitySelectionMode$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$QualitySelectionMode$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig$QualitySelectionMode.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RumbleComConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/ThreeQVideoConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/ThreeQVideoConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/hls/HlsContainer$CODEC.class
+   JD: Core.jar/org/jdownloader/plugins/components/hls/HlsContainer$CODEC_TYPE.class
+   JD: Core.jar/org/jdownloader/plugins/components/hls/HlsContainer$StreamCodec.class
+   JD: Core.jar/org/jdownloader/plugins/components/hls/HlsContainer.class
+   JD: extensions/Extraction.jar/org/jdownloader/extensions/extraction/ExtractionConfig.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/linkgrabberfilter/LinkgrabberFilter$5.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/linkgrabberfilter/LinkgrabberFilter$6.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/linkgrabberfilter/LinkgrabberFilter$7.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/linkgrabberfilter/LinkgrabberFilter.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/packagizer/PackagizerFilter$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/packagizer/PackagizerFilter.class
+   JD: libs/JDHttp.jar/jd/http/Browser$1.class
+   JD: libs/JDHttp.jar/jd/http/Browser$2.class
+   JD: libs/JDHttp.jar/jd/http/Browser.class
+   libs/JDGUI.jar
+   libs/JDHttp.jar
+Package: package_1647455295186.awf
+Install
+Write Revision: 15959
+----------------Plugins----------------
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/hoster/DatPiffCom.class
+   jd/plugins/hoster/TwitterCom$1.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface$TRANSLATION.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface.class
+   jd/plugins/hoster/TwitterCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1647458895209.awf
+Install
+Write Revision: 15960
+----------------Plugins----------------
+   jd/plugins/hoster/CommonsWikimediaOrg.class
+   jd/plugins/hoster/DepicMe.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

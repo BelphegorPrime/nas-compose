@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 030 - Der bucklige Mann/30 - Der bucklige Mann.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 030 - Der bucklige Mann/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 030 - Der bucklige Mann/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 030 - Der bucklige Mann/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 030 - Der bucklige Mann/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Demon Slayer Kimetsu no Yaiba S03E01 German ML AAC 720p CR WebDL x264-DK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Demon Slayer Kimetsu no Yaiba S03E01 German ML AAC 720p CR WebDL x264-DK/Demon.Slayer.Kimetsu.no.Yaiba.S03E03.German.ML.AAC.720p.CR.WebDL.x264-DK.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

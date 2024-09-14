@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6986335217",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6986335217/Battlestar.Galactica.Blood.and.Chrome.German.2013.AC3.BDRiP.x264-XF/Subs/xf-bloodandchrome_subs.rar",
+                                                              "/opt/JDownloader/Downloads/6986335217/Battlestar.Galactica.Blood.and.Chrome.German.2013.AC3.BDRiP.x264-XF/Subs/xf-bloodandchrome_subs.sfv",
+                                                              "/opt/JDownloader/Downloads/6986335217/Battlestar.Galactica.Blood.and.Chrome.German.2013.AC3.BDRiP.x264-XF/xf-battlestar_galactica_blood_and_chrome_2013.nfo",
+                                                              "/opt/JDownloader/Downloads/6986335217/Battlestar.Galactica.Blood.and.Chrome.German.2013.AC3.BDRiP.x264-XF/xf-bloodandchrome.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

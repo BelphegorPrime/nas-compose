@@ -1,0 +1,34 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/48646852417",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E01.Die.Neue.und.das.Biest.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E02.Berechtigte.Zweifel.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E03.Hahnenkaempfe.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E04.Wortsalat.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E05.Racheengel.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E06.Objekt.der.Begierde.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E07.Fettnapf.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E08.Schwer.bekoemmlich.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E09.Gehirnmangel.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E10.Gruene.Weihnachten.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E11.Stolperfalle.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E12.Samenraub.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E13.Der.Naechste.bitte.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E14.Baden.gegangen.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E15.Liebe.oder.Leben.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E16.Bombenstimmung.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E17.Hoehepunkt.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E18.Fleischeslust.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E19.Denny.for.President.DL.German.DVDRiP.XviD-FREAKS.avi",
+                                                              "/opt/JDownloader/Downloads/48646852417/48646852417/Boston.Legal.S04E20.Bruderkrieg.DL.German.DVDRiP.XviD-FREAKS.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

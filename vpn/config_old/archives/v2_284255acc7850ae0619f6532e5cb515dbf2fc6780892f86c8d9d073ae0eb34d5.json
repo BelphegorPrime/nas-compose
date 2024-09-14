@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 007 - Der eisige Tod/07 - Der eisige Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 007 - Der eisige Tod/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 007 - Der eisige Tod/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 007 - Der eisige Tod/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 007 - Der eisige Tod/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

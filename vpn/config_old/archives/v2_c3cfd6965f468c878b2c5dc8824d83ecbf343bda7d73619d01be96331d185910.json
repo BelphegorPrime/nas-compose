@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 010 - Der Vampir von Sussex/10 - Der Vampir von Sussex.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 010 - Der Vampir von Sussex/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 010 - Der Vampir von Sussex/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 010 - Der Vampir von Sussex/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die geheimen Fälle des Meisterdetektivs 010 - Der Vampir von Sussex/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

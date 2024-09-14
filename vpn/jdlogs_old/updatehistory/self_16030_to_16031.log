@@ -1,0 +1,20 @@
+Tue Mar 29 17:00:59 GMT 2022
+Package: updatePackage
+   JD: JDownloader.jar/org/appwork/testframework/AWTest$1.class
+   JD: JDownloader.jar/org/appwork/testframework/AWTest$2$1.class
+   JD: JDownloader.jar/org/appwork/testframework/AWTest$2.class
+   JD: JDownloader.jar/org/appwork/testframework/AWTest$3.class
+   JD: JDownloader.jar/org/appwork/testframework/AWTest$4.class
+   JD: JDownloader.jar/org/appwork/testframework/AWTest$5.class
+   JD: JDownloader.jar/org/appwork/testframework/AWTest.class
+   JD: JDownloader.jar/org/appwork/utils/encoding/RFC2047$1.class
+   JD: JDownloader.jar/org/appwork/utils/encoding/RFC2047$Encoding$1.class
+   JD: JDownloader.jar/org/appwork/utils/encoding/RFC2047$Encoding$2.class
+   JD: JDownloader.jar/org/appwork/utils/encoding/RFC2047$Encoding.class
+   JD: JDownloader.jar/org/appwork/utils/encoding/RFC2047$Result.class
+   JD: JDownloader.jar/org/appwork/utils/encoding/RFC2047.class
+   JD: JDownloader.jar/org/appwork/utils/net/effective_tld_names.dat
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPConnectionUtils$DispositionHeader.class
+   JD: JDownloader.jar/org/appwork/utils/net/httpconnection/HTTPConnectionUtils.class
+   JD: JDownloader.jar/org/appwork/utils/net/tests/
+   JD: JDownloader.jar/org/appwork/utils/net/tests/PublicSuffixListTest.class

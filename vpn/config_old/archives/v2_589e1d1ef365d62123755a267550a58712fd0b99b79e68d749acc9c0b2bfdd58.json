@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/01 - Kapitel 1 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/02 - Kapitel 2 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/03 - Kapitel 3 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/04 - Kapitel 4 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/05 - Kapitel 5 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/06 - Kapitel 6 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/07 - Kapitel 7 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/08 - Kapitel 8 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/09 - Kapitel 9 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/10 - Kapitel 10 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/11 - Kapitel 11 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/12 - Kapitel 12 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/13 - Kapitel 13 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/14 - Kapitel 14 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/15 - Kapitel 15 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/16 - Kapitel 16 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/17 - Kapitel 17 - Skandalgeschichte im Fürstentum O. - Gerd Köster liest Sherlock Holmes, Band 41.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 41 - Skandalgeschichte im Fürstentum O. (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

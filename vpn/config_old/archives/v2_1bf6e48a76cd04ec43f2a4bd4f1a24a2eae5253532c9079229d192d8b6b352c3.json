@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Ghostbusters 2 4K MASTERED (microHD)",
+    "files" : [ "/opt/JDownloader/Downloads/Ghostbusters 2 4K MASTERED (microHD)/Ghostbusters.2.1989.4K.MASTERED.GERMAN.800p.microHD.x264-RED/Ghostbusters 2 (microHD).mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

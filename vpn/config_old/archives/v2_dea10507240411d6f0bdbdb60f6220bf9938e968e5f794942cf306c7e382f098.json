@@ -1,0 +1,28 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/01 - Teil 1 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/02 - Teil 2 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/03 - Teil 3 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/04 - Teil 4 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/05 - Teil 5 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/06 - Teil 6 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/07 - Teil 7 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/08 - Teil 8 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/09 - Teil 9 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/10 - Teil 10 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 5 (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

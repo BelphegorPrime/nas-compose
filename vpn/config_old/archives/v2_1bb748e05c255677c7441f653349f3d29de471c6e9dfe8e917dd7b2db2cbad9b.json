@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/JoJos Bizarre Adventure 2012 S02",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/JoJos Bizarre Adventure 2012 S02/JoJos.Bizarre.Adventure.2012.S02E23.German.DL.AC3.720p.BluRay.x264-ABJ.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

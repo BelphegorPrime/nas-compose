@@ -1,0 +1,22 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/409932highla",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/highla.dmdv.xvid.nfo",
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/highla.dmdv.xvid-subs/ctl-highlander.dmdv.xvid.idx",
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/highla.dmdv.xvid.idx",
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/highla.dmdv.xvid-subs/ctl-highlander.dmdv.xvid.sub",
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/highla.dmdv.xvid.avi",
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/Sample.avi",
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/highla.dmdv.xvid-subs/ctl-highlander.dmdv.xvid.rar",
+                                                              "/opt/JDownloader/Downloads/409932highla/409932highla.dmdv.xvid/Highlander.Die.Macht.der.Vergeltung.2007.German.DVDRip.XVID-CRiTiCAL/highla.dmdv.xvid-subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

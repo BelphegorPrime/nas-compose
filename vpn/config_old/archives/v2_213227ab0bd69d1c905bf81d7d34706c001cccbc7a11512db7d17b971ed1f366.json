@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/galbattlknifeedge",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/galbattlknifeedge/galbattlknifeedge/Battlestar.Galactica.Auf.Messers.Schneide.German.Dubbed.DL.UNRATED.EXTENDED.DVDRIP.WS.XviD-TvR/tvr-bsg-razor-extended-dvdrip.nfo",
+                                                              "/opt/JDownloader/Downloads/galbattlknifeedge/galbattlknifeedge/Battlestar.Galactica.Auf.Messers.Schneide.German.Dubbed.DL.UNRATED.EXTENDED.DVDRIP.WS.XviD-TvR/tvr-bsg-razor-extended-dvdrip.srt",
+                                                              "/opt/JDownloader/Downloads/galbattlknifeedge/galbattlknifeedge/Battlestar.Galactica.Auf.Messers.Schneide.German.Dubbed.DL.UNRATED.EXTENDED.DVDRIP.WS.XviD-TvR/tvr-bsg-razor-extended-dvdrip.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

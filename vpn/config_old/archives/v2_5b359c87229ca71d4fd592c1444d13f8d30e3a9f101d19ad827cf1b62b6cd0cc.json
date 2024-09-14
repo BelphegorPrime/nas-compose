@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/00 - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (Ungekürzt).epub",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/00 - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (Ungekürzt).m3u",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/01 - Vorspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/02 - Kapitel I.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/03 - Kapitel II.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/04 - Kapitel III.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/05 - Kapitel IV.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/06 - Kapitel V.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/07 - Kapitel VI.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/08 - Kapitel VII.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/09 - Kapitel VIII.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/10 - Kapitel IX.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/11 - Kapitel X.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/12 - Kapitel XI.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/13 - Bis Heute....mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/14 - Abspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/desktop.ini",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/Icon.ico",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/REFLINK FÜR UNTERSTÜTZUNG.txt",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/___DDL Premium_200GB_PRO_TAG.url",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - VAMPIRE CITY N°1 - Schere, Pflock, Vampir (ungekürzt)/___Rapidgator 24TB_REFLINK für Unterstützung. DANKE.url"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

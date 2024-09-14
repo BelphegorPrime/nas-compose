@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/00 - Der Thron des Ungeheuers (Geschichten aus dem Schwarzen Turm 3) (Ungekürzt).m3u",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/01 - Vorspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/02 - Kapitel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/03 - Kapitel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/04 - Kapitel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/05 - Kapitel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/06 - Kapitel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/07 - Kapitel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/08 - Kapitel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/09 - Kapitel 8.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/10 - Kapitel 9.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/11 - Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/12 - Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/13 - Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/14 - Kapitel 13.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/15 - Kapitel 14.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/16 - Kapitel 15.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/17 - Epilog.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/18 - Abspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/__DDL Premium_200GB_PRO_TAG.url",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Geschichten aus dem Schwarzen Turm 03 - Der Thron des Ungeheuers (ungekuerzt)/___Rapidgator 24TB_REFLINK für Unterstützung. DANKE.url"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

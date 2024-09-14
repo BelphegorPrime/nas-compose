@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Leverage Redemption S02E02 720P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Leverage Redemption S02E02 720P/Leverage.Redemption.S02E02.GERMAN.DL.720P.WEB.H264-WAYNE/leverage.redemption.s02e02.german.dl.720p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Leverage Redemption S02E02 720P/Leverage.Redemption.S02E02.GERMAN.DL.720P.WEB.H264-WAYNE/leverage.redemption.s02e02.german.dl.720p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

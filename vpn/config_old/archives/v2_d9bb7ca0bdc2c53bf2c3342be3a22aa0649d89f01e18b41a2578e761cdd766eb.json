@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/American Crime Story S03 GERMAN AACD 1080p WEB x265-w00t - thewooter",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/American Crime Story S03 GERMAN AACD 1080p WEB x265-w00t - thewooter/American.Crime.Story.S03E02.Ich.habe.den.Praesidenten.gekuesst.GERMAN.AACD.1080p.WEB.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

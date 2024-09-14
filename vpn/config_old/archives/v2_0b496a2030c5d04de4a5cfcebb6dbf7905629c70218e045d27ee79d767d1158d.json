@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ted S01E05 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ted S01E05 720p/Ted.S01E05.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/Ted.S01E05.GERMAN.DL.720p.WEB.h264-SAUERKRAUT.mkv",
+                                                              "/opt/JDownloader/Downloads/Ted S01E05 720p/Ted.S01E05.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/ted.s01e05.german.dl.720p.web.h264-sauerkraut.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

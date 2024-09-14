@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Timeless",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Timeless/Timeless.S01E08.German.Synced.DL.AmazonHD.x264-TVS/tvs-timeless-sed-dl-azhd-x264-108.mkv",
+                                                              "/opt/JDownloader/Downloads/Timeless/Timeless.S01E08.German.Synced.DL.AmazonHD.x264-TVS/tvs-timeless-sed-dl-azhd-x264-108.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/1 - Folge 6_ Der überflüssige Finger, Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/10 - Folge 6_ Der überflüssige Finger, Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/11 - Folge 6_ Der überflüssige Finger, Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/12 - Folge 6_ Der überflüssige Finger, Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/13 - Folge 6_ Der überflüssige Finger, Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/14 - Folge 6_ Der überflüssige Finger, Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/15 - Folge 6_ Der überflüssige Finger, Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/16 - Folge 6_ Der überflüssige Finger, Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/17 - Folge 6_ Der überflüssige Finger, Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/18 - Folge 6_ Der überflüssige Finger, Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/19 - Folge 6_ Der überflüssige Finger, Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/2 - Folge 6_ Der überflüssige Finger, Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/20 - Folge 6_ Der überflüssige Finger, Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/21 - Folge 6_ Der überflüssige Finger, Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/22 - Folge 6_ Der überflüssige Finger, Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/23 - Folge 6_ Der überflüssige Finger, Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/24 - Folge 6_ Der überflüssige Finger, Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/25 - Folge 6_ Der überflüssige Finger, Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/3 - Folge 6_ Der überflüssige Finger, Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/4 - Folge 6_ Der überflüssige Finger, Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/5 - Folge 6_ Der überflüssige Finger, Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/6 - Folge 6_ Der überflüssige Finger, Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/7 - Folge 6_ Der überflüssige Finger, Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/8 - Folge 6_ Der überflüssige Finger, Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/9 - Folge 6_ Der überflüssige Finger, Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 006 - Der überflüssige Finger/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

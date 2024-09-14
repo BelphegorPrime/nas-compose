@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/StWaReb S03E16 Das Vermaechtnis von Mandalore bd 7p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/StWaReb S03E16 Das Vermaechtnis von Mandalore bd 7p/Star.Wars.Rebels.S03E20.Zwillings.Sonnen.German.DL.720p.BluRay.x264-RSG/rsg-star-wars-rebels-s03e20-720p.nfo",
+                                                              "/opt/JDownloader/Downloads/StWaReb S03E16 Das Vermaechtnis von Mandalore bd 7p/Star.Wars.Rebels.S03E20.Zwillings.Sonnen.German.DL.720p.BluRay.x264-RSG/rsg-star-wars-rebels-s03e20-720p.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

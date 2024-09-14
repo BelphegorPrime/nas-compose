@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 003 - Die betrogenen Titanic-Passagire/03 - Die betrogenen Titanic-Passagire.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 003 - Die betrogenen Titanic-Passagire/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 003 - Die betrogenen Titanic-Passagire/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 003 - Die betrogenen Titanic-Passagire/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 003 - Die betrogenen Titanic-Passagire/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

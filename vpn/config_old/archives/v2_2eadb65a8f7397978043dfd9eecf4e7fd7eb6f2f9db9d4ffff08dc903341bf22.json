@@ -1,0 +1,30 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bored to Death 1",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-101.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-101.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-102.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-102.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-103.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-103.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-104.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-104.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-105.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-105.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-106.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-106.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-107.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-107.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-108.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 1/Bored.to.Death.S01.German.Synced.DL.BD.XviD-TVS/tvs-b2d-sed-dl-bd-xvid-108.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

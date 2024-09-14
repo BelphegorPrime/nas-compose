@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Adam 2160P WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Adam 2160P WEB/Black.Adam.2022.GERMAN.DL.EAC3D.2160P.WEB.H265-WAYNE/black.adam.2022.german.dl.eac3d.2160p.web.h265-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Adam 2160P WEB/Black.Adam.2022.GERMAN.DL.EAC3D.2160P.WEB.H265-WAYNE/black.adam.2022.german.dl.eac3d.2160p.web.h265-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

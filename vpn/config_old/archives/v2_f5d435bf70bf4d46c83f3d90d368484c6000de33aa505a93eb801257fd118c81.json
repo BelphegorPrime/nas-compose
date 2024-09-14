@@ -1,0 +1,22 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/1 - Mörderschach Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/2 - Mörderschach Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/3 - Mörderschach Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/4 - Mörderschach Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/5 - Mörderschach Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 014 - Mörderschach/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

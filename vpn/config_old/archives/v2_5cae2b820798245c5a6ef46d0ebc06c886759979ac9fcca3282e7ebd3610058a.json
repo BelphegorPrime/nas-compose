@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Kevin \u2013 Allein zu Haus REMASTERED (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Kevin \u2013 Allein zu Haus REMASTERED (microHD)/Kevin.Allein.zu.Haus.1990.REMASTERED.GERMAN.1080p.microHD/Kevin \u2013 Allein zu Haus REMASTERED (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

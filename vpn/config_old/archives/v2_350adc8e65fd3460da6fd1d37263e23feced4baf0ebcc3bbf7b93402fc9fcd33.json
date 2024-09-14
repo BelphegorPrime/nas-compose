@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/01 - Sherlock Holmes und die Entführung des Dr. Watson - Track 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/02 - Sherlock Holmes und die Entführung des Dr. Watson - Track 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/03 - Sherlock Holmes und die Entführung des Dr. Watson - Track 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/04 - Sherlock Holmes und die Entführung des Dr. Watson - Track 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/05 - Sherlock Holmes und die Entführung des Dr. Watson - Track 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/06 - Sherlock Holmes und die Entführung des Dr. Watson - Track 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/07 - Sherlock Holmes und die Entführung des Dr. Watson - Track 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/08 - Sherlock Holmes und die Entführung des Dr. Watson - Track 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/09 - Sherlock Holmes und die Entführung des Dr. Watson - Track 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/10 - Sherlock Holmes und die Entführung des Dr. Watson - Track 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/11 - Sherlock Holmes und die Entführung des Dr. Watson - Track 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/12 - Sherlock Holmes und die Entführung des Dr. Watson - Track 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/13 - Sherlock Holmes und die Entführung des Dr. Watson - Track 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/14 - Sherlock Holmes und die Entführung des Dr. Watson - Track 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/15 - Sherlock Holmes und die Entführung des Dr. Watson - Track 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/16 - Sherlock Holmes und die Entführung des Dr. Watson - Track 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/17 - Sherlock Holmes und die Entführung des Dr. Watson - Track 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/18 - Sherlock Holmes und die Entführung des Dr. Watson - Track 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/19 - Sherlock Holmes und die Entführung des Dr. Watson - Track 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/20 - Sherlock Holmes und die Entführung des Dr. Watson - Track 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/21 - Sherlock Holmes und die Entführung des Dr. Watson - Track 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/22 - Sherlock Holmes und die Entführung des Dr. Watson - Track 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/23 - Sherlock Holmes und die Entführung des Dr. Watson - Track 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 08 - Sherlock Holmes und die Entführung des Dr. Watson/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

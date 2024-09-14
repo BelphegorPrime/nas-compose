@@ -1,0 +1,24 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/back.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/front.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/front2.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Track 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Track 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Track 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Track 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Track 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Sherlock Holmes & Co - 16 Das Erbe der Familie Chambois/Track 06.mp3"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

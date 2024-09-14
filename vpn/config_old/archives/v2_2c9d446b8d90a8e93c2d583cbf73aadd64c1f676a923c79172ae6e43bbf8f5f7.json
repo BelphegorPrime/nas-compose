@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Transporter 3 (mircoHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Transporter 3 (mircoHD)/Transporter.III.2008.GERMAN.834p.microHD.x264-RED/The Transporter 3 (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

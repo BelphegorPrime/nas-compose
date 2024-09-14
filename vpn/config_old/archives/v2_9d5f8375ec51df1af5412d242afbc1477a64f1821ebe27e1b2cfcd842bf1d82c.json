@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Will Trent S02E01 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E01 720p/Will.Trent.S02E01.German.DL.720p.WEB.h264-WvF/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E01 720p/Will.Trent.S02E01.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E01 720p/Will.Trent.S02E01.German.DL.720p.WEB.h264-WvF/will.trent.s02e01.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E01 720p/Will.Trent.S02E01.German.DL.720p.WEB.h264-WvF/will.trent.s02e01.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

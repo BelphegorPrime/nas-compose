@@ -1,0 +1,16 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Batman 2022 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Batman 2022 1080p WEB/The.Batman.2022.German.DL.1080p.WEB.x264-WvF/the.batman.2022.german.dl.1080p.web.x264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/The Batman 2022 1080p WEB/The.Batman.2022.German.DL.1080p.WEB.x264-WvF/the.batman.2022.german.dl.1080p.web.x264-wvf.nfo"
+                                                             ]
+                                        },
+ "autoExtract"                        : "UNSET",
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : []
+}

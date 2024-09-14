@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Gone Girl - Das perfekte Opfer (microHD)",
+    "files" : [ "/opt/JDownloader/Downloads/Gone Girl - Das perfekte Opfer (microHD)/Gone.Girl.-.Das.perfekte.Opfer.2014.GERMAN.800p.microHD.x264-RED/Gone Girl - Das perfekte Opfer (microHD).mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Tron Legacy (microHD)",
+    "files" : [ "/opt/JDownloader/Downloads/Tron Legacy (microHD)/Tron.Legacy.2010.GERMAN.834p.microHD.x264-RED/Tron Legacy (microHD).mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

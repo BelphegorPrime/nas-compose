@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 031 - Die Todesfalle von Dornwood/31 - Die Todesfalle von Dornwood.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 031 - Die Todesfalle von Dornwood/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 031 - Die Todesfalle von Dornwood/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 031 - Die Todesfalle von Dornwood/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Die neuen Fälle 031 - Die Todesfalle von Dornwood/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/The Legend of Vox Machina S01E07-E09 1080p WEB",
+    "files" : [ "/opt/JDownloader/Downloads/The Legend of Vox Machina S01E07-E09 1080p WEB/The.Legend.of.Vox.Machina.S01E09.German.DL.1080p.WEB.h264-OHD.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

@@ -1,0 +1,29 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/01-SHERLOCK HOLMES CHRONICLES _ Das Raetsel der schwarzen Abtei.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/02-SHERLOCK HOLMES CHRONICLES _ Lieber Mister Temborn.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/03-SHERLOCK HOLMES CHRONICLES _ Er nahm seinen Hut auf.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/04-SHERLOCK HOLMES CHRONICLES _ Der Rauch.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/05-SHERLOCK HOLMES CHRONICLES _ Das ist ja sehr interessant.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/06-SHERLOCK HOLMES CHRONICLES _ Als ich am anderen Morgen.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/07-SHERLOCK HOLMES CHRONICLES _ Gluecklicherweise.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/08-SHERLOCK HOLMES CHRONICLES _ Wir verbrachten den Abend.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/09-SHERLOCK HOLMES CHRONICLES _ Wir entzuendeten.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/10-SHERLOCK HOLMES CHRONICLES _ Die gesamte Fahrt.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/11-SHERLOCK HOLMES CHRONICLES _ Gluecklicherweise.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/12-SHERLOCK HOLMES CHRONICLES _ Holmes leuchtete.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 086 - Das Raetsel der schwarzen Abtei/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

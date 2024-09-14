@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Lightning S03 Webrip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e01-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e02-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e03-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e04-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e05-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e06-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e07-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e08-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e09-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e10-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e11-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e12-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e13-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e14-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e15-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S03 Webrip/Black.Lightning.S03.Complete.German.Webrip.x264-jUNiP/black.lightning.s03e16-sd.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

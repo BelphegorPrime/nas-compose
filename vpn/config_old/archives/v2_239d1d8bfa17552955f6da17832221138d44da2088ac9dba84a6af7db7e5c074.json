@@ -1,0 +1,15 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Batman 2022 MD WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Batman 2022 MD WEBRip/The.Batman.2022.German.AAC.MD.WEBRip.x264-TWILIGHT/The.Batman.2022.German.AAC.MD.WEBRip.x264-TWILIGHT.mkv"
+                                                             ]
+                                        }
+}

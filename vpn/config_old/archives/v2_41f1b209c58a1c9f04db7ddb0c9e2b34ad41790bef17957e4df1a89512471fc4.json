@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Das Rad der Zeit S01E06 1080p",
+    "files" : [ "/opt/JDownloader/Downloads/Das Rad der Zeit S01E06 1080p/Das.Rad.der.Zeit.S01E06.German.DL.1080p.WEB.h264-OHD/Das.Rad.der.Zeit.S01E06.German.DL.1080p.WEB.h264-OHD.mkv", "/opt/JDownloader/Downloads/Das Rad der Zeit S01E06 1080p/Das.Rad.der.Zeit.S01E06.German.DL.1080p.WEB.h264-OHD/das.rad.der.zeit.s01e06.german.dl.1080p.web.h264-ohd.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

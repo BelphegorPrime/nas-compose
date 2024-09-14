@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/01 - Kapitel 1 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/02 - Kapitel 2 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/03 - Kapitel 3 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/04 - Kapitel 4 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/05 - Kapitel 5 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/06 - Kapitel 6 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/07 - Kapitel 7 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/08 - Kapitel 8 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/09 - Kapitel 9 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/10 - Kapitel 10 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/11 - Kapitel 11 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/12 - Kapitel 12 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/13 - Kapitel 13 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/14 - Kapitel 14 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/15 - Kapitel 15 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/16 - Kapitel 16 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/17 - Kapitel 17 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/18 - Kapitel 18 - Die verschwundene Braut - Gerd Köster liest Sherlock Holmes, Band 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 26 - Die verschwundene Braut (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,26 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/Wolfgang Hohlbein - Easy Money - Kurzgeschichte/1 - Easy Money - Kurzgeschichte, Kapitel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/Wolfgang Hohlbein - Easy Money - Kurzgeschichte/2 - Easy Money - Kurzgeschichte, Kapitel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/Wolfgang Hohlbein - Easy Money - Kurzgeschichte/3 - Easy Money - Kurzgeschichte, Kapitel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/Wolfgang Hohlbein - Easy Money - Kurzgeschichte/4 - Easy Money - Kurzgeschichte, Kapitel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/Wolfgang Hohlbein - Easy Money - Kurzgeschichte/5 - Easy Money - Kurzgeschichte, Kapitel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/Wolfgang Hohlbein - Easy Money - Kurzgeschichte/6 - Easy Money - Kurzgeschichte, Kapitel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/Wolfgang Hohlbein - Easy Money - Kurzgeschichte/7 - Easy Money - Kurzgeschichte, Kapitel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Mörderhotel 0,5 - Easy Money. Kurzgeschichte/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

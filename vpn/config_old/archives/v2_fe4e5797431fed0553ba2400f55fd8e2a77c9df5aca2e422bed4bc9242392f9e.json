@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bull 2016 S06E15 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bull 2016 S06E15 1080p/Bull.2016.S06E15.German.DL.1080p.WEB.x264-WvF/bull.2016.s06e15.german.dl.1080p.web.x264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Bull 2016 S06E15 1080p/Bull.2016.S06E15.German.DL.1080p.WEB.x264-WvF/bull.2016.s06e15.german.dl.1080p.web.x264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

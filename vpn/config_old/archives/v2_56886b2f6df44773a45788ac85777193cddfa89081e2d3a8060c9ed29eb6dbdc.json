@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Doctor Who 2005 S13E08 720P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Doctor Who 2005 S13E08 720P/Doctor.Who.2005.S13E08.GERMAN.DL.720P.WEB.H264-WAYNE/doctor.who.2005.s13e08.german.dl.720p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Doctor Who 2005 S13E08 720P/Doctor.Who.2005.S13E08.GERMAN.DL.720P.WEB.H264-WAYNE/doctor.who.2005.s13e08.german.dl.720p.web.h264-wayne.nfo",
+                                                              "/opt/JDownloader/Downloads/Doctor Who 2005 S13E08 720P/Doctor.Who.2005.S13E08.GERMAN.DL.720P.WEB.H264-WAYNE/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

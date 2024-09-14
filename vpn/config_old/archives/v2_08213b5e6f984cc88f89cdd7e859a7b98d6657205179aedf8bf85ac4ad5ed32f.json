@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Keine halben Sachen (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Keine halben Sachen (microHD)/Keine.halben.Sachen.2000.GERMAN.1080.microHD.x264-RED/Keine halben Sachen (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

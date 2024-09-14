@@ -1,0 +1,23 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/1 - Abschiedsmelodie Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/2 - Abschiedsmelodie Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/3 - Abschiedsmelodie Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/4 - Abschiedsmelodie Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/5 - Abschiedsmelodie Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/6 - Abschiedsmelodie Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 006 - Abschiedsmelodie/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

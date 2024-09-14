@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Unbesiegbar S02E08 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Unbesiegbar S02E08 720p/Unbesiegbar.S02E08.German.DL.720p.WEB.h264-WvF/unbesiegbar.s02e08.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Unbesiegbar S02E08 720p/Unbesiegbar.S02E08.German.DL.720p.WEB.h264-WvF/unbesiegbar.s02e08.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Der Herr der Ringe Die Ringe der Macht S01E02 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Der Herr der Ringe Die Ringe der Macht S01E02 1080P/Der.Herr.der.Ringe.Die.Ringe.der.Macht.S01E02.GERMAN.DL.1080P.WEB.H264-WAYNE/der.herr.der.ringe.die.ringe.der.macht.s01e02.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Der Herr der Ringe Die Ringe der Macht S01E02 1080P/Der.Herr.der.Ringe.Die.Ringe.der.Macht.S01E02.GERMAN.DL.1080P.WEB.H264-WAYNE/der.herr.der.ringe.die.ringe.der.macht.s01e02.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

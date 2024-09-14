@@ -1,0 +1,23 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/sp-j3.sp1",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/sp-s3.sp1",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/sp1-j3.bin",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/sp1-u2",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/sp1-u3.bin",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/sp1-u4.bin",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/uni-bios_3_2.rom",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/uni-bios_3_3.rom",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/uni-bios_4_0.rom"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

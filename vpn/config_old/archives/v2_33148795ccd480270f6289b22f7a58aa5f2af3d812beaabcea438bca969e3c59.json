@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/01 - Teil 1 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/02 - Teil 2 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/03 - Teil 3 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/04 - Teil 4 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/05 - Teil 5 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/06 - Teil 6 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/07 - Teil 7 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/08 - Teil 8 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/09 - Teil 9 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/10 - Teil 10 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/11 - Teil 11 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/12 - Teil 12 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/13 - Teil 13 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/14 - Teil 14 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/15 - Teil 15 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/16 - Teil 16 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/17 - Teil 17 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/18 - Teil 18 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/19 - Teil 19 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/20 - Teil 20 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/21 - Teil 21 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/22 - Teil 22 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/23 - Teil 23 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/24 - Teil 24 - Sherlock Holmes und die Tauben der Rache - Die Abenteuer des alten Sherlock Holmes, Folge 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 13 - Sherlock Holmes und die Tauben der Rache/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

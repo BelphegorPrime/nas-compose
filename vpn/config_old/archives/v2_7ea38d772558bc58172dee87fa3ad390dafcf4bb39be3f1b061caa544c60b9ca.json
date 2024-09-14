@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Timeless Finale 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Timeless Finale 1080p/Timeless.Finale.German.DD51.DL.1080p.NetflixHD.x264-TVS/Timeless.Finale.Teil1.German.DD51.DL.1080p.NetflixHD.x264-TVS/tvs-timeless-dd51-dl-18p-nfhd-x264-finale1.mkv",
+                                                              "/opt/JDownloader/Downloads/Timeless Finale 1080p/Timeless.Finale.German.DD51.DL.1080p.NetflixHD.x264-TVS/Timeless.Finale.Teil1.German.DD51.DL.1080p.NetflixHD.x264-TVS/tvs-timeless-dd51-dl-18p-nfhd-x264-finale1.nfo",
+                                                              "/opt/JDownloader/Downloads/Timeless Finale 1080p/Timeless.Finale.German.DD51.DL.1080p.NetflixHD.x264-TVS/Timeless.Finale.Teil2.German.DD51.DL.1080p.NetflixHD.x264-TVS/tvs-timeless-dd51-dl-18p-nfhd-x264-finale2.mkv",
+                                                              "/opt/JDownloader/Downloads/Timeless Finale 1080p/Timeless.Finale.German.DD51.DL.1080p.NetflixHD.x264-TVS/Timeless.Finale.Teil2.German.DD51.DL.1080p.NetflixHD.x264-TVS/tvs-timeless-dd51-dl-18p-nfhd-x264-finale2.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

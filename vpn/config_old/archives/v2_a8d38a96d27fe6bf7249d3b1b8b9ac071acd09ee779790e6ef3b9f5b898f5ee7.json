@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Lightning S02E01",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Lightning S02E01/Black.Lightning.S02E09.German.DL.NetflixHD.x264-4SJ/4sj-blacklightning-sd-s02e09.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

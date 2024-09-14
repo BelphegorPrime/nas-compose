@@ -1,0 +1,30 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/01 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/02 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/03 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/04 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/05 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/06 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/07 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/08 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/09 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/10 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/11 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/12 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/13 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/Sherlock Holmes & Co - 10 Der Griff des Todes/14 Der Griff des Todes.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/_Reflinks für Unterstützung/Rapidgator_ Bitte klicken um mich zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 10 Der Griff des Todes/_Reflinks für Unterstützung/Turbobit.net_ Bitte klicken um mich zu Unterstützen, Danke.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

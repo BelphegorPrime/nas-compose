@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Andor S01E01-E03 2160p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Andor S01E01-E03 2160p/Andor.S01E02.GERMAN.DL.HDR.2160p.WEB.h265-FENDT/Andor.S01E02.GERMAN.DL.HDR.2160p.WEB.h265-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/Andor S01E01-E03 2160p/Andor.S01E02.GERMAN.DL.HDR.2160p.WEB.h265-FENDT/andor.s01e02.german.dl.hdr.2160p.web.h265-fendt.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

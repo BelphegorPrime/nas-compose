@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Gangs of London S01-HD",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Gangs of London S01-HD/Gangs.of.London.S01E02.GERMAN.DUBBED.DL.1080p.BluRay.x264-TMSF/Sample/tmsf-gangsoflondon-s01e02-1080p-sample.mkv",
+                                                              "/opt/JDownloader/Downloads/Gangs of London S01-HD/Gangs.of.London.S01E02.GERMAN.DUBBED.DL.1080p.BluRay.x264-TMSF/tmsf-gangsoflondon-s01e02-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Gangs of London S01-HD/Gangs.of.London.S01E02.GERMAN.DUBBED.DL.1080p.BluRay.x264-TMSF/tmsf-gangsoflondon-s01e02-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

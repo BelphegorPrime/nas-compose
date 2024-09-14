@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Highlander Endgame 1080p HDTV",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Highlander Endgame 1080p HDTV/Highlander.Endgame.2000.German.1080p.HDTV.x264-NORETAiL/highlander.endgame.2000.german.1080p.hdtv.x264-noretail.mkv",
+                                                              "/opt/JDownloader/Downloads/Highlander Endgame 1080p HDTV/Highlander.Endgame.2000.German.1080p.HDTV.x264-NORETAiL/highlander.endgame.2000.german.1080p.hdtv.x264-noretail.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

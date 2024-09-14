@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Fantastic Four - Rise of the Silver Surfer (2007)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Fantastic Four - Rise of the Silver Surfer (2007)/Fantastic.Four2.RotSS.2007.German.800p.microHD.x264.king/Fantastic Four - Rise of the Silver Surfer (2007).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

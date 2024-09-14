@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Dahmer Monster The Jeffrey Dahmer Story S01 1080P WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Dahmer Monster The Jeffrey Dahmer Story S01 1080P WEB/dahmer.monster.the.jeffrey.dahmer.story.s01e07.german.dl.1080p.web.x264-wayne.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

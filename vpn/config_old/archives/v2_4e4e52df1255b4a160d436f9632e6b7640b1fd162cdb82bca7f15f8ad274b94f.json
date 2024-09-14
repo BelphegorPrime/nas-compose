@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Super Mario Bros Movie 1080p WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Super Mario Bros Movie 1080p WEBRip/The.Super.Mario.Bros.Movie.2023.German.AC3.DL.1080p.WEBRip.x264-PS/PS-Super.1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/The Super Mario Bros Movie 1080p WEBRip/The.Super.Mario.Bros.Movie.2023.German.AC3.DL.1080p.WEBRip.x264-PS/ps-super.web108.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

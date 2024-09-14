@@ -1,0 +1,426 @@
+------------------------Thread: 29:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:29TS:1718237238990-6/13/24, 12:07:18 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(<init>)] -> USE_AVAILABLE_ACCOUNTS: true
+------------------------Thread: 40:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:40TS:1718263341914-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$25(execute)] -> DownloadWatchDog: start
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263341932-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/_i only Wanted him to Untie me but Then..._ - Step Sister Bondage Play Creampied_Mila Solana_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:413.72 MB|UsableSpace:37.05 TB
+--ID:3759TS:1718263341933-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:_i only Wanted him to Untie me but Then..._ - Step Sister Bondage Play Creampied_Mila Solana_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 3757:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3757TS:1718263341936-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/_i only Wanted him to Untie me but Then..._ - Step Sister Bondage Play Creampied_Mila Solana_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263341938-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/Free use Perfect Big Tits Big Ass Blonde Frances Bentley_Luke Cooper_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:456.12 MB|UsableSpace:37.05 TB
+--ID:3759TS:1718263341938-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:Free use Perfect Big Tits Big Ass Blonde Frances Bentley_Luke Cooper_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 3757:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3757TS:1718263341938-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/Free use Perfect Big Tits Big Ass Blonde Frances Bentley_Luke Cooper_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263341939-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/Keiran Lee Fucks Frances Bentley_Frances Bentley_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:452.97 MB|UsableSpace:37.05 TB
+--ID:3759TS:1718263341939-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:Keiran Lee Fucks Frances Bentley_Frances Bentley_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 3757:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3757TS:1718263341939-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/Keiran Lee Fucks Frances Bentley_Frances Bentley_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263341940-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/My first GangBang LilMilk_lilmilk_69_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:543.93 MB|UsableSpace:37.05 TB
+--ID:3759TS:1718263341940-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:My first GangBang LilMilk_lilmilk_69_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 3757:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3757TS:1718263341940-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/My first GangBang LilMilk_lilmilk_69_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263341945-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/LilMilk Playing with two Penises and a Lot of Milk_lilmilk_69_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:800.22 MB|UsableSpace:37.05 TB
+--ID:3759TS:1718263341945-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:LilMilk Playing with two Penises and a Lot of Milk_lilmilk_69_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 3757:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3757TS:1718263341945-6/13/24, 7:22:21 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/LilMilk Playing with two Penises and a Lot of Milk_lilmilk_69_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263711244-6/13/24, 7:28:31 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:_i only Wanted him to Untie me but Then..._ - Step Sister Bondage Play Creampied_Mila Solana_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718263711259-6/13/24, 7:28:31 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/Helped the Girl on the Train, and then Received a Gift_Androlga Tits_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:1.01 GB|UsableSpace:37.05 TB
+--ID:3759TS:1718263711259-6/13/24, 7:28:31 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:Helped the Girl on the Train, and then Received a Gift_Androlga Tits_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 7280:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:7280TS:1718263711259-6/13/24, 7:28:31 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/Helped the Girl on the Train, and then Received a Gift_Androlga Tits_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263760765-6/13/24, 7:29:20 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:Keiran Lee Fucks Frances Bentley_Frances Bentley_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718263760772-6/13/24, 7:29:20 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/StepMOM CAUGHT Stepson CUMMING all over her PANTIES_Lil Elle_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:1.08 GB|UsableSpace:37.05 TB
+--ID:3759TS:1718263760772-6/13/24, 7:29:20 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:StepMOM CAUGHT Stepson CUMMING all over her PANTIES_Lil Elle_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 7675:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:7675TS:1718263760772-6/13/24, 7:29:20 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/StepMOM CAUGHT Stepson CUMMING all over her PANTIES_Lil Elle_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263764532-6/13/24, 7:29:24 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:Free use Perfect Big Tits Big Ass Blonde Frances Bentley_Luke Cooper_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718263764537-6/13/24, 7:29:24 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/Hot Fuck before going to Bed_Androlga Tits_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:1.30 GB|UsableSpace:37.05 TB
+--ID:3759TS:1718263764538-6/13/24, 7:29:24 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:Hot Fuck before going to Bed_Androlga Tits_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 7675:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:7675TS:1718263764538-6/13/24, 7:29:24 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/Hot Fuck before going to Bed_Androlga Tits_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718263875948-6/13/24, 7:31:15 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:My first GangBang LilMilk_lilmilk_69_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718263875950-6/13/24, 7:31:15 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/My first GangBang LilMilk/I came Naked to the Guy, but Fucked my Neighbor in the Entrance_Androlga Tits_1080p.mp4.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:1.07 GB|UsableSpace:37.05 TB
+--ID:3759TS:1718263875951-6/13/24, 7:31:15 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(attach)] -> Start new Download: Use Premium: true Host:DownloadCandidate:I came Naked to the Guy, but Fucked my Neighbor in the Entrance_Androlga Tits_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 8547:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:8547TS:1718263875951-6/13/24, 7:31:15 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$26(run)] -> Download To: /opt/JDownloader/Downloads/My first GangBang LilMilk/I came Naked to the Guy, but Fucked my Neighbor in the Entrance_Androlga Tits_1080p.mp4
+------------------------Thread: 3759:jd.controlling.downloadcontroller.DownloadWatchDog.log-----------------------
+--ID:3759TS:1718264067326-6/13/24, 7:34:27 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:Hot Fuck before going to Bed_Androlga Tits_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718264089788-6/13/24, 7:34:49 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:StepMOM CAUGHT Stepson CUMMING all over her PANTIES_Lil Elle_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718264097036-6/13/24, 7:34:57 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:Helped the Girl on the Train, and then Received a Gift_Androlga Tits_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718264109903-6/13/24, 7:35:09 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:I came Naked to the Guy, but Fucked my Neighbor in the Entrance_Androlga Tits_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718264123336-6/13/24, 7:35:23 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog(setFinalLinkStatus)] -> DownloadCandidate:LilMilk Playing with two Penises and a Lot of Milk_lilmilk_69_1080p.mp4@pornhub.com|Host pornhub.com|Account:Plugin:pornhub.com|Version:48904|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}->FINISHED
+--ID:3759TS:1718264124590-6/13/24, 7:35:24 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 3750 for new ActivationRequests
+--ID:3759TS:1718264125841-6/13/24, 7:35:25 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 2500 for new ActivationRequests
+--ID:3759TS:1718264127091-6/13/24, 7:35:27 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 1250 for new ActivationRequests
+--ID:3759TS:1718264128342-6/13/24, 7:35:28 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Wait at least 0 for new ActivationRequests
+--ID:3759TS:1718264128342-6/13/24, 7:35:28 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> Waited 5001 but no new ActivationRequests are available->Stop DownloadWatchDog
+--ID:3759TS:1718264128344-6/13/24, 7:35:28 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopping
+--ID:3759TS:1718264128348-6/13/24, 7:35:28 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$34(run)] -> DownloadWatchDog: stopped

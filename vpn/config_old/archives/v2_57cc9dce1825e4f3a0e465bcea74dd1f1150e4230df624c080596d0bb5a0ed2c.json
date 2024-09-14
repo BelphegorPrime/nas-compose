@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ant-Man And The Wasp Quantumania 1080p WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ant-Man And The Wasp Quantumania 1080p WEBRip/Ant-Man.And.The.Wasp.Quantumania.2023.German.AC3.Dubbed.1080p.WEBRip.x264-PsO/pso-antman3_web.1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Ant-Man And The Wasp Quantumania 1080p WEBRip/Ant-Man.And.The.Wasp.Quantumania.2023.German.AC3.Dubbed.1080p.WEBRip.x264-PsO/pso-antman3_web.1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

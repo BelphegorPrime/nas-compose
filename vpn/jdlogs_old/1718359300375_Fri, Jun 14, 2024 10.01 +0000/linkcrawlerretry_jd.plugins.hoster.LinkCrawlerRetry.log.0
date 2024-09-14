@@ -1,0 +1,39 @@
+------------------------Thread: 5831:linkcrawlerretry_jd.plugins.hoster.LinkCrawlerRetry-----------------------
+--ID:5831TS:1718377907712-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.SingleDownloadController(run)] -> StartDownloadMarker:1718377907713
+--ID:5831TS:1718377907712-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.SingleDownloadController(run)] -> Start Download of:https://filer.net/folder/mqqkb4wexkghk5rn | ID:1718377907713
+--ID:5831TS:1718377907712-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.SingleDownloadController(download)] -> DownloadCandidate: DownloadCandidate:Empty folder!mqqkb4wexkghk5rn@linkcrawlerretry|Host linkcrawlerretry|Account:Plugin:linkcrawlerretry|Version:46728|Type:NONE|Account:null|Proxy:{
+ "proxy"   : {
+              "filter"                 : null,
+              "proxy"                  : {
+                                          "address"                    : null,
+                                          "password"                   : null,
+                                          "port"                       : 80,
+                                          "type"                       : "NONE",
+                                          "username"                   : null,
+                                          "connectMethodPrefered"      : false,
+                                          "preferNativeImplementation" : false,
+                                          "resolveHostName"            : false
+                                         },
+              "enabled"                : true,
+              "pac"                    : false,
+              "rangeRequestsSupported" : true,
+              "reconnectSupported"     : true
+             },
+ "banlist" : "[]",
+ "class"   : "jd.controlling.proxy.NoProxySelector"
+}
+------------------------Thread: 4721:linkcrawlerretry_jd.plugins.hoster.LinkCrawlerRetry-----------------------
+--ID:4721TS:1718377907714-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/Empty folder!mqqkb4wexkghk5rn/Empty folder!mqqkb4wexkghk5rn.part|Root(s):[/opt/JDownloader/Downloads]|Requestor:null|RequestedSpace:6.98 GB|UsableSpace:36.74 TB
+------------------------Thread: 5831:linkcrawlerretry_jd.plugins.hoster.LinkCrawlerRetry-----------------------
+--ID:5831TS:1718377907715-6/14/24, 3:11:47 PM -  [] -> Exception thrown at jd.controlling.downloadcontroller.SingleDownloadController.download(SingleDownloadController.java:441):
+jd.plugins.PluginException: ERROR_FILE_NOT_FOUND|Value:-1
+	at jd.plugins.hoster.LinkCrawlerRetry.handleFree(LinkCrawlerRetry.java:172)
+	at jd.plugins.PluginForHost.handle(PluginForHost.java:1314)
+	at jd.controlling.downloadcontroller.SingleDownloadController.download(SingleDownloadController.java:436)
+	at jd.controlling.downloadcontroller.SingleDownloadController.run(SingleDownloadController.java:618)
+
+--ID:5831TS:1718377907716-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.SingleDownloadController(run)] -> StopDownloadMarker:1718377907713
+------------------------Thread: 4721:linkcrawlerretry_jd.plugins.hoster.LinkCrawlerRetry-----------------------
+--ID:4721TS:1718377907718-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.DownloadWatchDog$27(execute)] -> Rename after Download?
+--ID:4721TS:1718377907718-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.DownloadWatchDog$27(execute)] -> Desired Path: /opt/JDownloader/Downloads/Empty folder!mqqkb4wexkghk5rn/Empty folder!mqqkb4wexkghk5rn
+--ID:4721TS:1718377907718-6/14/24, 3:11:47 PM -  [jd.controlling.downloadcontroller.DownloadWatchDog$27(execute)] -> Actually Used path: /opt/JDownloader/Downloads/Empty folder!mqqkb4wexkghk5rn/Empty folder!mqqkb4wexkghk5rn

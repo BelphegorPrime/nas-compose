@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/01 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/02 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/03 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/04 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/05 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/06 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/07 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/08 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/09 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/10 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/11 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/12 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/13 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/14 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/15 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/16 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/17 Stephen King, Stewart O'Nan - Ein Gesicht in der Menge.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King & Stewart O'Nan - Ein Gesicht in der Menge/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

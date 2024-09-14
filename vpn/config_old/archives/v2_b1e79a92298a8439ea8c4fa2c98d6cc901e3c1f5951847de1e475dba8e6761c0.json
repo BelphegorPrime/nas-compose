@@ -1,0 +1,20 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND15 - Helle Barden (Amateur-Lesung)/01 - Helle Barden.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND15 - Helle Barden (Amateur-Lesung)/02 - Helle Barden.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND15 - Helle Barden (Amateur-Lesung)/03 - Helle Barden.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND15 - Helle Barden (Amateur-Lesung)/04 - Helle Barden.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND15 - Helle Barden (Amateur-Lesung)/buch.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND15 - Helle Barden (Amateur-Lesung)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

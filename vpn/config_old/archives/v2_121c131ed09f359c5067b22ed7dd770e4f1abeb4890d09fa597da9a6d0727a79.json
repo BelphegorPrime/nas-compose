@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Cyberpunk Edgerunners S01 GERMAN AAC 720p WEB x265-w00t",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Cyberpunk Edgerunners S01 GERMAN AAC 720p WEB x265-w00t/Cyberpunk.Edgerunners.S01E04.Lucky.You.GERMAN.AAC.720p.WEB.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/01 - Teil 1 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/02 - Teil 2 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/03 - Teil 3 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/04 - Teil 4 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/05 - Teil 5 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/06 - Teil 6 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/07 - Teil 7 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/08 - Teil 8 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/09 - Teil 9 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/10 - Teil 10 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/11 - Teil 11 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/12 - Teil 12 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/13 - Teil 13 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/14 - Teil 14 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/15 - Teil 15 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/16 - Teil 16 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/17 - Teil 17 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/18 - Teil 18 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/19 - Teil 19 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/20 - Teil 20 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/21 - Teil 21 - Das römische Konklave - Der Sherlock Holmes-Adventkalender, Tag 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Das römische Konklave - Der Sherlock Holmes-Adventkalender Tag 24 (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

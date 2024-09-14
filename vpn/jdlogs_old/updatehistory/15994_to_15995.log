@@ -1,0 +1,125 @@
+Tue Mar 29 20:31:34 GMT 2022
+Package: package_1648573258815.awf
+Install
+Write Revision: 15995
+----------------Plugins----------------
+   jd/plugins/decrypter/AcomicSpace.class
+   jd/plugins/decrypter/AlldebridComFolder.class
+   jd/plugins/decrypter/BatoTo.class
+   jd/plugins/decrypter/BiqleRu.class
+   jd/plugins/decrypter/BlockFilestoreCom.class
+   jd/plugins/decrypter/ChoMikujPl.class
+   jd/plugins/decrypter/ComicOnlineFree.class
+   jd/plugins/decrypter/ComicWalkerCom.class
+   jd/plugins/decrypter/DropBoxCom$1.class
+   jd/plugins/decrypter/DropBoxCom$2.class
+   jd/plugins/decrypter/DropBoxCom$3.class.removed
+   jd/plugins/decrypter/DropBoxCom.class
+   jd/plugins/decrypter/Gogoplay4Com.class
+   jd/plugins/decrypter/GoogleDriveDirectoryIndex.class
+   jd/plugins/decrypter/HentaiCafe.class
+   jd/plugins/decrypter/HighpornNet.class
+   jd/plugins/decrypter/ImgurComGallery$1.class
+   jd/plugins/decrypter/ImgurComGallery.class
+   jd/plugins/decrypter/InstaGramComDecrypter.class
+   jd/plugins/decrypter/IwaraTv.class
+   jd/plugins/decrypter/Lhtranslation.class
+   jd/plugins/decrypter/MangaFascansCom.class
+   jd/plugins/decrypter/MangaTx.class
+   jd/plugins/decrypter/MangadexOrg.class
+   jd/plugins/decrypter/MangazukiCo.class
+   jd/plugins/decrypter/MangazukiMe.class
+   jd/plugins/decrypter/NhentaiNet.class
+   jd/plugins/decrypter/PremiumizeMeZeveraFolder$1.class
+   jd/plugins/decrypter/PremiumizeMeZeveraFolder$2.class
+   jd/plugins/decrypter/PremiumizeMeZeveraFolder.class
+   jd/plugins/decrypter/RedbullTv.class
+   jd/plugins/decrypter/RedditCom.class
+   jd/plugins/decrypter/RozhlasCz.class
+   jd/plugins/decrypter/RrozhlasCz.class.removed
+   jd/plugins/decrypter/SeedrCc.class
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/hoster/ChoMikujPl$1.class
+   jd/plugins/hoster/ChoMikujPl.class
+   jd/plugins/hoster/DirectHTTP.class
+   jd/plugins/hoster/DropdocRu.class
+   jd/plugins/hoster/DunShareCom.class
+   jd/plugins/hoster/ImgurComHoster$5.class
+   jd/plugins/hoster/ImgurComHoster.class
+   jd/plugins/hoster/IwaraTv.class
+   jd/plugins/hoster/K2SApi$1.class
+   jd/plugins/hoster/K2SApi$2.class
+   jd/plugins/hoster/K2SApi$3.class
+   jd/plugins/hoster/K2SApi$CAPTCHA.class
+   jd/plugins/hoster/K2SApi.class
+   jd/plugins/hoster/KernelVideoSharingComV2$1.class
+   jd/plugins/hoster/KernelVideoSharingComV2.class
+   jd/plugins/hoster/KernelVideoSharingComV2HostsDefault.class
+   jd/plugins/hoster/MotherpornoCom.class
+   jd/plugins/hoster/MvidooCom.class
+   jd/plugins/hoster/NhentaiNet.class
+   jd/plugins/hoster/PimpRollHostedTube.class
+   jd/plugins/hoster/PixeldrainCom$1.class
+   jd/plugins/hoster/PixeldrainCom$PixeldrainAccountFactory$1.class
+   jd/plugins/hoster/PixeldrainCom$PixeldrainAccountFactory.class
+   jd/plugins/hoster/PixeldrainCom.class
+   jd/plugins/hoster/RapidGatorNet.class
+   jd/plugins/hoster/RedbullTv$1.class
+   jd/plugins/hoster/RedbullTv.class
+   jd/plugins/hoster/RedditCom$1.class
+   jd/plugins/hoster/RedditCom$2.class
+   jd/plugins/hoster/RedditCom.class
+   jd/plugins/hoster/SeedrCc$1.class
+   jd/plugins/hoster/SeedrCc.class
+   jd/plugins/hoster/SexuCom.class
+   jd/plugins/hoster/TwitterCom$1.class
+   jd/plugins/hoster/TwitterCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+   translations/org/appwork/utils/locale/AWUTranslation.zh_CN.lng
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/jd/controlling/linkcollector/LinkCollectorCrawler.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$18.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$19.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$20.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$21.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$22.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$23$1.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$23.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$24$1.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$24.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$25.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$26.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$27.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler$28.class
+   JD: Core.jar/jd/controlling/linkcrawler/LinkCrawler.class
+   JD: Core.jar/jd/plugins/PluginForHost.class
+   JD: Core.jar/jd/plugins/download/DownloadLinkDownloadable.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DropBoxConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/DropBoxConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/IwaraTvConfig$FilenameScheme$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/IwaraTvConfig$FilenameScheme$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/IwaraTvConfig$FilenameScheme$5.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/IwaraTvConfig$FilenameScheme.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/IwaraTvConfig.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$CommentsPackagenameScheme.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme$4.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$FilenameScheme.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$TRANSLATION.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$TextCrawlerMode$1.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$TextCrawlerMode$2.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$TextCrawlerMode$3.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig$TextCrawlerMode.class
+   JD: Core.jar/org/jdownloader/plugins/components/config/RedditConfig.class
+   JD: libs/JDHttp.jar/jd/http/Browser$1.class
+   JD: libs/JDHttp.jar/jd/http/Browser$2.class
+   JD: libs/JDHttp.jar/jd/http/Browser.class
+   libs/JDHttp.jar

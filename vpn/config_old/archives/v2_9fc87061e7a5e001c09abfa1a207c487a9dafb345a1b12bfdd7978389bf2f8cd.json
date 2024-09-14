@@ -1,0 +1,26 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/fg-01.bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/fg-02.bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/fg-03.bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/fg-04.bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/fg-05.bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/fg-06.bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/fg-07.bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/MD5/fitgirl-bins.md5",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/MD5/QuickSFV.EXE",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/MD5/QuickSFV.ini",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/setup.exe",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/Verify BIN files before installation.bat"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

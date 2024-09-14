@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Masters of Sex S01 GERMAN DUBBED WS WEBRip x264-TVP",
+    "files" : [ "/opt/JDownloader/Downloads/Masters of Sex S01 GERMAN DUBBED WS WEBRip x264-TVP/Masters.of.Sex.S01E07.Jetzt.alle.zusammen.GERMAN.DUBBED.WS.WEBRip.x264-TVP/tvp-mastersofsex-s01e07-480p.mkv", "/opt/JDownloader/Downloads/Masters of Sex S01 GERMAN DUBBED WS WEBRip x264-TVP/Masters.of.Sex.S01E07.Jetzt.alle.zusammen.GERMAN.DUBBED.WS.WEBRip.x264-TVP/tvp-mastersofsex-s01e07-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

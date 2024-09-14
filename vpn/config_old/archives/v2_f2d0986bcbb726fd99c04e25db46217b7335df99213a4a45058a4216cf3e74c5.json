@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Acolyte S01E01 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Acolyte S01E01 720p/The.Acolyte.S01E01.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/The Acolyte S01E01 720p/The.Acolyte.S01E01.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/The Acolyte S01E01 720p/The.Acolyte.S01E01.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/The.Acolyte.S01E01.GERMAN.DL.720p.WEB.h264-SAUERKRAUT.mkv",
+                                                              "/opt/JDownloader/Downloads/The Acolyte S01E01 720p/The.Acolyte.S01E01.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/the.acolyte.s01e01.german.dl.720p.web.h264-sauerkraut.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

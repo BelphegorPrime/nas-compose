@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/John Wick Chapter 4 AC3 LD DL 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/John Wick Chapter 4 AC3 LD DL 1080p WEB/John.Wick.Chapter.4.2023.German.AC3.LD.DL.1080p.WEB.H264-CONTiNENTAL/John.Wick.Chapter.4.2023.German.AC3.LD.DL.1080p.WEB.H264-CONTiNENTAL.mkv",
+                                                              "/opt/JDownloader/Downloads/John Wick Chapter 4 AC3 LD DL 1080p WEB/John.Wick.Chapter.4.2023.German.AC3.LD.DL.1080p.WEB.H264-CONTiNENTAL/nfo.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

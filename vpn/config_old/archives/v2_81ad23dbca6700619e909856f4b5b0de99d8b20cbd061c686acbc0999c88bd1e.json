@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Highlander - Es kann nur einen geben REMASTERED (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Highlander - Es kann nur einen geben REMASTERED (microHD)/Highlander.Es.kann.nur.einen.geben.1986.REMASTERED.GERMAN.1080p.microHD.x264-RED/Highlander - Es kann nur einen geben REMASTERED (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

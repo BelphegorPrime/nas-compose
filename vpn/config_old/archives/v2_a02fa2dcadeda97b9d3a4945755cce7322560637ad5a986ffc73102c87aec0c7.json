@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 12 Das Blut junger Frauen/Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

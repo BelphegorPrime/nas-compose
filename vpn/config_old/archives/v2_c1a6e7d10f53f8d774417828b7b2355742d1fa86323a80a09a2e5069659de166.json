@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND18 - Mummenschanz Hörspiel SWR2/01 - Mummenschanz.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND18 - Mummenschanz Hörspiel SWR2/02 - Mummenschanz.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND18 - Mummenschanz Hörspiel SWR2/03 - Mummenschanz.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND18 - Mummenschanz Hörspiel SWR2/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND18 - Mummenschanz Hörspiel SWR2/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

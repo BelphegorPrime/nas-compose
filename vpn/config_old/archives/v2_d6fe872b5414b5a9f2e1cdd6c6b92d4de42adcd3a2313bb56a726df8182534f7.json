@@ -1,0 +1,20 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S02E06.GERMAN.DL.720P.WEB.H264-WAYNE/# DDownload.com 100GB am Tag.URL",
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S02E06.GERMAN.DL.720P.WEB.H264-WAYNE/# Rapidgator.net PREMIUM FULL SPEED.url",
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S02E06.GERMAN.DL.720P.WEB.H264-WAYNE/# UNTERSTÜTZT MEINE ARBEIT.txt",
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S02E06.GERMAN.DL.720P.WEB.H264-WAYNE/james.may.unser.mann.in.s02e06.german.dl.720p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S02E06.GERMAN.DL.720P.WEB.H264-WAYNE/james.may.unser.mann.in.s02e06.german.dl.720p.web.h264-wayne.nfo",
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S02E06.GERMAN.DL.720P.WEB.H264-WAYNE/Sample/james.may.unser.mann.in.s02e06.german.dl.720p.web.h264-wayne-sample.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

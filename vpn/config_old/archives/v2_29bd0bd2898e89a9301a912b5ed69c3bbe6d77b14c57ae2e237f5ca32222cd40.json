@@ -1,0 +1,30 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/01 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/02 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/03 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/04 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/05 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/06 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/07 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/08 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/09 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/10 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/11 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/12 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/13 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/14 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/15 Der Weg zurück.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Der Weg zurück (Die Elfen - Kurzgeschichten 5)/16 Der Weg zurück.mp3"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

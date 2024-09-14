@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD73SUB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD73SUB/Superbad.2007.GERMAN.1040p.microHD.x264-Raistlin911/Superbad.2007.GERMAN.1040p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

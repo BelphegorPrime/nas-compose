@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/30 Minten oder weniger 2011 German DL 1080p BluRay x264-ENCOUNTERS",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/30 Minten oder weniger 2011 German DL 1080p BluRay x264-ENCOUNTERS/30.Minten.oder.weniger.2011.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-30miodwe_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/30 Minten oder weniger 2011 German DL 1080p BluRay x264-ENCOUNTERS/30.Minten.oder.weniger.2011.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-30miodwe_1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Dungeons and Dragons Ehre unter Dieben 2160p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Dungeons and Dragons Ehre unter Dieben 2160p WEB/Dungeons.and.Dragons.Ehre.unter.Dieben.2023.German.DL.EAC3D.HDR.2160p.WEB.h265-W4K/dungeons.and.dragons.ehre.unter.dieben.2023.german.dl.eac3d.hdr.2160p.web.h265-w4k.mkv",
+                                                              "/opt/JDownloader/Downloads/Dungeons and Dragons Ehre unter Dieben 2160p WEB/Dungeons.and.Dragons.Ehre.unter.Dieben.2023.German.DL.EAC3D.HDR.2160p.WEB.h265-W4K/dungeons.and.dragons.ehre.unter.dieben.2023.german.dl.eac3d.hdr.2160p.web.h265-w4k.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

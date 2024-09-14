@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/01 - Sherlock Holmes und das Schicksals Ende - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/02 - Sherlock Holmes und das Schicksals Ende - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/03 - Sherlock Holmes und das Schicksals Ende - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/04 - Sherlock Holmes und das Schicksals Ende - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/05 - Sherlock Holmes und das Schicksals Ende - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/06 - Sherlock Holmes und das Schicksals Ende - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/07 - Sherlock Holmes und das Schicksals Ende - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/08 - Sherlock Holmes und das Schicksals Ende - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/09 - Sherlock Holmes und das Schicksals Ende - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/10 - Sherlock Holmes und das Schicksals Ende - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/11 - Sherlock Holmes und das Schicksals Ende - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/12 - Sherlock Holmes und das Schicksals Ende - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/13 - Sherlock Holmes und das Schicksals Ende - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/14 - Sherlock Holmes und das Schicksals Ende - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/15 - Sherlock Holmes und das Schicksals Ende - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/16 - Sherlock Holmes und das Schicksals Ende - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/17 - Sherlock Holmes und das Schicksals Ende - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/18 - Sherlock Holmes und das Schicksals Ende - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/19 - Sherlock Holmes und das Schicksals Ende - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/20 - Sherlock Holmes und das Schicksals Ende - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/21 - Sherlock Holmes und das Schicksals Ende - Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/22 - Sherlock Holmes und das Schicksals Ende - Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/23 - Sherlock Holmes und das Schicksals Ende - Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/24 - Sherlock Holmes und das Schicksals Ende - Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/25 - Sherlock Holmes und das Schicksals Ende - Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 24 - Sherlock Holmes und das Schicksals Ende (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

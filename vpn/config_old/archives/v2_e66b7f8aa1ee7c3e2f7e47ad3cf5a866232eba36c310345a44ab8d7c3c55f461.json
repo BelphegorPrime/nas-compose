@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E03.GERMAN.DL.1080P.WEB.H264-WAYNE/Sample/the.grand.tour.s04e03.german.dl.1080p.web.h264-wayne-sample.mkv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E03.GERMAN.DL.1080P.WEB.H264-WAYNE/the.grand.tour.s04e03.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E03.GERMAN.DL.1080P.WEB.H264-WAYNE/the.grand.tour.s04e03.german.dl.1080p.web.h264-wayne.nfo",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E03.GERMAN.DL.1080P.WEB.H264-WAYNE/the.grand.tour.s04e03.german.dl.1080p.web.h264-wayne.sfv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S04E03.GERMAN.DL.1080P.WEB.H264-WAYNE/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

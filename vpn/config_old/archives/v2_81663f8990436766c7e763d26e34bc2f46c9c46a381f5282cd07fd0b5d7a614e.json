@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Der Herr der Ringe Die Ringe der Macht S01E01 2160p REPACK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Der Herr der Ringe Die Ringe der Macht S01E01 2160p REPACK/Der.Herr.der.Ringe.Die.Ringe.der.Macht.S01E01.German.DL.HDR.2160p.WEB.h265.REPACK-W4K/der.herr.der.ringe.die.ringe.der.macht.s01e01.german.dl.hdr.2160p.web.h265.repack-w4k.mkv",
+                                                              "/opt/JDownloader/Downloads/Der Herr der Ringe Die Ringe der Macht S01E01 2160p REPACK/Der.Herr.der.Ringe.Die.Ringe.der.Macht.S01E01.German.DL.HDR.2160p.WEB.h265.REPACK-W4K/der.herr.der.ringe.die.ringe.der.macht.s01e01.german.dl.hdr.2160p.web.h265.repack-w4k.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Interview with the Vampire S01E01 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Interview with the Vampire S01E01 720p/Interview.with.the.Vampire.S01E01.German.DL.720p.WEB.h264-WvF/interview.with.the.vampire.s01e01.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Interview with the Vampire S01E01 720p/Interview.with.the.Vampire.S01E01.German.DL.720p.WEB.h264-WvF/interview.with.the.vampire.s01e01.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

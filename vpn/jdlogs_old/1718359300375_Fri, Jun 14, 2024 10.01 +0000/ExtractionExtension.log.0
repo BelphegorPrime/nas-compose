@@ -1,0 +1,259 @@
+------------------------Thread: 49:ExtractionExtension.log-----------------------
+--ID:49TS:1718359307721-6/14/24, 10:01:47 AM -  [org.jdownloader.extensions.extraction.multi.Multi(checkLibraries)] -> Try LibIDs: [Linux-amd64-musl, Linux-amd64]
+--ID:49TS:1718359307721-6/14/24, 10:01:47 AM -  [org.jdownloader.extensions.extraction.multi.Multi(initLibrary)] -> LibID found: Linux-amd64-musl
+--ID:49TS:1718359307723-6/14/24, 10:01:47 AM -  [org.jdownloader.extensions.extraction.multi.Multi(initLibrary)] -> Try LibID(Linux-amd64-musl) Path: /opt/JDownloader/tmp/7zip->true
+--ID:49TS:1718359307770-6/14/24, 10:01:47 AM -  [org.jdownloader.extensions.extraction.multi.Multi(isAvailable)] -> Supported SevenZipJBinding|LibID=Linux-amd64-musl|Version=16.02-2.01|RAR5=true|CPU_ARCH=X86|OS_FAM=LINUX|OS=ALPINE|64Bit_JVM=true|64Bit_ARCH=true|HW:null
+--ID:49TS:1718359307771-6/14/24, 10:01:47 AM -  [org.jdownloader.extensions.AbstractExtension(init)] -> Init Duration: 80
+------------------------Thread: 9924:ExtractionExtension.log-----------------------
+--ID:9924TS:1718378507880-6/14/24, 3:21:47 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(c2a62738956940013901c51b2beabf5162d558db4dbf9775ad73ee75778dcc9f|Thread[Download: The.Rookie.S06E07.720p.part2.rar_filer.net,1,]):Archive:The.Rookie.S06E07.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Rookie S06E07 720p/The.Rookie.S06E07.720p.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Rookie S06E07 720p/The.Rookie.S06E07.720p.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 12157:ExtractionExtension.log-----------------------
+--ID:12157TS:1718378832239-6/14/24, 3:27:12 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(e1efc584886e27ece12448696e5cd41bc3bc2bf1b3435673ec6e5eb49e06074b|Thread[Download: The.Boys.S04E03.720p.part2.rar_filer.net,1,]):Archive:The.Boys.S04E03.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E03 720p/The.Boys.S04E03.720p.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E03 720p/The.Boys.S04E03.720p.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 15322:ExtractionExtension.log-----------------------
+--ID:15322TS:1718379285813-6/14/24, 3:34:45 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(70cb6c53dbe153ba3ac6cab6320f253de3a5bc3e50ddcd4c57bba24a6914c8a0|Thread[Download: The.Boys.S04E01.720p.part2.rar_filer.net,1,]):Archive:The.Boys.S04E01.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E01 720p/The.Boys.S04E01.720p.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E01 720p/The.Boys.S04E01.720p.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 15898:ExtractionExtension.log-----------------------
+--ID:15898TS:1718379415664-6/14/24, 3:36:55 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(9dafc9005174a7b7f711c500817ec8e8cf5914cc4a3a47768cdf3fd486bcbc17|Thread[Download: The.Boys.S04E02.720p.part2.rar_filer.net,1,]):Archive:The.Boys.S04E02.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E02 720p/The.Boys.S04E02.720p.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E02 720p/The.Boys.S04E02.720p.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 16606:ExtractionExtension.log-----------------------
+--ID:16606TS:1718379537983-6/14/24, 3:38:57 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(c2a62738956940013901c51b2beabf5162d558db4dbf9775ad73ee75778dcc9f|Thread[Download: The.Rookie.S06E07.720p.part1.rar_filer.net,1,]):Archive:The.Rookie.S06E07.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Rookie S06E07 720p/The.Rookie.S06E07.720p.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Rookie S06E07 720p/The.Rookie.S06E07.720p.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 16615:ExtractionExtension.log-----------------------
+--ID:16615TS:1718379545625-6/14/24, 3:39:05 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/The Rookie S06E07 720p/The.Rookie.S06E07.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat
+------------------------Thread: 16798:ExtractionExtension.log-----------------------
+--ID:16798TS:1718379566214-6/14/24, 3:39:26 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(e1efc584886e27ece12448696e5cd41bc3bc2bf1b3435673ec6e5eb49e06074b|Thread[Download: The.Boys.S04E03.720p.part1.rar_filer.net,1,]):Archive:The.Boys.S04E03.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E03 720p/The.Boys.S04E03.720p.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E03 720p/The.Boys.S04E03.720p.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 16801:ExtractionExtension.log-----------------------
+--ID:16801TS:1718379574428-6/14/24, 3:39:34 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/The Boys S04E03 720p/The.Boys.S04E03.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat
+------------------------Thread: 17712:ExtractionExtension.log-----------------------
+--ID:17712TS:1718379692867-6/14/24, 3:41:32 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(21c8f0073355e7ec40d854a6d3ac5af22ac4aa74d9211b541c4a2affdaa7def5|Thread[Download: Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part1.rar_filer.net,1,]):Archive:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part2.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part3.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part4.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part5.rar|Complete:false
+Complete:false
+------------------------Thread: 17926:ExtractionExtension.log-----------------------
+--ID:17926TS:1718379709887-6/14/24, 3:41:49 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(21c8f0073355e7ec40d854a6d3ac5af22ac4aa74d9211b541c4a2affdaa7def5|Thread[Download: Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part2.rar_filer.net,1,]):Archive:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part3.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part4.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part5.rar|Complete:false
+Complete:false
+------------------------Thread: 18369:ExtractionExtension.log-----------------------
+--ID:18369TS:1718379755164-6/14/24, 3:42:35 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(70cb6c53dbe153ba3ac6cab6320f253de3a5bc3e50ddcd4c57bba24a6914c8a0|Thread[Download: The.Boys.S04E01.720p.part1.rar_filer.net,1,]):Archive:The.Boys.S04E01.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E01 720p/The.Boys.S04E01.720p.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E01 720p/The.Boys.S04E01.720p.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 18372:ExtractionExtension.log-----------------------
+--ID:18372TS:1718379763840-6/14/24, 3:42:43 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/The Boys S04E01 720p/The.Boys.S04E01.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat
+------------------------Thread: 21370:ExtractionExtension.log-----------------------
+--ID:21370TS:1718380139674-6/14/24, 3:48:59 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(166ed584a2556524731f68a6ccf636f3caa40a52ac4d984c30e095ff73681220|Thread[Download: Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part2.rar_filer.net,1,]):Archive:Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda (micoHD)/Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda (micoHD)/Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 22336:ExtractionExtension.log-----------------------
+--ID:22336TS:1718380280170-6/14/24, 3:51:20 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(9dafc9005174a7b7f711c500817ec8e8cf5914cc4a3a47768cdf3fd486bcbc17|Thread[Download: The.Boys.S04E02.720p.part1.rar_filer.net,1,]):Archive:The.Boys.S04E02.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E02 720p/The.Boys.S04E02.720p.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Boys S04E02 720p/The.Boys.S04E02.720p.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 22339:ExtractionExtension.log-----------------------
+--ID:22339TS:1718380289534-6/14/24, 3:51:29 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/The Boys S04E02 720p/The.Boys.S04E02.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat
+------------------------Thread: 24172:ExtractionExtension.log-----------------------
+--ID:24172TS:1718380594722-6/14/24, 3:56:34 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(166ed584a2556524731f68a6ccf636f3caa40a52ac4d984c30e095ff73681220|Thread[Download: Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part1.rar_filer.net,1,]):Archive:Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda (micoHD)/Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda (micoHD)/Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 24690:ExtractionExtension.log-----------------------
+--ID:24690TS:1718380662189-6/14/24, 3:57:42 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(199c5163a12918c42e429bfbc5e74955e16fb6e47e16e017b28531cee36ab8be|Thread[Download: Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part2.rar_filer.net,1,]):Archive:Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 2 (microHD)/Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 2 (microHD)/Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 28893:ExtractionExtension.log-----------------------
+--ID:28893TS:1718381372632-6/14/24, 4:09:32 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(199c5163a12918c42e429bfbc5e74955e16fb6e47e16e017b28531cee36ab8be|Thread[Download: Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part1.rar_filer.net,1,]):Archive:Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 2 (microHD)/Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 2 (microHD)/Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 30605:ExtractionExtension.log-----------------------
+--ID:30605TS:1718381552245-6/14/24, 4:12:32 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(1ccf92b02ab8a403d4cb66a39032ceca07b8100ebf809a9977105dd1762d587e|Thread[Download: 108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar_filer.net,1,]):Archive:108BD-KungFuPanda3PROPER-ENCOUNTERS
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar|Complete:true
+Complete:false
+------------------------Thread: 31102:ExtractionExtension.log-----------------------
+--ID:31102TS:1718381604675-6/14/24, 4:13:24 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(1ccf92b02ab8a403d4cb66a39032ceca07b8100ebf809a9977105dd1762d587e|Thread[Download: 108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar_filer.net,1,]):Archive:108BD-KungFuPanda3PROPER-ENCOUNTERS
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar|Complete:true
+Complete:false
+--ID:31102TS:1718381606272-6/14/24, 4:13:26 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(1ccf92b02ab8a403d4cb66a39032ceca07b8100ebf809a9977105dd1762d587e|Thread[Download: 108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar_filer.net,1,]):Archive:108BD-KungFuPanda3PROPER-ENCOUNTERS
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar|Complete:true
+Complete:false
+------------------------Thread: 31300:ExtractionExtension.log-----------------------
+--ID:31300TS:1718381632287-6/14/24, 4:13:52 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(e38bfa918bb42e246c75f76534e867623c851409e00e5be205afd5800c8a8bdb|Thread[Download: Kung.Fu.Panda.4.1080p.BluRay.part3.rar_filer.net,1,]):Archive:Kung.Fu.Panda.4.1080p.BluRay
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part2.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part3.rar|Complete:true
+Complete:false
+------------------------Thread: 32074:ExtractionExtension.log-----------------------
+--ID:32074TS:1718381728297-6/14/24, 4:15:28 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(1ccf92b02ab8a403d4cb66a39032ceca07b8100ebf809a9977105dd1762d587e|Thread[Download: 108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar_filer.net,1,]):Archive:108BD-KungFuPanda3PROPER-ENCOUNTERS
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar|Complete:true
+Complete:false
+------------------------Thread: 32246:ExtractionExtension.log-----------------------
+--ID:32246TS:1718381748385-6/14/24, 4:15:48 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(1ccf92b02ab8a403d4cb66a39032ceca07b8100ebf809a9977105dd1762d587e|Thread[Download: 108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar_filer.net,1,]):Archive:108BD-KungFuPanda3PROPER-ENCOUNTERS
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar|Complete:true
+Complete:false
+------------------------Thread: 32377:ExtractionExtension.log-----------------------
+--ID:32377TS:1718381790920-6/14/24, 4:16:30 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(1ccf92b02ab8a403d4cb66a39032ceca07b8100ebf809a9977105dd1762d587e|Thread[Download: 108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar_filer.net,1,]):Archive:108BD-KungFuPanda3PROPER-ENCOUNTERS
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar|Complete:true
+Complete:true
+------------------------Thread: 32380:ExtractionExtension.log-----------------------
+--ID:32380TS:1718381824976-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(4bdb5935f4123f59d990144176c2376f5b5680cc3904838c0831c2a8319a55d7|org.jdownloader.extensions.extraction.ExtractionController@55c7a529):Archive:encounters-kufupa3_1080p_proof
+Type:RAR_SINGLE
+Existing:File:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/Kung.Fu.Panda.3.2016.German.DL.1080p.BluRay.x264.PROPER-ENCOUNTERS/Proof/encounters-kufupa3_1080p_proof.rar|Complete:true
+Complete:true
+--ID:32380TS:1718381824978-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(c6574791cd0574422830164cc60d64f2ecb305227494f6e8c2d5f7673d7a426b|org.jdownloader.extensions.extraction.ExtractionController@55c7a529):Archive:encounters-kufupa3_1080p_subs
+Type:RAR_SINGLE
+Existing:File:/opt/JDownloader/Downloads/108BD-KungFuPanda3PROPER-ENCOUNTERS/Kung.Fu.Panda.3.2016.German.DL.1080p.BluRay.x264.PROPER-ENCOUNTERS/Subs/encounters-kufupa3_1080p_subs.rar|Complete:true
+Complete:true
+------------------------Thread: 33651:ExtractionExtension.log-----------------------
+--ID:33651TS:1718381951827-6/14/24, 4:19:11 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(a9aea328d7746ccd333ca04917b4daf04016ba57e6a292d001c917d477249f96|Thread[Download: The.Acolyte.S01E03.720p.part2.rar_filer.net,1,]):Archive:The.Acolyte.S01E03.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Acolyte S01E03 720p/The.Acolyte.S01E03.720p.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Acolyte S01E03 720p/The.Acolyte.S01E03.720p.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 34638:ExtractionExtension.log-----------------------
+--ID:34638TS:1718382111298-6/14/24, 4:21:51 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(21c8f0073355e7ec40d854a6d3ac5af22ac4aa74d9211b541c4a2affdaa7def5|Thread[Download: Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part5.rar_filer.net,1,]):Archive:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part3.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part4.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part5.rar|Complete:true
+Complete:false
+------------------------Thread: 35622:ExtractionExtension.log-----------------------
+--ID:35622TS:1718382264111-6/14/24, 4:24:24 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(e38bfa918bb42e246c75f76534e867623c851409e00e5be205afd5800c8a8bdb|Thread[Download: Kung.Fu.Panda.4.1080p.BluRay.part1.rar_filer.net,1,]):Archive:Kung.Fu.Panda.4.1080p.BluRay
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part2.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part3.rar|Complete:true
+Complete:false
+------------------------Thread: 35996:ExtractionExtension.log-----------------------
+--ID:35996TS:1718382350812-6/14/24, 4:25:50 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(d759620202eb69dff5a5d411b0e29e5f38b44de59c0528c49bac8156c0b34e3c|Thread[Download: Interview.with.the.Vampire.S02E05.720p.part2.rar_filer.net,1,]):Archive:Interview.with.the.Vampire.S02E05.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Interview with the Vampire S02E05 720p/Interview.with.the.Vampire.S02E05.720p.part1.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Interview with the Vampire S02E05 720p/Interview.with.the.Vampire.S02E05.720p.part2.rar|Complete:true
+Complete:false
+------------------------Thread: 36635:ExtractionExtension.log-----------------------
+--ID:36635TS:1718382466569-6/14/24, 4:27:46 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(e38bfa918bb42e246c75f76534e867623c851409e00e5be205afd5800c8a8bdb|Thread[Download: Kung.Fu.Panda.4.1080p.BluRay.part2.rar_filer.net,1,]):Archive:Kung.Fu.Panda.4.1080p.BluRay
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.1080p.BluRay.part3.rar|Complete:true
+Complete:true
+------------------------Thread: 36636:ExtractionExtension.log-----------------------
+--ID:36636TS:1718382480611-6/14/24, 4:28:00 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/Kung Fu Panda 4 1080p BluRay/Kung.Fu.Panda.4.2024.German.DL.1080p.BluRay.x264-DETAiLS/NOX-entsperren.bat
+------------------------Thread: 39174:ExtractionExtension.log-----------------------
+--ID:39174TS:1718382980831-6/14/24, 4:36:20 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(7d2f908dc67d62e19a0bcf07ababbd8a42fbd460101b55eae347be765926308e|Thread[Download: Will.Trent.S02E08.720p.rar_filer.net,1,]):Archive:Will.Trent.S02E08.720p
+Type:RAR_SINGLE
+Existing:DownloadLink:/opt/JDownloader/Downloads/Will Trent S02E08 720p/Will.Trent.S02E08.720p.rar|Complete:true
+Complete:true
+------------------------Thread: 39175:ExtractionExtension.log-----------------------
+--ID:39175TS:1718382984666-6/14/24, 4:36:24 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/Will Trent S02E08 720p/Will.Trent.S02E08.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat
+------------------------Thread: 39271:ExtractionExtension.log-----------------------
+--ID:39271TS:1718382999046-6/14/24, 4:36:39 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Incomplete Archive(21c8f0073355e7ec40d854a6d3ac5af22ac4aa74d9211b541c4a2affdaa7def5|Thread[Download: Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part4.rar_filer.net,1,]):Archive:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part3.rar|Complete:false
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part4.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part5.rar|Complete:true
+Complete:false
+------------------------Thread: 39459:ExtractionExtension.log-----------------------
+--ID:39459TS:1718383012229-6/14/24, 4:36:52 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(a9aea328d7746ccd333ca04917b4daf04016ba57e6a292d001c917d477249f96|Thread[Download: The.Acolyte.S01E03.720p.part1.rar_filer.net,1,]):Archive:The.Acolyte.S01E03.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Acolyte S01E03 720p/The.Acolyte.S01E03.720p.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/The Acolyte S01E03 720p/The.Acolyte.S01E03.720p.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 39460:ExtractionExtension.log-----------------------
+--ID:39460TS:1718383016843-6/14/24, 4:36:56 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/The Acolyte S01E03 720p/The.Acolyte.S01E03.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/NOX-entsperren.bat
+------------------------Thread: 39709:ExtractionExtension.log-----------------------
+--ID:39709TS:1718383040572-6/14/24, 4:37:20 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(d759620202eb69dff5a5d411b0e29e5f38b44de59c0528c49bac8156c0b34e3c|Thread[Download: Interview.with.the.Vampire.S02E05.720p.part1.rar_filer.net,1,]):Archive:Interview.with.the.Vampire.S02E05.720p
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Interview with the Vampire S02E05 720p/Interview.with.the.Vampire.S02E05.720p.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Interview with the Vampire S02E05 720p/Interview.with.the.Vampire.S02E05.720p.part2.rar|Complete:true
+Complete:true
+------------------------Thread: 39710:ExtractionExtension.log-----------------------
+--ID:39710TS:1718383046736-6/14/24, 4:37:26 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/Interview with the Vampire S02E05 720p/Interview.with.the.Vampire.S02E05.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/NOX-entsperren.bat
+------------------------Thread: 39802:ExtractionExtension.log-----------------------
+--ID:39802TS:1718383063906-6/14/24, 4:37:43 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(addToQueue)] -> Supported Archive(21c8f0073355e7ec40d854a6d3ac5af22ac4aa74d9211b541c4a2affdaa7def5|Thread[Download: Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part3.rar_filer.net,1,]):Archive:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P
+Type:RAR_MULTI
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part1.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part2.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part3.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part4.rar|Complete:true
+Existing:DownloadLink:/opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part5.rar|Complete:true
+Complete:true
+------------------------Thread: 39803:ExtractionExtension.log-----------------------
+--ID:39803TS:1718383086585-6/14/24, 4:38:06 PM -  [org.jdownloader.extensions.extraction.ExtractionExtension(matchesDeepExtractionBlacklist)] -> Skip deep extraction: .*\.bat matches file /opt/JDownloader/Downloads/Dark Matter Der Zeitenlaeufer S01E07 1080P/Dark.Matter.Der.Zeitenlaeufer.S01E07.GERMAN.DL.1080P.WEB.H264-WAYNE/NOX-entsperren.bat

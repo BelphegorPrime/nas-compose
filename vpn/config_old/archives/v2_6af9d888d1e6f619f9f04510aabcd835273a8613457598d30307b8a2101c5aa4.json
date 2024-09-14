@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Lockwood and Co S01 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Lockwood and Co S01 1080p/Lockwood.and.Co.S01E05.GERMAN.DL.1080p.WEB.h264-SAUERKRAUT.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

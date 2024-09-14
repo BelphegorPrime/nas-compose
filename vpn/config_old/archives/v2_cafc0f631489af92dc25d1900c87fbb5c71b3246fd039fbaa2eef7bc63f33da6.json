@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Godfather of Harlem S02E08 720p",
+    "files" : [ "/opt/JDownloader/Downloads/Godfather of Harlem S02E08 720p/Godfather.of.Harlem.S02E08.720p/Godfather.of.Harlem.S02E08.German.DD51.Dubbed.DL.720p.AmazonHD.AVC/goh-dd51-ded-dl-7p-azhd-avc-s02e08 (1).mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S02E08 720p/Godfather.of.Harlem.S02E08.720p/Godfather.of.Harlem.S02E08.German.DD51.Dubbed.DL.720p.AmazonHD.AVC/goh-dd51-ded-dl-7p-azhd-avc-s02e08.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

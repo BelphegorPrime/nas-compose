@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 01 - Das Musgrave-Ritual/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 01 - Das Musgrave-Ritual/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 01 - Das Musgrave-Ritual/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 01 - Das Musgrave-Ritual/Sherlock Holmes Legends - 1 - Das Musgrave-Ritual (BQ).jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 01 - Das Musgrave-Ritual/Sherlock Holmes Legends - 1 - Das Musgrave-Ritual.mp3"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/F2151DRRSRTPNTHR2-RPG - filecrypt",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/F2151DRRSRTPNTHR2-RPG - filecrypt/F2151DRRSRTPNTHR2/Der.rosarote.Panther.kehrt.zurueck.1975.German.1080p.microHD.x264-RAIST.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

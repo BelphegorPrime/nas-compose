@@ -1,0 +1,26 @@
+Sun Nov 12 13:57:10 GMT 2023
+Package: package_1699797375170.awf
+Install
+Write Revision: 16973
+----------------Plugins----------------
+----------------Extensions----------------
+   extensions/EventScripter.jar
+----------------Direct Files----------------
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.de.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.en.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.en_AU.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.es.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.fr.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.fr_FR.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.hu.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.it.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.ja.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.pl.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.pt_BR.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.sk.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.tr.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.zh_CN.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.zh_TW.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.zh__hans.lng
+   translations/org/jdownloader/extensions/eventscripter/EventScripterTranslation.zh__hant.lng
+----------------Core Files----------------

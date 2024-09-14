@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Der Weg nach El Dorado",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Der Weg nach El Dorado/Der.Weg.nach.El.Dorado.2000.German.DL.1080p.BluRay.x264-CONTRiBUTiON/Der.Weg.nach.El.Dorado.2000.German.DL.1080p.BluRay.x264-CONTRiBUTiON.mkv",
+                                                              "/opt/JDownloader/Downloads/Der Weg nach El Dorado/Der.Weg.nach.El.Dorado.2000.German.DL.1080p.BluRay.x264-CONTRiBUTiON/der.weg.nach.el.dorado.2000.german.dl.1080p.bluray.x264-contribution.nfo",
+                                                              "/opt/JDownloader/Downloads/Der Weg nach El Dorado/Der.Weg.nach.El.Dorado.2000.German.DL.1080p.BluRay.x264-CONTRiBUTiON/Subs/der.weg.nach.el.dorado.2000.german.dl.1080p.bluray.x264-contribution.subs.rar",
+                                                              "/opt/JDownloader/Downloads/Der Weg nach El Dorado/Der.Weg.nach.El.Dorado.2000.German.DL.1080p.BluRay.x264-CONTRiBUTiON/Subs/der.weg.nach.el.dorado.2000.german.dl.1080p.bluray.x264-contribution.subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

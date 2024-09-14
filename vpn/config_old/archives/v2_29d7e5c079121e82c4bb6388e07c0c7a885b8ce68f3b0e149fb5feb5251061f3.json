@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die Besucher 1993 UNCUT AC3 Dubbed 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Besucher 1993 UNCUT AC3 Dubbed 1080p BluRay/Die.Besucher.1993.UNCUT.German.AC3.Dubbed.1080p.BluRay.x264-AB7/Die.Besucher.1993.UNCUT.German.AC3.Dubbed.1080p.x264-AB7.mkv",
+                                                              "/opt/JDownloader/Downloads/Die Besucher 1993 UNCUT AC3 Dubbed 1080p BluRay/Die.Besucher.1993.UNCUT.German.AC3.Dubbed.1080p.BluRay.x264-AB7/Die.Besucher.1993.UNCUT.German.AC3.Dubbed.1080p.x264-AB7.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

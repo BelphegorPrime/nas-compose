@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/IJFGEJGHDBFEWR",
+    "files" : [ "/opt/JDownloader/Downloads/IJFGEJGHDBFEWR/Joy.Alles.ausser.gewoehnlich.German.2015.AC3.BDRiP.x264-XF/Subs/xf-joy_subs.rar", "/opt/JDownloader/Downloads/IJFGEJGHDBFEWR/Joy.Alles.ausser.gewoehnlich.German.2015.AC3.BDRiP.x264-XF/Subs/xf-joy_subs.sfv", "/opt/JDownloader/Downloads/IJFGEJGHDBFEWR/Joy.Alles.ausser.gewoehnlich.German.2015.AC3.BDRiP.x264-XF/xf-joy.mkv", "/opt/JDownloader/Downloads/IJFGEJGHDBFEWR/Joy.Alles.ausser.gewoehnlich.German.2015.AC3.BDRiP.x264-XF/xf-joy_alles_ausser_gewoehnlich_2015.jpg" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

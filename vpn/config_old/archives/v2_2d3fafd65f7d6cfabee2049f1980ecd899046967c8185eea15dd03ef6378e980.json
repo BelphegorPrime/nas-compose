@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Hammer6",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E01.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E02.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E03.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E04.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E05.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E06.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E07.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E08.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E09.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E10.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E11.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E12.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E13.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E14.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E15.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E16.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E17.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E18.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E19.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E20.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E21.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E22.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E23.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E24.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer6/Hoer.mal.wer.da.haemmert.S06.German.DL.DVDRip.XVID/HammerS06E25.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

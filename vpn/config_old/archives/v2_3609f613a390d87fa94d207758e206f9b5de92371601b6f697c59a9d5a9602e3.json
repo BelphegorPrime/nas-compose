@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast",
+    "files" : [ "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/How.to.Sell.Drugs.Online.Fast.S01E02.German.WebRip.x264-AIDA.mkv", "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/how.to.sell.drugs.online.fast.s01e02.german.webrip.x264-aida.nfo", "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/How.to.Sell.Drugs.Online.Fast.S01E03.German.WebRip.x264-AIDA.mkv", "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/How.to.Sell.Drugs.Online.Fast.S01E04.German.WebRip.x264-AIDA.mkv", "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/How.to.Sell.Drugs.Online.Fast.S01E05.German.WebRip.x264-AIDA.mkv", "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/How.to.Sell.Drugs.Online.Fast.S01E06.German.WebRip.x264-AIDA.mkv", "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/How.to.sell.drugs.online.S01E01.German.WebRip.x264-AIDA.mkv", "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast/How.to.Sell.Drugs.Online.Fast.S01.COMPLETE.German.WebRip.x264-AIDA/tvmaze.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

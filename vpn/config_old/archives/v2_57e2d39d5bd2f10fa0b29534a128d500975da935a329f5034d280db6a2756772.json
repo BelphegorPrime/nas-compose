@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/TPMFRCNXBCVFGDHSJURZDHFG",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TPMFRCNXBCVFGDHSJURZDHFG/The Protege - Made for Revenge (2021).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

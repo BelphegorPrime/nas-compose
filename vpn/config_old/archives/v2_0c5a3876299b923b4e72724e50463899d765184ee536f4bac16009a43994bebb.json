@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Locke and Key S02 1080p",
+    "files" : [ "/opt/JDownloader/Downloads/Locke and Key S02 1080p/Locke.and.Key.S02E10.GERMAN.DL.1080p.WEB.x264-FENDT.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

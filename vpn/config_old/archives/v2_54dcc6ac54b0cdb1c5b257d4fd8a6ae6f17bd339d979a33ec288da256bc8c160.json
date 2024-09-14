@@ -1,0 +1,15 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Blacklist S09E08-E10 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Blacklist S09E08-E10 1080p/The.Blacklist.S09E08.GERMAN.DL.1080p.WEB.h264-FENDT.mkv"
+                                                             ]
+                                        }
+}

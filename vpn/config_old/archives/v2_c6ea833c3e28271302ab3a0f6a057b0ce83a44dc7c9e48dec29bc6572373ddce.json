@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Le Mans '66 \u2013 Gegen jede Chance (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Le Mans '66 \u2013 Gegen jede Chance (microHD)/Le.Mans.66.Gegen.jede.Chance.2019.GERMAN.800p.microHD.x264-RED/Le Mans 66 \u2013 Gegen jede Chance (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

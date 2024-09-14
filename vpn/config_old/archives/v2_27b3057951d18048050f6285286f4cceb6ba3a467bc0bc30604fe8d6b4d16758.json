@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Witcher S03E01-E05 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Witcher S03E01-E05 1080p WEB/The.Witcher.S03E03.GERMAN.DL.1080p.WEB.h264-SAUERKRAUT.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

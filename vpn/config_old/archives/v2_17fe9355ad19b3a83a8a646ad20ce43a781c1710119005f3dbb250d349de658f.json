@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E01.Durstiger.Vogel.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E02.Blau.mit.rotem.Geschmack.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E03.Truegerische.Umarmungen.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E04.Ein.ganz.anderes.Loch.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E05.Das.aelteste.Spiel.der.Welt.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E06.Und.ne.Pizza.dazu.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E07.Comic.Sans.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E08.Die.richtigen.Toepfe.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E09.40.Vol.Freigang.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E10.Kleiner.schnaeuzbaertiger.Scheisser.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E11.Auch.Prinzipien.brauchen.mal.Pause.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E12.Die.Wechseljahre.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/gdrzurtujhgdfrasre/Orange.is.the.New.Black.S02.German.DL.BD.x264-4SJ/Orange.is.the.New.Black.S02E13.Lady.Locksley.German.DL.BD.x264-4SJ.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

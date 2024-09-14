@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Brooklyn Nine-Nine S06 DL 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Brooklyn Nine-Nine S06 DL 720p/Brooklyn.Nine-Nine.S06E18.German.DD51.DL.720p.NetflixHD.x264.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

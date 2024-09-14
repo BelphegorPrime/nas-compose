@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Last of Us 2023",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Last of Us 2023/The.Last.of.Us.2023.S01E03.Eine.lange.Zeit.German.DL.WEBRip.x264-DLD.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

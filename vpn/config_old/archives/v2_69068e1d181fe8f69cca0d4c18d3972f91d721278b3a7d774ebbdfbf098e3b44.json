@@ -1,0 +1,18 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Beverly Hills Cop III 1994 REMASTERED",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Beverly Hills Cop III 1994 REMASTERED/Beverly.Hills.Cop.III.1994.REMASTERED.German.BDRip.x264-CONTRiBUTiON/beverly.hills.cop.iii.1994.remastered.german.bdrip.x264-contribution.mkv",
+                                                              "/opt/JDownloader/Downloads/Beverly Hills Cop III 1994 REMASTERED/Beverly.Hills.Cop.III.1994.REMASTERED.German.BDRip.x264-CONTRiBUTiON/beverly.hills.cop.iii.1994.remastered.german.bdrip.x264-contribution.nfo",
+                                                              "/opt/JDownloader/Downloads/Beverly Hills Cop III 1994 REMASTERED/Beverly.Hills.Cop.III.1994.REMASTERED.German.BDRip.x264-CONTRiBUTiON/Subs/beverly.hills.cop.iii.1994.remastered.german.bdrip.x264-contribution.subs.rar",
+                                                              "/opt/JDownloader/Downloads/Beverly Hills Cop III 1994 REMASTERED/Beverly.Hills.Cop.III.1994.REMASTERED.German.BDRip.x264-CONTRiBUTiON/Subs/beverly.hills.cop.iii.1994.remastered.german.bdrip.x264-contribution.subs.sfv"
+                                                             ]
+                                        }
+}

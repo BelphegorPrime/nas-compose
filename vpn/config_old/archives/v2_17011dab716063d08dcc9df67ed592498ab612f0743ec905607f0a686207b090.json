@@ -1,0 +1,33 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/01 Kapitel 1 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/02 Kapitel 2 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/03 Kapitel 3 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/04 Kapitel 4 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/05 Kapitel 5 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/06 Kapitel 6 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/07 Kapitel 7 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/08 Kapitel 8 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/09 Kapitel 9 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/10 Kapitel 10 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/11 Kapitel 11 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/12 Kapitel 12 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/13 Kapitel 13 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/14 Kapitel 14 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/15 Kapitel 15 - Fünf Apfelsinenkerne - Gerd Köster liest Sherlock Holmes Band 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 13 - Fünf Apfelsinenkerne (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/01 - Kapitel 1 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/02 - Kapitel 2 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/03 - Kapitel 3 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/04 - Kapitel 4 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/05 - Kapitel 5 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/06 - Kapitel 6 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/07 - Kapitel 7 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/08 - Kapitel 8 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/09 - Kapitel 9 - Das Landhaus in Ham.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/10 - Kapitel 10 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/11 - Kapitel 11 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/12 - Kapitel 12 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/13 - Kapitel 13 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/14 - Kapitel 14 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/15 - Kapitel 15 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/16 - Kapitel 16 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/17 - Kapitel 17 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/18 - Kapitel 18 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/19 - Kapitel 19 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/20 - Kapitel 20 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/21 - Kapitel 21 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/22 - Kapitel 22 - Das Landhaus in Ha.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 27 - Das Landhaus in Hampshire  (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

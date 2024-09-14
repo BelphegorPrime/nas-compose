@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Hammer2",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E01.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E02.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E03.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E04.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E05.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E06.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E07.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E08.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E09.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E10.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E11.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E12.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E13.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E14.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E15.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E16.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E17.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E18.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E19.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E20.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E21.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E22.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E23.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E24.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02E25.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer2/Hoer.mal.wer.da.haemmert.S02.German.DL.DVDRip.XVID/HammerS02Ext.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

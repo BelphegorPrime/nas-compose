@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/Persona (USA).bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/Persona (USA).cue"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

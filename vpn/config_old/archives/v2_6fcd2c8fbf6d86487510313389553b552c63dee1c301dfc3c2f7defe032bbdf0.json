@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Jurassic Park 1 REMASTERED (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Jurassic Park 1 REMASTERED (microHD)/Jurassic.Park.1993.REMASTERED.GERMAN.1080p.microHD.x264-RED/Jurassic Park 1 REMASTERED (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

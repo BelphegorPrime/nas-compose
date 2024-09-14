@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/[TnF]Bleach TYBW 03[SD][E8DAFBDF]",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/[TnF]Bleach TYBW 03[SD][E8DAFBDF]/[TnF]Bleach_TYBW_03[SD][E8DAFBDF].mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

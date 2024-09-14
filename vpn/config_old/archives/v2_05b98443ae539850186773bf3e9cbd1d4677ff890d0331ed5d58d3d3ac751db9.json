@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Immer Ostern für Sherlock Holmes oder Auftrag in Kiew - 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Oster-Special 02 - Immer Ostern für Sherlock Holmes oder Auftrag in Kiew/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die purpurnen Flüsse (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die purpurnen Flüsse (microHD)/Die.purpurnen.Flüsse.2000.GERMAN.834p.microHD.x264-RED/Die purpurnen Flüsse (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Shogun 2024 S01E05 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Shogun 2024 S01E05 720p/Shogun.2024.S01E05.German.DL.720p.WEB.h264-WvF/shogun.2024.s01e05.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Shogun 2024 S01E05 720p/Shogun.2024.S01E05.German.DL.720p.WEB.h264-WvF/shogun.2024.s01e05.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

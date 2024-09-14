@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Witcher S03E06-E08 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Witcher S03E06-E08 1080p/The.Witcher.S03E08.GERMAN.DL.1080p.WEB.h264-SAUERKRAUT.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

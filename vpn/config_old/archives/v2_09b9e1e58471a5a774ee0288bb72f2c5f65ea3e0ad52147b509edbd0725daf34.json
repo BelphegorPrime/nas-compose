@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Shazam Fury of the Gods 2160p DV HDR WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Shazam Fury of the Gods 2160p DV HDR WEB/Shazam.Fury.of.the.Gods.2023.EAC3D.German.DL.2160p.DV.HDR.WEB.H265-LDJD/ldjd-shazam.fury.of.the.gods.2023.2160.mkv",
+                                                              "/opt/JDownloader/Downloads/Shazam Fury of the Gods 2160p DV HDR WEB/Shazam.Fury.of.the.Gods.2023.EAC3D.German.DL.2160p.DV.HDR.WEB.H265-LDJD/ldjd-shazam.fury.of.the.gods.2023.2160.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

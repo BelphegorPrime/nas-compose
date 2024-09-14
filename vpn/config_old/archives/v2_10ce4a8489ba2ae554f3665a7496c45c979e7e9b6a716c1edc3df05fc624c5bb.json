@@ -1,0 +1,28 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/Dunkel - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/Dunkel - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/Dunkel - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/Dunkel - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/Dunkel - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/Dunkel.jpg",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/Hohlbein, Wolfgang - Dunkel.epub",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/_play.m3u",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Dunkel/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

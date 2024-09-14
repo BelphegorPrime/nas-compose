@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Renfield 2023 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Renfield 2023 1080p BluRay/Renfield.2023.German.DL.1080p.BluRay.x264-WDC/Subs/wdc-renfield-1080p-subs.rar",
+                                                              "/opt/JDownloader/Downloads/Renfield 2023 1080p BluRay/Renfield.2023.German.DL.1080p.BluRay.x264-WDC/wdc-renfield-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Renfield 2023 1080p BluRay/Renfield.2023.German.DL.1080p.BluRay.x264-WDC/wdc-renfield-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

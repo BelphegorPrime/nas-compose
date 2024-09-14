@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E05.Rekruten.German.720p.BluRay.x264-EXPiRED/exp-clonewarsx264-s01e05.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E05.Rekruten.German.720p.BluRay.x264-EXPiRED/exp-clonewarsx264-s01e05.nfo",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E05.Rekruten.German.720p.BluRay.x264-EXPiRED/Subs/exp-clonewarsx264-s01e05.idx",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E05.Rekruten.German.720p.BluRay.x264-EXPiRED/Subs/exp-clonewarsx264-s01e05.sub"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

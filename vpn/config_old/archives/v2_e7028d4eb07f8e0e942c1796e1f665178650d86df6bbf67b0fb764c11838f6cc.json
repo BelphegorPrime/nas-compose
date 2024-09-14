@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/01 - Kapitel 1 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/02 - Kapitel 2 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/03 - Kapitel 3 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/04 - Kapitel 4 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/05 - Kapitel 5 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/06 - Kapitel 6 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/07 - Kapitel 7 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/08 - Kapitel 8 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/09 - Kapitel 9 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/10 - Kapitel 10 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/11 - Kapitel 11 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/12 - Kapitel 12 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/13 - Kapitel 13 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/14 - Kapitel 14 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/15 - Kapitel 15 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/16 - Kapitel 16 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/17 - Kapitel 17 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/18 - Kapitel 18 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/19 - Kapitel 19 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/20 - Kapitel 20 - Die tanzenden Männchen - Gerd Köster liest Sherlock Holmes, Band 40.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 40 - Die tanzenden Männchen (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

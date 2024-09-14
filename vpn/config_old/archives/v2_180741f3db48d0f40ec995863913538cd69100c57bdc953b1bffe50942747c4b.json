@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB",
+    "files" : [ "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e01.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e01.german.dl.dubbed.1080p.web.h264-vodtv.nfo", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e02.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e03.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e04.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e05.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e06.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e07.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e08.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e09.german.dl.dubbed.1080p.web.h264-vodtv.mkv", "/opt/JDownloader/Downloads/Godfather of Harlem S01 1080p WEB/Godfather.of.Harlem.S01.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/godfather.of.harlem.s01e10.german.dl.dubbed.1080p.web.h264-vodtv.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

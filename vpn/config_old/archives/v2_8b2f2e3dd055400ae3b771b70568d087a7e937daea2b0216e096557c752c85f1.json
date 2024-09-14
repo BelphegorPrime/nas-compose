@@ -1,0 +1,16 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Blacklist S09E06 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Blacklist S09E06 1080p/The.Blacklist.S09E06.GERMAN.DL.1080p.WEB.h264-FENDT/The.Blacklist.S09E06.GERMAN.DL.1080p.WEB.h264-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/The Blacklist S09E06 1080p/The.Blacklist.S09E06.GERMAN.DL.1080p.WEB.h264-FENDT/the.blacklist.s09e06.german.dl.1080p.web.h264-fendt.nfo"
+                                                             ]
+                                        },
+ "autoExtract"                        : "UNSET",
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "extractPath"                        : null,
+ "removeFilesAfterExtraction"         : "UNSET",
+ "finalPassword"                      : null,
+ "passwords"                          : []
+}

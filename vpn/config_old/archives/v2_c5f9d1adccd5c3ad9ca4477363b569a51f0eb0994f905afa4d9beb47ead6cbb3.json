@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/fuziolkmdjhzsrduft",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/fuziolkmdjhzsrduft/Gold.Gier.hat.eine.neue.Farbe.2016.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-gogihaeinefa_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/fuziolkmdjhzsrduft/Gold.Gier.hat.eine.neue.Farbe.2016.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-gogihaeinefa_1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/fuziolkmdjhzsrduft/Gold.Gier.hat.eine.neue.Farbe.2016.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-gogihaeinefa_1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/fuziolkmdjhzsrduft/Gold.Gier.hat.eine.neue.Farbe.2016.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-gogihaeinefa_1080p_subs.rar",
+                                                              "/opt/JDownloader/Downloads/fuziolkmdjhzsrduft/Gold.Gier.hat.eine.neue.Farbe.2016.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-gogihaeinefa_1080p_subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

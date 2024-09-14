@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Das Rad der Zeit S02E08 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Das Rad der Zeit S02E08 1080p/Das.Rad.der.Zeit.S02E08.GERMAN.DL.1080p.WEB.h264-SAUERKRAUT/Das.Rad.der.Zeit.S02E08.GERMAN.DL.1080p.WEB.h264-SAUERKRAUT.mkv",
+                                                              "/opt/JDownloader/Downloads/Das Rad der Zeit S02E08 1080p/Das.Rad.der.Zeit.S02E08.GERMAN.DL.1080p.WEB.h264-SAUERKRAUT/das.rad.der.zeit.s02e08.german.dl.1080p.web.h264-sauerkraut.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

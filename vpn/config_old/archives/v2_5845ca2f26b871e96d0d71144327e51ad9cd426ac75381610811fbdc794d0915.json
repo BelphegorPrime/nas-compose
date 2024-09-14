@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Jurassic World Ein neues Zeitalter CAM",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Jurassic World Ein neues Zeitalter CAM/Jurassic.World.Ein.neues.Zeitalter.2022.German.AAC.CAM.x264-SnAkE/Jurassic.World.Ein.neues.Zeitalter.2022.German AAC CAM x264 - SnAkE.mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

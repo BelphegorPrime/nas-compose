@@ -1,0 +1,16 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Spider-Man No Way Home DL EAC3 Dubbed 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Spider-Man No Way Home DL EAC3 Dubbed 1080p BluRay/Spider-Man.No.Way.Home.2021.German.DL.EAC3.Dubbed.1080p.BluRay.x264-PsO/pso-spidernowayhome_bd.1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Spider-Man No Way Home DL EAC3 Dubbed 1080p BluRay/Spider-Man.No.Way.Home.2021.German.DL.EAC3.Dubbed.1080p.BluRay.x264-PsO/pso-spidernowayhome_bd.1080p.nfo"
+                                                             ]
+                                        },
+ "autoExtract"                        : "UNSET",
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : []
+}

@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/01 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/02 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/03 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/04 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/05 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/06 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/07 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/08 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/09 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/10 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 01/11 - Wolfgang Hohlbein - Kevins Reise CD01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/01 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/02 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/03 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/04 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/05 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/06 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/07 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/08 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/09 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/10 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/11 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/12 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/CD 02/13 - Wolfgang Hohlbein - Kevins Reise CD02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 02 - Kevins Reise - Der Ritter von Alexandria/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

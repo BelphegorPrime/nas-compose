@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/01 - Kapitel 1 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/02 - Kapitel 2 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/03 - Kapitel 3 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/04 - Kapitel 4 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/05 - Kapitel 5 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/06 - Kapitel 6 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/07 - Kapitel 7 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/08 - Kapitel 8 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/09 - Kapitel 9 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/10 - Kapitel 10 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/11 - Kapitel 11 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/12 - Kapitel 12 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/13 - Kapitel 13 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/14 - Kapitel 14 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/15 - Kapitel 15 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/16 - Kapitel 16 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/17 - Kapitel 17 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/18 - Kapitel 18 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/19 - Kapitel 19 - Der Mord in Abbey Grange - Gerd Köster liest Sherlock Holmes, Band 33.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 33 - Der Mord in Abbey Grange (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

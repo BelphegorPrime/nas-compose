@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Demon Slayer Kimetsu no Yaiba S04E01 GerEngSub AAC 720p WebDL x264-Tanuki",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Demon Slayer Kimetsu no Yaiba S04E01 GerEngSub AAC 720p WebDL x264-Tanuki/Demon.Slayer.Kimetsu.no.Yaiba.S04E09.GerEngSub.AAC.720p.WebDL.x264-Tanuki.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

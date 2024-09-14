@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Burn After Reading (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Burn After Reading (microHD)/Burn.After.Reading.2008.GERMAN.1040p.microHD.x264-RED/Burn After Reading (microHD).mkv",
+                                                              "/opt/JDownloader/Downloads/Burn After Reading (microHD)/Burn.After.Reading.2008.GERMAN.1040p.microHD.x264-RED/cover.jpeg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

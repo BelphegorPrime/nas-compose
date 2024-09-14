@@ -1,0 +1,22 @@
+Thu Mar 31 15:03:19 GMT 2022
+Package: package_1648661644315.awf
+Install
+Write Revision: 15998
+----------------Plugins----------------
+   jd/plugins/hoster/SeedrCc$1.class
+   jd/plugins/hoster/SeedrCc.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1648738993213.awf
+Install
+Write Revision: 15999
+----------------Plugins----------------
+   jd/plugins/hoster/OneFichierCom.class
+   jd/plugins/hoster/SeedrCc$1.class
+   jd/plugins/hoster/SeedrCc.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Doctor Strange in the Multiverse of Madness 1080p WEB-FENDT",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Doctor Strange in the Multiverse of Madness 1080p WEB-FENDT/Doctor.Strange.in.the.Multiverse.of.Madness.2022.GERMAN.DL.1080p.WEB.h264-FENDT/Doctor.Strange.in.the.Multiverse.of.Madness.2022.GERMAN.DL.1080p.WEB.h264-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/Doctor Strange in the Multiverse of Madness 1080p WEB-FENDT/Doctor.Strange.in.the.Multiverse.of.Madness.2022.GERMAN.DL.1080p.WEB.h264-FENDT/doctor.strange.in.the.multiverse.of.madness.2022.german.dl.1080p.web.h264-fendt.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

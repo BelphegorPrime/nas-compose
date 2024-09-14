@@ -1,0 +1,100 @@
+------------------------Thread: 40:org.jdownloader.api.myjdownloader.MyJDownloaderController.log-----------------------
+--ID:40TS:1718359306030-6/14/24, 10:01:46 AM -  [jd.http.Browser(setProxySelector)] -> Use local proxy: org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI$MyJDownloaderAPIBrowser$1@6d53b65c wished: org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI$MyJDownloaderAPIBrowser$1@6d53b65c
+--ID:40TS:1718359307175-6/14/24, 10:01:47 AM -  [jd.http.Browser(openRequestConnection)] -> 
+Caller: org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI.openRequestConnection(MyJDownloaderAPI.java:142)
+org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI.post(MyJDownloaderAPI.java:89)
+org.jdownloader.myjdownloader.client.AbstractMyJDClient.cryptedPost(AbstractMyJDClient.java:416)
+org.jdownloader.myjdownloader.client.AbstractMyJDClient.connect(AbstractMyJDClient.java:376)
+org.jdownloader.api.myjdownloader.MyJDownloaderController$3.run(MyJDownloaderController.java:332)
+BrowserID:1|BrowserParentID:-1|RequestID:1|URL:https://api.jdownloader.org/my/connect?email=s1588419%40gmail.com&appkey=JD_core_48254%7COS%3ALINUX%7CALPINE%7Ctrue%7CCPU%3AX86%7Ctrue%7CJVM%3A10000002000000%7Ctrue%7CDOCKER&rid=1718359306028&signature=f89bd8448e60def489a12add1340498091582cf16208b48182b1f6511c910dc9
+----------------Request Information-------------
+URL: https://api.jdownloader.org/my/connect?email=s1588419%40gmail.com&appkey=JD_core_48254%7COS%3ALINUX%7CALPINE%7Ctrue%7CCPU%3AX86%7Ctrue%7CJVM%3A10000002000000%7Ctrue%7CDOCKER&rid=1718359306028&signature=f89bd8448e60def489a12add1340498091582cf16208b48182b1f6511c910dc9
+URL-Parameters:
+   email     : s1588419@gmail.com
+   appkey    : JD_core_48254|OS:LINUX|ALPINE|true|CPU:X86|true|JVM:10000002000000|true|DOCKER
+   rid       : 1718359306028
+   signature : f89bd8448e60def489a12add1340498091582cf16208b48182b1f6511c910dc9
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+ConnectIP: api.jdownloader.org/88.99.115.46:443
+Connection-Timeout: 10000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+POST /my/connect?email=s1588419%40gmail.com&appkey=JD_core_48254%7COS%3ALINUX%7CALPINE%7Ctrue%7CCPU%3AX86%7Ctrue%7CJVM%3A10000002000000%7Ctrue%7CDOCKER&rid=1718359306028&signature=f89bd8448e60def489a12add1340498091582cf16208b48182b1f6511c910dc9 HTTP/1.1
+Host: api.jdownloader.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: de,en-gb;q=0.7,en;q=0.3
+Accept-Encoding: gazeisp
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+Content-Length: 0
+
+0 raw-bytes send
+----------------Response Information------------
+Connection-Time: 115ms
+Request-Time: 145ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 10:01:42 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: AppWork GmbH NIO-Engine
+Content-Encoding: gazeisp
+Access-Control-Allow-Origin: *
+X-UpstreamAddr: 127.0.0.1:10206
+X-UpstreamCTime: 0.000
+X-UpstreamHTime: 0.004
+------------------------------------------------
+
+
+--ID:40TS:1718359307328-6/14/24, 10:01:47 AM -  [jd.http.Browser(setProxySelector)] -> Use local proxy: org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI$MyJDownloaderAPIBrowser$1@5181b07c wished: org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI$MyJDownloaderAPIBrowser$1@5181b07c
+--ID:40TS:1718359307510-6/14/24, 10:01:47 AM -  [jd.http.Browser(openRequestConnection)] -> 
+Caller: org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI.openRequestConnection(MyJDownloaderAPI.java:142)
+org.jdownloader.api.myjdownloader.api.MyJDownloaderAPI.post(MyJDownloaderAPI.java:89)
+org.jdownloader.myjdownloader.client.AbstractMyJDClient.cryptedPost(AbstractMyJDClient.java:416)
+org.jdownloader.myjdownloader.client.AbstractMyJDClient.callServer(AbstractMyJDClient.java:303)
+org.jdownloader.myjdownloader.client.AbstractMyJDClient.disconnect(AbstractMyJDClient.java:440)
+org.jdownloader.myjdownloader.client.AbstractMyJDClient.disconnect(AbstractMyJDClient.java:433)
+org.jdownloader.api.myjdownloader.MyJDownloaderController$3.run(MyJDownloaderController.java:334)
+BrowserID:2|BrowserParentID:-1|RequestID:1|URL:https://api.jdownloader.org/my/disconnect?sessiontoken=2dc6c963f989491c96b60198e85e9993905be67d&rid=1718359306029&signature=7b50db5835e8e9f1c8aeab06d74583a76a893f1b062037e3a4b962e1273ba162
+----------------Request Information-------------
+URL: https://api.jdownloader.org/my/disconnect?sessiontoken=2dc6c963f989491c96b60198e85e9993905be67d&rid=1718359306029&signature=7b50db5835e8e9f1c8aeab06d74583a76a893f1b062037e3a4b962e1273ba162
+URL-Parameters:
+   sessiontoken : 2dc6c963f989491c96b60198e85e9993905be67d
+   rid          : 1718359306029
+   signature    : 7b50db5835e8e9f1c8aeab06d74583a76a893f1b062037e3a4b962e1273ba162
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384
+ConnectIP: api.jdownloader.org/88.99.115.46:443
+Connection-Timeout: 10000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+POST /my/disconnect?sessiontoken=2dc6c963f989491c96b60198e85e9993905be67d&rid=1718359306029&signature=7b50db5835e8e9f1c8aeab06d74583a76a893f1b062037e3a4b962e1273ba162 HTTP/1.1
+Host: api.jdownloader.org
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: de,en-gb;q=0.7,en;q=0.3
+Accept-Encoding: gazeisp
+Cache-Control: no-cache
+Content-Type: application/json; charset=utf-8
+Content-Length: 0
+
+0 raw-bytes send
+----------------Response Information------------
+Connection-Time: keep-Alive
+Request-Time: 146ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 10:01:43 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: AppWork GmbH NIO-Engine
+Content-Encoding: gazeisp
+Access-Control-Allow-Origin: *
+X-UpstreamAddr: 127.0.0.1:10206
+X-UpstreamCTime: 0.000
+X-UpstreamHTime: 0.000
+------------------------------------------------
+
+

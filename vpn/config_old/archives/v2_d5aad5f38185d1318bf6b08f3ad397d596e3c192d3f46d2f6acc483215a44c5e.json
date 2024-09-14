@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die Zeitritter - Auf der Suche nach dem heiligen Zahn (1998)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Zeitritter - Auf der Suche nach dem heiligen Zahn (1998)/Die Zeitritter - Auf der Suche nach dem heiligen Zahn.mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

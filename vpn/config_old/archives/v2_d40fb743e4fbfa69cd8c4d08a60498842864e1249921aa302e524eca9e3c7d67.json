@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/black mirror s04-HD",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/black mirror s04-HD/Black.Mirror.S04E03.Hang.the.DJ.German.DD51.DL.1080p.NetflixHD.x264-TVS/tvs-bm-dd51-dl-18p-nfhd-x264-403.mkv",
+                                                              "/opt/JDownloader/Downloads/black mirror s04-HD/Black.Mirror.S04E03.Hang.the.DJ.German.DD51.DL.1080p.NetflixHD.x264-TVS/tvs-bm-dd51-dl-18p-nfhd-x264-403.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

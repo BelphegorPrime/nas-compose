@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bored to Death 3",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e01.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e01.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e02.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e02.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e03.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e03.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e04-sample.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e04.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e04.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e05.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e05.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e06.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e06.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e07.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e07.nfo",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e08.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 3/Bored.To.Death.S03.GERMAN.Dubbed.BDRiP.XviD-idTV/idtv-bored.to.death.s03e08.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

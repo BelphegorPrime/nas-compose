@@ -1,0 +1,28 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Die verschleierte Mieterin _ Die Löwenmähne - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 079 - Die verschleierte Mieterin - Die Löwenmähne/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

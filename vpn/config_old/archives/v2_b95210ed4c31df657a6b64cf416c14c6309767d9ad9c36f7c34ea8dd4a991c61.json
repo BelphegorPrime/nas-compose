@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Supergirl S05 BDRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Supergirl S05 BDRip/Supergirl.S05E09.German.BDRip.x264-iNTENTiON/Subs/supergirl.s05e09.german.bdrip.x264-intention.subs.rar",
+                                                              "/opt/JDownloader/Downloads/Supergirl S05 BDRip/Supergirl.S05E09.German.BDRip.x264-iNTENTiON/supergirl.s05e09.german.bdrip.x264-intention.mkv",
+                                                              "/opt/JDownloader/Downloads/Supergirl S05 BDRip/Supergirl.S05E09.German.BDRip.x264-iNTENTiON/supergirl.s05e09.german.bdrip.x264-intention.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

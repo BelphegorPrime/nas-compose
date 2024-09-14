@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Leverage Redemption S01E11 1080p",
+    "files" : [ "/opt/JDownloader/Downloads/Leverage Redemption S01E11 1080p/Leverage.Redemption.S01E11.German.DL.1080p.WEB.x264-WvF/leverage.redemption.s01e11.german.dl.1080p.web.x264-wvf.mkv", "/opt/JDownloader/Downloads/Leverage Redemption S01E11 1080p/Leverage.Redemption.S01E11.German.DL.1080p.WEB.x264-WvF/leverage.redemption.s01e11.german.dl.1080p.web.x264-wvf.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

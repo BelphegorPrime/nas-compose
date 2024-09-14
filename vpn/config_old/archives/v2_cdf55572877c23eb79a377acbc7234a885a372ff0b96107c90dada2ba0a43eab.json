@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/NCIS S19E16 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/NCIS S19E16 1080p/NCIS.S19E16.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/ncis.s19e16.german.dl.dubbed.1080p.web.h264-vodtv.mkv",
+                                                              "/opt/JDownloader/Downloads/NCIS S19E16 1080p/NCIS.S19E16.GERMAN.DL.DUBBED.1080p.WEB.h264-VoDTv/ncis.s19e16.german.dl.dubbed.1080p.web.h264-vodtv.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

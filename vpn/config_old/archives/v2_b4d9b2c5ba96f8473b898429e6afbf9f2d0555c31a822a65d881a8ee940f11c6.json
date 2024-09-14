@@ -1,0 +1,24 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/DOORS - Drei Sekunden - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/DOORS - Drei Sekunden - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/DOORS - Drei Sekunden - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/_play.m3u",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Staffel 2 - 00 - Drei Sekunden (ungekürzt)/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

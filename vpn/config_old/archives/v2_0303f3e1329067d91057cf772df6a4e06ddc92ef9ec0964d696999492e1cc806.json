@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/01 - Die Vergessene Insel.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/02 - Das Mädchen Von Atlantis.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/03 - Die Herren Der Tiefe.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/04 - Das Meeresfeuer.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/05 - Die Schwarze Bruderschaft.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/06 - Die Steinerne Pest.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/07 - Die Grauen Waechter.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/08 - Die Stadt Der Verlorenen.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/09 - Die Insel Der Vulkane.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/10 - Im Tal Der Giganten.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/11 - Die Stadt Unter Dem Eis.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/Wolgang Hohlbein - Operation Nautilus 1-12/12 - Die Rueckkehr Der Nautilus.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Operation Nautilus 1-12/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/George der aus dem Dschungel kam",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/George der aus dem Dschungel kam/George.der.aus.dem.Dschungel.kam.German.1997.AC3.DVDRip.XViD.iNTERNAL-HaVeFuN/HaVeFuN-george1-xvid.avi",
+                                                              "/opt/JDownloader/Downloads/George der aus dem Dschungel kam/George.der.aus.dem.Dschungel.kam.German.1997.AC3.DVDRip.XViD.iNTERNAL-HaVeFuN/havefun-george1-xvid.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

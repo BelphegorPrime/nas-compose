@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/01 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/02 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/03 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/04 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/05 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/06 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/07 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 1/08 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/01 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/02 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/03 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/04 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/05 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/06 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/07 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 2/08 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/01 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/02 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/03 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/04 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/05 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/06 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/07 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/CD 3/08 - Die Volle Wahrheit.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND25 - Die volle Wahrheit (gekürzt)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

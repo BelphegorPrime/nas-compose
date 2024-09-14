@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/01 - Kapitel 1 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/02 - Kapitel 2 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/03 - Kapitel 3 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/04 - Kapitel 4 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/05 - Kapitel 5 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/06 - Kapitel 6 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/07 - Kapitel 7 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/08 - Kapitel 8 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/09 - Kapitel 9 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/10 - Kapitel 10 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/11 - Kapitel 11 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/12 - Kapitel 12 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/13 - Kapitel 13 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/14 - Kapitel 14 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/15 - Kapitel 15 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/16 - Kapitel 16 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/17 - Kapitel 17 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/18 - Kapitel 18 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/19 - Kapitel 19 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/20 - Kapitel 20 - Der goldene Klemmer - Gerd Köster liest Sherlock Holmes, Band 28.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 28 - Der goldene Klemmer (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

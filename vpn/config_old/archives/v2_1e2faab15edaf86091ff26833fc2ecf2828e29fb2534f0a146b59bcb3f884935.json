@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Ghost in the Shell 2017 (microHD)",
+    "files" : [ "/opt/JDownloader/Downloads/Ghost in the Shell 2017 (microHD)/Ghost.in.the.Shell.2017.GERMAN.DL.1040p.microHD.x264-MAJIN/Ghost in the Shell (microHD) MAJIN.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

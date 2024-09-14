@@ -1,0 +1,57 @@
+------------------------Thread: 16615:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:16615TS:1718379545625-6/14/24, 3:39:05 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:16615TS:1718379545625-6/14/24, 3:39:05 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Rookie.S06E07.720p.part1.rar
+--ID:16615TS:1718379545626-6/14/24, 3:39:05 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Rookie.S06E07.720p.part2.rar
+------------------------Thread: 16801:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:16801TS:1718379574428-6/14/24, 3:39:34 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:16801TS:1718379574428-6/14/24, 3:39:34 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Boys.S04E03.720p.part1.rar
+--ID:16801TS:1718379574428-6/14/24, 3:39:34 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Boys.S04E03.720p.part2.rar
+------------------------Thread: 18372:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:18372TS:1718379763840-6/14/24, 3:42:43 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:18372TS:1718379763840-6/14/24, 3:42:43 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Boys.S04E01.720p.part1.rar
+--ID:18372TS:1718379763840-6/14/24, 3:42:43 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Boys.S04E01.720p.part2.rar
+------------------------Thread: 22339:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:22339TS:1718380289534-6/14/24, 3:51:29 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:22339TS:1718380289534-6/14/24, 3:51:29 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Boys.S04E02.720p.part1.rar
+--ID:22339TS:1718380289534-6/14/24, 3:51:29 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Boys.S04E02.720p.part2.rar
+------------------------Thread: 24175:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:24175TS:1718380603558-6/14/24, 3:56:43 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:24175TS:1718380603558-6/14/24, 3:56:43 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part1.rar
+--ID:24175TS:1718380603558-6/14/24, 3:56:43 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Kung.Fu.Panda.2008.GERMAN816p.microHD.x264-RED.part2.rar
+------------------------Thread: 28896:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:28896TS:1718381380039-6/14/24, 4:09:40 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:28896TS:1718381380039-6/14/24, 4:09:40 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part1.rar
+--ID:28896TS:1718381380039-6/14/24, 4:09:40 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Kung.Fu.Panda.2.2011.GERMAN.816p.microHD.x264-RED.part2.rar
+------------------------Thread: 32380:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:32380TS:1718381824978-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:32380TS:1718381824979-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:108BD-KungFuPanda3PROPER-ENCOUNTERS.part1.rar
+--ID:32380TS:1718381824979-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:108BD-KungFuPanda3PROPER-ENCOUNTERS.part2.rar
+--ID:32380TS:1718381824979-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:108BD-KungFuPanda3PROPER-ENCOUNTERS.part3.rar
+--ID:32380TS:1718381824979-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:108BD-KungFuPanda3PROPER-ENCOUNTERS.part4.rar
+--ID:32380TS:1718381824979-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:108BD-KungFuPanda3PROPER-ENCOUNTERS.part5.rar
+--ID:32380TS:1718381824979-6/14/24, 4:17:04 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:108BD-KungFuPanda3PROPER-ENCOUNTERS.part6.rar
+--ID:32380TS:1718381825037-6/14/24, 4:17:05 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:32380TS:1718381825166-6/14/24, 4:17:05 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+------------------------Thread: 36636:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:36636TS:1718382480611-6/14/24, 4:28:00 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:36636TS:1718382480611-6/14/24, 4:28:00 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Kung.Fu.Panda.4.1080p.BluRay.part1.rar
+--ID:36636TS:1718382480611-6/14/24, 4:28:00 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Kung.Fu.Panda.4.1080p.BluRay.part2.rar
+--ID:36636TS:1718382480611-6/14/24, 4:28:00 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Kung.Fu.Panda.4.1080p.BluRay.part3.rar
+------------------------Thread: 39175:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:39175TS:1718382984666-6/14/24, 4:36:24 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:39175TS:1718382984666-6/14/24, 4:36:24 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Will.Trent.S02E08.720p.rar
+------------------------Thread: 39460:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:39460TS:1718383016843-6/14/24, 4:36:56 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:39460TS:1718383016843-6/14/24, 4:36:56 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Acolyte.S01E03.720p.part1.rar
+--ID:39460TS:1718383016843-6/14/24, 4:36:56 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:The.Acolyte.S01E03.720p.part2.rar
+------------------------Thread: 39710:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:39710TS:1718383046736-6/14/24, 4:37:26 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:39710TS:1718383046736-6/14/24, 4:37:26 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Interview.with.the.Vampire.S02E05.720p.part1.rar
+--ID:39710TS:1718383046736-6/14/24, 4:37:26 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Interview.with.the.Vampire.S02E05.720p.part2.rar
+------------------------Thread: 39803:org.jdownloader.extensions.extraction.ExtractionController.log-----------------------
+--ID:39803TS:1718383086585-6/14/24, 4:38:06 PM -  [org.jdownloader.extensions.extraction.ExtractionListenerList(onExtractionEvent)] -> Cleanup
+--ID:39803TS:1718383086585-6/14/24, 4:38:06 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part1.rar
+--ID:39803TS:1718383086585-6/14/24, 4:38:06 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part2.rar
+--ID:39803TS:1718383086585-6/14/24, 4:38:06 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part3.rar
+--ID:39803TS:1718383086585-6/14/24, 4:38:06 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part4.rar
+--ID:39803TS:1718383086585-6/14/24, 4:38:06 PM -  [org.jdownloader.extensions.extraction.bindings.downloadlink.DownloadLinkArchiveFile(onCleanedUp)] -> NEVER:Dark.Matter.Der.Zeitenlaeufer.S01E07.1080P.part5.rar

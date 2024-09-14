@@ -1,0 +1,29 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/01-SHERLOCK HOLMES CHRONICLES _ Das schwarze Phantom.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/02-SHERLOCK HOLMES CHRONICLES _ Kann ich den Tee.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/03-SHERLOCK HOLMES CHRONICLES _ Holmes sank in seinen Sessel.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/04-SHERLOCK HOLMES CHRONICLES _ Wir hielten uns.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/05-SHERLOCK HOLMES CHRONICLES _ Ich schlief.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/06-SHERLOCK HOLMES CHRONICLES _ Mein Freund.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/07-SHERLOCK HOLMES CHRONICLES _ Darf ich.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/08-SHERLOCK HOLMES CHRONICLES _ Holmes hatte wieder.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/09-SHERLOCK HOLMES CHRONICLES _ Nach zehn Minuten.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/10-SHERLOCK HOLMES CHRONICLES _ Kane starrte.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/SHC_85_Booklet-lmzd6n.pdf",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 085 - Das schwarze Phantom/SHC_85_Phantom.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

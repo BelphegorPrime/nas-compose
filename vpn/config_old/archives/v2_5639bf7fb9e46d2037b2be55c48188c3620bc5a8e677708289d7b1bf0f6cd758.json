@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/UP2611-NPUB31848_00-HDDBOOTPERSONA05_bg_1_c122979e59ce5776a3ce4418c242e51a5e7a81bc.pkg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Interview with the Vampire S01E03-E07 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Interview with the Vampire S01E03-E07 720p/interview.with.the.vampire.s01e06.german.dl.720p.web.h264-wvf.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

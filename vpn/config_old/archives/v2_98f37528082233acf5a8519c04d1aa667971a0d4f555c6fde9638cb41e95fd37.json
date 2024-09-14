@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Kevin \u2013 Allein in New York (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Kevin \u2013 Allein in New York (microHD)/Kevin.Allein.in.New.York.1992.GERMAN.1080p.microHD.x264-RED/Kevin \u2013 Allein in New York (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

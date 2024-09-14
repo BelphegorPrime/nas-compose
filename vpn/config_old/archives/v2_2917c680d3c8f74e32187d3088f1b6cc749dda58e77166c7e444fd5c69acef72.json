@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc/epr-22851.ic27",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc/epr-22850.ic27",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc/epr-22849.ic27"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

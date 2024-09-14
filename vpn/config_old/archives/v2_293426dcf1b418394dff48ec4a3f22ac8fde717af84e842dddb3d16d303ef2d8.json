@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD313SST2",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD313SST2/Starship.Troopers.2.Held.der.Foederation.2004.GERMAN.1080p.microHD.x264-Raistlin911/Starship.Troopers.2.Held.der.Foederation.2004.GERMAN.1080p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 1/01 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 1/02 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 1/03 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 1/04 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 1/05 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 2/01 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 2/02 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 2/03 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 2/04 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 2/05 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 3/01 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 3/02 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 3/03 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 3/04 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 3/05 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 4/01 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 4/02 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 4/03 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 4/04 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 4/05 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 5/01 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 5/02 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 5/03 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/CD 5/04 - Schöne Scheine.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND36 - Schöne Scheine (gekürzt) V.2/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

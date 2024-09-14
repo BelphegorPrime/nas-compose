@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/01 - Sherlock Holmes und der Krokodilmann - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/02 - Sherlock Holmes und der Krokodilmann - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/03 - Sherlock Holmes und der Krokodilmann - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/04 - Sherlock Holmes und der Krokodilmann - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/05 - Sherlock Holmes und der Krokodilmann - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/06 - Sherlock Holmes und der Krokodilmann - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/07 - Sherlock Holmes und der Krokodilmann - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/08 - Sherlock Holmes und der Krokodilmann - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/09 - Sherlock Holmes und der Krokodilmann - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/10 - Sherlock Holmes und der Krokodilmann - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/11 - Sherlock Holmes und der Krokodilmann - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/12 - Sherlock Holmes und der Krokodilmann - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/13 - Sherlock Holmes und der Krokodilmann - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/14 - Sherlock Holmes und der Krokodilmann - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/15 - Sherlock Holmes und der Krokodilmann - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/16 - Sherlock Holmes und der Krokodilmann - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/17 - Sherlock Holmes und der Krokodilmann - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/18 - Sherlock Holmes und der Krokodilmann - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/19 - Sherlock Holmes und der Krokodilmann - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/20 - Sherlock Holmes und der Krokodilmann - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/21 - Sherlock Holmes und der Krokodilmann - Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/22 - Sherlock Holmes und der Krokodilmann - Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/23 - Sherlock Holmes und der Krokodilmann - Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/24 - Sherlock Holmes und der Krokodilmann - Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 40 - Sherlock Holmes und der Krokodilmann/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

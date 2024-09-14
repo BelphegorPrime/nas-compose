@@ -1,0 +1,34 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/back.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 1/01 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 1/02 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 1/03 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 1/04 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 2/01 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 2/01 Terry Pratchett Ab die Post CD2.mp3.XXXXXX",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 2/02 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 2/03 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 2/04 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 3/01 Terry Pratchett Ab die Post CD3.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 3/02 Terry Pratchett Ab die Post CD3.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 3/03 Terry Pratchett Ab die Post CD3.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 3/04 Terry Pratchett Ab die Post CD3.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 4/01 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 4/02 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 4/03 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/CD 4/04 - Ab Die Post.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND33 - Ab die Post (gekürzt)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

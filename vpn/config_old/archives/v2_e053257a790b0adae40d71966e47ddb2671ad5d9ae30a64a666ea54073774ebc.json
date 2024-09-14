@@ -1,0 +1,16 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/NCIS S18E05 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/NCIS S18E05 720p/NCIS.S18E05.German.DL.720p.WEB.x264-WvF/ncis.s18e05.german.dl.720p.web.x264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/NCIS S18E05 720p/NCIS.S18E05.German.DL.720p.WEB.x264-WvF/ncis.s18e05.german.dl.720p.web.x264-wvf.nfo"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

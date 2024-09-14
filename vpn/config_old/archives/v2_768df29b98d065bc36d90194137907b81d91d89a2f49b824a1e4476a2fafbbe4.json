@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/StWaReb S02E22 Ezras Versuchung Teil2 bd 7p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/StWaReb S02E22 Ezras Versuchung Teil2 bd 7p/Star.Wars.Rebels.S01E12.Die.Stimme.der.Freiheit.German.DL.720p.BluRay.x264-TV4A/tv4a-starwarsrebels.s01e12-720p.mkv",
+                                                              "/opt/JDownloader/Downloads/StWaReb S02E22 Ezras Versuchung Teil2 bd 7p/Star.Wars.Rebels.S01E12.Die.Stimme.der.Freiheit.German.DL.720p.BluRay.x264-TV4A/tv4a-starwarsrebels.s01e12-720p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

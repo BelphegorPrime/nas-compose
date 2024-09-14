@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/Shin Megami Tensei - Persona 2 - Innocent Sin (USA).iso"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

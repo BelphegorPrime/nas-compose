@@ -1,0 +1,47 @@
+Mon May 09 16:13:20 GMT 2022
+Package: package_1652100982651.awf
+Install
+Write Revision: 16054
+----------------Plugins----------------
+   jd/plugins/decrypter/GoGoStream.class.removed
+   jd/plugins/decrypter/InstaGramComDecrypter$InstagramMetadata.class
+   jd/plugins/decrypter/InstaGramComDecrypter.class
+   jd/plugins/decrypter/PornEmbedParser.class
+   jd/plugins/hoster/MultiShareCz.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1652104582374.awf
+Install
+Write Revision: 16055
+----------------Plugins----------------
+   jd/plugins/decrypter/AbstractPastebinCrawler$PastebinMetadata.class
+   jd/plugins/decrypter/AbstractPastebinCrawler.class
+   jd/plugins/decrypter/AnotepadCom.class
+   jd/plugins/decrypter/FakkuNet.class
+   jd/plugins/decrypter/MixoticNet.class
+   jd/plugins/decrypter/MotorsportMagazinCom.class.removed
+   jd/plugins/decrypter/MountFileNetFolder.class
+   jd/plugins/decrypter/MovierlsNet.class.removed
+   jd/plugins/decrypter/MoviesWatch.class.removed
+   jd/plugins/decrypter/Paste2Org.class
+   jd/plugins/hoster/FakkuNet.class
+   jd/plugins/hoster/RecurbateCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1652111782501.awf
+Install
+Write Revision: 16057
+----------------Plugins----------------
+   jd/plugins/decrypter/FakkuNet.class
+   jd/plugins/decrypter/MotherLessCom$1.class
+   jd/plugins/decrypter/MotherLessCom.class
+   jd/plugins/hoster/FakkuNet.class
+   jd/plugins/hoster/MotherLessCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

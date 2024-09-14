@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.100.S07E01.Eine.neue.Welt.German.Dubbed.DL.1080p.WEB.PROPER.H264-JaJunge/jajunge-the.100.s07e01.1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/The.100.S07E01.Eine.neue.Welt.German.Dubbed.DL.1080p.WEB.PROPER.H264-JaJunge/jajunge-the.100.s07e01.1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/The.100.S07E01.Eine.neue.Welt.German.Dubbed.DL.1080p.WEB.PROPER.H264-JaJunge/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

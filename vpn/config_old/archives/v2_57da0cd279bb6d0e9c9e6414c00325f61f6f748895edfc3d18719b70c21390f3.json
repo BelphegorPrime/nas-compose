@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6995825",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6995825/Tad Williams - Otherland 04.5 - Der glücklichste tote Junge der Welt (ungekuerzt)/05 - Der glücklichste tote Junge der Welt.mp3",
+                                                              "/opt/JDownloader/Downloads/6995825/Tad Williams - Otherland 04.5 - Der glücklichste tote Junge der Welt (ungekuerzt)/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/6995825/Tad Williams - Otherland 04.5 - Der glücklichste tote Junge der Welt (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/6995825/Tad Williams - Otherland 04.5 - Der glücklichste tote Junge der Welt (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/6995825/Tad Williams - Otherland 04.5 - Der glücklichste tote Junge der Welt (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

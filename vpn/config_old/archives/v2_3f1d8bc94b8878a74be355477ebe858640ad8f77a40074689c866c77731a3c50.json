@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Brandon Sanderson, Janci Patterson - Claim the Stars 00 - Skyward Flight",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Brandon Sanderson, Janci Patterson - Claim the Stars 00 - Skyward Flight/Brandon Sanderson, Janci Patterson - Claim the Stars 00 - Skyward Flight/Claim the Stars 00 - Skyward Flight.azw3",
+                                                              "/opt/JDownloader/Downloads/Brandon Sanderson, Janci Patterson - Claim the Stars 00 - Skyward Flight/Brandon Sanderson, Janci Patterson - Claim the Stars 00 - Skyward Flight/Claim the Stars 00 - Skyward Flight.epub",
+                                                              "/opt/JDownloader/Downloads/Brandon Sanderson, Janci Patterson - Claim the Stars 00 - Skyward Flight/Brandon Sanderson, Janci Patterson - Claim the Stars 00 - Skyward Flight/Claim the Stars 00 - Skyward Flight.mobi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

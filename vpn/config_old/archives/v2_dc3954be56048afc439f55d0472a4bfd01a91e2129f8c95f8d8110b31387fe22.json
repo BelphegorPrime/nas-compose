@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Marvelous Mrs Maisel S04E01 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Marvelous Mrs Maisel S04E01 720p/The.Marvelous.Mrs.Maisel.S04E02.German.DL.720p.WEB.h264-WvF/the.marvelous.mrs.maisel.s04e02.german.dl.720p.web.h264-wvf.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

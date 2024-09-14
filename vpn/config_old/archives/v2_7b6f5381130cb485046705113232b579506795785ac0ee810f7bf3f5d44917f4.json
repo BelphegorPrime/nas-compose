@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Marvelous Mrs Maisel S05E05 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Marvelous Mrs Maisel S05E05 720p/The.Marvelous.Mrs.Maisel.S05E04.German.DL.720p.WEB.h264-WvF/the.marvelous.mrs.maisel.s05e04.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/The Marvelous Mrs Maisel S05E05 720p/The.Marvelous.Mrs.Maisel.S05E04.German.DL.720p.WEB.h264-WvF/the.marvelous.mrs.maisel.s05e04.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

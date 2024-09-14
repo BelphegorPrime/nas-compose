@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/28796986787687654",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/28796986787687654/For.All.Mankind.S01E01.German.DL.PROPER.1080p.WEB.H264-OHD/for.all.mankind.s01e01.german.dl.proper.1080p.web.h264-ohd.mkv",
+                                                              "/opt/JDownloader/Downloads/28796986787687654/For.All.Mankind.S01E01.German.DL.PROPER.1080p.WEB.H264-OHD/for.all.mankind.s01e01.german.dl.proper.1080p.web.h264-ohd.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

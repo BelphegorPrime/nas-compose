@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/galavant",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/galavant/Galavant.S01E05.Moenche.Mordlust.Madalena.GERMAN.HDTVRip.x264-MDGP/mdgp-galavants01e05-480p.mkv",
+                                                              "/opt/JDownloader/Downloads/galavant/Galavant.S01E05.Moenche.Mordlust.Madalena.GERMAN.HDTVRip.x264-MDGP/mdgp-galavants01e05-480p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

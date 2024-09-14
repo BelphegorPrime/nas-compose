@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/TB2309",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TB2309/TB2309/Too.Big.to.Fail.Die.grosse.Krise.2011.German.AC3D.DL.720p.BluRay.x264-KLASSiGERHD/DS_Store",
+                                                              "/opt/JDownloader/Downloads/TB2309/TB2309/Too.Big.to.Fail.Die.grosse.Krise.2011.German.AC3D.DL.720p.BluRay.x264-KLASSiGERHD/klassigerhd-toobigtofail_2011_720p.mkv",
+                                                              "/opt/JDownloader/Downloads/TB2309/TB2309/Too.Big.to.Fail.Die.grosse.Krise.2011.German.AC3D.DL.720p.BluRay.x264-KLASSiGERHD/klassigerhd-toobigtofail_2011_720p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

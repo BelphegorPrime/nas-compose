@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Triple Frontier 2019 WebRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Triple Frontier 2019 WebRip/Triple.Frontier.2019.German.WebRip.x264-GSG9/Triple.Frontier.2019.German.WebRip.x264-GSG9.mkv",
+                                                              "/opt/JDownloader/Downloads/Triple Frontier 2019 WebRip/Triple.Frontier.2019.German.WebRip.x264-GSG9/triple.frontier.2019.german.webrip.x264-gsg9.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

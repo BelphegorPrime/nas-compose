@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E21.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E22.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E23.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E24.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E01.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E02.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E03.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E04.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E06.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E07.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E08.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E09.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E10.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E11.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E12.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E13.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E14.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E15.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E16.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E17.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E18.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E19.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S01 01 24/The_Seven_Deadly_Sins_S01_E20.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

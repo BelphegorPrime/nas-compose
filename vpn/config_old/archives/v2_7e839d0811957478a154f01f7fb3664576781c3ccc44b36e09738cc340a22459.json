@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/01 - Kapitel 1 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/02 - Kapitel 2 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/03 - Kapitel 3 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/04 - Kapitel 4 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/05 - Kapitel 5 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/06 - Kapitel 6 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/07 - Kapitel 7 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/08 - Kapitel 8 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/09 - Kapitel 9 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/10 - Kapitel 10 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/11 - Kapitel 11 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/12 - Kapitel 12 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/13 - Kapitel 13 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/14 - Kapitel 14 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/15 - Kapitel 15 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/16 - Kapitel 16 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/17 - Kapitel 17 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/18 - Kapitel 18 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/19 - Kapitel 19 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/20 - Kapitel 20 - Der zweite Blutflecken - Gerd Köster liest Sherlock Holmes, Band 35.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 35 - Der zweite Blutflecken (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

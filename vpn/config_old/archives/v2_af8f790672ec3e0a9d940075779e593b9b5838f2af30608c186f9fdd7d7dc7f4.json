@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD1/12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/CD2/11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/Thumbs.db",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Kevin von Locksley 03 - Kevins Schwur - Die Druiden von Stonehenge/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

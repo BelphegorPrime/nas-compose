@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Anchor2",
+    "files" : [ "/opt/JDownloader/Downloads/Anchor2/Anchorman.-.Die.Legende.kehrt.zurück.2013.GERMAN.800p.microHD.x264-Banandi/Anchorman.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

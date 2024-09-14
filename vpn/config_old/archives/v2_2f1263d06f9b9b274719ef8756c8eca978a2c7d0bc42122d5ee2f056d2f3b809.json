@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Doctor Who 2005 S14E01 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Doctor Who 2005 S14E01 720p/Doctor.Who.2005.S14E01.German.DL.720p.WEB.h264-WvF/doctor.who.2005.s14e01.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Doctor Who 2005 S14E01 720p/Doctor.Who.2005.S14E01.German.DL.720p.WEB.h264-WvF/doctor.who.2005.s14e01.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

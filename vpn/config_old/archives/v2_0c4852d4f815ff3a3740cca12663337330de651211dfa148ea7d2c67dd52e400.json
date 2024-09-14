@@ -1,0 +1,15 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Future Man S02-18p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Future Man S02-18p/Future.Man.S03E04.GERMAN.DL.1080p.WEB.H264-FENDT.mkv"
+                                                             ]
+                                        }
+}

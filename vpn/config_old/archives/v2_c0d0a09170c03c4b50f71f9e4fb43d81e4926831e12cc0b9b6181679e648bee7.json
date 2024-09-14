@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/intro.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 13.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 14.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 15.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 16.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 17.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 18.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 19.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/Hoerbuch.Wolfgang.Hohlbein.-.Märchenmond/Märchenmond 20.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang und Heike Hohlbein - Märchenmond/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

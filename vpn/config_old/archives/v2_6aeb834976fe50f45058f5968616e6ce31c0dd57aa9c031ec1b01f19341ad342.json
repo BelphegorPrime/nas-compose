@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/01 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/02 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/03 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/04 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/05 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/06 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/07 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/08 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/09 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/10 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/11 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/12 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/13 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/14 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/15 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/16 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/17 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/18 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/19 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/20 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/21 Die Blutgraefin.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 06 Die Blutgraefin/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/1 - Loge 341, Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/10 - Loge 341, Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/2 - Loge 341, Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/3 - Loge 341, Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/4 - Loge 341, Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/5 - Loge 341, Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/6 - Loge 341, Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/7 - Loge 341, Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/8 - Loge 341, Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/9 - Loge 341, Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 008 - Loge 341/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

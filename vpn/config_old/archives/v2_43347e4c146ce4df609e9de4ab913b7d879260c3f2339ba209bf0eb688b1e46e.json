@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD402CAV",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD402CAV/Cast.Away.-.Verschollen.2000.GERMAN.1080p.microHD.x264-Raistlin911/Cast.Away.-.Verschollen.2000.GERMAN.1080p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

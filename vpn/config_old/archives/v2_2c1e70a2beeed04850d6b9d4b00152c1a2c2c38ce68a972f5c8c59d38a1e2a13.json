@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/3 Body Problem S01 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/3 Body Problem S01 1080p WEB/3.body.problem.s01e05.german.dl.1080p.web.h264-mge.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

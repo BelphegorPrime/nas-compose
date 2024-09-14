@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/1 - Der unheimliche Würger (Teil 1).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/10 - Der unheimliche Würger (Teil 10).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/11 - Der unheimliche Würger (Teil 11).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/12 - Der unheimliche Würger (Teil 12).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/13 - Der unheimliche Würger (Teil 13).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/14 - Der unheimliche Würger (Teil 14).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/15 - Der unheimliche Würger (Teil 15).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/16 - Der unheimliche Würger (Teil 16).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/17 - Der unheimliche Würger (Teil 17).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/18 - Der unheimliche Würger (Teil 18).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/19 - Der unheimliche Würger (Teil 19).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/2 - Der unheimliche Würger (Teil 2).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/20 - Der unheimliche Würger (Teil 20).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/21 - Der unheimliche Würger (Teil 21).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/22 - Der unheimliche Würger (Teil 22).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/23 - Der unheimliche Würger (Teil 23).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/24 - Der unheimliche Würger (Teil 24).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/25 - Der unheimliche Würger (Teil 25).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/26 - Der unheimliche Würger (Teil 26).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/3 - Der unheimliche Würger (Teil 3).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/4 - Der unheimliche Würger (Teil 4).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/5 - Der unheimliche Würger (Teil 5).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/6 - Der unheimliche Würger (Teil 6).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/7 - Der unheimliche Würger (Teil 7).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/8 - Der unheimliche Würger (Teil 8).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/9 - Der unheimliche Würger (Teil 9).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 033 - Der unheimliche Würger/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

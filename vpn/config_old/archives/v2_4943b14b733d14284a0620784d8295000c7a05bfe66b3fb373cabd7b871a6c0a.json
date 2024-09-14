@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Overlord S01 COMPLETE German 2015 ANiME DL BDRiP x264",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Overlord S01 COMPLETE German 2015 ANiME DL BDRiP x264/Overlord.S01.COMPLETE.German.2015.ANiME.DL.BDRiP.x264-3MiNA/Overlord.S01.COMPLETE.German.2015.ANiME.DL.BDRiP.x264-3MiNA.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

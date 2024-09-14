@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/DRPKz 1975",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/DRPKz 1975/CD1/daw-panther1/daw-panther1.avi",
+                                                              "/opt/JDownloader/Downloads/DRPKz 1975/CD2/daw-panther2/daw-panther2.avi",
+                                                              "/opt/JDownloader/Downloads/DRPKz 1975/daw-panther-xvid.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

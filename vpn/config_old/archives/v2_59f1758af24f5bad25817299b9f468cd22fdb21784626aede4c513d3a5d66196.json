@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/RZHBFDFSDWEQW",
+    "files" : [ "/opt/JDownloader/Downloads/RZHBFDFSDWEQW/Masters.of.Sex.S04E04.Maentel.oder.Schluessel.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e04-480p.mkv", "/opt/JDownloader/Downloads/RZHBFDFSDWEQW/Masters.of.Sex.S04E04.Maentel.oder.Schluessel.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e04-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

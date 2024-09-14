@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Continental Aus der Welt von John Wick S01E03 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Continental Aus der Welt von John Wick S01E03 1080P/The.Continental.Aus.der.Welt.von.John.Wick.S01E03.GERMAN.DL.1080P.WEB.H264-WAYNE/the.continental.aus.der.welt.von.john.wick.s01e03.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/The Continental Aus der Welt von John Wick S01E03 1080P/The.Continental.Aus.der.Welt.von.John.Wick.S01E03.GERMAN.DL.1080P.WEB.H264-WAYNE/the.continental.aus.der.welt.von.john.wick.s01e03.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

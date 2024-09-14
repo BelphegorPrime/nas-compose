@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Der denkwuerdige Fall des Mr Poe 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Der denkwuerdige Fall des Mr Poe 1080p WEB/Der.denkwuerdige.Fall.des.Mr.Poe.2022.German.DL.1080p.NF.WEB.H264-ZeroTwo/Der.denkwuerdige.Fall.des.Mr.Poe.2022.German.DL.1080p.NF.WEB.H264-ZeroTwo.mkv",
+                                                              "/opt/JDownloader/Downloads/Der denkwuerdige Fall des Mr Poe 1080p WEB/Der.denkwuerdige.Fall.des.Mr.Poe.2022.German.DL.1080p.NF.WEB.H264-ZeroTwo/ZeroTwo-The.Pale.Blue.Eye.2022.1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

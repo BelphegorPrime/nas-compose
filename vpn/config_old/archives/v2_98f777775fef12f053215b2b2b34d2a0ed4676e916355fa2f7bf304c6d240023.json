@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 1/01 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 1/02 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 1/03 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 1/04 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 1/05 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 1/06 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 1/07 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 2/01 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 2/02 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 2/03 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 2/04 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 2/05 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 2/06 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 2/07 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 3/01 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 3/02 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 3/03 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 3/04 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 3/05 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 3/06 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 4/01 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 4/02 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 4/03 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 4/04 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/CD 4/05 - Klonk!.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND34 - Klonk! (gekürzt)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

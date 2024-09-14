@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/birdsofprey-720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/birdsofprey-720p/Birds.of.Prey.The.Emancipation.of.Harley.Quinn.2020.German.DL.720p.BluRay.x264-COiNCiDENCE/coincidence-birdsofprey-720p.mkv",
+                                                              "/opt/JDownloader/Downloads/birdsofprey-720p/Birds.of.Prey.The.Emancipation.of.Harley.Quinn.2020.German.DL.720p.BluRay.x264-COiNCiDENCE/coincidence-birdsofprey-720p.nfo",
+                                                              "/opt/JDownloader/Downloads/birdsofprey-720p/Birds.of.Prey.The.Emancipation.of.Harley.Quinn.2020.German.DL.720p.BluRay.x264-COiNCiDENCE/Subs/coincidence-birdsofprey-720p-subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

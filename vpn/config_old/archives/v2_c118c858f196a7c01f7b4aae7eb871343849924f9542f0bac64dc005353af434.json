@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/01 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/02 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/03 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/04 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/05 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/06 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/07 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/08 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/09 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/10 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/11 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/12 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/13 - Sherlock Holmes Legends - 5 - Der niedergelassene Patient.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 05 - Der niedergelassene Patient/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

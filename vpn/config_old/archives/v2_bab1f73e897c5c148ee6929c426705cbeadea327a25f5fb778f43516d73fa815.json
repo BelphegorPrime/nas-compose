@@ -1,0 +1,16 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/HNCMVJNCGHBDFFG",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/HNCMVJNCGHBDFFG/Kung.Fury.2015.German.Subbed.AC3.WEBRip.x264/Kung.Fury.2015.German.Subbed.AC3.WEBRip.x264.mp4",
+                                                              "/opt/JDownloader/Downloads/HNCMVJNCGHBDFFG/Kung.Fury.2015.German.Subbed.AC3.WEBRip.x264/Kung.Fury.2015.German.Subbed.AC3.WEBRip.x264.srt"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

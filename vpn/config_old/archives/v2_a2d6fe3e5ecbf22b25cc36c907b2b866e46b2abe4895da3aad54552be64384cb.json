@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Andor S01E07 1080P REPACK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Andor S01E07 1080P REPACK/Andor.S01E07.GERMAN.DL.1080P.WEB.H264.REPACK-WAYNE/andor.s01e07.german.dl.1080p.web.h264.repack-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Andor S01E07 1080P REPACK/Andor.S01E07.GERMAN.DL.1080P.WEB.H264.REPACK-WAYNE/andor.s01e07.german.dl.1080p.web.h264.repack-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

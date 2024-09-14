@@ -1,0 +1,26 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/85244744638tzfjhft",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e01-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e02-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e03-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e04-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e05-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e06-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e07-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e08-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e09-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e10-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e11-bdr.avi",
+                                                              "/opt/JDownloader/Downloads/85244744638tzfjhft/Homeland.S04.Complete.German.AC3.BDRip.XViD-LeetXD/lxd-homeland.s04e12-bdr.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

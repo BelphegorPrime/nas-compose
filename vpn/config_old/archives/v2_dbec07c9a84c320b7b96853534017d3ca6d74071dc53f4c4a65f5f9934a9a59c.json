@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD324KHS2",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD324KHS2/Keine.halben.Sachen.2.2004.GERMAN.1080p.microHD.x264-Raistlin911/Keine.halben.Sachen.2.2004.GERMAN.1080p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

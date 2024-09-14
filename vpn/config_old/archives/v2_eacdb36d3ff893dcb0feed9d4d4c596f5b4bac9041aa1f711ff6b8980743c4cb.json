@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/GHEHRFDEWRWEWEW",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/GHEHRFDEWRWEWEW/Legend.2015.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-legend_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/GHEHRFDEWRWEWEW/Legend.2015.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-legend_1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/GHEHRFDEWRWEWEW/Legend.2015.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-legend_1080p_subs.rar",
+                                                              "/opt/JDownloader/Downloads/GHEHRFDEWRWEWEW/Legend.2015.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-legend_1080p_subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD345WSB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD345WSB/Wasabi.-.Ein.Bulle.in.Japan.2001GERMAN.800p.microHD.x264-Raistlin911/Wasabi.-.Ein.Bulle.in.Japan.2001GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

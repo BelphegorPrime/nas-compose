@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Hom3land3",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E01.Sechs.oder.keiner.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-301.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E01.Sechs.oder.keiner.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-301.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E02.Die.Spur.des.Geldes.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-302.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E02.Die.Spur.des.Geldes.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-302.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E03.Endstation.Caracas.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-303.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E03.Endstation.Caracas.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-303.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E04.Das.Risiko.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-304.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E04.Das.Risiko.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-304.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E05.Das.Yoga.Spiel.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-305.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E05.Das.Yoga.Spiel.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-305.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E06.Machtwechsel.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-306.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E06.Machtwechsel.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-306.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E07.Der.Fluch.alter.Maenner.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-307.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E07.Der.Fluch.alter.Maenner.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-307.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E08.Phase.zwei.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-308.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E08.Phase.zwei.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-308.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E09.Jetzt.oder.nie.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-309.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E09.Jetzt.oder.nie.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-309.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E10.Der.Passagier.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-310.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E10.Der.Passagier.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-310.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E11.Unser.Mann.in.Tehran.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-311.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E11.Unser.Mann.in.Tehran.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-311.nfo",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E12.Der.Stern.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-312.mkv",
+                                                              "/opt/JDownloader/Downloads/Hom3land3/Homeland.S03.German.Dubbed.DL.iTunesHD.x264-TVS/Homeland.S03E12.Der.Stern.German.Dubbed.DL.iTunesHD.x264-TVS/tvs-homeland-ded-dl-ithd-x264-312.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

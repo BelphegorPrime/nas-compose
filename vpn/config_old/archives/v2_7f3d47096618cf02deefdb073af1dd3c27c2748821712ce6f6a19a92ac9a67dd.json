@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/SE3610 - King of Stonks S01 German 720p WEB x264 - WvF - powered by XIPCKX",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/SE3610 - King of Stonks S01 German 720p WEB x264 - WvF - powered by XIPCKX/King.of.Stonks.S01E03.German.720p.WEB.x264-WvF/# DDownload.com 100GB am Tag.URL",
+                                                              "/opt/JDownloader/Downloads/SE3610 - King of Stonks S01 German 720p WEB x264 - WvF - powered by XIPCKX/King.of.Stonks.S01E03.German.720p.WEB.x264-WvF/# Rapidgator.net PREMIUM FULL SPEED.url",
+                                                              "/opt/JDownloader/Downloads/SE3610 - King of Stonks S01 German 720p WEB x264 - WvF - powered by XIPCKX/King.of.Stonks.S01E03.German.720p.WEB.x264-WvF/# UNTERSTÜTZT MEINE ARBEIT.txt",
+                                                              "/opt/JDownloader/Downloads/SE3610 - King of Stonks S01 German 720p WEB x264 - WvF - powered by XIPCKX/King.of.Stonks.S01E03.German.720p.WEB.x264-WvF/king.of.stonks.s01e03.german.720p.web.x264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/SE3610 - King of Stonks S01 German 720p WEB x264 - WvF - powered by XIPCKX/King.of.Stonks.S01E03.German.720p.WEB.x264-WvF/king.of.stonks.s01e03.german.720p.web.x264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

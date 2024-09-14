@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Timeless S02-HD",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Timeless S02-HD/Timeless.S02E07.German.DD51.Synced.DL.1080p.AmazonHD.x264-TVS/tvs-timeless-dd51-sed-dl-18p-azhd-x264-207.mkv",
+                                                              "/opt/JDownloader/Downloads/Timeless S02-HD/Timeless.S02E07.German.DD51.Synced.DL.1080p.AmazonHD.x264-TVS/tvs-timeless-dd51-sed-dl-18p-azhd-x264-207.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

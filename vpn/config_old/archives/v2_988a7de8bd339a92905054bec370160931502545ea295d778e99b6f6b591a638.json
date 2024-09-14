@@ -1,0 +1,34 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/01 - Die Elfen - Kapitel 01_ Das Büchlein.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/02 - Die Elfen - Kapitel 02_ _Ich kann sie graben hören ..._.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/03 - Die Elfen - Kapitel 03_ Flucht.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/04 - Die Elfen - Kapitel 04_ Das Gefühl_ belauert zu werden.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/05 - Die Elfen - Kapitel 05_ Mohnblüten.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/06 - Die Elfen - Kapitel 06_ Der Blutgeruch.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/07 - Die Elfen - Kapitel 07_ Boras.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/08 - Die Elfen - Kapitel 08_ Beim Klan der Frostkinder.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/09 - Die Elfen - Kapitel 09_ Alvias' Ankunft.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/10 - Die Elfen - Kapitel 10_ Durch das Nichts.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/11 - Die Elfen - Kapitel 11_ Der Duft halb verfaulter Fischköpfe.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/12 - Die Elfen - Kapitel 12_ Bei Emerelle.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/13 - Die Elfen - Kapitel 13_ Reines Kalkül.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/14 - Die Elfen - Kapitel 14_ Das Spiel der Blütenfeen.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/15 - Die Elfen - Kapitel 15_ Bollo.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/16 - Die Elfen - Kapitel 16_ Katzenstreich.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/17 - Die Elfen - Kapitel 17_ Drachen und Minotauren.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/18 - Die Elfen - Kapitel 18_ Gromjan.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/19 - Die Elfen - Kapitel 19_ Im Thronsaal.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Elfen - 12_ Der schwarze Ritter/cover.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : "forall",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,6 @@
+------------------------Thread: 48:ExtractionExtension.log-----------------------
+--ID:48TS:1718441371736-6/15/24, 8:49:31 AM -  [org.jdownloader.extensions.extraction.multi.Multi(checkLibraries)] -> Try LibIDs: [Linux-amd64-musl, Linux-amd64]
+--ID:48TS:1718441371736-6/15/24, 8:49:31 AM -  [org.jdownloader.extensions.extraction.multi.Multi(initLibrary)] -> LibID found: Linux-amd64-musl
+--ID:48TS:1718441371736-6/15/24, 8:49:31 AM -  [org.jdownloader.extensions.extraction.multi.Multi(initLibrary)] -> Try LibID(Linux-amd64-musl) Path: /opt/JDownloader/tmp/7zip->true
+--ID:48TS:1718441371780-6/15/24, 8:49:31 AM -  [org.jdownloader.extensions.extraction.multi.Multi(isAvailable)] -> Supported SevenZipJBinding|LibID=Linux-amd64-musl|Version=16.02-2.01|RAR5=true|CPU_ARCH=X86|OS_FAM=LINUX|OS=ALPINE|64Bit_JVM=true|64Bit_ARCH=true|HW:null
+--ID:48TS:1718441371781-6/15/24, 8:49:31 AM -  [org.jdownloader.extensions.AbstractExtension(init)] -> Init Duration: 66

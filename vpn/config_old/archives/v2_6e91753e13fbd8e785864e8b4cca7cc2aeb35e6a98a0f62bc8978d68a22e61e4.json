@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/MKJNHGBEHRWEDW",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/MKJNHGBEHRWEDW/Aquaman.2018.German.DTS.DL.720p.BluRay.x264-COiNCiDENCE/coincidence-aquaman-720p.mkv",
+                                                              "/opt/JDownloader/Downloads/MKJNHGBEHRWEDW/Aquaman.2018.German.DTS.DL.720p.BluRay.x264-COiNCiDENCE/coincidence-aquaman-720p.nfo",
+                                                              "/opt/JDownloader/Downloads/MKJNHGBEHRWEDW/Aquaman.2018.German.DTS.DL.720p.BluRay.x264-COiNCiDENCE/Subs/coincidence-aquaman-720p-subs.rar",
+                                                              "/opt/JDownloader/Downloads/MKJNHGBEHRWEDW/Aquaman.2018.German.DTS.DL.720p.BluRay.x264-COiNCiDENCE/Subs/coincidence-aquaman-720p-subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

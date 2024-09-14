@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/SliningsXVID",
+    "files" : [ "/opt/JDownloader/Downloads/SliningsXVID/Sample/cia--51lv3rsample.avi", "/opt/JDownloader/Downloads/SliningsXVID/cia--51lv3rxvid.avi", "/opt/JDownloader/Downloads/SliningsXVID/cia--51lv3rxvid.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

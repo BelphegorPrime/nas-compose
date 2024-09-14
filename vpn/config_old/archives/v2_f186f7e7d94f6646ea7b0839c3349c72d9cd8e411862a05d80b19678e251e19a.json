@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Will Trent S02E03 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E03 1080P/Will.Trent.S02E03.GERMAN.DL.1080P.WEB.H264-WAYNE/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E03 1080P/Will.Trent.S02E03.GERMAN.DL.1080P.WEB.H264-WAYNE/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E03 1080P/Will.Trent.S02E03.GERMAN.DL.1080P.WEB.H264-WAYNE/will.trent.s02e03.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Will Trent S02E03 1080P/Will.Trent.S02E03.GERMAN.DL.1080P.WEB.H264-WAYNE/will.trent.s02e03.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

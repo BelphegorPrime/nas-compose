@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Starfield-RUNE",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield-RUNE/rune-starfield.iso",
+                                                              "/opt/JDownloader/Downloads/Starfield-RUNE/Starfield-RUNE/rune.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

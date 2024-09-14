@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/mort.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/toon.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/cryo.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/neverhood.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/lure.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/drascula.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/sky.cpt",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/hugo.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/macventure.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/queen.tbl",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/tony.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/cryomni3d.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/teenagent.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/xeen.ccs",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/kyra.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/titanic.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/wintermute.zip",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/fonts.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/supernova.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/Roland_SC-55.sf2",
+                                                              "/opt/JDownloader/Downloads/scummvm/extra/access.dat",
+                                                              "/opt/JDownloader/Downloads/scummvm/theme/scummremastered.zip",
+                                                              "/opt/JDownloader/Downloads/scummvm/theme/scummmodern.zip"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

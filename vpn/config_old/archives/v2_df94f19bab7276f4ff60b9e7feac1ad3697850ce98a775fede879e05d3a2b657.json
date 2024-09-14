@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Avatar - Der Herr der Elemente 2024 S01 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Avatar - Der Herr der Elemente 2024 S01 720p/Avatar.-.Der.Herr.der.Elemente.2024.S01E01.German.DL.EAC3.720p.NF.WEB.H264-ZeroTwo/Avatar.-.Der.Herr.der.Elemente.2024.S01E01.German.DL.EAC3.720p.NF.WEB.H264-ZeroTwo.mkv",
+                                                              "/opt/JDownloader/Downloads/Avatar - Der Herr der Elemente 2024 S01 720p/Avatar.-.Der.Herr.der.Elemente.2024.S01E01.German.DL.EAC3.720p.NF.WEB.H264-ZeroTwo/Sample/Avatar.-.Der.Herr.der.Elemente.2024.S01E01.German.DL.EAC3.720p.NF.WEB.H264-ZeroTwo_sample.mkv",
+                                                              "/opt/JDownloader/Downloads/Avatar - Der Herr der Elemente 2024 S01 720p/Avatar.-.Der.Herr.der.Elemente.2024.S01E01.German.DL.EAC3.720p.NF.WEB.H264-ZeroTwo/ZeroTwo-Avatar.-.Der.Herr.der.Elemente.2024.S01.720p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,24 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/01 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/02 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/03 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/04 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/05 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/06 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/07 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/08 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/09 - Echt zauberhaft.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND17 - Echt zauberhaft (Amateur-Lesung)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

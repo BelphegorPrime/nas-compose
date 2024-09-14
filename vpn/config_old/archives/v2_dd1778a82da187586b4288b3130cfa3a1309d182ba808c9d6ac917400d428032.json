@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/01 Kapitel 1 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/02 Kapitel 2 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/03 Kapitel 3 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/04 Kapitel 4 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/05 Kapitel 5 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/06 Kapitel 6 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/07 Kapitel 7 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/08 Kapitel 8 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/09 Kapitel 9 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/10 Kapitel 10 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/11 Kapitel 11 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/12 Kapitel 12 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/13 Kapitel 13 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/14 Kapitel 14 - Der Doktor und sein Patient - Gerd Köster liest Sherlock Holmes Band 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 17 - Der Doktor und sein Patient (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die Gangster Gang 2022 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Gangster Gang 2022 1080p WEB/Die.Gangster.Gang.2022.German.DL.1080p.WEB.x264-WvF/die.gangster.gang.2022.german.dl.1080p.web.x264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Die Gangster Gang 2022 1080p WEB/Die.Gangster.Gang.2022.German.DL.1080p.WEB.x264-WvF/die.gangster.gang.2022.german.dl.1080p.web.x264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/Persona 2 - Tsumi - Innocent Sin (Japan).bin",
+                                                              "/opt/JDownloader/Downloads/roms/Pokemon X (World) (En,Ja,Fr,De,Es,It,Ko) (Legit CIA)/Persona 2 - Tsumi - Innocent Sin (Japan).cue"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Spider-Man No Way Home MD HDTS",
+    "files" : [ "/opt/JDownloader/Downloads/Spider-Man No Way Home MD HDTS/Spider-Man.No.Way.Home.2021.German.AC3.MD.HDTS.V3.x264.No.Ads-FSX/Spider-Man.No.Way.Home.2021.German.AC3.MD.HDTS.V3.x264.No.Ads-FSX.mp4" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

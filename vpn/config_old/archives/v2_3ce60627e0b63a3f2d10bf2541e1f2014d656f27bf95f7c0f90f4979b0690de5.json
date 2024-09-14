@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/01 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/02 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/03 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/04 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/05 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/06 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/07 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/08 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/09 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/10 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/11 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/12 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 1/13.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/01 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/02 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/03 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/04 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/05 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/06 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/07 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/08 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/09 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/10 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/11 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/12 - Gevatter Tod.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/CD 2/13.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND04 - Gevatter Tod (HSP gekürzt)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

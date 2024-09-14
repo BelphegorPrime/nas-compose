@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E07 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E07 1080p/Star.Wars.The.Clone.Wars.S07E07.GERMAN.DL.1080p.WEB.H264-FENDT/Star.Wars.The.Clone.Wars.S07E07.GERMAN.DL.1080p.WEB.H264-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E07 1080p/Star.Wars.The.Clone.Wars.S07E07.GERMAN.DL.1080p.WEB.H264-FENDT/star.wars.the.clone.wars.s07e07.german.dl.1080p.web.h264-fendt.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

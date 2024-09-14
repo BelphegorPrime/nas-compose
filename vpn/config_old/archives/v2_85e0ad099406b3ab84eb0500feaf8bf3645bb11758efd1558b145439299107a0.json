@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/01 - Kapitel 1 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/02 - Kapitel 2 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/03 - Kapitel 3 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/04 - Kapitel 4 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/05 - Kapitel 5 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/06 - Kapitel 6 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/07 - Kapitel 7 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/08 - Kapitel 8 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/09 - Kapitel 9 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/10 - Kapitel 10 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/11 - Kapitel 11 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/12 - Kapitel 12 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/13 - Kapitel 13 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/14 - Kapitel 14 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/15 - Kapitel 15 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/16 - Kapitel 16 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/17 - Kapitel 17 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/18 - Kapitel 18 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/19 - Kapitel 19 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/20 - Kapitel 20 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/21 - Kapitel 21 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/22 - Kapitel 22 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/23 - Kapitel 23 - Die Bruce-Partington Pläne - Gerd Köster liest Sherlock Holmes, Band 36.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/errors.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 36 - Die Bruce-Partington Pläne/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

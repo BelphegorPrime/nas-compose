@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Aquaman and The Lost Kingdom IMAX AC3D WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Aquaman and The Lost Kingdom IMAX AC3D WEBRip/Aquaman.and.The.Lost.Kingdom.2023.IMAX.German.AC3D.WEBRip.x264-ZeroTwo/Aquaman.and.The.Lost.Kingdom.2023.IMAX.German.AC3D.WEBRip.x264-ZeroTwo.mkv",
+                                                              "/opt/JDownloader/Downloads/Aquaman and The Lost Kingdom IMAX AC3D WEBRip/Aquaman.and.The.Lost.Kingdom.2023.IMAX.German.AC3D.WEBRip.x264-ZeroTwo/ZeroTwo-Aquaman.and.The.Lost.Kingdom.2023.SD.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

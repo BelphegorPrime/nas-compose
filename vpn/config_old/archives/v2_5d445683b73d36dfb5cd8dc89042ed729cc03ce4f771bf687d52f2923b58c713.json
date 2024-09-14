@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/1427532hftghnftduf",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/1427532hftghnftduf/Inspektor.Clouseau.-.der.beste.Mann.bei.Interpol.1976.GERMAN.1080p.HDTV.x264-REDX/redx-inspektorclouseau.1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/1427532hftghnftduf/Inspektor.Clouseau.-.der.beste.Mann.bei.Interpol.1976.GERMAN.1080p.HDTV.x264-REDX/redx-inspektorclouseau.1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/01 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/02 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/03 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/04 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/05 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/06 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/07 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 1/08 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/01 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/02 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/03 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/04 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/05 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/06 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/07 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 2/08 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/01 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/02 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/03 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/04 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/05 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/06 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/07 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/CD 3/08 - Der Zeitdieb.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND26 - Der Zeitdieb (gekürzt 2)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

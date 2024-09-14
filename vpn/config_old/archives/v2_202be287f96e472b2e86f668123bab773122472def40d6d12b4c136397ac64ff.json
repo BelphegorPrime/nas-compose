@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S05E01.GERMAN.DL.DOKU.720P.WEB.H264-WAYNE/Sample/the.grand.tour.s05e01.german.dl.doku.720p.web.h264-wayne-sample.mkv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S05E01.GERMAN.DL.DOKU.720P.WEB.H264-WAYNE/the.grand.tour.s05e01.german.dl.doku.720p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S05E01.GERMAN.DL.DOKU.720P.WEB.H264-WAYNE/the.grand.tour.s05e01.german.dl.doku.720p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

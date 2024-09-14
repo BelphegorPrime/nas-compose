@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/ERFfearfserwae",
+    "files" : [ "/opt/JDownloader/Downloads/ERFfearfserwae/Masters.of.Sex.S04E05.Aussenseiter.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e05-480p.mkv", "/opt/JDownloader/Downloads/ERFfearfserwae/Masters.of.Sex.S04E05.Aussenseiter.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e05-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

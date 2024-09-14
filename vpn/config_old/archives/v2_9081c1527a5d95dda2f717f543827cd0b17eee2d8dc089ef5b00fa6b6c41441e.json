@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ted Lasso S03E11 720P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ted Lasso S03E11 720P/Ted.Lasso.S03E11.GERMAN.DL.720P.WEB.H264-WAYNE/ted.lasso.s03e11.german.dl.720p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Ted Lasso S03E11 720P/Ted.Lasso.S03E11.GERMAN.DL.720P.WEB.H264-WAYNE/ted.lasso.s03e11.german.dl.720p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

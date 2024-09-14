@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Highlander The Source - Die Quelle der Unsterblichkeit (2007)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Highlander The Source - Die Quelle der Unsterblichkeit (2007)/Highlander The Source - Die Quelle der Unsterblichkeit.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

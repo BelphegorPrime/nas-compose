@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/01 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/02 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/03 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/04 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/05 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/06 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/07 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/08 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/09 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/10 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/11 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/12 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/13 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/14 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/15 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/16 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/17 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/18 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/19 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/20 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/21 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/22 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/23 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/24 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/25 - Sherlock Holmes und Dr. Watsons erster Fall - Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 22 - Sherlock Holmes und Dr. Watsons erster Fall (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

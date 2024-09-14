@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E04",
+    "files" : [ "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E04/Prodigal.Son.Der.Moerder.in.Dir.S02E04.Teamwork.GERMAN.HDTVRip.x264-MDGP/mdgp-prodigalsondermoerderindirs02e04-480p.mkv", "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E04/Prodigal.Son.Der.Moerder.in.Dir.S02E04.Teamwork.GERMAN.HDTVRip.x264-MDGP/mdgp-prodigalsondermoerderindirs02e04-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

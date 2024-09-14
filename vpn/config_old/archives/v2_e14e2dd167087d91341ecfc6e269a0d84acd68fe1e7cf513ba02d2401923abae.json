@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bleach S17E01 German ML AAC 720p WebDL x264-Pudding-sama",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bleach S17E01 German ML AAC 720p WebDL x264-Pudding-sama/Bleach.S17E01.German.ML.AAC.720p.WebDL.x264-Pudding-sama.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

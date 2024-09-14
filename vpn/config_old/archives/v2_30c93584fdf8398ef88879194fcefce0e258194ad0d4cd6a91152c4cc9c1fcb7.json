@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 13.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 14.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 15.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 16.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 17.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 18.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 19.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Die dunklen Lande - 20.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die dunklen Lande (ungekürzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

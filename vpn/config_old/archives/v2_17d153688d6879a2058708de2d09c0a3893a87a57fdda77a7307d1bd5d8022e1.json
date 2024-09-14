@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Citadel S01E02 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Citadel S01E02 720p/Citadel.S01E02.German.DL.720p.WEB.h264-WvF/citadel.s01e02.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Citadel S01E02 720p/Citadel.S01E02.German.DL.720p.WEB.h264-WvF/citadel.s01e02.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/01 Kapitel 1 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/02 Kapitel 2 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/03 Kapitel 3 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/04 Kapitel 4 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/05 Kapitel 5 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/06 Kapitel 6 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/07 Kapitel 7 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/08 Kapitel 8 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/09 Kapitel 9 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/10 Kapitel 10 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/11 Kapitel 11 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/12 Kapitel 12 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/13 Kapitel 13 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/14 Kapitel 14 - Die Gutsherren von Reigate - Gerd Köster liest Sherlock Holmes Band 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 19 - Die Gutsherren von Reigate (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

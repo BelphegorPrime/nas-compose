@@ -1,0 +1,25 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/204_Penny_Dreadful.mkv",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/drop_apk.URL",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/Get_LinkSnappy.URL",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/LinkSnappy_Erklaerung.txt",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/LinkSnappy_Premium.rtf",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/partner.rtf",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/Try_1fichier.com.URL",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/Try_ddl.to.URL",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/Try_LinkSnappy.URL",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/Try_nitro.URL",
+                                                              "/opt/JDownloader/Downloads/204 Penny Dreadful/Try_Rapidgator.net.URL"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S03E05.Formel.1-Legende.Jim.Clark.German.DL.1080p.WEB.h264-TSCC/The.Grand.Tour.S02E05.Formel.1-Legende.Jim.Clark.German.DL.1080p.WEB.h264-TSCC.mkv",
+                                                              "/opt/JDownloader/Downloads/The.Grand.Tour.S03E05.Formel.1-Legende.Jim.Clark.German.DL.1080p.WEB.h264-TSCC/The.Grand.Tour.S02E05.Formel.1-Legende.Jim.Clark.German.DL.1080p.WEB.h264-TSCC.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

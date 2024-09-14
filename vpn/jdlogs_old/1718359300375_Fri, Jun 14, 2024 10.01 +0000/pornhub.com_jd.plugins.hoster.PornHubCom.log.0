@@ -1,0 +1,197 @@
+--ID:49005TS:1718432473959-6/15/24, 6:21:13 AM -  [jd.http.Browser(openRequestConnection)] -> 
+Caller: jd.plugins.hoster.PornHubCom.verifyFinalURL(PornHubCom.java:691)
+jd.plugins.hoster.PornHubCom.requestFileInformation(PornHubCom.java:602)
+jd.plugins.hoster.PornHubCom.requestFileInformation(PornHubCom.java:457)
+jd.plugins.hoster.PornHubCom.handleFree(PornHubCom.java:1013)
+jd.plugins.PluginForHost.handle(PluginForHost.java:1314)
+jd.controlling.downloadcontroller.SingleDownloadController.download(SingleDownloadController.java:436)
+jd.controlling.downloadcontroller.SingleDownloadController.run(SingleDownloadController.java:618)
+BrowserID:353|BrowserParentID:352|RequestID:1|URL:https://ev.phncdn.com/videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D
+----------------Request Information-------------
+URL: https://ev.phncdn.com/videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D
+URL-Parameters:
+   validfrom : 1718428603
+   validto   : 1718435803
+   rate      : 50000k
+   burst     : 50000k
+   ip        : 138.199.53.226
+   ipa       : 138.199.53.226
+   hash      : 383KANtoFc/3p9JOXAmB3wkGXcA=
+SSLCipher: BouncyCastle Security Provider v1.78.1|org.bouncycastle.tls.crypto.impl.bc.BcTlsCrypto@220b11d4|Protocol:TLS 1.2|CipherSuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+ConnectIP: ev.phncdn.com/64.210.156.6:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+HEAD /videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D HTTP/1.1
+Host: ev.phncdn.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.8,de;q=0.6
+Accept-Encoding: identity
+Cache-Control: no-cache
+Referer: https://www.pornhub.com/view_video.php?viewkey=649562123fea5
+
+----------------Response Information------------
+Connection-Time: 563ms
+Request-Time: 152ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+date: Sat, 15 Jun 2024 06:21:13 GMT
+Content-Type: video/mp4
+Content-Length: 59697841
+last-modified: Fri, 23 Jun 2023 09:32:23 GMT
+expires: Sat, 21 Oct 2023 14:46:23 GMT
+cache-control: max-age=1697899583
+access-control-allow-origin: *
+Accept-Ranges: bytes
+access-control-allow-methods: GET,HEAD,OPTIONS
+timing-allow-origin: *
+x-cdn-diag: lon1-16042-5-629131-m-0-0-200-0.000--;16042-41-773358----0-0-2
+------------------------------------------------
+
+
+--ID:49005TS:1718432473964-6/15/24, 6:21:13 AM -  [org.jdownloader.plugins.controller.host.PluginFinder(_assignHost)] -> Could not assign any host for: phncdn.com
+--ID:49005TS:1718432473982-6/15/24, 6:21:13 AM -  [jd.plugins.download.raf.OldRAFDownload(setResume)] -> Resumepoint not valid
+--ID:49005TS:1718432473982-6/15/24, 6:21:13 AM -  [jd.plugins.download.raf.OldRAFDownload(connect)] -> Connect...
+--ID:49005TS:1718432473982-6/15/24, 6:21:13 AM -  [jd.plugins.download.raf.OldRAFDownload(connect)] -> .....connectFirstRange
+--ID:49005TS:1718432474134-6/15/24, 6:21:14 AM -  [jd.http.Browser(openRequestConnection)] -> 
+Caller: jd.plugins.download.raf.OldRAFDownload.connectFirstRange(OldRAFDownload.java:338)
+jd.plugins.download.raf.OldRAFDownload.connect(OldRAFDownload.java:198)
+jd.plugins.download.raf.OldRAFDownload.connect(OldRAFDownload.java:168)
+jd.plugins.BrowserAdapter.openDownload(BrowserAdapter.java:224)
+jd.plugins.BrowserAdapter.openDownload(BrowserAdapter.java:123)
+jd.plugins.hoster.PornHubCom.doFree(PornHubCom.java:1049)
+jd.plugins.hoster.PornHubCom.handleFree(PornHubCom.java:1014)
+jd.plugins.PluginForHost.handle(PluginForHost.java:1314)
+jd.controlling.downloadcontroller.SingleDownloadController.download(SingleDownloadController.java:436)
+jd.controlling.downloadcontroller.SingleDownloadController.run(SingleDownloadController.java:618)
+BrowserID:354|BrowserParentID:352|RequestID:1|URL:https://ev.phncdn.com/videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D
+----------------Request Information-------------
+URL: https://ev.phncdn.com/videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D
+URL-Parameters:
+   validfrom : 1718428603
+   validto   : 1718435803
+   rate      : 50000k
+   burst     : 50000k
+   ip        : 138.199.53.226
+   ipa       : 138.199.53.226
+   hash      : 383KANtoFc/3p9JOXAmB3wkGXcA=
+SSLCipher: BouncyCastle Security Provider v1.78.1|org.bouncycastle.tls.crypto.impl.bc.BcTlsCrypto@220b11d4|Protocol:TLS 1.2|CipherSuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+ConnectIP: ev.phncdn.com/64.210.156.6:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D HTTP/1.1
+Host: ev.phncdn.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.8,de;q=0.6
+Accept-Encoding: gzip, deflate, br
+Cache-Control: no-cache
+Referer: https://www.pornhub.com/view_video.php?viewkey=649562123fea5
+
+----------------Response Information------------
+Connection-Time: keep-Alive
+Request-Time: 152ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+date: Sat, 15 Jun 2024 06:21:14 GMT
+Content-Type: video/mp4
+Content-Length: 59697841
+last-modified: Fri, 23 Jun 2023 09:32:23 GMT
+expires: Sat, 21 Oct 2023 14:46:23 GMT
+cache-control: max-age=1697899583
+access-control-allow-origin: *
+access-control-allow-methods: GET,HEAD,OPTIONS
+timing-allow-origin: *
+Accept-Ranges: bytes
+x-cdn-diag: lon1-16042-5-629131-m-0-0-200-0.004--;16042-41-773358----0-0-2
+------------------------------------------------
+
+
+--ID:49005TS:1718432474134-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(connectFirstRange)] -> FirstRange was openRange without any RangeRequest!
+--ID:49005TS:1718432474134-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(connect)] -> 
+Caller: jd.plugins.download.raf.OldRAFDownload.connectFirstRange(OldRAFDownload.java:338)
+jd.plugins.download.raf.OldRAFDownload.connect(OldRAFDownload.java:198)
+jd.plugins.download.raf.OldRAFDownload.connect(OldRAFDownload.java:168)
+jd.plugins.BrowserAdapter.openDownload(BrowserAdapter.java:224)
+jd.plugins.BrowserAdapter.openDownload(BrowserAdapter.java:123)
+jd.plugins.hoster.PornHubCom.doFree(PornHubCom.java:1049)
+jd.plugins.hoster.PornHubCom.handleFree(PornHubCom.java:1014)
+jd.plugins.PluginForHost.handle(PluginForHost.java:1314)
+jd.controlling.downloadcontroller.SingleDownloadController.download(SingleDownloadController.java:436)
+jd.controlling.downloadcontroller.SingleDownloadController.run(SingleDownloadController.java:618)
+BrowserID:354|BrowserParentID:352|RequestID:1|URL:https://ev.phncdn.com/videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D
+----------------Request Information-------------
+URL: https://ev.phncdn.com/videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D
+URL-Parameters:
+   validfrom : 1718428603
+   validto   : 1718435803
+   rate      : 50000k
+   burst     : 50000k
+   ip        : 138.199.53.226
+   ipa       : 138.199.53.226
+   hash      : 383KANtoFc/3p9JOXAmB3wkGXcA=
+SSLCipher: BouncyCastle Security Provider v1.78.1|org.bouncycastle.tls.crypto.impl.bc.BcTlsCrypto@220b11d4|Protocol:TLS 1.2|CipherSuite:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256
+ConnectIP: ev.phncdn.com/64.210.156.6:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /videos/202306/23/434112981/1080P_4000K_434112981.mp4?validfrom=1718428603&validto=1718435803&rate=50000k&burst=50000k&ip=138.199.53.226&ipa=138.199.53.226&hash=383KANtoFc%2F3p9JOXAmB3wkGXcA%3D HTTP/1.1
+Host: ev.phncdn.com
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.8,de;q=0.6
+Accept-Encoding: gzip, deflate, br
+Cache-Control: no-cache
+Referer: https://www.pornhub.com/view_video.php?viewkey=649562123fea5
+
+----------------Response Information------------
+Connection-Time: keep-Alive
+Request-Time: 152ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+date: Sat, 15 Jun 2024 06:21:14 GMT
+Content-Type: video/mp4
+Content-Length: 59697841
+last-modified: Fri, 23 Jun 2023 09:32:23 GMT
+expires: Sat, 21 Oct 2023 14:46:23 GMT
+cache-control: max-age=1697899583
+access-control-allow-origin: *
+access-control-allow-methods: GET,HEAD,OPTIONS
+timing-allow-origin: *
+Accept-Ranges: bytes
+x-cdn-diag: lon1-16042-5-629131-m-0-0-200-0.004--;16042-41-773358----0-0-2
+------------------------------------------------
+
+
+--ID:49005TS:1718432474134-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(connect)] -> Trust FileSize: true video/mp4
+--ID:49005TS:1718432474135-6/15/24, 6:21:14 AM -  [org.jdownloader.plugins.controller.host.PluginFinder(_assignHost)] -> Could not assign any host for: phncdn.com
+--ID:49005TS:1718432474135-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(startDownload)] -> Start Download
+------------------------Thread: 49003:pornhub.com_jd.plugins.hoster.PornHubCom-----------------------
+--ID:49003TS:1718432474138-6/15/24, 6:21:14 AM -  [jd.controlling.downloadcontroller.DiskSpaceManager(handle)] -> DiskSpaceManager:Result:OK|File:/opt/JDownloader/Downloads/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen_LexyRoxx_1080p.mp4|Root(s):[/opt/JDownloader/Downloads]|Requestor:Thread[Download: Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen_LexyRoxx_1080p.mp4_pornhub.com,1,main]|RequestedSpace:184.93 MB|UsableSpace:36.72 TB
+--ID:49003TS:1718432474138-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(createOutputChannel)] -> createOutputChannel for /opt/JDownloader/Downloads/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen_LexyRoxx_1080p.mp4
+------------------------Thread: 49005:pornhub.com_jd.plugins.hoster.PornHubCom-----------------------
+--ID:49005TS:1718432474139-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(setupChunks)] -> Setup virgin download
+--ID:49005TS:1718432474139-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(setupVirginStart)] -> Start Download in 1 chunks. Chunksize: 59697841
+--ID:49005TS:1718432474139-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(setupVirginStart)] -> Setup chunk 0: Thread[DownloadChunkRAF:Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen_LexyRoxx_1080p.mp4,1,main]
+--ID:49005TS:1718432474139-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.OldRAFDownload(waitForChunks)] -> Wait for chunks
+------------------------Thread: 49050:pornhub.com_jd.plugins.hoster.PornHubCom-----------------------
+--ID:49050TS:1718432474139-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.RAFChunk(run0)] -> Start Chunk 0 : 0 - -1
+--ID:49050TS:1718432474140-6/15/24, 6:21:14 AM -  [jd.plugins.download.raf.RAFChunk(copyConnection)] -> Takeover connection(no range) for Start:0|End:-1
+--ID:49050TS:1718432493312-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.RAFChunk(download)] -> reached artificial EOF
+--ID:49050TS:1718432493312-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.RAFChunk(download)] -> ExternalAbort: false
+--ID:49050TS:1718432493312-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.RAFChunk(run0)] -> Chunk finished 0 59697841 bytes
+------------------------Thread: 49005:pornhub.com_jd.plugins.hoster.PornHubCom-----------------------
+--ID:49005TS:1718432493313-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.OldRAFDownload(onChunksReady)] -> All connections closed:00s
+--ID:49005TS:1718432493520-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.OldRAFDownload(closeOutputChannel)] -> Buffers forced to disk:00s
+--ID:49005TS:1718432493520-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.OldRAFDownload(closeOutputChannel)] -> File closed:00s
+--ID:49005TS:1718432493520-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.OldRAFDownload(handleErrors)] -> ExternalStop: false|VerifiedFilesize: 59697841|FileSize: 59697841|Loaded: 59697841
+--ID:49005TS:1718432493520-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.OldRAFDownload(handleErrors)] -> VerifiedFilesize: 59697841 Loaded: 59697841
+--ID:49005TS:1718432493522-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.OldRAFDownload(handleErrors)] -> ExternalStop: false|VerifiedFilesize: 59697841|FileSize: 59697841|Loaded: 59697841
+--ID:49005TS:1718432493523-6/15/24, 6:21:33 AM -  [jd.plugins.download.raf.OldRAFDownload(handleErrors)] -> VerifiedFilesize: 59697841 Loaded: 59697841
+--ID:49005TS:1718432493523-6/15/24, 6:21:33 AM -  [jd.controlling.downloadcontroller.SingleDownloadController(run)] -> StopDownloadMarker:1718432471618
+------------------------Thread: 49003:pornhub.com_jd.plugins.hoster.PornHubCom-----------------------
+--ID:49003TS:1718432493524-6/15/24, 6:21:33 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$27(execute)] -> Rename after Download?
+--ID:49003TS:1718432493525-6/15/24, 6:21:33 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$27(execute)] -> Desired Path: /opt/JDownloader/Downloads/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen_LexyRoxx_1080p.mp4
+--ID:49003TS:1718432493525-6/15/24, 6:21:33 AM -  [jd.controlling.downloadcontroller.DownloadWatchDog$27(execute)] -> Actually Used path: /opt/JDownloader/Downloads/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen/Fotograf Benutzt Rothaarige Schlampe Für Kranke Sexspielchen_LexyRoxx_1080p.mp4

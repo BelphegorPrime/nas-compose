@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Battlestar Galactica S01-S04",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Battlestar Galactica S01-S04/Battlestar.Galactica.S01E00.Pilot.Teil2.German.DL.BD.x264-TVS/tvs-battlestar-galactica-dl-bd-x264-002.mkv",
+                                                              "/opt/JDownloader/Downloads/Battlestar Galactica S01-S04/Battlestar.Galactica.S01E00.Pilot.Teil2.German.DL.BD.x264-TVS/tvs-battlestar-galactica-dl-bd-x264-002.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bull 2016 S06E18",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bull 2016 S06E18/Bull.2016.S06E18.Brokkoli.und.Pizza.GERMAN.HDTVRip.x264-MDGP/mdgp-bull2016s06e18-480p.mkv",
+                                                              "/opt/JDownloader/Downloads/Bull 2016 S06E18/Bull.2016.S06E18.Brokkoli.und.Pizza.GERMAN.HDTVRip.x264-MDGP/mdgp-bull2016s06e18-480p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

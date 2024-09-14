@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/01 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/02 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/03 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/04 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/05 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/06 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/07 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/08 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/09 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/10 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/11 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/12 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/13 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/14 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/15 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/16 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/17 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/18 Der Todesstoss.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 03 Der Todesstoss/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

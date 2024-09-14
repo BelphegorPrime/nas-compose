@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/01 - Kapitel 1 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/02 - Kapitel 2 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/03 - Kapitel 3 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/04 - Kapitel 4 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/05 - Kapitel 5 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/06 - Kapitel 6 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/07 - Kapitel 7 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/08 - Kapitel 8 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/09 - Kapitel 9 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/10 - Kapitel 10 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/11 - Kapitel 11 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/12 - Kapitel 12 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/13 - Kapitel 13 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/14 - Kapitel 14 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/15 - Kapitel 15 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/16 - Kapitel 16 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/17 - Kapitel 17 - Die Geschichte des blauen Karfunkels - Gerd Köster liest Sherlock Holmes, Band 38.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 38 - Die Geschichte des blauen Karfunkels (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 320 - Die.Welt.Ist.Klein.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 321 - Die.Kryptonier.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 322 - Abschied.von.Superman.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 301 - Eine.Bombenparty.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 302 - Reif.Fuer.Die.Insel.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 303 - Entfuehrt.Von.Ausserirdischen.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 304 - Der.irische.Fluch.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 305 - Arche.Noah.Nummer.Zwei.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 306 - Willkommen.In.Der.Ewigkeit.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 307 - Die.Frau.Aus.Stahl.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 308 - Ein.Kind.von.Superman.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 309 - Verschwoerung.gegen.Amerika.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 310 - Nennen.sie.mich.X.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 311 - Der.Weihnachtsvirus.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 312 - Das.Zeichen.Der.Schlange.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 313 - Mein.Vater.der.Spion.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 314 - Die.Sache.Mit.Lana.Lang.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 315 - Hochzeit.Mit.Hindernissen.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 316 - Wanda.Detroit.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 317 - Lois.mal.drei.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 318 - Frau.ohne.Vergangenheit.avi",
+                                                              "/opt/JDownloader/Downloads/Superman Abenteuer von Lois und Clark s03 German DVDRip/Superman - Die Abenteuer von Lois und Clark 319 - Ein.Geschenk.Fuer.Mom.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

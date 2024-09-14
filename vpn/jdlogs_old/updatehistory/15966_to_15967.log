@@ -1,0 +1,13 @@
+Mon Mar 21 15:33:23 GMT 2022
+Package: package_1647861997103.awf
+Install
+Write Revision: 15967
+----------------Plugins----------------
+   jd/plugins/decrypter/BdsmlrComCrawler.class
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/hoster/TwitterCom$1.class
+   jd/plugins/hoster/TwitterCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Spider Man Across The Spider Verse 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Spider Man Across The Spider Verse 1080p BluRay/Spider.Man.Across.The.Spider.Verse.2023.German.DL.1080p.BluRay.x264-WDC/Subs/wdc-spidermanacrosstheverse-1080p-subs.rar",
+                                                              "/opt/JDownloader/Downloads/Spider Man Across The Spider Verse 1080p BluRay/Spider.Man.Across.The.Spider.Verse.2023.German.DL.1080p.BluRay.x264-WDC/wdc-spidermanacrosstheverse-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Spider Man Across The Spider Verse 1080p BluRay/Spider.Man.Across.The.Spider.Verse.2023.German.DL.1080p.BluRay.x264-WDC/wdc-spidermanacrosstheverse-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

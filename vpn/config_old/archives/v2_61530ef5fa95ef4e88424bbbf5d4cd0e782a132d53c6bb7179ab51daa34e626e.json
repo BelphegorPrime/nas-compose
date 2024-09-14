@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/The Legend of Vox Machina S01E10-E12 1080p",
+    "files" : [ "/opt/JDownloader/Downloads/The Legend of Vox Machina S01E10-E12 1080p/The.Legend.of.Vox.Machina.S01E12.German.DL.1080p.WEB.h264-OHD.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

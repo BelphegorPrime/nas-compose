@@ -1,0 +1,40 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Future Man S02-jUNiP",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e01-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e01-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e02-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e02-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e03-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e03-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e04-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e04-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e05-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e05-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e06-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e06-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e07-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e07-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e08-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e08-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e09-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e09-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e10-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e10-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e11-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e11-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e12-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e12-sd.mkv.nfo",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e13-sd.mkv",
+                                                              "/opt/JDownloader/Downloads/Future Man S02-jUNiP/Future.Man.S02.Complete.German.Webrip.x264-jUNiP/futureman-s02e13-sd.mkv.nfo"
+                                                             ]
+                                        }
+}

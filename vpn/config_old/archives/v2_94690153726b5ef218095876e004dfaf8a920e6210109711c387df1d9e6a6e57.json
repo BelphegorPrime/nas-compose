@@ -1,0 +1,21 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS/Sample/encounters-enwetothpu_1080p-sample.mkv",
+                                                              "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS/SUBS/encounters-enwetothpu_1080p_ger.idx",
+                                                              "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS/SUBS/encounters-enwetothpu_1080p_ger.sub",
+                                                              "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS/SUBS/encounters-enwetothpu_1080p_ger_forced.idx",
+                                                              "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS/SUBS/encounters-enwetothpu_1080p_ger_forced.sub",
+                                                              "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS/encounters-enwetothpu_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Enemies Welcome to the Punch 2013 German DL 1080p BluRay x264-ENCOUNTERS/encounters-enwetothpu_1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

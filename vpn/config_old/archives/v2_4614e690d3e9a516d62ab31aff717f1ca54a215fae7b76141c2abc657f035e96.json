@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/George der aus dem Dschungel kam 2",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/George der aus dem Dschungel kam 2/George.der.aus.dem.Dschungel.kam.2.German.2003.AC3.DVDRip.XViD.iNTERNAL-HaVeFuN/HaVeFuN-george2-xvid.avi",
+                                                              "/opt/JDownloader/Downloads/George der aus dem Dschungel kam 2/George.der.aus.dem.Dschungel.kam.2.German.2003.AC3.DVDRip.XViD.iNTERNAL-HaVeFuN/HaVeFuN-george2-xvid.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

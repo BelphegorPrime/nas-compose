@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/00 - Unbeseelt.epub",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/00 - Unbeseelt.m3u",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/01 - Vorspann.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/02 - Kapitel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/03 - Kapitel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/04 - Kapitel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/05 - Kapitel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/06 - Kapitel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/07 - Kapitel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/08 - Kapitel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/09 - Kapitel 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/10 - Kapitel 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/11 - Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/12 - Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/13 - Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/14 - Kapitel 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/15 - Kapitel 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/16 - Kapitel 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/17 - Kapitel 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/18 - Kapitel 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/19 - Kapitel 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/20 - Kapitel 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/21 - Kapitel 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/22 - Epilog.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/23 - Abspann.mp3",
+                                                              "/opt/JDownloader/Downloads/Will Wight - Die Wiege 01 - Unbeseelt (Ungekürzt)/cover.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

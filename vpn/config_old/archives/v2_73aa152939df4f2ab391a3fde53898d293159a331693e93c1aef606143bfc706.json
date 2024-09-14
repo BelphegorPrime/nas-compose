@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD42WWS",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD42WWS/The.Wolf.of.Wall.Street.2013.GERMAN.800p.microHD.x264-Raistlin911/The.Wolf.of.Wall.Street.2013.GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

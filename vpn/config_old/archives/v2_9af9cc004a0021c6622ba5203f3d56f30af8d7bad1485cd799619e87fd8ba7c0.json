@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Percy Jackson and the Olympians S01E01-E05 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Percy Jackson and the Olympians S01E01-E05 720p/Percy.Jackson.and.the.Olympians.S01E01.GERMAN.DL.720p.WEB.H264-MGE/percy.jackson.and.the.olympians.s01e01.german.dl.720p.web.h264-mge.mkv",
+                                                              "/opt/JDownloader/Downloads/Percy Jackson and the Olympians S01E01-E05 720p/Percy.Jackson.and.the.Olympians.S01E01.GERMAN.DL.720p.WEB.H264-MGE/percy.jackson.and.the.olympians.s01e01.german.dl.720p.web.h264-mge.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

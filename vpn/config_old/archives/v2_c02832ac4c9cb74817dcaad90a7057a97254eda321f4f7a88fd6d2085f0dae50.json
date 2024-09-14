@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/INEGJGHERFDWEWE",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-101.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-101.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-102.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-102.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-103.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-103.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-104.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-104.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-105.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-105.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-106.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-106.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-107.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-107.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-108.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-108.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-109.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-109.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-110.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-110.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-111.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-111.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-112.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-112.nfo",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-113.mkv",
+                                                              "/opt/JDownloader/Downloads/INEGJGHERFDWEWE/The.100.S01.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-113.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

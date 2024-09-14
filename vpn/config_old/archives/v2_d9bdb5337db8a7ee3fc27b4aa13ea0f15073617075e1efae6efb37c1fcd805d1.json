@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels 2020 S01E06 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels 2020 S01E06 720p/Penny.Dreadful.City.Of.Angels.2020.S01E06.GERMAN.DL.720p.WEBRiP.x264.PROPER-LAW/law-penny.dreadful.city.of.angels.2020.s01e06.german.dl.720p.webrip.x264.proper.mkv",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels 2020 S01E06 720p/Penny.Dreadful.City.Of.Angels.2020.S01E06.GERMAN.DL.720p.WEBRiP.x264.PROPER-LAW/law-penny.dreadful.city.of.angels.2020.s01e06.german.dl.720p.webrip.x264.proper.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

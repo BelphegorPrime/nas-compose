@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/01 - Sherlock Holmes und der Blutadler - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/02 - Sherlock Holmes und der Blutadler - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/03 - Sherlock Holmes und der Blutadler - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/04 - Sherlock Holmes und der Blutadler - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/05 - Sherlock Holmes und der Blutadler - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/06 - Sherlock Holmes und der Blutadler - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/07 - Sherlock Holmes und der Blutadler - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/08 - Sherlock Holmes und der Blutadler - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/09 - Sherlock Holmes und der Blutadler - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/10 - Sherlock Holmes und der Blutadler - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/11 - Sherlock Holmes und der Blutadler - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/12 - Sherlock Holmes und der Blutadler - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/13 - Sherlock Holmes und der Blutadler - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/14 - Sherlock Holmes und der Blutadler - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/15 - Sherlock Holmes und der Blutadler - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/16 - Sherlock Holmes und der Blutadler - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/17 - Sherlock Holmes und der Blutadler - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/18 - Sherlock Holmes und der Blutadler - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/19 - Sherlock Holmes und der Blutadler - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/20 - Sherlock Holmes und der Blutadler - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/21 - Sherlock Holmes und der Blutadler - Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/22 - Sherlock Holmes und der Blutadler - Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/23 - Sherlock Holmes und der Blutadler - Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/24 - Sherlock Holmes und der Blutadler - Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/25 - Sherlock Holmes und der Blutadler - Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 19 - Sherlock Holmes und der Blutadler/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

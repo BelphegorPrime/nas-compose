@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Fast and Furious 10 1080p BluRay REPACK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Fast and Furious 10 1080p BluRay REPACK/Fast.and.Furious.10.German.DL.1080p.BluRay.x264.REPACK-KiNOWELT/fast.and.furious.10.german.dl.1080p.bluray.x264.repack-kinowelt.mkv",
+                                                              "/opt/JDownloader/Downloads/Fast and Furious 10 1080p BluRay REPACK/Fast.and.Furious.10.German.DL.1080p.BluRay.x264.REPACK-KiNOWELT/fast.and.furious.10.german.dl.1080p.bluray.x264.repack-kinowelt.nfo",
+                                                              "/opt/JDownloader/Downloads/Fast and Furious 10 1080p BluRay REPACK/Fast.and.Furious.10.German.DL.1080p.BluRay.x264.REPACK-KiNOWELT/Subs/fast.and.furious.10.german.dl.1080p.bluray.x264.repack-kinowelt.subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.100.S05E05.Toedlicher.Sand.GERMAN.DUBBED.DL.1080p.BluRay.x264-TVP/tvp-the100-s05e05-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/The.100.S05E05.Toedlicher.Sand.GERMAN.DUBBED.DL.1080p.BluRay.x264-TVP/tvp-the100-s05e05-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

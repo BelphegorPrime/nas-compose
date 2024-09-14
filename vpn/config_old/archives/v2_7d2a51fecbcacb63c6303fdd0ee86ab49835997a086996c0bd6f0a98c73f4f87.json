@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Midnight in the Switchgrass (2021)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Midnight in the Switchgrass (2021)/Midnight.in.the.Switchgrass.2021.German.804p.microHD.x264-king/Midnight in the Switchgrass (2021)-king.nfo",
+                                                              "/opt/JDownloader/Downloads/Midnight in the Switchgrass (2021)/Midnight.in.the.Switchgrass.2021.German.804p.microHD.x264-king/Midnight in the Switchgrass - Auf der Spur des Killers (2021).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

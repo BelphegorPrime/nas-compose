@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Monarch Legacy of Monsters S01E01-E04 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Monarch Legacy of Monsters S01E01-E04 1080P/monarch.legacy.of.monsters.s01e02.german.dl.1080p.web.h264-wayne.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

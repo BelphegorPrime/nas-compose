@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/1 - Der verlorene Sohn (Teil 1).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/10 - Der verlorene Sohn (Teil 10).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/11 - Der verlorene Sohn (Teil 11).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/12 - Der verlorene Sohn (Teil 12).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/13 - Der verlorene Sohn (Teil 13).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/14 - Der verlorene Sohn (Teil 14).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/15 - Der verlorene Sohn (Teil 15).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/16 - Der verlorene Sohn (Teil 16).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/17 - Der verlorene Sohn (Teil 17).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/18 - Der verlorene Sohn (Teil 18).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/19 - Der verlorene Sohn (Teil 19).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/2 - Der verlorene Sohn (Teil 2).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/20 - Der verlorene Sohn (Teil 20).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/21 - Der verlorene Sohn (Teil 21).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/3 - Der verlorene Sohn (Teil 3).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/4 - Der verlorene Sohn (Teil 4).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/5 - Der verlorene Sohn (Teil 5).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/6 - Der verlorene Sohn (Teil 6).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/7 - Der verlorene Sohn (Teil 7).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/8 - Der verlorene Sohn (Teil 8).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/9 - Der verlorene Sohn (Teil 9).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 029 - Der verlorene Sohn/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

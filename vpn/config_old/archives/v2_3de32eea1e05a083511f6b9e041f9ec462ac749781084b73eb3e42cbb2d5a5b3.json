@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Orange is the New Black",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E01.Ich.war.nicht.bereit.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E02.Tittenschlag.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E03.Lesben-Anfrage.abgelehnt.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E04.Eingebildete.Feinde.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E05.Huehnerjagd.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E06.Gefaengnispolitik.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E07.Suesse.Verlockung.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E08.Die.Schmugglerin.aus.Moskau.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E09.Fucksgiving.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E10.Bora.Bora.Bora.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E11.Grosse.Maenner.mit.Gefuehlen.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E12.Selber.schuld.German.DL.BD.x264-4SJ.mkv",
+                                                              "/opt/JDownloader/Downloads/Orange is the New Black/Orange.is.the.New.Black.S01.German.DL.BD.x264-4SJ/Orange.Is.The.New.Black.S01E13.Hoffnungslos.verrueckt.German.DL.BD.x264-4SJ.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

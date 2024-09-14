@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Minions 2 Auf der Suche nach dem Mini-Boss 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Minions 2 Auf der Suche nach dem Mini-Boss 1080p WEB/Minions.2.Auf.der.Suche.nach.dem.Mini-Boss.2022.GERMAN.DL.AC3.DUBBED.1080p.WEB.h264-PsO/pso-min2-hd-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Minions 2 Auf der Suche nach dem Mini-Boss 1080p WEB/Minions.2.Auf.der.Suche.nach.dem.Mini-Boss.2022.GERMAN.DL.AC3.DUBBED.1080p.WEB.h264-PsO/pso-min2-hd-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

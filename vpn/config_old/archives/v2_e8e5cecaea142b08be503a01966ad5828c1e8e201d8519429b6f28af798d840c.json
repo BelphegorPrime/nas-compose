@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Hohlbein - Der ewig dunkle Traum.jpg",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  001.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  002.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  003.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  004.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  005.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  006.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  007.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  008.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  009.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Schattenchronik 01  010.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Schattenchronik 01 - Der ewig dunkle Traum/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

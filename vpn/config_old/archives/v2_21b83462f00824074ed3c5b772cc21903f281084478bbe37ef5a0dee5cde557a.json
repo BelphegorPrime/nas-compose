@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/After Life S02 GERMAN DL 720p WebHD x264-TMSF",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/After Life S02 GERMAN DL 720p WebHD x264-TMSF/tmsf-afterlife-s02e04-720p.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

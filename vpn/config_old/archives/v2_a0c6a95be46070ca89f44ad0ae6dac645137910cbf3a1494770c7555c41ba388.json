@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS",
+    "files" : [ "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Sample/d-anchorman-1080p-sample.mkv", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-eng-forced.idx", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-eng-forced.sub", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-eng.idx", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-eng.sub", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-forced.idx", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-forced.sub", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-subs.rar", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p-subs.sfv", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p.idx", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/Subs/d-anchorman-1080p.sub", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/d-anchorman-1080p.mkv", "/opt/JDownloader/Downloads/Ancho 2004 German DL 1080p BluRay x264-DETAiLS/d-anchorman-1080p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

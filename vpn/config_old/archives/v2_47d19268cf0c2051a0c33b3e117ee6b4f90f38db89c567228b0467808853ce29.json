@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Masters of Sex S01 GERMAN DUBBED WS WEBRip x264-TVP",
+    "files" : [ "/opt/JDownloader/Downloads/Masters of Sex S01 GERMAN DUBBED WS WEBRip x264-TVP/Masters.of.Sex.S01E02.Race.To.Space.GERMAN.DUBBED.WS.WEBRip.x264-TVP/tvp-mastersofsex-s01e02-480p.mkv", "/opt/JDownloader/Downloads/Masters of Sex S01 GERMAN DUBBED WS WEBRip x264-TVP/Masters.of.Sex.S01E02.Race.To.Space.GERMAN.DUBBED.WS.WEBRip.x264-TVP/tvp-mastersofsex-s01e02-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

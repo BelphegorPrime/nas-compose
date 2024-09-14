@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/01 - Folge 30_ Das gelbe Gesicht, Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/02 - Folge 30_ Das gelbe Gesicht, Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/03 - Folge 30_ Das gelbe Gesicht, Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/04 - Folge 30_ Das gelbe Gesicht, Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/05 - Folge 30_ Das gelbe Gesicht, Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/06 - Folge 30_ Das gelbe Gesicht, Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/07 - Folge 30_ Das gelbe Gesicht, Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/08 - Folge 30_ Das gelbe Gesicht, Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/09 - Folge 30_ Das gelbe Gesicht, Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/10 - Folge 30_ Das gelbe Gesicht, Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/11 - Folge 30_ Das gelbe Gesicht, Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/12 - Folge 30_ Das gelbe Gesicht, Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/13 - Folge 30_ Das gelbe Gesicht, Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/14 - Folge 30_ Das gelbe Gesicht, Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/15 - Folge 30_ Das gelbe Gesicht, Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/16 - Folge 30_ Das gelbe Gesicht, Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/17 - Folge 30_ Das gelbe Gesicht, Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/18 - Folge 30_ Das gelbe Gesicht, Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/19 - Folge 30_ Das gelbe Gesicht, Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/20 - Folge 30_ Das gelbe Gesicht, Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/21 - Folge 30_ Das gelbe Gesicht, Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/22 - Folge 30_ Das gelbe Gesicht, Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/23 - Folge 30_ Das gelbe Gesicht, Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/24 - Folge 30_ Das gelbe Gesicht, Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/playlist.m3u8",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 030 - Das gelbe Gesicht/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

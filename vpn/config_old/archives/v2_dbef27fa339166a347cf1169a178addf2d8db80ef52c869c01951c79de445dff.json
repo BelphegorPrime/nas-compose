@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Ghostbusters Legacy LD 1080p WEB",
+    "files" : [ "/opt/JDownloader/Downloads/Ghostbusters Legacy LD 1080p WEB/Ghostbusters.Legacy.2021.German.DL.LD.1080p.WEB.h264-PRD/prd-ghostbusters.legacy-1080p-web.mkv", "/opt/JDownloader/Downloads/Ghostbusters Legacy LD 1080p WEB/Ghostbusters.Legacy.2021.German.DL.LD.1080p.WEB.h264-PRD/prd-ghostbusters.legacy-1080p-web.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

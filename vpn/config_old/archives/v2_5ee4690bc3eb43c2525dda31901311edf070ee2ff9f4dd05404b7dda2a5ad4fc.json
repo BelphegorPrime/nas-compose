@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD286DTP",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD286DTP/Die.Tribute.von.Panem.-.The.Hunger.Games.2012.GERMAN.800p.microHD.x264-Raistlin911/Die.Tribute.von.Panem.-.The.Hunger.Games.2012.GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

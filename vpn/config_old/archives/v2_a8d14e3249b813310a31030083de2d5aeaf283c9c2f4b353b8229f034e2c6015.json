@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 08 Loge 341/Sherlock Holmes & Co - 08 Loge 341/Sherlock Holmes & Co 08 - Loge 341.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 08 Loge 341/_Reflinks für Unterstützung/Rapidgator_ Bitte klicken um mich zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 08 Loge 341/_Reflinks für Unterstützung/Turbobit.net_ Bitte klicken um mich zu Unterstützen, Danke.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

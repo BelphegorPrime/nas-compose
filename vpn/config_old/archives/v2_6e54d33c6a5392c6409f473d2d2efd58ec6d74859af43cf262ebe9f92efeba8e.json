@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast S03 720p",
+    "files" : [ "/opt/JDownloader/Downloads/How to Sell Drugs Online Fast S03 720p/how.to.sell.drugs.online.fast.s03e01.german.720p.web.x264-wvf.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Gangs Of London S02E04",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Gangs Of London S02E04/Gangs.Of.London.S02E04.German.Web.H264/Gangs.Of.London.S02E04.German.Web.H264.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

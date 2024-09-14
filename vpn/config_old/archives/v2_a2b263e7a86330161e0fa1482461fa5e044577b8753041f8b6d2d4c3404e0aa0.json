@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/galavant",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/galavant/Galavant.S01E01.Koenigs.Lust.Ritters.Frust.GERMAN.HDTVRip.x264-MDGP/mdgp-galavants01e01-480p.mkv",
+                                                              "/opt/JDownloader/Downloads/galavant/Galavant.S01E01.Koenigs.Lust.Ritters.Frust.GERMAN.HDTVRip.x264-MDGP/mdgp-galavants01e01-480p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Blacklist S10E22 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Blacklist S10E22 1080P/The.Blacklist.S10E22.GERMAN.DL.1080P.WEB.X264-WAYNE/the.blacklist.s10e22.german.dl.1080p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/The Blacklist S10E22 1080P/The.Blacklist.S10E22.GERMAN.DL.1080P.WEB.X264-WAYNE/the.blacklist.s10e22.german.dl.1080p.web.x264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Werewolf By Night 1080p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Werewolf By Night 1080p WEB/Werewolf.By.Night.2022.GERMAN.DL.1080p.WEB.h264-FENDT/Werewolf.By.Night.2022.GERMAN.DL.1080p.WEB.h264-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/Werewolf By Night 1080p WEB/Werewolf.By.Night.2022.GERMAN.DL.1080p.WEB.h264-FENDT/werewolf.by.night.2022.german.dl.1080p.web.h264-fendt.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

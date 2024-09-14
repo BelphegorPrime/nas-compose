@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Windhund (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Windhund (microHD)/Greyhound.Schlacht.im.Atlantik.2020.GERMAN.DL.800p.microHD.x264-RED/grayhound cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Windhund (microHD)/Greyhound.Schlacht.im.Atlantik.2020.GERMAN.DL.800p.microHD.x264-RED/Greyhound \u2013 Schlacht im Atlantik (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

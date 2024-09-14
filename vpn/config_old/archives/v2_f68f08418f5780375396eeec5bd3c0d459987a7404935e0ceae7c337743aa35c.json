@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/bdfrtzthdfsers",
+    "files" : [ "/opt/JDownloader/Downloads/bdfrtzthdfsers/Masters.of.Sex.S04E09.Night.and.Day.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e09-480p.mkv", "/opt/JDownloader/Downloads/bdfrtzthdfsers/Masters.of.Sex.S04E09.Night.and.Day.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e09-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

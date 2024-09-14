@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/StWaTClWa web 7p S03E22 Ein Wookiee schlaegt zurueck",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/StWaTClWa web 7p S03E22 Ein Wookiee schlaegt zurueck/Star.Wars.The.Clone.Wars.S03E01.Klonkadetten.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S03E01.Klonkadetten.GERMAN.DL.720p.WEB.H264-TSCC.mkv",
+                                                              "/opt/JDownloader/Downloads/StWaTClWa web 7p S03E22 Ein Wookiee schlaegt zurueck/Star.Wars.The.Clone.Wars.S03E01.Klonkadetten.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S03E01.Klonkadetten.GERMAN.DL.720p.WEB.H264-TSCC.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

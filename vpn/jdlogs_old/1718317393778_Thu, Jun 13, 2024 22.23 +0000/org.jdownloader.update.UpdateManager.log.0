@@ -1,0 +1,1404 @@
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1718317394118-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> ClientSetup 9
+------------------------Thread: 22:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:22TS:1718317394189-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: []
+--ID:22TS:1718317394189-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:22TS:1718317394189-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:22TS:1718317394189-6/13/24, 10:23:14 PM -  [org.jdownloader.update.JDUpdateClient$JDExtensionManager(init)] -> Installed Extensions: []
+--ID:22TS:1718317394191-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at /opt/JDownloader/update/versioninfo/JD/filelist.txt Size: 495220
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1718317394197-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> Client 79
+------------------------Thread: 22:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:22TS:1718317394201-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Installed Extensions: []
+--ID:22TS:1718317394201-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Installations: []
+--ID:22TS:1718317394201-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.extensions.ExtensionManager(init)] -> Requested Extension Uninstalls: []
+--ID:22TS:1718317394203-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.FileList(<init>)] -> FileList at /opt/JDownloader/update/versioninfo/JDU/filelist.txt Size: 97
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1718317394203-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> selfUpdateClient 6
+--ID:1TS:1718317394203-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> LastChanceInit 0
+--ID:1TS:1718317394203-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> setUpdateOnExitFlag 0
+--ID:1TS:1718317394204-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> CreateGui 1
+--ID:1TS:1718317394224-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> DefaultHandler 20
+--ID:1TS:1718317394224-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> SetDefaultHandler 0
+--ID:1TS:1718317394224-6/13/24, 10:23:14 PM -  [org.jdownloader.update.UpdateManager(<init>)] -> ProxySelector 0
+------------------------Thread: 23:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:23TS:1718317394251-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getDefaultUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:23TS:1718317394270-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.UpdateClient(batchRequest)] -> [Update Client:JD@update.jdownloader.org] Batch Request ( 70 bytes):
+{
+ "jobs" : [
+           {
+            "id"   : 1718317394258,
+            "json" : null,
+            "name" : "TIME_SYNC"
+           }
+          ]
+}
+--ID:23TS:1718317394294-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&1718317394262.1718317394262&lng=en_US via [Direct]
+--ID:23TS:1718317394295-6/13/24, 10:23:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:23TS:1718317400494-6/13/24, 10:23:20 PM -  [] -> Exception thrown at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:108):
+java.io.IOException: 400 Bad Request
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.getInputStream(HTTPConnectionImpl.java:1518)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:103)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.checkResponseCode(BasicHTTP.java:101)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.postPage(BasicHTTP.java:742)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalPostWithProxy(HttpClientImpl.java:316)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.post(HttpClientImpl.java:376)
+	at org.appwork.updatesys.client.UpdateClient.batchRequest(UpdateClient.java:5693)
+	at org.appwork.updatesys.client.UpdateClient.ensureTimeSync(UpdateClient.java:2956)
+	at org.appwork.updatesys.client.UpdateClient.ensureSessionInit(UpdateClient.java:5801)
+	at org.appwork.updatesys.client.UpdateClient.get(UpdateClient.java:2823)
+	at org.appwork.updatesys.client.UpdateClient.downloadPackage(UpdateClient.java:5188)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5108)
+	at org.appwork.updatesys.client.UpdateClient.runPackageRequestAndServerSelection(UpdateClient.java:5334)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5249)
+	at org.jdownloader.update.UpdateManager.runUpdateLoop(UpdateManager.java:1024)
+	at org.jdownloader.update.PendingUpdate.run(PendingUpdate.java:19)
+	at org.jdownloader.update.UpdateManager$23.run(UpdateManager.java:1694)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+--ID:23TS:1718317400506-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&1718317394262.1718317394262&lng=en_US
+URL-Parameters:
+   jobs   : TIME_SYNC (BATCH_JOBS)
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+          : 1718317394262.1718317394262
+   lng    : en_US (LANGUAGE)
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------ConnectionExceptions-------------------------
+0:update.jdownloader.org/136.243.5.58|javax.net.ssl.SSLHandshakeException(Received fatal alert: handshake_failure)|retrySSL:Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3
+----------------Request-------------------------
+POST /jcgi/batch?jobs=TIME_SYNC&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&1718317394262.1718317394262&lng=en_US HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Content-Length: 70
+Accept-Encoding: gzip
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 111ms
+Request-Time: 149ms
+----------------Response------------------------
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Thu, 13 Jun 2024 22:23:20 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+JCGI: 1 (HTTP_HEADER_FCGI)
+------------------------------------------------
+
+
+--ID:23TS:1718317400509-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:23TS:1718317400509-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Invalid Response Code: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:23TS:1718317400509-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:23TS:1718317400511-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.UpdateClient(ensureTimeSync)] -> Time Sync: Unsupported Server:update.jdownloader.org
+--ID:23TS:1718317400512-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.UpdateClient(batchRequest)] -> [Update Client:JD@update.jdownloader.org] Batch Request ( 84 bytes):
+{
+ "jobs" : [
+           {
+            "id"   : 1718317400511,
+            "json" : "null",
+            "name" : "SESSION_INIT"
+           }
+          ]
+}
+--ID:23TS:1718317400513-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&1718317400512.1718317400511&lng=en_US via [Direct]
+--ID:23TS:1718317400513-6/13/24, 10:23:20 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:23TS:1718317401328-6/13/24, 10:23:21 PM -  [] -> Exception thrown at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:108):
+java.io.IOException: 400 Bad Request
+	at org.appwork.utils.net.httpconnection.HTTPConnectionImpl.getInputStream(HTTPConnectionImpl.java:1518)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpBackend.createInvalidResponseCodeException(HttpBackend.java:103)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.checkResponseCode(BasicHTTP.java:101)
+	at org.appwork.utils.net.BasicHTTP.BasicHTTP.postPage(BasicHTTP.java:742)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.internalPostWithProxy(HttpClientImpl.java:316)
+	at org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl.post(HttpClientImpl.java:376)
+	at org.appwork.updatesys.client.UpdateClient.batchRequest(UpdateClient.java:5693)
+	at org.appwork.updatesys.client.UpdateClient.ensureSessionInit(UpdateClient.java:5806)
+	at org.appwork.updatesys.client.UpdateClient.get(UpdateClient.java:2823)
+	at org.appwork.updatesys.client.UpdateClient.downloadPackage(UpdateClient.java:5188)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5108)
+	at org.appwork.updatesys.client.UpdateClient.runPackageRequestAndServerSelection(UpdateClient.java:5334)
+	at org.appwork.updatesys.client.UpdateClient.runUpdateCheck(UpdateClient.java:5249)
+	at org.jdownloader.update.UpdateManager.runUpdateLoop(UpdateManager.java:1024)
+	at org.jdownloader.update.PendingUpdate.run(PendingUpdate.java:19)
+	at org.jdownloader.update.UpdateManager$23.run(UpdateManager.java:1694)
+	at java.base/java.lang.Thread.run(Thread.java:844)
+
+--ID:23TS:1718317401334-6/13/24, 10:23:21 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&1718317400512.1718317400511&lng=en_US
+URL-Parameters:
+   jobs   : SESSION_INIT (BATCH_JOBS)
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+          : 1718317400512.1718317400511
+   lng    : en_US (LANGUAGE)
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+POST /jcgi/batch?jobs=SESSION_INIT&st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&1718317400512.1718317400511&lng=en_US HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Content-Length: 84
+Accept-Encoding: gzip
+Content-Type: application/json; charset=utf-8
+Content-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 110ms
+Request-Time: 152ms
+----------------Response------------------------
+HTTP/1.1 400 Bad Request
+Server: nginx
+Date: Thu, 13 Jun 2024 22:23:21 GMT
+Content-Type: text/html
+Content-Length: 150
+Connection: close
+JCGI: 1 (HTTP_HEADER_FCGI)
+------------------------------------------------
+
+
+--ID:23TS:1718317401335-6/13/24, 10:23:21 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:23TS:1718317401335-6/13/24, 10:23:21 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Invalid Response Code: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:23TS:1718317401335-6/13/24, 10:23:21 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 400
+--ID:23TS:1718317401335-6/13/24, 10:23:21 PM -  [org.appwork.updatesys.client.UpdateClient(ensureSessionInit)] -> Session Init: Unsupported Server:update.jdownloader.org
+--ID:23TS:1718317401339-6/13/24, 10:23:21 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718317401338.1718317401338 via [Direct]
+--ID:23TS:1718317401340-6/13/24, 10:23:21 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:23TS:1718317402144-6/13/24, 10:23:22 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718317401338.1718317401338
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718317401338.1718317401338
+SSLCipher: JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718317401338.1718317401338 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 108ms
+Request-Time: 146ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Thu, 13 Jun 2024 22:23:22 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:23TS:1718317402145-6/13/24, 10:23:22 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:23TS:1718317402146-6/13/24, 10:23:22 PM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718317407862,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:23TS:1718317402148-6/13/24, 10:23:22 PM -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: Sync offset: -5714
+--ID:23TS:1718317402160-6/13/24, 10:23:22 PM -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: After: Thu Jun 13 22:23:27 GMT 2024 +00s = Thu Jun 13 22:23:27 GMT 2024.862 (SRV)
+--ID:23TS:1718317402160-6/13/24, 10:23:22 PM -  [org.appwork.updatesys.client.servertime.ServerTimeHandler(sync)] -> [Update Client:JD@update.jdownloader.org]: Diff: -5714/5714
+--ID:23TS:1718317402164-6/13/24, 10:23:22 PM -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> OnResult
+--ID:23TS:1718317402165-6/13/24, 10:23:22 PM -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> Confirmed: false
+--ID:23TS:1718317403167-6/13/24, 10:23:23 PM -  [org.jdownloader.update.DefaultCallbackHandler(onResults)] -> empty
+------------------------Thread: 1:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1TS:1718317403167-6/13/24, 10:23:23 PM -  [org.jdownloader.update.UpdateManager(setLaunchState)] -> Launchstate: LAUNCHING_JD
+--ID:1TS:1718317404634-6/13/24, 10:23:24 PM -  [org.jdownloader.update.UpdateManager(setLaunchState)] -> Launchstate: JD_RUNNING
+------------------------Thread: 34:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:34TS:1718317404675-6/13/24, 10:23:24 PM -  [org.jdownloader.update.UpdateManager$22(run)] -> JDownloader running in headless mode: force UpdateInterval to minimum 1 hour to enable device to go to standby/hibernate: 1h:00m:00s
+------------------------Thread: 58:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:58TS:1718317406987-6/13/24, 10:23:26 PM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:58TS:1718317407028-6/13/24, 10:23:27 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718317412705.1718317406991 via [Direct]
+--ID:58TS:1718317407028-6/13/24, 10:23:27 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:58TS:1718317407839-6/13/24, 10:23:27 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718317412705.1718317406991
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718317412705.1718317406991
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718317412705.1718317406991 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 109ms
+Request-Time: 147ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Thu, 13 Jun 2024 22:23:27 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:58TS:1718317407839-6/13/24, 10:23:27 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:58TS:1718317407839-6/13/24, 10:23:27 PM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718317413558,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:58TS:1718317407844-6/13/24, 10:23:27 PM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:58TS:1718317407846-6/13/24, 10:23:27 PM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:58TS:1718317407846-6/13/24, 10:23:27 PM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 18:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:18TS:1718317454057-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=1657b4e0a41179c7937ec9914ac0cfaa&rev=17357&srev=17357&urev=17392&surev=17392 via [Direct]
+--ID:18TS:1718317454057-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(internalDownloadWithProxy)] -> Try Proxy: Direct
+--ID:18TS:1718317454057-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Download to /tmp/lastChanceSrc17183174539962919693633839044563lch Size before: 0 bytes
+--ID:18TS:1718317454874-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=1657b4e0a41179c7937ec9914ac0cfaa&rev=17357&srev=17357&urev=17392&surev=17392
+URL-Parameters:
+   app   : JD (REPO_NAME)
+   pkh   : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   jh    : 1657b4e0a41179c7937ec9914ac0cfaa
+   rev   : 17357 (REPO_REVISION)
+   srev  : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   urev  : 17392 (UPDATER_REVISION)
+   surev : 17392 (UPDATER_SUPER_REVISION)
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/lastchance?app=JD&pkh=12f1848a883e733ed40fffff0dae2f35&jh=1657b4e0a41179c7937ec9914ac0cfaa&rev=17357&srev=17357&urev=17392&surev=17392 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+----------------Response Information------------
+Connection-Time: 108ms
+Request-Time: 149ms
+----------------Response------------------------
+HTTP/1.1 404 Not Found
+Date: Thu, 13 Jun 2024 22:24:14 GMT
+Content-Length: 0
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:18TS:1718317454874-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> No Last Chance Found. Good!
+--ID:18TS:1718317454874-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Check if we can leave 
+--ID:18TS:1718317454874-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(checkTryNextProxyOrGiveUp)] -> Invalid Response Code: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 404
+--ID:18TS:1718317454874-6/13/24, 10:24:14 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(throwServerExceptions)] -> Handle BasicHTTPException org.appwork.utils.net.BasicHTTP.BasicHTTPException: org.appwork.utils.net.BasicHTTP.ReadIOException: org.appwork.utils.net.BasicHTTP.InvalidResponseCode: Invalid ResponseCode: 404
+------------------------Thread: 1843:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:1843TS:1718321007092-6/13/24, 11:23:27 PM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:1843TS:1718321007128-6/13/24, 11:23:27 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718321012808.1718321007094 via [Direct]
+--ID:1843TS:1718321007128-6/13/24, 11:23:27 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:1843TS:1718321008297-6/13/24, 11:23:28 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718321012808.1718321007094
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718321012808.1718321007094
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718321012808.1718321007094 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 141ms
+Request-Time: 185ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Thu, 13 Jun 2024 23:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:1843TS:1718321008297-6/13/24, 11:23:28 PM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:1843TS:1718321008297-6/13/24, 11:23:28 PM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718321013990,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:1843TS:1718321008297-6/13/24, 11:23:28 PM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:1843TS:1718321008298-6/13/24, 11:23:28 PM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:1843TS:1718321008298-6/13/24, 11:23:28 PM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 2033:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:2033TS:1718324607092-6/14/24, 12:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:2033TS:1718324607124-6/14/24, 12:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718324612809.1718324607095 via [Direct]
+--ID:2033TS:1718324607124-6/14/24, 12:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:2033TS:1718324608047-6/14/24, 12:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718324612809.1718324607095
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718324612809.1718324607095
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718324612809.1718324607095 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 109ms
+Request-Time: 146ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 00:23:27 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:2033TS:1718324608047-6/14/24, 12:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:2033TS:1718324608047-6/14/24, 12:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718324613758,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:2033TS:1718324608047-6/14/24, 12:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:2033TS:1718324608048-6/14/24, 12:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:2033TS:1718324608048-6/14/24, 12:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 2216:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:2216TS:1718328207190-6/14/24, 1:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:2216TS:1718328207214-6/14/24, 1:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718328212904.1718328207190 via [Direct]
+--ID:2216TS:1718328207214-6/14/24, 1:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:2216TS:1718328208080-6/14/24, 1:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718328212904.1718328207190
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718328212904.1718328207190
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718328212904.1718328207190 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 110ms
+Request-Time: 150ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 01:23:27 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:2216TS:1718328208080-6/14/24, 1:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:2216TS:1718328208080-6/14/24, 1:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718328213796,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:2216TS:1718328208081-6/14/24, 1:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:2216TS:1718328208081-6/14/24, 1:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:2216TS:1718328208081-6/14/24, 1:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 2398:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:2398TS:1718331807294-6/14/24, 2:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:2398TS:1718331807324-6/14/24, 2:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718331813011.1718331807296 via [Direct]
+--ID:2398TS:1718331807324-6/14/24, 2:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:2398TS:1718331808261-6/14/24, 2:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718331813011.1718331807296
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718331813011.1718331807296
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718331813011.1718331807296 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 115ms
+Request-Time: 147ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 02:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:2398TS:1718331808261-6/14/24, 2:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:2398TS:1718331808261-6/14/24, 2:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718331813983,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:2398TS:1718331808261-6/14/24, 2:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:2398TS:1718331808261-6/14/24, 2:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:2398TS:1718331808261-6/14/24, 2:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 2582:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:2582TS:1718335407396-6/14/24, 3:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:2582TS:1718335407426-6/14/24, 3:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718335413112.1718335407398 via [Direct]
+--ID:2582TS:1718335407426-6/14/24, 3:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:2582TS:1718335408371-6/14/24, 3:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718335413112.1718335407398
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718335413112.1718335407398
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718335413112.1718335407398 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 112ms
+Request-Time: 148ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 03:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:2582TS:1718335408371-6/14/24, 3:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:2582TS:1718335408371-6/14/24, 3:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718335414095,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:2582TS:1718335408372-6/14/24, 3:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:2582TS:1718335408372-6/14/24, 3:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:2582TS:1718335408372-6/14/24, 3:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 2762:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:2762TS:1718339007497-6/14/24, 4:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:2762TS:1718339007525-6/14/24, 4:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718339013213.1718339007499 via [Direct]
+--ID:2762TS:1718339007525-6/14/24, 4:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:2762TS:1718339008489-6/14/24, 4:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718339013213.1718339007499
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718339013213.1718339007499
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718339013213.1718339007499 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 115ms
+Request-Time: 151ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 04:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:2762TS:1718339008489-6/14/24, 4:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:2762TS:1718339008489-6/14/24, 4:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718339014212,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:2762TS:1718339008490-6/14/24, 4:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:2762TS:1718339008491-6/14/24, 4:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:2762TS:1718339008491-6/14/24, 4:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 5435:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:5435TS:1718342607597-6/14/24, 5:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:5435TS:1718342607625-6/14/24, 5:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718342613314.1718342607600 via [Direct]
+--ID:5435TS:1718342607625-6/14/24, 5:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:5435TS:1718342608592-6/14/24, 5:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718342613314.1718342607600
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718342613314.1718342607600
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718342613314.1718342607600 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 115ms
+Request-Time: 157ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 05:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:5435TS:1718342608592-6/14/24, 5:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:5435TS:1718342608592-6/14/24, 5:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718342614313,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:5435TS:1718342608593-6/14/24, 5:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:5435TS:1718342608593-6/14/24, 5:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:5435TS:1718342608593-6/14/24, 5:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 26941:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:26941TS:1718346207697-6/14/24, 6:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:26941TS:1718346207730-6/14/24, 6:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718346213415.1718346207701 via [Direct]
+--ID:26941TS:1718346207730-6/14/24, 6:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:26941TS:1718346208718-6/14/24, 6:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718346213415.1718346207701
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718346213415.1718346207701
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718346213415.1718346207701 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 131ms
+Request-Time: 148ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 06:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:26941TS:1718346208718-6/14/24, 6:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:26941TS:1718346208718-6/14/24, 6:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718346214444,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:26941TS:1718346208718-6/14/24, 6:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:26941TS:1718346208719-6/14/24, 6:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:26941TS:1718346208719-6/14/24, 6:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 28911:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:28911TS:1718349807801-6/14/24, 7:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:28911TS:1718349807828-6/14/24, 7:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718349813517.1718349807802 via [Direct]
+--ID:28911TS:1718349807828-6/14/24, 7:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:28911TS:1718349808765-6/14/24, 7:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718349813517.1718349807802
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718349813517.1718349807802
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718349813517.1718349807802 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 111ms
+Request-Time: 148ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 07:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:28911TS:1718349808765-6/14/24, 7:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:28911TS:1718349808765-6/14/24, 7:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718349814493,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:28911TS:1718349808766-6/14/24, 7:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:28911TS:1718349808766-6/14/24, 7:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:28911TS:1718349808766-6/14/24, 7:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 29635:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:29635TS:1718353407900-6/14/24, 8:23:27 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:29635TS:1718353407929-6/14/24, 8:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718353413616.1718353407901 via [Direct]
+--ID:29635TS:1718353407929-6/14/24, 8:23:27 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:29635TS:1718353409263-6/14/24, 8:23:29 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718353413616.1718353407901
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718353413616.1718353407901
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718353413616.1718353407901 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 111ms
+Request-Time: 148ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 08:23:29 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:29635TS:1718353409263-6/14/24, 8:23:29 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:29635TS:1718353409263-6/14/24, 8:23:29 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718353414990,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:29635TS:1718353409264-6/14/24, 8:23:29 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:29635TS:1718353409266-6/14/24, 8:23:29 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:29635TS:1718353409266-6/14/24, 8:23:29 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false
+------------------------Thread: 30483:org.jdownloader.update.UpdateManager.log-----------------------
+--ID:30483TS:1718357008001-6/14/24, 9:23:28 AM -  [org.appwork.updatesys.client.UpdateClient(getUpdateOptions)] -> org.jdownloader.update.JDUpdateClient:getUpdateOptions:{
+ "deduplicationMode" : "INTRA",
+ "retryCauses"       : null,
+ "jarDiffEnabled"    : true
+}
+--ID:30483TS:1718357008025-6/14/24, 9:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> GET https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718357013717.1718357008003 via [Direct]
+--ID:30483TS:1718357008025-6/14/24, 9:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Get Try with Proxy Direct
+--ID:30483TS:1718357008962-6/14/24, 9:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpBackend(log)] -> ----------------Request Information-------------
+URL: https://update.jdownloader.org/jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718357013717.1718357008003
+URL-Parameters:
+   st     : 0 (SELFTEST)
+   rt     : SO (RUNTYPE)
+   jn     : JDownloader.jar (JAR_NAME)
+   pv     : 12 (PROTOCOL_VERSION)
+   cv     : 20210716001 (CLIENT_VERSION)
+   pkh    : 12f1848a883e733ed40fffff0dae2f35 (PUBLIC_KEY_HASH)
+   app    : JD (REPO_NAME)
+   os     : LINUX (OPERATING_SYSTEM)
+   osr    : ALPINE (OPERATING_SYSTEM_RELEASE)
+   arch   : X86 (CPU_ARCHITECTUR)
+   os64   : 1 (OPERATING_SYSTEM_64BIT)
+   jvm64  : 1 (JVM_64BIT)
+   java   : 10000002000000 (JVM_VERSION)
+   uid    : dnt_ (NAMESPACE_UID) (UID)
+   hidAck : no (HARDWARE_ID_ACK)
+   urev   : 17392 (UPDATER_REVISION)
+   srev   : 17357 (REPO_INSTALLED_REVISION) (REPO_SUPER_REVISION)
+   surev  : 17392 (UPDATER_SUPER_REVISION)
+   ct     : Normal (STAGING_GROUP)
+   dedup  : INTRA (DEDUPE_MODE)
+   awfcxz : 1 (AWFC_XZ_ENABLED)
+   dst    : -1 (REQUESTED_DEST_REVISION)
+   lng    : en_US (LANGUAGE)
+   chlg   : 0 (CHANGELOG_REQUESTED) (NAMESPACE_CHLG)
+   jdiff  : 1 (JAR_DIFF_ENABLED)
+   rev    : 17357 (REPO_REVISION)
+          : 1718357013717.1718357008003
+SSLCipher: AutoSwitch|JVM|Protocol:TLSv1.2|CipherSuite:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256|[Factory:org.appwork.utils.net.httpconnection.JavaSSLSocketStreamFactory@6dfa6b23=(Handshake)enable AES_128_GCM for TLS1.2/TLS1.3]
+ConnectIP: update.jdownloader.org/136.243.5.58:443
+Connection-Timeout: 20000ms
+Read-Timeout: 60000ms
+----------------Request-------------------------
+GET /jcgi/pkg?st=0&rt=SO&jn=JDownloader.jar&pv=12&cv=20210716001&pkh=12f1848a883e733ed40fffff0dae2f35&app=JD&os=LINUX&osr=ALPINE&arch=X86&os64=1&jvm64=1&java=10000002000000&uid=dnt_&hidAck=no&urev=17392&srev=17357&surev=17392&ct=Normal&dedup=INTRA&awfcxz=1&dst=-1&lng=en_US&chlg=0&jdiff=1&rev=17357&1718357013717.1718357008003 HTTP/1.1
+Host: update.jdownloader.org
+Accept-Language: en_US
+User-Agent: JDownloader/201707061810
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Connection: Close
+Cache-Control: no-cache, no-store
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Pragma: no-cache
+Accept-Encoding: gzip
+----------------Response Information------------
+Connection-Time: 111ms
+Request-Time: 149ms
+----------------Response------------------------
+HTTP/1.1 200 OK
+Date: Fri, 14 Jun 2024 09:23:28 GMT
+Content-Type: application/json; charset=UTF-8
+Content-Length: 163
+Connection: close
+Server: AppWork GmbH FcgiServer
+JCGI: 1 (HTTP_HEADER_FCGI)
+UPD_SRV: 1
+Strict-Transport-Security: max-age=15638400
+------------------------------------------------
+
+
+--ID:30483TS:1718357008962-6/14/24, 9:23:28 AM -  [org.appwork.updatesys.client.defaultimpl.http.HttpClientImpl(info)] -> Connection OK: 163 Bytes loaded
+--ID:30483TS:1718357008962-6/14/24, 9:23:28 AM -  [org.appwork.updatesys.transport.Pkg(parseServerResponse)] -> Serverresponse: {
+ "timeStamp"    : 1718357014691,
+ "uid"          : null,
+ "revisionName" : null,
+ "destRevision" : 17357,
+ "pong"         : null,
+ "status"       : "OK"
+}
+--ID:30483TS:1718357008963-6/14/24, 9:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> onResult
+--ID:30483TS:1718357008963-6/14/24, 9:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> {
+ "modifiedDirects"              : [],
+ "modifiedExtensionFiles"       : [],
+ "modifiedFiles"                : [],
+ "modifiedPlugins"              : [],
+ "modifiedRestartRequiredFiles" : [],
+ "sourcePackages"               : []
+}
+--ID:30483TS:1718357008964-6/14/24, 9:23:28 AM -  [org.jdownloader.updatev2.UpdateController(onResults)] -> Nothing to install false

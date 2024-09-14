@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The 100-HD- S03-13-16",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The 100-HD- S03-13-16/The.100.S03E13.Fueg.Dich.oder.Stirb.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-313.mkv",
+                                                              "/opt/JDownloader/Downloads/The 100-HD- S03-13-16/The.100.S03E13.Fueg.Dich.oder.Stirb.German.DD51.Dubbed.DL.1080p.BD.x264-TVS/tvs-thu-dd51-ded-dl-18p-bd-x264-313.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

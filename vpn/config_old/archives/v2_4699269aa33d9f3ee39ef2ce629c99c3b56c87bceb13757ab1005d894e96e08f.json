@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/F2152DRRSRTPNTHR3-RPG - filecrypt",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/F2152DRRSRTPNTHR3-RPG - filecrypt/F2152DRRSRTPNTHR3/Der.rosarote.Panther.wird.gejagt.1982.German.800p.microHD.x264-RAIST.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

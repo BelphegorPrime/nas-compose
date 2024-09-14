@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Homeland",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E07.Ein.Tag.am.Fenster.German.BDRip.x264-iNTENTiON/Homeland.S02E07.German.DL.BD.x264.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

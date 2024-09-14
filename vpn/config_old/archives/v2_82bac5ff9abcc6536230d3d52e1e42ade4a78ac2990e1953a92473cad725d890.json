@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/85276598768765785",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/85276598768765785/The.Circle.2017.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-thci_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/85276598768765785/The.Circle.2017.German.DL.1080p.BluRay.x264-ENCOUNTERS/encounters-thci_1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/85276598768765785/The.Circle.2017.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-thci_1080p_subs.rar",
+                                                              "/opt/JDownloader/Downloads/85276598768765785/The.Circle.2017.German.DL.1080p.BluRay.x264-ENCOUNTERS/Subs/encounters-thci_1080p_subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/01 - Sherlock Holmes und der Juwelier - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/02 - Sherlock Holmes und der Juwelier - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/03 - Sherlock Holmes und der Juwelier - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/04 - Sherlock Holmes und der Juwelier - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/05 - Sherlock Holmes und der Juwelier - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/06 - Sherlock Holmes und der Juwelier - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/07 - Sherlock Holmes und der Juwelier - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/08 - Sherlock Holmes und der Juwelier - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/09 - Sherlock Holmes und der Juwelier - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/10 - Sherlock Holmes und der Juwelier - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/11 - Sherlock Holmes und der Juwelier - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/12 - Sherlock Holmes und der Juwelier - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/13 - Sherlock Holmes und der Juwelier - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/14 - Sherlock Holmes und der Juwelier - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/15 - Sherlock Holmes und der Juwelier - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/16 - Sherlock Holmes und der Juwelier - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/17 - Sherlock Holmes und der Juwelier - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/18 - Sherlock Holmes und der Juwelier - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/19 - Sherlock Holmes und der Juwelier - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/20 - Sherlock Holmes und der Juwelier - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/21 - Sherlock Holmes und der Juwelier - Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 26 - Sherlock Holmes und der Juwelier (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

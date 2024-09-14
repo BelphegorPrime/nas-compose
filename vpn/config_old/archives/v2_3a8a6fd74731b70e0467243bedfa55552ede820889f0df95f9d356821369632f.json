@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/1 - Der seltsame Fall des Aloisius van Horn (Teil 1).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/10 - Der seltsame Fall des Aloisius van Horn (Teil 10).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/11 - Der seltsame Fall des Aloisius van Horn (Teil 11).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/12 - Der seltsame Fall des Aloisius van Horn (Teil 12).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/13 - Der seltsame Fall des Aloisius van Horn (Teil 13).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/14 - Der seltsame Fall des Aloisius van Horn (Teil 14).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/15 - Der seltsame Fall des Aloisius van Horn (Teil 15).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/16 - Der seltsame Fall des Aloisius van Horn (Teil 16).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/17 - Der seltsame Fall des Aloisius van Horn (Teil 17).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/18 - Der seltsame Fall des Aloisius van Horn (Teil 18).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/19 - Der seltsame Fall des Aloisius van Horn (Teil 19).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/2 - Der seltsame Fall des Aloisius van Horn (Teil 2).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/20 - Der seltsame Fall des Aloisius van Horn (Teil 20).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/21 - Der seltsame Fall des Aloisius van Horn (Teil 21).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/3 - Der seltsame Fall des Aloisius van Horn (Teil 3).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/4 - Der seltsame Fall des Aloisius van Horn (Teil 4).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/5 - Der seltsame Fall des Aloisius van Horn (Teil 5).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/6 - Der seltsame Fall des Aloisius van Horn (Teil 6).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/7 - Der seltsame Fall des Aloisius van Horn (Teil 7).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/8 - Der seltsame Fall des Aloisius van Horn (Teil 8).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/9 - Der seltsame Fall des Aloisius van Horn (Teil 9).mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes - Aus den Tagebüchern von Dr. Watson 019 - Der seltsame Fall des Aloisius van Horn/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

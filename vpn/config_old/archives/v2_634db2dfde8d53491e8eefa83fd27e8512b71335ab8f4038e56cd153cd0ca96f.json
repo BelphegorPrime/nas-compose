@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/What We Do in the Shadows S04 720P WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/What We Do in the Shadows S04 720P WEB/what.we.do.in.the.shadows.s04e02.german.dl.720p.web.h264-wayne.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

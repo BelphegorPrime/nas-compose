@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.100.S05E03.Schlafende.Riesen.GERMAN.DUBBED.DL.1080p.BluRay.x264-TVP/tvmaze.nfo",
+                                                              "/opt/JDownloader/Downloads/The.100.S05E03.Schlafende.Riesen.GERMAN.DUBBED.DL.1080p.BluRay.x264-TVP/tvp-the100-s05e03-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/The.100.S05E03.Schlafende.Riesen.GERMAN.DUBBED.DL.1080p.BluRay.x264-TVP/tvp-the100-s05e03-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

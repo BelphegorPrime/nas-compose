@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/StWaTClWa web 7p S02E22 Auf Geiseljagd",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/StWaTClWa web 7p S02E22 Auf Geiseljagd/Star.Wars.The.Clone.Wars.S02E18.Das.Zillo.Biest.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S02E18.Das.Zillo.Biest.GERMAN.DL.720p.WEB.H264-TSCC.nfo",
+                                                              "/opt/JDownloader/Downloads/StWaTClWa web 7p S02E22 Auf Geiseljagd/Star.Wars.The.Clone.Wars.S02E18.Das.Zillo.Biest.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S02E18.Das.Zillo.Biest.GERMAN.DL.720p.WEB.H264-TSCC.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

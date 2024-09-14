@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Stellaris Galaxy Edition-I KnoW",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Stellaris Galaxy Edition-I KnoW/Stellaris.Galaxy.Edition-I_KnoW/ik-sgegg.iso",
+                                                              "/opt/JDownloader/Downloads/Stellaris Galaxy Edition-I KnoW/Stellaris.Galaxy.Edition-I_KnoW/iknow.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

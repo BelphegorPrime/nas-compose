@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 8.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm - Titel 9.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/Wolfgang Hohlbein - Ich bin der Sturm.jpg",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Ich bin der Sturm/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

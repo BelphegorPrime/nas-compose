@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD312SST",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD312SST/Starship.Troopers.1997.GERMAN.1040p.microHD.x264-Raistlin911/Starship.Troopers.1997.GERMAN.1040p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

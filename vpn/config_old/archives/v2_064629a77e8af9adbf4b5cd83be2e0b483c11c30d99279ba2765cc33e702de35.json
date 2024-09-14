@@ -1,0 +1,17 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Donnie Darko 2001 THEATRICAL REMASTERED BDRIP",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Donnie Darko 2001 THEATRICAL REMASTERED BDRIP/Donnie.Darko.2001.THEATRICAL.REMASTERED.GERMAN.DL.BDRIP.X264-WATCHABLE/Subs/watchable-donniedarko_theatrical_remastered_de-sd-subs.rar",
+                                                              "/opt/JDownloader/Downloads/Donnie Darko 2001 THEATRICAL REMASTERED BDRIP/Donnie.Darko.2001.THEATRICAL.REMASTERED.GERMAN.DL.BDRIP.X264-WATCHABLE/watchable-donniedarko_theatrical_remastered_de-sd(2001).nfo",
+                                                              "/opt/JDownloader/Downloads/Donnie Darko 2001 THEATRICAL REMASTERED BDRIP/Donnie.Darko.2001.THEATRICAL.REMASTERED.GERMAN.DL.BDRIP.X264-WATCHABLE/watchable-donniedarko_theatrical_remastered_de-sd.mkv"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

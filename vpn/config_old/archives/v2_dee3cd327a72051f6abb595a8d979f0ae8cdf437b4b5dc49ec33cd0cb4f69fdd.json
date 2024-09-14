@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/01-SHERLOCK HOLMES CHRONICLES _ Der Blutsauger von London.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/02-SHERLOCK HOLMES CHRONICLES _ 24 September 1907.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/03-SHERLOCK HOLMES CHRONICLES _ 24 September 1907.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/04-SHERLOCK HOLMES CHRONICLES _ Das freut mich wirklich ausserordentlich.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/05-SHERLOCK HOLMES CHRONICLES _ Als erstes suchten wir.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/06-SHERLOCK HOLMES CHRONICLES _ Das zweite Ziel.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/07-SHERLOCK HOLMES CHRONICLES _ Der Professor.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/08-SHERLOCK HOLMES CHRONICLES _ Das darf doch nicht wahr sein.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/09-SHERLOCK HOLMES CHRONICLES _ Gerade als wir.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 01 - Der Engel von East End/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

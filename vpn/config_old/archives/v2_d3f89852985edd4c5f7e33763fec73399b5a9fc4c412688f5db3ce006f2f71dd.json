@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Highlander III - Die Legende (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Highlander III - Die Legende (microHD)/Highlander.III.Die.Legende.1994.GERMAN.834p.microHD.x264-RED/Highlander III - Die Legende (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

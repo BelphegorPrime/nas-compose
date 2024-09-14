@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Ghostbusters - Die Geisterj_u00e4ger 4K MASTERED (microHD)",
+    "files" : [ "/opt/JDownloader/Downloads/Ghostbusters - Die Geisterj_u00e4ger 4K MASTERED (microHD)/Ghostbusters.1984.4K.MASTERED.GERMAN.800p.microHD.x264-RED/Ghostbusters - Die Geisterjaeger (microHD).mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

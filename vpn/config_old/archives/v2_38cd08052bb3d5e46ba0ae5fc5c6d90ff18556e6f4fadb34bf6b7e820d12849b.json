@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ahsoka S01E08 1080P WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ahsoka S01E08 1080P WEB/Ahsoka.S01E08.GERMAN.DL.1080P.WEB.H264-WAYNE/ahsoka.s01e08.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Ahsoka S01E08 1080P WEB/Ahsoka.S01E08.GERMAN.DL.1080P.WEB.H264-WAYNE/ahsoka.s01e08.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

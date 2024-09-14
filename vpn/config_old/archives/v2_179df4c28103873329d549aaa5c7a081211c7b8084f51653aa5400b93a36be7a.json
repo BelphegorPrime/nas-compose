@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Sleepy Hollow (microHD)",
+    "files" : [ "/opt/JDownloader/Downloads/Sleepy Hollow (microHD)/Sleepy.Hollow.1999.German.1080p.microHD.x264-RED/Sleepy Hollow (microHD).mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

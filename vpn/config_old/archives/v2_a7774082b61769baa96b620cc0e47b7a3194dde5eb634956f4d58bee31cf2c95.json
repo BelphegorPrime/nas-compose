@@ -1,0 +1,16 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ST0031",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ST0031/ST0031/Spritztour.2008.German.720p.BluRay.x264-DETAiLS/d-spritztour-720p.mkv",
+                                                              "/opt/JDownloader/Downloads/ST0031/ST0031/Spritztour.2008.German.720p.BluRay.x264-DETAiLS/d-spritztour-720p.nfo"
+                                                             ]
+                                        }
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Doctor Who S12E02 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Doctor Who S12E02 1080p/Doctor.Who.S12E02.GERMAN.DUBBED.DL.1080p.BluRay.x264-TMSF/tmsf-doctorwho2005-s12e02-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Doctor Who S12E02 1080p/Doctor.Who.S12E02.GERMAN.DUBBED.DL.1080p.BluRay.x264-TMSF/tmsf-doctorwho2005-s12e02-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

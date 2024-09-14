@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Gotham S01-S05 COMPLETE GERMAN AAC 1080p BluRay x265-w00t - thewooter",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Gotham S01-S05 COMPLETE GERMAN AAC 1080p BluRay x265-w00t - thewooter/Gotham.S02E07.Mamis.kleine.Monster.GERMAN.AAC.1080p.BluRay.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

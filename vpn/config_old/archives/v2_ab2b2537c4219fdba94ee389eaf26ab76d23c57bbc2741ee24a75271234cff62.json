@@ -1,0 +1,26 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/01. Stück 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/02. Stück 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/03. Stück 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/04. Stück 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/05. Stück 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/06. Stück 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/07. Stück 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/08. Stück 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/09. Stück 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/Sherlock Holmes & Co - 06 Der überflüssige Finger/Sherlock Holmes & CO - 06 Der überflüssige Finger.m3u",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/_Reflinks für Unterstützung/Rapidgator_ Bitte klicken um mich zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 06 Der ueberfluessige Finger/_Reflinks für Unterstützung/Turbobit.net_ Bitte klicken um mich zu Unterstützen, Danke.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

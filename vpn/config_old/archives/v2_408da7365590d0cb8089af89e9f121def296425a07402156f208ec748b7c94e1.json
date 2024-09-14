@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Da Vinci Code - Sakrileg (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Da Vinci Code - Sakrileg (microHD)/The.Da.Vinci.Code.Sakrileg.2006.EXTENDED.GERMAN.800p.microHD.x264-RED/The Da Vinci Code \u2013 Sakrileg (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

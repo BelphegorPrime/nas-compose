@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/01 Kapitel 1 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/02 Kapitel 2 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/03 Kapitel 3 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/04 Kapitel 4 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/05 Kapitel 5 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/06 Kapitel 6 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/07 Kapitel 7 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/08 Kapitel 8 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/09 Kapitel 9 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/10 Kapitel 10 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/11 Kapitel 11 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/12 Kapitel 12 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/13 Kapitel 13 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/14 Kapitel 14 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/15 Kapitel 15 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/16 Kapitel 16 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/17 Kapitel 17 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/18 Kapitel 18 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/19 Kapitel 19 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/20 Kapitel 20 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/21 Kapitel 21 - Das getupfte Band - Gerd Köster liest Sherlock Holmes Band 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 22 - Das getupfte Band (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

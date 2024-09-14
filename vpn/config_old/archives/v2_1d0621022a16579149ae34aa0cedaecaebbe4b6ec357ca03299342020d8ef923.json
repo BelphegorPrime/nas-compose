@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e01.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e02.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e03.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e04.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e05.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e06.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e07.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e08.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e09.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e10.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e11.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e12.mkv",
+                                                              "/opt/JDownloader/Downloads/4sj-oitnb-sd-s07/Orange.is.the.New.Black.S07.German.DL.NetflixHD.x264-4SJ/4sj-oitnb-sd-s07e13.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

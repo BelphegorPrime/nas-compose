@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Aus dem Dschu",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Aus dem Dschu/Aus.dem.Dschungel.in.den.Dschungel.1997.German.AC3.DVDRip.x264/Aus.dem.Dschungel.in.den.Dschungel.1997.German.AC3.DVDRip.x264.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

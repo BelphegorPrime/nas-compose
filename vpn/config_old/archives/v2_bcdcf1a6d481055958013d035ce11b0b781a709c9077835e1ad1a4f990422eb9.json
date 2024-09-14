@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/01 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/02 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/03 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/04 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/05 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/06 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/07 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/08 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/09 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/10 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/11 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/12 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/13 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/14 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/15 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/16 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/17 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/18 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/19 Der Untergang.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 04 Der Untergang/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

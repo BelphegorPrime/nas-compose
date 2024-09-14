@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Operation Fortune Dubbed 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Operation Fortune Dubbed 1080p BluRay/Operation.Fortune.2023.German.Dubbed.DL.1080p.BluRay.x264-PS/PS-OP.1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/Operation Fortune Dubbed 1080p BluRay/Operation.Fortune.2023.German.Dubbed.DL.1080p.BluRay.x264-PS/ps-op.bd108.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

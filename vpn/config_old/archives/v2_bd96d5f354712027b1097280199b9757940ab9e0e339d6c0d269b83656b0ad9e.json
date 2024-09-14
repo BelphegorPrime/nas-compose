@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD276DNK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD276DNK/Die.nackte.Kanone.1988.GERMAN.1080p.microHD.x264-Raistlin911/Die.nackte.Kanone.1988.GERMAN.1080p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

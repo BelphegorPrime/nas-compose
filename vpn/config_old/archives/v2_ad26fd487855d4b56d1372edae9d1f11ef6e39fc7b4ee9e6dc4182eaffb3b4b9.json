@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Tetris AC3 WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Tetris AC3 WEBRip/Tetris.2023.German.AC3.WEBRip.x264-ZeroTwo/Tetris.2023.German.AC3.WEBRip.x264-ZeroTwo.mkv",
+                                                              "/opt/JDownloader/Downloads/Tetris AC3 WEBRip/Tetris.2023.German.AC3.WEBRip.x264-ZeroTwo/ZeroTwo-Tetris.2023.SD.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

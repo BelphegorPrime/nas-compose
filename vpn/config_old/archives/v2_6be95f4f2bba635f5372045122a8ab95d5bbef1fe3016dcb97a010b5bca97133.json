@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E01.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E02.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E03.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E04.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E05.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E06.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E07.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E08.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E09.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E10.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E11.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E12.GERMAN.DL.WEB.x264-FSX.mp4",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S04 WEBRip/Black.Lightning.S04.German.DL.WEBRip.x264-FSX/Black.Lightning.S04E13.GERMAN.DL.WEB.x264-FSX.mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

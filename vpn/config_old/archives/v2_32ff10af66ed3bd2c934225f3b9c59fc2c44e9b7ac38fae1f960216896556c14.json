@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Secret Invasion S01E05 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Secret Invasion S01E05 1080P/Secret.Invasion.S01E05.GERMAN.DL.1080P.WEB.H264-WAYNE/secret.invasion.s01e05.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Secret Invasion S01E05 1080P/Secret.Invasion.S01E05.GERMAN.DL.1080P.WEB.H264-WAYNE/secret.invasion.s01e05.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Last Kingdom Seven Kings Must Die WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Last Kingdom Seven Kings Must Die WEBRip/The.Last.Kingdom.Seven.Kings.Must.Die.2023.German.AC3.WEBRip.x264-ZeroTwo/The.Last.Kingdom.Seven.Kings.Must.Die.2023.German.AC3.WEBRip.x264-ZeroTwo.mkv",
+                                                              "/opt/JDownloader/Downloads/The Last Kingdom Seven Kings Must Die WEBRip/The.Last.Kingdom.Seven.Kings.Must.Die.2023.German.AC3.WEBRip.x264-ZeroTwo/ZeroTwo-The.Last.Kingdom.Seven.Kings.Must.Die.2023.SD.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

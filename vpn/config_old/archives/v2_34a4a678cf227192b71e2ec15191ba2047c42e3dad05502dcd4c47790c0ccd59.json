@@ -1,0 +1,21 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND35 - Der Winterschmied (gekürzt)/01 - Der Winterschmied.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND35 - Der Winterschmied (gekürzt)/02 - Der Winterschmied.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND35 - Der Winterschmied (gekürzt)/03 - Der Winterschmied.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND35 - Der Winterschmied (gekürzt)/04 - Der Winterschmied.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND35 - Der Winterschmied (gekürzt)/05 - Der Winterschmied.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND35 - Der Winterschmied (gekürzt)/front.jpg",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND35 - Der Winterschmied (gekürzt)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

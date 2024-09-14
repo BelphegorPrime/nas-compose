@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Superman and Lois S03E11 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Superman and Lois S03E11 720p/Superman.and.Lois.S03E11.GERMAN.720p.WEB.h264-SAUERKRAUT/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/Superman and Lois S03E11 720p/Superman.and.Lois.S03E11.GERMAN.720p.WEB.h264-SAUERKRAUT/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/Superman and Lois S03E11 720p/Superman.and.Lois.S03E11.GERMAN.720p.WEB.h264-SAUERKRAUT/Superman.and.Lois.S03E11.GERMAN.720p.WEB.h264-SAUERKRAUT.mkv",
+                                                              "/opt/JDownloader/Downloads/Superman and Lois S03E11 720p/Superman.and.Lois.S03E11.GERMAN.720p.WEB.h264-SAUERKRAUT/superman.and.lois.s03e11.german.720p.web.h264-sauerkraut.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Der Hund der Baskervilles - 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Der Hund der Baskervilles/_play.m3u"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

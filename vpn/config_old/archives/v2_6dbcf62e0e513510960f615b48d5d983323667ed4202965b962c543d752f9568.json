@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Interview with the Vampire S02E04 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Interview with the Vampire S02E04 720p/Interview.with.the.Vampire.S02E04.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/Interview with the Vampire S02E04 720p/Interview.with.the.Vampire.S02E04.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/Interview.with.the.Vampire.S02E04.GERMAN.DL.720p.WEB.h264-SAUERKRAUT.mkv",
+                                                              "/opt/JDownloader/Downloads/Interview with the Vampire S02E04 720p/Interview.with.the.Vampire.S02E04.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/interview.with.the.vampire.s02e04.german.dl.720p.web.h264-sauerkraut.nfo",
+                                                              "/opt/JDownloader/Downloads/Interview with the Vampire S02E04 720p/Interview.with.the.Vampire.S02E04.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/NOX-entsperren.bat"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

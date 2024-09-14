@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Hammer7",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E01.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E02.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E03.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E04.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E05.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E06.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E07.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E08.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E09.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E10.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E11.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E12.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E13.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E14.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E15.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E16.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E17.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E18.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E19.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E20.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E21.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E22.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E23.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E24.avi",
+                                                              "/opt/JDownloader/Downloads/Hammer7/Hoer.mal.wer.da.haemmert.S07.German.DL.DVDRip.XVID/HammerS07E25.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

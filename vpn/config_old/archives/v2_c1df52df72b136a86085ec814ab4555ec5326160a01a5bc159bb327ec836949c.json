@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/72866886575757",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/72866886575757/The.100.S05E02.Die.rote.Koenigin.GERMAN.DUBBED.DL.1080p.BluRay.x264-TVP/tvp-the100-s05e02-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/72866886575757/The.100.S05E02.Die.rote.Koenigin.GERMAN.DUBBED.DL.1080p.BluRay.x264-TVP/tvp-the100-s05e02-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

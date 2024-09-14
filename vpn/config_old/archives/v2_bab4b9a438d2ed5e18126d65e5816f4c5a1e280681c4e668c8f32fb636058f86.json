@@ -1,0 +1,26 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Csteaia 01 12",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E08.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S01_E01.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S01_E02.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S01_E03.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S01_E04.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E01.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E02.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E03.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E04.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E05.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E06.mkv",
+                                                              "/opt/JDownloader/Downloads/Csteaia 01 12/Castlevania_S02_E07.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

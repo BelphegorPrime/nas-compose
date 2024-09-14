@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Homeland",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E08.Abflug.German.BDRip.x264-iNTENTiON/itn-homeland.s02e08.480p.mkv",
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E08.Abflug.German.BDRip.x264-iNTENTiON/itn-homeland.s02e08.480p.nfo",
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E08.Abflug.German.BDRip.x264-iNTENTiON/Subs/itn-homeland.s02e08.480p-subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

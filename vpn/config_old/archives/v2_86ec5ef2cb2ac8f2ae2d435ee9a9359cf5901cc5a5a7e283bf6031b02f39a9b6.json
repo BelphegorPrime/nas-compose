@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Homeland",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E04.Zimmer.416.German.BDRip.x264-iNTENTiON/itn-homeland.s02e04.480p.mkv",
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E04.Zimmer.416.German.BDRip.x264-iNTENTiON/itn-homeland.s02e04.480p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Rookie S05E09 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Rookie S05E09 1080P/The.Rookie.S05E09.GERMAN.DL.1080P.WEB.H264-WAYNE/the.rookie.s05e09.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/The Rookie S05E09 1080P/The.Rookie.S05E09.GERMAN.DL.1080P.WEB.H264-WAYNE/the.rookie.s05e09.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

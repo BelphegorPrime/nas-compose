@@ -1,0 +1,30 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Atypical",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E01.Antarktis.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-101.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E01.Antarktis.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-101.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E02.Ein.menschliches.Maedchen.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-102.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E02.Ein.menschliches.Maedchen.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-102.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E03.Julia.sagt.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-103.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E03.Julia.sagt.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-103.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E04.Ein.angenehmer.neutraler.Geruch.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-104.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E04.Ein.angenehmer.neutraler.Geruch.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-104.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E05.Das.ist.meine.Sweatjacke.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-105.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E05.Das.ist.meine.Sweatjacke.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-105.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E06.Das.Schlachtschiff.in.den.Hafen.bringen.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-106.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E06.Das.Schlachtschiff.in.den.Hafen.bringen.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-106.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E07.I.Lost.My.Poor.Meatball.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-107.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E07.I.Lost.My.Poor.Meatball.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-107.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E08.Die.schalldaempfende.Wirkung.des.Schnees.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-108.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S01.German.DL.NetflixHD.x264-TVS/Atypical.S01E08.Die.schalldaempfende.Wirkung.des.Schnees.German.DL.NetflixHD.x264-TVS/tvs-atypical-dl-nfhd-x264-108.nfo"
+                                                             ]
+                                        }
+}

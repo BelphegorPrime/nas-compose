@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E01",
+    "files" : [ "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E01/Prodigal.Son.Der.Moerder.in.Dir.S02E01.Mitgefangen.mitgehangen.GERMAN.HDTVRip.x264-MDGP/mdgp-prodigalsondermoerderindirs02e01-480p.mkv", "/opt/JDownloader/Downloads/Prodigal Son Der Moerder in Dir S02E01/Prodigal.Son.Der.Moerder.in.Dir.S02E01.Mitgefangen.mitgehangen.GERMAN.HDTVRip.x264-MDGP/mdgp-prodigalsondermoerderindirs02e01-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

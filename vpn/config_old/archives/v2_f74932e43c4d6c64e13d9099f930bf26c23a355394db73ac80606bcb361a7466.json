@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/825-12-645",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/825-12-645/5.Zimmer.Kueche.Sarg.2014.German.DL.1080p.BluRay.x264-EXQUiSiTE/exq-5zimmer-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/825-12-645/5.Zimmer.Kueche.Sarg.2014.German.DL.1080p.BluRay.x264-EXQUiSiTE/exq-5zimmer-1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/825-12-645/5.Zimmer.Kueche.Sarg.2014.German.DL.1080p.BluRay.x264-EXQUiSiTE/Subs/exq-5zimmer-1080p-subs.rar",
+                                                              "/opt/JDownloader/Downloads/825-12-645/5.Zimmer.Kueche.Sarg.2014.German.DL.1080p.BluRay.x264-EXQUiSiTE/Subs/exq-5zimmer-1080p-subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

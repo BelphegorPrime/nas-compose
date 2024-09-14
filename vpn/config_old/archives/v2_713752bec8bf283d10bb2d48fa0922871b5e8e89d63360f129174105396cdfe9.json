@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ruby taucht ab MD AC3 DL WEB 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ruby taucht ab MD AC3 DL WEB 1080p/Ruby.taucht.ab.2023.German.MD.AC3.DL.WEB.1080p.H264-Sneakman/sneakman-rubytauchtab_web_1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Ruby taucht ab MD AC3 DL WEB 1080p/Ruby.taucht.ab.2023.German.MD.AC3.DL.WEB.1080p.H264-Sneakman/sneakman-rubytauchtab_web_1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

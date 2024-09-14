@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD380RAL",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/ArchonMHD380RAL/Ritter.aus.Leidenschaft.2001.GERMAN.800p.microHD.x264-Raistlin911/Ritter.aus.Leidenschaft.2001.GERMAN.800p.microHD.x264-Raistlin911.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

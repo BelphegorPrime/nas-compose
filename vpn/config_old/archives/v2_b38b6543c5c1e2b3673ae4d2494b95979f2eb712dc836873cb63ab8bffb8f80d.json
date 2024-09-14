@@ -1,0 +1,24 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/rsg-person-of-interest-s02e19-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/rsg-person-of-interest-s02e19-1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p-eng.idx",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p-eng.sub",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p-forced.idx",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p-forced.sub",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p-subs.rar",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p-subs.sfv",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p.idx",
+                                                              "/opt/JDownloader/Downloads/gdfgbxcfhbncfgbrf/poi.18bjhsdbf.0219/Person.of.Interest.S02E19.Trojaner.German.DL.1080p.BluRay.x264-RSG/Subs/rsg-person-of-interest-s02e19-1080p.sub"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

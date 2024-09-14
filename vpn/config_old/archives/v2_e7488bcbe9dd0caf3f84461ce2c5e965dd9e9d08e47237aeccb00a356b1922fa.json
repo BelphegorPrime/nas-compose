@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Demon Slayer S01E01 German DL Opus 720p BluRay x265-ABJ",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Demon Slayer S01E01 German DL Opus 720p BluRay x265-ABJ/Demon.Slayer.S01E03.German.DL.Opus.720p.BluRay.x265-ABJ.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

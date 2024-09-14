@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Senuas Saga Hellblade II",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Senuas Saga Hellblade II/Senuas Saga Hellblade II/Info zur Entsperrung von NOX.txt",
+                                                              "/opt/JDownloader/Downloads/Senuas Saga Hellblade II/Senuas Saga Hellblade II/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/Senuas Saga Hellblade II/Senuas Saga Hellblade II/Senuas Saga Hellblade II.iso"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

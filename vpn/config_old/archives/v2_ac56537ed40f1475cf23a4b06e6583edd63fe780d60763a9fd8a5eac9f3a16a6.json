@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Raised By Wolves S02 GERMAN AAC 1080p WEB x265-w00t",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Raised By Wolves S02 GERMAN AAC 1080p WEB x265-w00t/Raised.By.Wolves.S02E05.Koenige.GERMAN.AAC.1080p.WEB.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

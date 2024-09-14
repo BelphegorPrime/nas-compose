@@ -1,0 +1,20 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Will.Trent.S01E12.German.DL.720p.WEB.h264-WvF/# DDownload.com 100GB am Tag.URL",
+                                                              "/opt/JDownloader/Downloads/Will.Trent.S01E12.German.DL.720p.WEB.h264-WvF/# Rapidgator.net Premium Kaufen.url",
+                                                              "/opt/JDownloader/Downloads/Will.Trent.S01E12.German.DL.720p.WEB.h264-WvF/# UNTERSTÜTZT MEINE ARBEIT - ALLE INFOS.txt",
+                                                              "/opt/JDownloader/Downloads/Will.Trent.S01E12.German.DL.720p.WEB.h264-WvF/Sample/will.trent.s01e12.german.dl.720p.web.h264-wvf-sample.mkv",
+                                                              "/opt/JDownloader/Downloads/Will.Trent.S01E12.German.DL.720p.WEB.h264-WvF/will.trent.s01e12.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Will.Trent.S01E12.German.DL.720p.WEB.h264-WvF/will.trent.s01e12.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

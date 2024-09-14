@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/SE1637 - Brooklyn Nine-Nine S08 720p AMZN WEB-DL DDP5 1 H 264 - NTb - powered by XIPCKX",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/SE1637 - Brooklyn Nine-Nine S08 720p AMZN WEB-DL DDP5 1 H 264 - NTb - powered by XIPCKX/Brooklyn.Nine-Nine.S08E07.Game.of.Boyles.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

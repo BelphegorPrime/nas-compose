@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Glass Onion A Knives Out Mystery 1080P WEB REPACK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Glass Onion A Knives Out Mystery 1080P WEB REPACK/Glass.Onion.A.Knives.Out.Mystery.2022.GERMAN.DL.1080P.WEB.X264.REPACK-WAYNE/glass.onion.a.knives.out.mystery.2022.german.dl.1080p.web.x264.repack-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Glass Onion A Knives Out Mystery 1080P WEB REPACK/Glass.Onion.A.Knives.Out.Mystery.2022.GERMAN.DL.1080P.WEB.X264.REPACK-WAYNE/glass.onion.a.knives.out.mystery.2022.german.dl.1080p.web.x264.repack-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

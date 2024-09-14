@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/01 Kapitel 1 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/02 Kapitel 2 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/03 Kapitel 3 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/04 Kapitel 4 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/05 Kapitel 5 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/06 Kapitel 6 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/07 Kapitel 7 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/08 Kapitel 8 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/09 Kapitel 9 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/10 Kapitel 10 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/11 Kapitel 11 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/12 Kapitel 12 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/13 Kapitel 13 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/14 Kapitel 14 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/15 Kapitel 15 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/16 Kapitel 16 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/17 Kapitel 17 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/18 Kapitel 18 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/19 Kapitel 19 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/20 Kapitel 20 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/21 Kapitel 21 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/22 Kapitel 22 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/23 Kapitel 23 - Das gelbe Gesicht - Gerd Köster liest Sherlock Holmes - Kurzgeschichten Band 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 06 - Das gelbe Gesicht (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

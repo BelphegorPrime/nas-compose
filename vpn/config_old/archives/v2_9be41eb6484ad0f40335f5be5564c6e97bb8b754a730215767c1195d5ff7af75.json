@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/Stephen King - 04 Winter - Atemtechnik/Track 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Winter - Atemtechnik/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

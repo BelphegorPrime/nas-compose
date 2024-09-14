@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/233348658554747",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/233348658554747/Nomis.Die.Nacht.des.Jaegers.2018.GERMAN.DL.1080p.BluRay.x264-UNiVERSUM/nomis.2018.german.dl.1080p.bluray.x264-universum.mkv",
+                                                              "/opt/JDownloader/Downloads/233348658554747/Nomis.Die.Nacht.des.Jaegers.2018.GERMAN.DL.1080p.BluRay.x264-UNiVERSUM/nomis.2018.german.dl.1080p.bluray.x264-universum.nfo",
+                                                              "/opt/JDownloader/Downloads/233348658554747/Nomis.Die.Nacht.des.Jaegers.2018.GERMAN.DL.1080p.BluRay.x264-UNiVERSUM/Subs/nomis.2018.german.dl.1080p.bluray.x264-universum-subs.rar",
+                                                              "/opt/JDownloader/Downloads/233348658554747/Nomis.Die.Nacht.des.Jaegers.2018.GERMAN.DL.1080p.BluRay.x264-UNiVERSUM/Subs/nomis.2018.german.dl.1080p.bluray.x264-universum-subs.sfv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Lightning S02E01",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Lightning S02E01/Black.Lightning.S02E10.German.DL.WEB.x264-BiGiNT/black.lightning.s02e10.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Lightning S02E01/Black.Lightning.S02E10.German.DL.WEB.x264-BiGiNT/black.lightning.s02e10.german.dl.web.x264-bigint.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6 Underground 2019 German DL 1080p WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6 Underground 2019 German DL 1080p WEBRip/6.Underground.2019.German.DL.1080p.WEBRip.x264-WvF/6.underground.2019.german.dl.1080p.webrip.x264-wvf.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

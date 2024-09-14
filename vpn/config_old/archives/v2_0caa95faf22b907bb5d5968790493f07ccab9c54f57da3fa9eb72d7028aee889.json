@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/58585285876757",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/58585285876757/The.100.S05E01.Eden.GERMAN.DUBBED.DL.1080p.WebHD.x264-TVP/tvp-the100-s05e01-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/58585285876757/The.100.S05E01.Eden.GERMAN.DUBBED.DL.1080p.WebHD.x264-TVP/tvp-the100-s05e01-1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

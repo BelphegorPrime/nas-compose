@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Leverage Redemption S01E10",
+    "files" : [ "/opt/JDownloader/Downloads/Leverage Redemption S01E10/Leverage.Redemption.S01E10.Guru.ohne.Skrupel.GERMAN.HDTVRip.x264-SKYSD/skysd-leverageredemptions01e10-480p.mkv", "/opt/JDownloader/Downloads/Leverage Redemption S01E10/Leverage.Redemption.S01E10.Guru.ohne.Skrupel.GERMAN.HDTVRip.x264-SKYSD/skysd-leverageredemptions01e10-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

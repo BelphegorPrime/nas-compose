@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Weihnachtsmarkt (Winterthriller)/001 - Weihnachtsmarkt.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Weihnachtsmarkt (Winterthriller)/002 - Weihnachtsmarkt.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Weihnachtsmarkt (Winterthriller)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

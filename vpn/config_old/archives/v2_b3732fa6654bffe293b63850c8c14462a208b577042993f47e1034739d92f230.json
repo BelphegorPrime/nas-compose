@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E47.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E48.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E25.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E26.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E27.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E28.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E29.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E30.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E31.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E32.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E33.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E34.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E35.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E36.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E37.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E38.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E39.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E40.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E41.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E42.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E43.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E44.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E45.mkv",
+                                                              "/opt/JDownloader/Downloads/Te Svn Dal Sn S02 25 48 1080p/The_Seven_Deadly_Sins_S02_E46.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

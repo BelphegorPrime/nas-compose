@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Last Kingdom S05 BDRiP",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Last Kingdom S05 BDRiP/The.Last.Kingdom.S05E01.German.DL.BDRip.x264-WDC/Subs/the.last.kingdom.s05e01.german.dl.bdrip.x264-wdc-subs.rar",
+                                                              "/opt/JDownloader/Downloads/The Last Kingdom S05 BDRiP/The.Last.Kingdom.S05E01.German.DL.BDRip.x264-WDC/the.last.kingdom.s05e01.german.dl.bdrip.x264-wdc.mkv",
+                                                              "/opt/JDownloader/Downloads/The Last Kingdom S05 BDRiP/The.Last.Kingdom.S05E01.German.DL.BDRip.x264-WDC/the.last.kingdom.s05e01.german.dl.bdrip.x264-wdc.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

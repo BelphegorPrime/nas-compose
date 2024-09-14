@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Miracle Workers S03E08-E10-720p",
+    "files" : [ "/opt/JDownloader/Downloads/Miracle Workers S03E08-E10-720p/Miracle.Workers.S03E10.GERMAN.DL.720p.WEB.h264-FENDT.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Shogun 2024 S01E06 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Shogun 2024 S01E06 720p/Shogun.2024.S01E06.German.DL.720p.WEB.h264-WvF/!Info zur Entsperrung von NOX!.txt",
+                                                              "/opt/JDownloader/Downloads/Shogun 2024 S01E06 720p/Shogun.2024.S01E06.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/Shogun 2024 S01E06 720p/Shogun.2024.S01E06.German.DL.720p.WEB.h264-WvF/shogun.2024.s01e06.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Shogun 2024 S01E06 720p/Shogun.2024.S01E06.German.DL.720p.WEB.h264-WvF/shogun.2024.s01e06.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bluelock S01E24 German ML AAC 720p CR WebDL x264-DK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bluelock S01E24 German ML AAC 720p CR WebDL x264-DK/Bluelock.S01E21.German.ML.AAC.720p.CR.WebDL.x264-DK.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

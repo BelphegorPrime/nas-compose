@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/Die schlafende Mutter - 26.mp3",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Torsten Weitze - Der dreizehnte Paladin 04 - Die schlafende Mutter (ungekürzt)/_play.m3u"
+                                                             ]
+                                        },
+ "finalPassword"                      : "forall",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

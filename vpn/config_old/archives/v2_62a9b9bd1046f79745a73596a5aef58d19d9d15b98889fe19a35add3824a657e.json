@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Solo Leveling S01E01 German DL AAC 720p WebDL x264-Tanuki",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Solo Leveling S01E01 German DL AAC 720p WebDL x264-Tanuki/Solo.Leveling.S01E02.German.DL.AAC.720p.WebDL.x264-Tanuki.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

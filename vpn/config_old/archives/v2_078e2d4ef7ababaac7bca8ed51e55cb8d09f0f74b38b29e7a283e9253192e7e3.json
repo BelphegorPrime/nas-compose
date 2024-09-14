@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.100.S07E11.German.DL.DUBBED.1080p.BluRay.x264-AIDA/The.100.S07E11.German.DL.DUBBED.1080p.BluRay.x264-AIDA.mkv",
+                                                              "/opt/JDownloader/Downloads/The.100.S07E11.German.DL.DUBBED.1080p.BluRay.x264-AIDA/the.100.s07e11.german.dl.dubbed.1080p.bluray.x264-aida.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

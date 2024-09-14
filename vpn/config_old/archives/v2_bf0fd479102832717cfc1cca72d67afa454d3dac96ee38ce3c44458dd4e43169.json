@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The.Flash.2014.S09E09.Its.My.Party.and.Ill.Die.If.I.Want.To.720p.AMZN.WEBRip.DDP5.1.x264-NTb/The.Flash.2014.S09E09.Its.My.Party.and.Ill.Die.If.I.Want.To.720p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

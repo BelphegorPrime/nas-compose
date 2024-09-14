@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die Gluecksritter REMASTERED",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Gluecksritter REMASTERED/Die.Gluecksritter.REMASTERED.German.1983.AC3.BDRip.RERiP-SPiCY/spy-tradingplaces1983_rem-sd_rr.mkv",
+                                                              "/opt/JDownloader/Downloads/Die Gluecksritter REMASTERED/Die.Gluecksritter.REMASTERED.German.1983.AC3.BDRip.RERiP-SPiCY/spy-tradingplaces1983_rem-sd_rr.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

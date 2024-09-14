@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Hawkeye S01E06 1080p",
+    "files" : [ "/opt/JDownloader/Downloads/Hawkeye S01E06 1080p/Hawkeye.S01E06.GERMAN.DL.1080p.WEB.h264-FENDT/Hawkeye.S01E06.GERMAN.DL.1080p.WEB.h264-FENDT.mkv", "/opt/JDownloader/Downloads/Hawkeye S01E06 1080p/Hawkeye.S01E06.GERMAN.DL.1080p.WEB.h264-FENDT/hawkeye.s01e06.german.dl.1080p.web.h264-fendt.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

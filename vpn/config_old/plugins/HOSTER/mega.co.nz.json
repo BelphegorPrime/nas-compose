@@ -1,0 +1,1 @@
+{"allowmultihostusage":true,"allowconcurrentdecryption":false,"useglobalcdn":true,"allowstartfromzeroifdownloadwasstartedviamultihosterbefore":false,"checkreservertraffic":false,"maxwaittimeonlimitreachedminutes":10,"limitmode":"PER_FILE","crawlersetfullpathaspackagename":true,"maxcachefolderdetails":5,"hideapplication":true,"usessl":true,"usetmpdecryptingfile":false}

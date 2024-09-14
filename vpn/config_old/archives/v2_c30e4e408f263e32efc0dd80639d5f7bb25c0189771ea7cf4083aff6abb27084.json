@@ -1,0 +1,40 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/01 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/02 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/03 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/04 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/05 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/06 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/07 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/08 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/09 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/10 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/11 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/12 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/13 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/14 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/15 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/16 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/17 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/18 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/19 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/20 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/21 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/22 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/23 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/24 Wedora - Staub und Blut.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Wedora 01 - Staub und Blut/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

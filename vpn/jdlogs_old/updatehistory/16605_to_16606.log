@@ -1,0 +1,59 @@
+Mon May 08 12:21:53 GMT 2023
+Package: package_1683547659786.awf
+Install
+Write Revision: 16606
+----------------Plugins----------------
+   jd/plugins/decrypter/NfileCc.class
+   jd/plugins/decrypter/ShinkMe.class
+   jd/plugins/decrypter/TbCmV2.class
+   jd/plugins/decrypter/TwitterComCrawler.class
+   jd/plugins/decrypter/VKontakteRu.class
+   jd/plugins/hoster/DbreeOrg.class
+   jd/plugins/hoster/GoogleDrive$1.class
+   jd/plugins/hoster/GoogleDrive$2.class
+   jd/plugins/hoster/GoogleDrive.class
+   jd/plugins/hoster/MaxstreamVideo.class
+   jd/plugins/hoster/NovaFileCom$1.class
+   jd/plugins/hoster/NovaFileCom.class
+   jd/plugins/hoster/Offline.class
+   jd/plugins/hoster/SbuploadCom.class
+   jd/plugins/hoster/SendCm.class
+   jd/plugins/hoster/SpinrillaCom.class.removed
+   jd/plugins/hoster/YoutubeDashV2.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+   Core.jar
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/ClipDataCache$CachedClipData.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/ClipDataCache.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/YoutubeClipData.class
+   JD: Core.jar/org/jdownloader/plugins/components/youtube/YoutubeHelper.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$10.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$11.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$12.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$4.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$5.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$6.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$7$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$7.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$8$1.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$8$2.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$8.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel$9.class
+   JD: libs/JDGUI.jar/jd/gui/swing/jdgui/views/settings/panels/accountmanager/PremiumAccountTableModel.class
+   JD: libs/JDHttp.jar/jd/http/Browser$1.class
+   JD: libs/JDHttp.jar/jd/http/Browser$2.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedByException.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType$1.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType$2.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType$3.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType$4.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType$5.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType$6.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType$7.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BlockedType.class
+   JD: libs/JDHttp.jar/jd/http/Browser$BrowserException.class
+   JD: libs/JDHttp.jar/jd/http/Browser.class
+   libs/JDGUI.jar
+   libs/JDHttp.jar

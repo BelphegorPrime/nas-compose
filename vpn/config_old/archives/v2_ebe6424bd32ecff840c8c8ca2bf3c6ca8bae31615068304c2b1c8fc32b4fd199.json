@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/My Hero Academia S04E01 [Web,720p,AAC]",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/My Hero Academia S04E01 [Web,720p,AAC]/[Ta@]My_Hero_Academia_S04E19_[Web,720p,AAC].mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

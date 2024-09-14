@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Bad Batch S03E06 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Bad Batch S03E06 720p/Star.Wars.The.Bad.Batch.S03E06.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/Star.Wars.The.Bad.Batch.S03E06.GERMAN.DL.720p.WEB.h264-SAUERKRAUT.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Bad Batch S03E06 720p/Star.Wars.The.Bad.Batch.S03E06.GERMAN.DL.720p.WEB.h264-SAUERKRAUT/star.wars.the.bad.batch.s03e06.german.dl.720p.web.h264-sauerkraut.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

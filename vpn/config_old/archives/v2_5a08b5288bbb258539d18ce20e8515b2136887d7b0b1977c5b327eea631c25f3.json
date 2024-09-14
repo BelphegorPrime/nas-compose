@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/01 - Sherlock Holmes und die Hypnosetherapie - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/02 - Sherlock Holmes und die Hypnosetherapie - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/03 - Sherlock Holmes und die Hypnosetherapie - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/04 - Sherlock Holmes und die Hypnosetherapie - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/05 - Sherlock Holmes und die Hypnosetherapie - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/06 - Sherlock Holmes und die Hypnosetherapie - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/07 - Sherlock Holmes und die Hypnosetherapie - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/08 - Sherlock Holmes und die Hypnosetherapie - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/09 - Sherlock Holmes und die Hypnosetherapie - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/10 - Sherlock Holmes und die Hypnosetherapie - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/11 - Sherlock Holmes und die Hypnosetherapie - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/12 - Sherlock Holmes und die Hypnosetherapie - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/13 - Sherlock Holmes und die Hypnosetherapie - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/14 - Sherlock Holmes und die Hypnosetherapie - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/15 - Sherlock Holmes und die Hypnosetherapie - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/16 - Sherlock Holmes und die Hypnosetherapie - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/17 - Sherlock Holmes und die Hypnosetherapie - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/18 - Sherlock Holmes und die Hypnosetherapie - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/19 - Sherlock Holmes und die Hypnosetherapie - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/20 - Sherlock Holmes und die Hypnosetherapie - Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/21 - Sherlock Holmes und die Hypnosetherapie - Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/22 - Sherlock Holmes und die Hypnosetherapie - Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/23 - Sherlock Holmes und die Hypnosetherapie - Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/24 - Sherlock Holmes und die Hypnosetherapie - Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/25 - Sherlock Holmes und die Hypnosetherapie - Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die neuen Abenteuer des Sherlock Holmes 41 - Sherlock Holmes und die Hypnosetherapie (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

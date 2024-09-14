@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 13.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 14.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 15.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 16.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 17.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 18.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 19.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 20.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 21.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 22.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/Spiegel & Schatten - 23.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Die Meisterin 02 - Spiegel & Schatten/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

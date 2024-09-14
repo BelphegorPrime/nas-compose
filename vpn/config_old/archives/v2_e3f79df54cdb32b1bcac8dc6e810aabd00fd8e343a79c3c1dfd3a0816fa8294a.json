@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/My Hero Academia S06E25 GerEngSub AAC 720p WebDL x264-Tanuki",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/My Hero Academia S06E25 GerEngSub AAC 720p WebDL x264-Tanuki/My.Hero.Academia.S06E14.GerEngSub.AAC.720p.WebDL.x264-Tanuki.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

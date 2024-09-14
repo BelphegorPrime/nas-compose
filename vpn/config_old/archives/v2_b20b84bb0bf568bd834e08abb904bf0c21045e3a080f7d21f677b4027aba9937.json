@@ -1,0 +1,36 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0117 - Stephen - Shining Hörbuch Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0217 - Stephen - Shining Hörbuch Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0317 - Stephen - Shining Hörbuch Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0417 - Stephen - Shining Hörbuch Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0517 - Stephen - Shining Hörbuch Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0617 - Stephen - Shining Hörbuch Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0717 - Stephen - Shining Hörbuch Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0817 - Stephen - Shining Hörbuch Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/0917 - Stephen - Shining Hörbuch Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1017 - Stephen - Shining Hörbuch Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1117 - Stephen - Shining Hörbuch Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1217 - Stephen - Shining Hörbuch Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1317 - Stephen - Shining Hörbuch Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1417 - Stephen - Shining Hörbuch Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1517 - Stephen - Shining Hörbuch Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1617 - Stephen - Shining Hörbuch Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/1717 - Stephen - Shining Hörbuch Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Shining (ungekürzt)/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

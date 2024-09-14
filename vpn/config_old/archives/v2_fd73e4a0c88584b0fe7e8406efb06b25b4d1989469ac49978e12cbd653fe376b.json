@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/ArchonMHD104GB16",
+    "files" : [ "/opt/JDownloader/Downloads/ArchonMHD104GB16/Ghostbusters.-.Answer.the.Call.2016.GERMAN.800p.microHD.x264-Raistlin911/Ghostbusters.-.Answer.the.Call.2016.GERMAN.800p.microHD.x264-Raistlin911.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

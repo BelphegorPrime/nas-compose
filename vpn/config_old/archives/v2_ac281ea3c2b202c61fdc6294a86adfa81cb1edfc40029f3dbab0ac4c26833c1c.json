@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/01 Kapitel 1 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/02 Kapitel 2 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/03 Kapitel 3 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/04 Kapitel 4 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/05 Kapitel 5 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/06 Kapitel 6 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/07 Kapitel 7 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/08 Kapitel 8 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/09 Kapitel 9 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/10 Kapitel 10 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/11 Kapitel 11 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/12 Kapitel 12 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/13 Kapitel 13 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/14 Kapitel 14 - Der sterbende Sherlock Holmes - Gerd Köster liest Sherlock Holmes Band 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 11 - Der sterbende Sherlock Holmes (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

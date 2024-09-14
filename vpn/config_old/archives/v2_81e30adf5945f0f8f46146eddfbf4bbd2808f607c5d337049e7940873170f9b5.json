@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/RGerfeteerw",
+    "files" : [ "/opt/JDownloader/Downloads/RGerfeteerw/Masters.of.Sex.S04E07.In.to.Me.You.See.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e07-480p.mkv", "/opt/JDownloader/Downloads/RGerfeteerw/Masters.of.Sex.S04E07.In.to.Me.You.See.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e07-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

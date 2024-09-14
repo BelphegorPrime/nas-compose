@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Blacklist S10E10 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Blacklist S10E10 720p/The.Blacklist.S10E10.German.DL.720p.WEB.x264-WvF/the.blacklist.s10e10.german.dl.720p.web.x264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/The Blacklist S10E10 720p/The.Blacklist.S10E10.German.DL.720p.WEB.x264-WvF/the.blacklist.s10e10.german.dl.720p.web.x264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

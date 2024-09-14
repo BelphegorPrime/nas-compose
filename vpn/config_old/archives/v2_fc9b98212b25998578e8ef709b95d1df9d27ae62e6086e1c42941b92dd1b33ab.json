@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/American Gods S03E03",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/American Gods S03E03/American.Gods.S03E03.German.Webrip.x264-TVARCHiV/Subs/tvarchiv.american.gods.s03e03.subs.rar",
+                                                              "/opt/JDownloader/Downloads/American Gods S03E03/American.Gods.S03E03.German.Webrip.x264-TVARCHiV/tvarchiv.american.gods.s03e03.mkv",
+                                                              "/opt/JDownloader/Downloads/American Gods S03E03/American.Gods.S03E03.German.Webrip.x264-TVARCHiV/tvarchiv.american.gods.s03e03.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

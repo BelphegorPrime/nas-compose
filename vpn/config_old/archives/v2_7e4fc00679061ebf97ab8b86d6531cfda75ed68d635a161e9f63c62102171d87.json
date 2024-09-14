@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels S01E03 720P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels S01E03 720P/Penny.Dreadful.City.Of.Angels.S01E03.GERMAN.DL.720P.WEB.H264-WAYNE/penny.dreadful.city.of.angels.s01e03.german.dl.720p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels S01E03 720P/Penny.Dreadful.City.Of.Angels.S01E03.GERMAN.DL.720P.WEB.H264-WAYNE/penny.dreadful.city.of.angels.s01e03.german.dl.720p.web.h264-wayne.nfo",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels S01E03 720P/Penny.Dreadful.City.Of.Angels.S01E03.GERMAN.DL.720P.WEB.H264-WAYNE/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

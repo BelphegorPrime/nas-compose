@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/9635246784547657417",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/9635246784547657417/9635246784547657417/Sample/videostar-psf.1080p-sample.mkv",
+                                                              "/opt/JDownloader/Downloads/9635246784547657417/9635246784547657417/videostar-psf.1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/9635246784547657417/9635246784547657417/videostar-psf.1080p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

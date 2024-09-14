@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Legion 2010 de AC3 BDRip x264",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Legion 2010 de AC3 BDRip x264/Legion.2010.de.AC3.BDRip.x264/Legion.2010.de.AC3.BDRip.x264.mkv"
+                                                             ]
+                                        },
+ "autoExtract"                        : "UNSET",
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : []
+}

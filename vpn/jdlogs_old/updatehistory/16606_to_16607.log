@@ -1,0 +1,15 @@
+Mon May 08 13:12:38 GMT 2023
+Package: package_1683550818879.awf
+Install
+Write Revision: 16607
+----------------Plugins----------------
+   jd/plugins/decrypter/PhotoShareRu.class.removed
+   jd/plugins/decrypter/ShinkMe.class
+   jd/plugins/hoster/ExpfileCom.class
+   jd/plugins/hoster/FiveSixSevenFileCom.class
+   jd/plugins/hoster/OkstreamCc.class.removed
+   jd/plugins/hoster/PhotoShareRu.class.removed
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

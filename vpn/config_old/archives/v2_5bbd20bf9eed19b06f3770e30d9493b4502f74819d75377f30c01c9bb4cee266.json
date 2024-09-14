@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Clone Wars S05 GERMAN DL 720p WEB H264-TSCC - filecrypt",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S05 GERMAN DL 720p WEB H264-TSCC - filecrypt/Star.Wars.The.Clone.Wars.S05E06.Die.Versammlung.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S05E06.Die.Versammlung.GERMAN.DL.720p.WEB.H264-TSCC.nfo",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S05 GERMAN DL 720p WEB H264-TSCC - filecrypt/Star.Wars.The.Clone.Wars.S05E06.Die.Versammlung.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S05E06.Die.Versammlung.GERMAN.DL.720p.WEB.H264-TSCC.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/American Crime Story S01 GERMAN AC3 1080p BluRay x265-w00t - thewooter",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/American Crime Story S01 GERMAN AC3 1080p BluRay x265-w00t - thewooter/American.Crime.Story.S01E01.Doppelmord.in.Brentwood.GERMAN.AC3.1080p.BluRay.x265-w00t.mkv",
+                                                              "/opt/JDownloader/Downloads/American Crime Story S01 GERMAN AC3 1080p BluRay x265-w00t - thewooter/American.Crime.Story.S01.GERMAN.AC3.1080p.BluRay.x265-w00t.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : "w00t",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

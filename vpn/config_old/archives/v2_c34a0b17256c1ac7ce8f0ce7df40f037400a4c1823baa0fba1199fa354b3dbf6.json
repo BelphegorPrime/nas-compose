@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/StWaTBB S01E16 web 7p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/StWaTBB S01E16 web 7p/Star.Wars.The.Bad.Batch.S01E16.German.DL.720p.WEB.h264-WvF/star.wars.the.bad.batch.s01e16.german.dl.720p.web.h264-wvf.nfo",
+                                                              "/opt/JDownloader/Downloads/StWaTBB S01E16 web 7p/Star.Wars.The.Bad.Batch.S01E16.German.DL.720p.WEB.h264-WvF/star.wars.the.bad.batch.s01e16.german.dl.720p.web.h264-wvf.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

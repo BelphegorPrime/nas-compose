@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die purpurnen Flüsse 2 (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die purpurnen Flüsse 2 (microHD)/Die.purpurnen.Flüsse.2.Die.Engel.der.Apokalypse.2004.GERMAN.834p.microHD.x264-RED/Die purpurnen Flüsse 2 (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

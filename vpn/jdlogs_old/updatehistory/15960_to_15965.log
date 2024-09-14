@@ -1,0 +1,45 @@
+Fri Mar 18 05:50:31 GMT 2022
+Package: package_1647516152793.awf
+Install
+Write Revision: 15963
+----------------Plugins----------------
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/hoster/DdownloadCom.class
+   jd/plugins/hoster/DoodstreamCom.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface$TRANSLATION.class
+   jd/plugins/hoster/TwitterCom$TwitterConfigInterface.class
+   jd/plugins/hoster/TwitterCom.class
+   jd/plugins/hoster/ZeveraCore$1.class
+   jd/plugins/hoster/ZeveraCore$2.class
+   jd/plugins/hoster/ZeveraCore$3.class
+   jd/plugins/hoster/ZeveraCore.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1647523352539.awf
+Install
+Write Revision: 15964
+----------------Plugins----------------
+   jd/plugins/decrypter/GenericXFileShareProFolder.class
+   jd/plugins/decrypter/PlayVidComDecrypter.class.removed
+   jd/plugins/decrypter/PornflipComCrawler.class
+   jd/plugins/decrypter/TwitterCom.class
+   jd/plugins/hoster/AbcvideoCc.class.removed
+   jd/plugins/hoster/KooFileCom.class.removed
+   jd/plugins/hoster/Offline.class
+   jd/plugins/hoster/PlayVidCom.class.removed
+   jd/plugins/hoster/PornflipCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------
+Package: package_1647526952562.awf
+Install
+Write Revision: 15965
+----------------Plugins----------------
+   jd/plugins/decrypter/TwitterCom.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ted 2024 S01E07 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ted 2024 S01E07 720p/Ted.2024.S01E07.German.DL.EAC3.720p.JOYN.WEB.H264-ZeroTwo/Ted.2024.S01E07.German.DL.EAC3.720p.JOYN.WEB.H264-ZeroTwo.mkv",
+                                                              "/opt/JDownloader/Downloads/Ted 2024 S01E07 720p/Ted.2024.S01E07.German.DL.EAC3.720p.JOYN.WEB.H264-ZeroTwo/ZeroTwo-Ted.2024.S01E07.720p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

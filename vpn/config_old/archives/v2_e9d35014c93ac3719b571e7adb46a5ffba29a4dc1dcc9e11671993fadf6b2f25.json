@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/KVMJUHYVCDFERQOPLFJHU",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/KVMJUHYVCDFERQOPLFJHU/Teenage Mutant Ninja Turtles - Out Of The Shadows (2016).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

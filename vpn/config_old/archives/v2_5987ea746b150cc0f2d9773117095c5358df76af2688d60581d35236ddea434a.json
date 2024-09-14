@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Samaritan 2022 HDR 2160p WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Samaritan 2022 HDR 2160p WEB/Samaritan.2022.German.DL.HDR.2160p.WEB.h265-W4K/samaritan.2022.german.dl.hdr.2160p.web.h265-w4k.mkv",
+                                                              "/opt/JDownloader/Downloads/Samaritan 2022 HDR 2160p WEB/Samaritan.2022.German.DL.HDR.2160p.WEB.h265-W4K/samaritan.2022.german.dl.hdr.2160p.web.h265-w4k.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Penny Dreadful",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful/Penny.Dreadful.S01E01.German.BDRip.x264-iNTENTiON/penny.dreadful.s01e01.german.bdrip.x264-intention.jpg",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful/Penny.Dreadful.S01E01.German.BDRip.x264-iNTENTiON/penny.dreadful.s01e01.german.bdrip.x264-intention.mkv",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful/Penny.Dreadful.S01E01.German.BDRip.x264-iNTENTiON/penny.dreadful.s01e01.german.bdrip.x264-intention.nfo",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful/Penny.Dreadful.S01E01.German.BDRip.x264-iNTENTiON/Subs/penny.dreadful.s01e01.german.bdrip.x264-intention.idx",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful/Penny.Dreadful.S01E01.German.BDRip.x264-iNTENTiON/Subs/penny.dreadful.s01e01.german.bdrip.x264-intention.sub"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

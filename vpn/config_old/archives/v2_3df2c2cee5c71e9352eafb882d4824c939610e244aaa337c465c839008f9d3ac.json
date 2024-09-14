@@ -1,0 +1,24 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/the umbrella academy-s02",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e01/The Umbrella Academy - S02E01 - Zurück auf Anfang.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e02/The Umbrella Academy - S02E02 - Das Frankel-Material.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e03/The Umbrella Academy - S02E03 - Das Sit-in.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e04/The Umbrella Academy - S02E04 - Die zwölf Majestäten.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e05/The Umbrella Academy - S02E05 - Walhall.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e06/The Umbrella Academy - S02E06 - Ein leichtes Abendessen.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e07/The Umbrella Academy - S02E07 - Öga for Öga.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e08/The Umbrella Academy - S02E08 - Die sieben Stadien.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e09/The Umbrella Academy - S02E09 - 743.mkv",
+                                                              "/opt/JDownloader/Downloads/the umbrella academy-s02/the umbrella academy staffel 2/tuasd-s02e10/The Umbrella Academy - S02E10 - Das Ende von etwas.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

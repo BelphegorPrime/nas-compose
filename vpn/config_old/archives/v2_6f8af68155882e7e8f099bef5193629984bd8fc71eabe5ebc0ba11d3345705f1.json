@@ -1,0 +1,29 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/1. Das war's Hirnlutscher.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/2. Kann funktionieren, muss aber nicht.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/3. Sie haben ja einen, sehr, sehr gefährlichen Beruf.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/4. Zombies, Zombies!.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/5. Das Handy bewegt sich.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/6. Weiter!.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/7. Alles Bestens!.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/8. Du musst so werden wie ich will!.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/Cover.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/info.txt",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Fetzer - Du bist untot, Du bist ein Star! (ungekürzt)/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

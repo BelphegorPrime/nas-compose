@@ -1,0 +1,28 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/01 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/02 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/03 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/04 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/05 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/06 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/07 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/08 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/09 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/10 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/11 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/12 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/13 Der Mord ohne Leiche.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/Sherlock Holmes & Co - 03 Der Mord ohne Leiche/14 Der Mord ohne Leiche.mp3"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc/bios1.ic23",
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/dc/bios0.ic23"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

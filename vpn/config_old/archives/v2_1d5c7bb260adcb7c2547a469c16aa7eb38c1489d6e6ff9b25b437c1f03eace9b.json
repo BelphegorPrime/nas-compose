@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ich \u2013 Einfach unverbesserlich 2 (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ich \u2013 Einfach unverbesserlich 2 (microHD)/Ich.Einfach.unverbesserlich.2.2013.GERMAN.1080p.microHD.x264-RED/Ich \u2013 Einfach unverbesserlich 2 (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

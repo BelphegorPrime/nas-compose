@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/JoJos Bizarre Adventure 2012 S01",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/JoJos Bizarre Adventure 2012 S01/JoJos.Bizarre.Adventure.2012.S01E05.German.DL.AC3.720p.BluRay.x264.Repack-ABJ.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

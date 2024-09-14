@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/001 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/002 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/003 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/004 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/005 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/006 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/007 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/008 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/009 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 01/010 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/011 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/012 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/013 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/014 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/015 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/016 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/017 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/018 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/019 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/CD 02/020 Der Puppenspieler .mp3",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Frank Schätzing - Der Puppenspieler/txt.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

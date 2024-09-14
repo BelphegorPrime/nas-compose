@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Brooklyn Nine-Nine",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Brooklyn Nine-Nine/Brooklyn.Nine-Nine.S07E04.Manege.frei.German.Dubbed.DL.WEB.x264.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

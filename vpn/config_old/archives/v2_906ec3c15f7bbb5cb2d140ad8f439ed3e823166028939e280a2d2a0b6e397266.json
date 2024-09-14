@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Prodigal Son S02E11",
+    "files" : [ "/opt/JDownloader/Downloads/Prodigal Son S02E11/Prodigal.Son.S02E11.You.Can.Run.DL.German.DD20.Dubbed.480p.AmazonHD.x264-GDR/Prodigal.Son.S02E11.You.Can.Run.DL.German.DD20.Dubbed.480p.AmazonHD.x264-GDR.mkv" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

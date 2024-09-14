@@ -1,0 +1,22 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bored to Death 2",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.201.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.202.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.203.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.204.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.205.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.206.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.207.avi",
+                                                              "/opt/JDownloader/Downloads/Bored to Death 2/Bored.to.Death.S02.German.Dubbed.DL.BD.XviD-4SJS/B2DGDL.208.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

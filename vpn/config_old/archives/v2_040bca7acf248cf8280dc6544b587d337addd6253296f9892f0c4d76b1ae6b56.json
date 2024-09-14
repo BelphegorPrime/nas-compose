@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Halo S01E09 1080p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Halo S01E09 1080p/Halo.S01E09.GERMAN.DL.1080p.WEB.h264/halo-1080p-s01e09.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,16 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Moon Knight S01E03 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Moon Knight S01E03 1080P/Moon.Knight.S01E03.GERMAN.DL.1080P.WEB.H264-WAYNE/moon.knight.s01e03.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Moon Knight S01E03 1080P/Moon.Knight.S01E03.GERMAN.DL.1080P.WEB.H264-WAYNE/moon.knight.s01e03.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

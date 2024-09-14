@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Avatar The Way of Water 2022 720p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Avatar The Way of Water 2022 720p BluRay/Avatar.The.Way.of.Water.2022.German.720p.BluRay.x264-SPiCY/spy-avatar2.2022-720p.mkv",
+                                                              "/opt/JDownloader/Downloads/Avatar The Way of Water 2022 720p BluRay/Avatar.The.Way.of.Water.2022.German.720p.BluRay.x264-SPiCY/spy-avatar2.2022-720p.nfo",
+                                                              "/opt/JDownloader/Downloads/Avatar The Way of Water 2022 720p BluRay/Avatar.The.Way.of.Water.2022.German.720p.BluRay.x264-SPiCY/Subs/spy-avatar2.2022-720p-subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

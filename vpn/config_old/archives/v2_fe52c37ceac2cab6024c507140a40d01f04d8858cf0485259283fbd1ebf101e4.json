@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Flash 2014 S08E20",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Flash 2014 S08E20/The.Flash.2014.S08E20.GERMAN.DUBBED.BDRiP.x264-idTV/the.flash.2014.s08e20.german.dubbed.bdrip.x264-idtv.mkv",
+                                                              "/opt/JDownloader/Downloads/The Flash 2014 S08E20/The.Flash.2014.S08E20.GERMAN.DUBBED.BDRiP.x264-idTV/the.flash.2014.s08e20.german.dubbed.bdrip.x264-idtv.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

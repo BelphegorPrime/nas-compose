@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Monarch.Legacy.of.Monsters.S01E07.German.DL.HDR.2160p.WEB.h265-W4K/monarch.legacy.of.monsters.s01e07.german.dl.hdr.2160p.web.h265-w4k.mkv",
+                                                              "/opt/JDownloader/Downloads/Monarch.Legacy.of.Monsters.S01E07.German.DL.HDR.2160p.WEB.h265-W4K/monarch.legacy.of.monsters.s01e07.german.dl.hdr.2160p.web.h265-w4k.nfo",
+                                                              "/opt/JDownloader/Downloads/Monarch.Legacy.of.Monsters.S01E07.German.DL.HDR.2160p.WEB.h265-W4K/Sample/monarch.legacy.of.monsters.s01e07.german.dl.hdr.2160p.web.h265-w4k-sample.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

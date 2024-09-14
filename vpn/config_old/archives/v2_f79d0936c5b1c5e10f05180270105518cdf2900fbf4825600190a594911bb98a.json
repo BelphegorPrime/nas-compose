@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Rookie S05E12 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Rookie S05E12 720p/The.Rookie.S05E12.German.DL.720p.WEB.h264-WvF/the.rookie.s05e12.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/The Rookie S05E12 720p/The.Rookie.S05E12.German.DL.720p.WEB.h264-WvF/the.rookie.s05e12.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

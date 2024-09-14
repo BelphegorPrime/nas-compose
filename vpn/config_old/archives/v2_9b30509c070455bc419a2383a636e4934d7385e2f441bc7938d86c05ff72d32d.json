@@ -1,0 +1,39 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/01 - Kapitel 1 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/02 - Kapitel 2 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/03 - Kapitel 3 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/04 - Kapitel 4 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/05 - Kapitel 5 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/06 - Kapitel 6 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/07 - Kapitel 7 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/08 - Kapitel 8 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/09 - Kapitel 9 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/10 - Kapitel 10 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/11 - Kapitel 11 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/12 - Kapitel 12 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/13 - Kapitel 13 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/14 - Kapitel 14 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/15 - Kapitel 15 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/16 - Kapitel 16 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/17 - Kapitel 17 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/18 - Kapitel 18 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/19 - Kapitel 19 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/20 - Kapitel 20 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/21 - Kapitel 21 - Die Geschichte des Beryll-Kopfschmuckes - Gerd Köster liest Sherlock Holmes, Band 29.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Gerd Köster liest Sherlock Holmes 29 - Die Geschichte des Beryll-Kopfschmuckes/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

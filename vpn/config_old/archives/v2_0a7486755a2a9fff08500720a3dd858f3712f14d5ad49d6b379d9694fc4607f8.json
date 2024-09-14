@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/01. Teil 1 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/02. Teil 2 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/03. Teil 3 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/04. Teil 4 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/05. Teil 5 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/06. Teil 6 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/07. Teil 7 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/08. Teil 8 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/09. Teil 9 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/10. Teil 10 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/11. Teil 11 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/12. Teil 12 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/13. Teil 13 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/14. Teil 14 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/15. Teil 15 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/16. Teil 16 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/17. Teil 17 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/18. Teil 18 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/19. Teil 19 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/20. Teil 20 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/21. Teil 21 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/22. Teil 22 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/23. Teil 23 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/24. Teil 24 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/25. Teil 25 - Folge 92_ Der Angestellte des Börsenmaklers.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 092 - Der Angestellte des Börsenmaklers/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

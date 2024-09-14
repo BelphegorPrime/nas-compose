@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Gangs of London S02E05",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Gangs of London S02E05/Gangs.of.London.S02E05.GERMAN.DUBBED.WEBRip.x264-POCO/poco-gangsoflondon-s02e05-480p.mkv",
+                                                              "/opt/JDownloader/Downloads/Gangs of London S02E05/Gangs.of.London.S02E05.GERMAN.DUBBED.WEBRip.x264-POCO/poco-gangsoflondon-s02e05-480p.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

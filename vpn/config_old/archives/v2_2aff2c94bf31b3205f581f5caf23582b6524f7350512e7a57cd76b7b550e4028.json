@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S03E01.GERMAN.DL.DOKU.720p.WEB.h264-HAXE/James.May.Unser.Mann.in.S03E01.GERMAN.DL.DOKU.720p.WEB.h264-HAXE.mkv",
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S03E01.GERMAN.DL.DOKU.720p.WEB.h264-HAXE/james.may.unser.mann.in.s03e01.german.dl.doku.720p.web.h264-haxe.nfo",
+                                                              "/opt/JDownloader/Downloads/James.May.Unser.Mann.in.S03E01.GERMAN.DL.DOKU.720p.WEB.h264-HAXE/Sample/james.may.unser.mann.in.s03e01.german.dl.doku.720p.web.h264-haxe.sample.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

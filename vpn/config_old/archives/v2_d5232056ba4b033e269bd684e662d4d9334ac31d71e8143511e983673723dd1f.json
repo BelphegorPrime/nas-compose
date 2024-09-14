@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Black Mirror S05 German DL NetflixSD x264-4SJ",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Black Mirror S05 German DL NetflixSD x264-4SJ/Black.Mirror.S05.German.DL.NetflixSD.x264-4SJ/4sj-blackmirror-sd-s05e01.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Mirror S05 German DL NetflixSD x264-4SJ/Black.Mirror.S05.German.DL.NetflixSD.x264-4SJ/4sj-blackmirror-sd-s05e02.mkv",
+                                                              "/opt/JDownloader/Downloads/Black Mirror S05 German DL NetflixSD x264-4SJ/Black.Mirror.S05.German.DL.NetflixSD.x264-4SJ/4sj-blackmirror-sd-s05e03.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

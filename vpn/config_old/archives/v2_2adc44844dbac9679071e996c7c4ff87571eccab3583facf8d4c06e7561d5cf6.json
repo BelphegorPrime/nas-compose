@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Alex Rider S02 Webrip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e01.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e01.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e01.sub",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e02.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e02.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e02.sub",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e03.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e03.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e03.sub",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e04.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e04.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e04.sub",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e05.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e05.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e05.sub",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e06.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e06.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e06.sub",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e07.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e07.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e07.sub",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e08.idx",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e08.mkv",
+                                                              "/opt/JDownloader/Downloads/Alex Rider S02 Webrip/Alex.Rider.S02.Webrip/tvarchiv.alex.rider.s02e08.sub"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

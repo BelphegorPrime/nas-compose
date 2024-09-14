@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/0898266 TBBT (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X01 - Penny Und Die Physiker-73.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X02 - Chaos-Theorie-74.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X03 - Erregungsfaktor Null-75.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X04 - Die Leuchtfisch-Idee-76.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X05 - Die Andere Seite Der Krawatte-77.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X06 - Das Mittelerde-Paradigma-78.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X07 - Das Vorspeisen-Dilemma-79.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X08 - Das Lalita-Problem-80.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X09 - Der Cooper-Hofstadter-Antagonismus-81.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X10 - Loobenfelds Netz Der Lügen-82.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X11 - Alles Fließt-83.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X12 - Das Jerusalem-Projekt-84.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X13 - Superbowl Für Physiker-85.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X14 - Die Zeitmaschine-86.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X15 - Sheldon 2.0-87.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X16 - Die Erdnuss-Reaktion-88.mkv",
+                                                              "/opt/JDownloader/Downloads/0898266 TBBT (microHD)/The.Big.Bang.Theory.Staffel.01 (microHD)/The Big Bang Theory - 1X17 - Schrödingers Katze-89.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

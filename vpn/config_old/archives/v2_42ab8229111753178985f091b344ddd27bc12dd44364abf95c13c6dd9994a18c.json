@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/supermanlois1",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x01.Die.Rueckkehr.Pilot.Teil.1u2-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x02.Besucher.von.3-9-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x03.Wer.anderen.eine.Story.klaut-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x04.Der.unsichtbare.Mann-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x05.Der.Kampf.des.Jahrhunderts-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x06.Der.Feuerteufel-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x07.Die.superschlauen.Kids-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x08.Die.gruene.Gefahr-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x09.Ein.heisser.November-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x10.Liebe.aus.der.Luft-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x11.Naechte.in.der.Hochzeitssuite-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x12.Nur.noch.55.Stunden-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x13.Mister.Make-up-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x14.Der.magische.Kanal-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x15.Ein.Virus.im.System-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x16.Erinnerung.an.Krypton-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x17.Rivalinnen-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x18.Der.falsche.Bruder-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x19.Dragonettis.Safe-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x20.Die.Truemmer.eines.Traums-DN.avi",
+                                                              "/opt/JDownloader/Downloads/supermanlois1/S01/Salc.1x21.Die.Hochzeit.des.Jahres-DN.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

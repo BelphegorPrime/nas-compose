@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Die versunkene Stadt Z (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die versunkene Stadt Z (microHD)/Die.versunkene.Stadt.Z.2016.GERMAN.800p.microHD.x264-RED/Die versunkene Stadt Z (microHD).mkv"
+                                                             ]
+                                        },
+ "autoExtract"                        : "UNSET",
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : []
+}

@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/DOORS ! - Blutfeld.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - DOORS - Blutfeld (ungekürzt)/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

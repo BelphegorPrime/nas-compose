@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/PerizutyvofvouizyInt10p01",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/PerizutyvofvouizyInt10p01/Person.of.Interest.S01E21.Das.Gestern.stirbt.nie.German.DL.1080p.BluRay.x264-GZCrew.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

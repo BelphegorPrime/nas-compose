@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Neues aus der Welt AC3D DL 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Neues aus der Welt AC3D DL 1080p BluRay/Neues.aus.der.Welt.2020.German.AC3D.DL.1080p.BluRay.x264-PS/ps-neues.bd108.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

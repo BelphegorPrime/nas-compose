@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Clone Wars S05 GERMAN DL 720p WEB H264-TSCC - filecrypt",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S05 GERMAN DL 720p WEB H264-TSCC - filecrypt/Star.Wars.The.Clone.Wars.S05E20.Vom.Licht.entfernt.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S05E20.Vom.Licht.entfernt.GERMAN.DL.720p.WEB.H264-TSCC.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S05 GERMAN DL 720p WEB H264-TSCC - filecrypt/Star.Wars.The.Clone.Wars.S05E20.Vom.Licht.entfernt.GERMAN.DL.720p.WEB.H264-TSCC/Star.Wars.The.Clone.Wars.S05E20.Vom.Licht.entfernt.GERMAN.DL.720p.WEB.H264-TSCC.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : "serienfans.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

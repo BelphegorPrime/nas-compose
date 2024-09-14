@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Solo Leveling S01E12 Ger Eng Sub AAC 720p CR WEB h264-DK",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Solo Leveling S01E12 Ger Eng Sub AAC 720p CR WEB h264-DK/Solo.Leveling.S01E12.Ger.Eng.Sub.AAC.720p.CR.WEB.h264-DK.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

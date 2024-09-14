@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/back.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/front.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/front2.jpg",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/Sherlock Holmes & Co - 15 Der Arrest/Track 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/_Reflinks für Unterstützung/Rapidgator_ Bitte klicken um mich zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - 15 Der Arrest/_Reflinks für Unterstützung/Turbobit.net_ Bitte klicken um mich zu Unterstützen, Danke.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels 2020 S01E04 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels 2020 S01E04 720p/Penny.Dreadful.City.Of.Angels.2020.S01E04.GERMAN.DL.720p.WEBRiP.x264.PROPER-LAW/law-penny.dreadful.city.of.angels.2020.S01e04.german.dl.720p.webrip.x264.proper.mkv",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels 2020 S01E04 720p/Penny.Dreadful.City.Of.Angels.2020.S01E04.GERMAN.DL.720p.WEBRiP.x264.PROPER-LAW/law-penny.dreadful.city.of.angels.2020.S01e04.german.dl.720p.webrip.x264.proper.nfo",
+                                                              "/opt/JDownloader/Downloads/Penny Dreadful City Of Angels 2020 S01E04 720p/Penny.Dreadful.City.Of.Angels.2020.S01E04.GERMAN.DL.720p.WEBRiP.x264.PROPER-LAW/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,24 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/01  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/02  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/03  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/04  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/05  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/06  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/07  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/08  Markus Heitz-Blutportale.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/Blutportale.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Pakt Der Dunkelheit 04 - Blutportal (gekürzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.html"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,19 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 03 - Eine Studie in Scharlachrot II - Hope/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 03 - Eine Studie in Scharlachrot II - Hope/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 03 - Eine Studie in Scharlachrot II - Hope/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 03 - Eine Studie in Scharlachrot II - Hope/Sherlock Holmes Legends - 3 - Eine Studie in Scharlachrot II.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes Legends 03 - Eine Studie in Scharlachrot II - Hope/Sherlock Holmes Legends - 3 - Eine Studie in Scharlachrot II_ Hope (BQ).jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

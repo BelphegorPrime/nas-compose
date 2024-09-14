@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Unbesiegbar S02E07 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Unbesiegbar S02E07 720p/Unbesiegbar.S02E07.German.DL.720p.WEB.h264-WvF/!Info zur Entsperrung von NOX!.txt",
+                                                              "/opt/JDownloader/Downloads/Unbesiegbar S02E07 720p/Unbesiegbar.S02E07.German.DL.720p.WEB.h264-WvF/NOX-entsperren.bat",
+                                                              "/opt/JDownloader/Downloads/Unbesiegbar S02E07 720p/Unbesiegbar.S02E07.German.DL.720p.WEB.h264-WvF/unbesiegbar.s02e07.german.dl.720p.web.h264-wvf.mkv",
+                                                              "/opt/JDownloader/Downloads/Unbesiegbar S02E07 720p/Unbesiegbar.S02E07.German.DL.720p.WEB.h264-WvF/unbesiegbar.s02e07.german.dl.720p.web.h264-wvf.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

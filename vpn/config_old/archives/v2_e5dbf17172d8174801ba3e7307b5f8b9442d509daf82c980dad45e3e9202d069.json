@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/grdtuztjdttesrt",
+    "files" : [ "/opt/JDownloader/Downloads/grdtuztjdttesrt/Masters.of.Sex.S04E08.Topeka.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e08-480p.mkv", "/opt/JDownloader/Downloads/grdtuztjdttesrt/Masters.of.Sex.S04E08.Topeka.GERMAN.DUBBED.WS.WebRip.x264-TVP/tvp-mastersofsex-s04e08-480p.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

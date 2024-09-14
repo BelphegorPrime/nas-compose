@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Three Thousand Years Of Longing MD WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Three Thousand Years Of Longing MD WEB/Three.Thousand.Years.Of.Longing.2022.German.MD.WEB.x264-FSX/Three.Thousand.Years.Of.Longing.2022.German.MD.WEB.x264-FSX.mp4"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

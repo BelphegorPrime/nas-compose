@@ -1,0 +1,35 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/01 - Das Turiner Grabtuch - Tag 4 - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/02 - Das Turiner Grabtuch - Tag 4 - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/03 - Das Turiner Grabtuch - Tag 4 - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/04 - Das Turiner Grabtuch - Tag 4 - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/05 - Das Turiner Grabtuch - Tag 4 - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/06 - Das Turiner Grabtuch - Tag 4 - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/07 - Das Turiner Grabtuch - Tag 4 - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/08 - Das Turiner Grabtuch - Tag 4 - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/09 - Das Turiner Grabtuch - Tag 4 - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/10 - Das Turiner Grabtuch - Tag 4 - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/11 - Das Turiner Grabtuch - Tag 4 - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/12 - Das Turiner Grabtuch - Tag 4 - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/13 - Das Turiner Grabtuch - Tag 4 - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/14 - Das Turiner Grabtuch - Tag 4 - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/15 - Das Turiner Grabtuch - Tag 4 - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/16 - Das Turiner Grabtuch - Tag 4 - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/17 - Das Turiner Grabtuch - Tag 4 - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Das Turiner Grabtuch - Das Sherlock Holmes Ostern-Spezial, Tag 4 (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

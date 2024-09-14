@@ -1,0 +1,15 @@
+Tue Dec 19 15:06:51 GMT 2023
+Package: package_1702998401088.awf
+Install
+Write Revision: 17055
+----------------Plugins----------------
+   jd/plugins/decrypter/DwnldNet.class
+   jd/plugins/decrypter/LibGenCrawler.class
+   jd/plugins/decrypter/VoeSxCrawler.class
+   jd/plugins/hoster/LibGenInfo.class
+   jd/plugins/hoster/RecurbateCom.class
+   jd/plugins/hoster/ZapiszSe.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

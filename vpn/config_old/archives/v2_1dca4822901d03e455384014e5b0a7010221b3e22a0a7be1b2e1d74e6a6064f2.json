@@ -1,0 +1,25 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Atypical S03 720P WEB",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e01.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e01.german.dl.720p.web.x264-wayne.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e02.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e03.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e04.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e05.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e06.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e07.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e08.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e09.german.dl.720p.web.x264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical S03 720P WEB/Atypical.S03.COMPLETE.GERMAN.DL.720P.WEB.X264-WAYNE/atypical.s03e10.german.dl.720p.web.x264-wayne.mkv"
+                                                             ]
+                                        }
+}

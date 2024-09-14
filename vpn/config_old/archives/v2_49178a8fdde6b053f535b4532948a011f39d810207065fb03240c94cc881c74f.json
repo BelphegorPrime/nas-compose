@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/[ABJ]My Hero Academia S01E02[BD 720p AC3 x264]",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/[ABJ]My Hero Academia S01E02[BD 720p AC3 x264]/My.Hero.Academia.S01E05.German.DL.AC3.720p.BluRay.x264-ABJ.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : "www.anime-loads.org",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

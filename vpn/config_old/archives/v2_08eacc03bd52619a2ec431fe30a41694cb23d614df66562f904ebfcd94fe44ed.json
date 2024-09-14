@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E01-E04",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E01-E04/Star.Wars.The.Clone.Wars.S07E01-E04.German.DL.480p.WEBHD.x264-iND/Star.Wars.The.Clone.Wars.S07E01.German.DL.480p.WEBHD.x264-iND.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E01-E04/Star.Wars.The.Clone.Wars.S07E01-E04.German.DL.480p.WEBHD.x264-iND/Star.Wars.The.Clone.Wars.S07E02.German.DL.480p.WEBHD.x264-iND.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E01-E04/Star.Wars.The.Clone.Wars.S07E01-E04.German.DL.480p.WEBHD.x264-iND/Star.Wars.The.Clone.Wars.S07E03.German.DL.480p.WEBHD.x264-iND.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S07E01-E04/Star.Wars.The.Clone.Wars.S07E01-E04.German.DL.480p.WEBHD.x264-iND/Star.Wars.The.Clone.Wars.S07E04.German.DL.480p.WEBHD.x264-iND.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

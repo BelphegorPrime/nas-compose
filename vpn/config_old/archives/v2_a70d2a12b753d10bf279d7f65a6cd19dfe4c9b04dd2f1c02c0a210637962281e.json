@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Der grüne Dunst - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 080 - Der grüne Dunst (Limitierte Erstauflage)/_play.m3u"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

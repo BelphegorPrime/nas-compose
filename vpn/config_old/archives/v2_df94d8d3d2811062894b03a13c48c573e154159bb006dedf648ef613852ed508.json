@@ -1,0 +1,30 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/01 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/02 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/03 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/04 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/05 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/06 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/07 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/08 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/09 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/10 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/11 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/12 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/13 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/14 - Die Phileasson-Saga - Die Wölfin Phileasson 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin ungekuerzt/Bernhard Hennen - Die Phileasson-Saga 03 - Die Wolfin (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

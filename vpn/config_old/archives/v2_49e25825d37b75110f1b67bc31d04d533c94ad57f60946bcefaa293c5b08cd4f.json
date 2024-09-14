@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/RetroArch v1 10 1/system/fbneo/sknse2.u10"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

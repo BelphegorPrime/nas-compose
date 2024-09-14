@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Ahsoka S01E07 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Ahsoka S01E07 1080P/Ahsoka.S01E07.GERMAN.DL.1080P.WEB.H264-WAYNE/ahsoka.s01e07.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Ahsoka S01E07 1080P/Ahsoka.S01E07.GERMAN.DL.1080P.WEB.H264-WAYNE/ahsoka.s01e07.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

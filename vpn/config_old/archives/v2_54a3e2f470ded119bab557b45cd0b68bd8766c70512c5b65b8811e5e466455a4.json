@@ -1,0 +1,32 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 1/01 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 1/02 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 1/03 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 1/04 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 1/05 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 2/01 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 2/02 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 2/03 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 2/04 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 3/01 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 3/02 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 3/03 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 3/04 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 4/01 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 4/02 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 4/03 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/CD 4/04 - Kleine Freie Männer.mp3",
+                                                              "/opt/JDownloader/Downloads/TP_HB4615_BAND30 - Kleine freie Männer (gekürzt)/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

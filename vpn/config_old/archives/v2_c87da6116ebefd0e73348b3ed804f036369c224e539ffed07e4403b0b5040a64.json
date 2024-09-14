@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Der gestiefelte Kater Der letzte Wunsch 1080p BluRay",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Der gestiefelte Kater Der letzte Wunsch 1080p BluRay/Der.gestiefelte.Kater.Der.letzte.Wunsch.2022.German.DL.1080p.BluRay.x264-COiNCiDENCE/coincidence-kater-1080p.mkv",
+                                                              "/opt/JDownloader/Downloads/Der gestiefelte Kater Der letzte Wunsch 1080p BluRay/Der.gestiefelte.Kater.Der.letzte.Wunsch.2022.German.DL.1080p.BluRay.x264-COiNCiDENCE/coincidence-kater-1080p.nfo",
+                                                              "/opt/JDownloader/Downloads/Der gestiefelte Kater Der letzte Wunsch 1080p BluRay/Der.gestiefelte.Kater.Der.letzte.Wunsch.2022.German.DL.1080p.BluRay.x264-COiNCiDENCE/Subs/coincidence-kater-1080p-subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

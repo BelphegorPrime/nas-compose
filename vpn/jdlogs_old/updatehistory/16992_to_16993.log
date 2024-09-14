@@ -1,0 +1,11 @@
+Fri Nov 17 15:40:10 GMT 2023
+Package: package_1700235610437.awf
+Install
+Write Revision: 16993
+----------------Plugins----------------
+   jd/plugins/decrypter/SourceForgeNet.class.removed
+   jd/plugins/decrypter/SourceForgeNetCrawler.class
+----------------Extensions----------------
+----------------Direct Files----------------
+   build.json
+----------------Core Files----------------

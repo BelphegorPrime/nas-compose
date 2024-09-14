@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/VCRWRWr4sw",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E01.Revierkaempfe.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E02.Durchgedreht.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E03.Vertrauter.Feind.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E04.Anwalt.entlaufen.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E05.Schlag.auf.Schlag.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E06.Bis.aufs.Blut.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E07.Tief.getroffen.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E08.Schweigen.ist.Gold.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E09.Bittere.Pillen.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E10.In.Flagranti.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E11.Schmidt.Happens.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E12.Alte.Schule.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E13.Dicke.Luft.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E14.Ein.Mann.sieht.Rot.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E15.Im.Eifer.des.Gefechts.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E16.Auf.Eis.gelegt.German.DL.WS.DVDRip.DivX-TVSM.avi",
+                                                              "/opt/JDownloader/Downloads/VCRWRWr4sw/VCRWRWr4sw/Boston.Legal.S01E17.Auf.Leben.und.Tod.German.DL.WS.DVDRip.DivX-TVSM.avi"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

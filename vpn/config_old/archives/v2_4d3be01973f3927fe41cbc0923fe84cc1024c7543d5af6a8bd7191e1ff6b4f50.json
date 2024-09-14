@@ -1,0 +1,26 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/01-DIE DENKMASCHINE Folge 4 _ Was bisher geschah.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/02-DIE DENKMASCHINE Folge 4 _ Wir bestiegen eine Droschke.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/03-DIE DENKMASCHINE Folge 4 _ Natuerlich behielt er Recht.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/04-DIE DENKMASCHINE Folge 4 _ Aber, Professor.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/05-DIE DENKMASCHINE Folge 4 _ Wir haben absolut NICHTS.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/06-DIE DENKMASCHINE Folge 4 _ Ja, ich habe.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/07-DIE DENKMASCHINE Folge 4 _ Drei Uhr frueh.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/08-DIE DENKMASCHINE Folge 4 _ Nun.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 000 - Sonderedition - Die Blutsauger von London 02 - Die Spur des Blutes/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

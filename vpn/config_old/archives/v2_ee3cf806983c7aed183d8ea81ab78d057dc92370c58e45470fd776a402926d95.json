@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/01 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/02 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/03 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/04 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/05 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/06 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/07 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/08 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/09 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/10 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/11 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/12 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/13 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/14 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/15 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/16 Kinder der Nacht.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Kinder der Nacht (Die Elfen - Kurzgeschichten 1)/folder.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

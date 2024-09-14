@@ -1,0 +1,41 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/00 - Elfenkönig (Die Phileasson-Saga 11) (Ungekürzt).epub",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/00 - Elfenkönig (Die Phileasson-Saga 11) (Ungekürzt).m3u",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/00 - Elfenkönig (Die Phileasson-Saga 11) (Ungekürzt).pdf",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/01 - Kapitel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/02 - Kapitel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/03 - Kapitel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/04 - Kapitel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/05 - Kapitel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/06 - Kapitel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/07 - Kapitel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/08 - Kapitel 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/09 - Kapitel 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/10 - Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/11 - Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/12 - Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/13 - Kapitel 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/14 - Kapitel 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/15 - Kapitel 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/16 - Kapitel 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/17 - Kapitel 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/18 - Kapitel 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/19 - Kapitel 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/20 - Kapitel 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/21 - Kapitel 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/22 - Kapitel 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/23 - Kapitel 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/Bernhard Hennen, Robert Corvus - Die Phileasson-Saga 11 - Elfenkönig (Ungekürzt)/cover.jpg"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

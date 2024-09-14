@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/American Gods S03E01 720p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/American Gods S03E01 720p/American.Gods.S03E01.GERMAN.DL.720p.WEB.H264-FENDT/American.Gods.S03E01.GERMAN.DL.720p.WEB.H264-FENDT.mkv",
+                                                              "/opt/JDownloader/Downloads/American Gods S03E01 720p/American.Gods.S03E01.GERMAN.DL.720p.WEB.H264-FENDT/american.gods.s03e01.german.dl.720p.web.h264-fendt.nfo",
+                                                              "/opt/JDownloader/Downloads/American Gods S03E01 720p/American.Gods.S03E01.GERMAN.DL.720p.WEB.H264-FENDT/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

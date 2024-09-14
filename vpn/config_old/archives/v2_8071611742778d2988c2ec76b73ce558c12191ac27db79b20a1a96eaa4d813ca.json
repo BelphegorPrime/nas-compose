@@ -1,0 +1,42 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/1 - Folge 7_ Die Tragödie von Birlstone, Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/10 - Folge 7_ Die Tragödie von Birlstone, Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/11 - Folge 7_ Die Tragödie von Birlstone, Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/12 - Folge 7_ Die Tragödie von Birlstone, Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/13 - Folge 7_ Die Tragödie von Birlstone, Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/14 - Folge 7_ Die Tragödie von Birlstone, Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/15 - Folge 7_ Die Tragödie von Birlstone, Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/16 - Folge 7_ Die Tragödie von Birlstone, Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/17 - Folge 7_ Die Tragödie von Birlstone, Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/18 - Folge 7_ Die Tragödie von Birlstone, Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/19 - Folge 7_ Die Tragödie von Birlstone, Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/2 - Folge 7_ Die Tragödie von Birlstone, Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/20 - Folge 7_ Die Tragödie von Birlstone, Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/21 - Folge 7_ Die Tragödie von Birlstone, Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/22 - Folge 7_ Die Tragödie von Birlstone, Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/23 - Folge 7_ Die Tragödie von Birlstone, Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/24 - Folge 7_ Die Tragödie von Birlstone, Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/25 - Folge 7_ Die Tragödie von Birlstone, Teil 25.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/3 - Folge 7_ Die Tragödie von Birlstone, Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/4 - Folge 7_ Die Tragödie von Birlstone, Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/5 - Folge 7_ Die Tragödie von Birlstone, Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/6 - Folge 7_ Die Tragödie von Birlstone, Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/7 - Folge 7_ Die Tragödie von Birlstone, Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/8 - Folge 7_ Die Tragödie von Birlstone, Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/9 - Folge 7_ Die Tragödie von Birlstone, Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Sherlock Holmes & Co - Folge 007 - Die Tragödie von Birlstone/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

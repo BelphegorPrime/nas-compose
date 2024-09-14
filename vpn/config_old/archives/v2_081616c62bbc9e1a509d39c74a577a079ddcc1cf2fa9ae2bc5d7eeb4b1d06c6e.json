@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Blacklist S09E15-E19-HD",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Blacklist S09E15-E19-HD/The.Blacklist.S09E15.GERMAN.DUBBED.DL.1080p.WEB.H264-TSCC/The.Blacklist.S09E15.GERMAN.DUBBED.DL.1080p.WEB.H264-TSCC.mkv",
+                                                              "/opt/JDownloader/Downloads/The Blacklist S09E15-E19-HD/The.Blacklist.S09E15.GERMAN.DUBBED.DL.1080p.WEB.H264-TSCC/The.Blacklist.S09E15.GERMAN.DUBBED.DL.1080p.WEB.H264-TSCC.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

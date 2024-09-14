@@ -1,0 +1,817 @@
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1718359300461-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: /opt/JDownloader
+--ID:1TS:1718359300481-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.update.lastchance.LastChanceConfig.json
+--ID:1TS:1718359300543-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.updatev2.UpdateSettings.json
+--ID:1TS:1718359300567-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/Setup.json
+--ID:1TS:1718359300569-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/updateclient/Setup.json
+--ID:1TS:1718359300569-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.Setup|Path:/opt/JDownloader/cfg/updateclient/Setup
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1718359300577-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings.json
+--ID:22TS:1718359300578-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.jdownloader.updatev2.InternetConnectionSettings|Path:/opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings
+--ID:22TS:1718359300585-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/HttpSettings.json
+--ID:22TS:1718359300586-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/updateclient/HttpSettings.json
+--ID:22TS:1718359300586-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.UpdateHttpClientOptions|Path:/opt/JDownloader/cfg/updateclient/HttpSettings
+--ID:22TS:1718359300589-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/ProxySelector.json
+--ID:22TS:1718359300589-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.ProxySelectorSettings|Path:/opt/JDownloader/cfg/ProxySelector
+--ID:22TS:1718359300591-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/ProxySelector.proxies.json
+--ID:22TS:1718359300605-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/update/versioninfo/JD/extensions.json
+--ID:22TS:1718359300605-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:/opt/JDownloader/update/versioninfo/JD/extensions
+--ID:22TS:1718359300611-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/org.appwork.updatesys.client.tracker.TrackConfig.json
+--ID:22TS:1718359300614-6/14/24, 10:01:40 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/update/versioninfo/JDU/extensions.json
+--ID:22TS:1718359300614-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:/opt/JDownloader/update/versioninfo/JDU/extensions
+------------------------Thread: 23:Log.L.log-----------------------
+--ID:23TS:1718359300620-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/jdownloader/updatev2/UpdaterTranslation.en.lng/null
+--ID:23TS:1718359300637-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(URL): jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/Setup.updateservers.json
+--ID:23TS:1718359300655-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings.customproxylist.json
+--ID:23TS:1718359300658-6/14/24, 10:01:40 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/appwork/utils/locale/AWUTranslation.en.lng/null
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1718359304592-6/14/24, 10:01:44 AM -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: /opt/JDownloader
+--ID:1TS:1718359304852-6/14/24, 10:01:44 AM -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: /opt/JDownloader
+--ID:1TS:1718359304927-6/14/24, 10:01:44 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.json
+--ID:1TS:1718359304965-6/14/24, 10:01:44 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/jdownloader/gui/translate/GuiTranslation.en.lng/null
+--ID:1TS:1718359305359-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> setExecutable:true
+--ID:1TS:1718359305359-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> LOG_INIT_DONE=2 instances
+--ID:1TS:1718359305359-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> awt.toolkit=sun.awt.X11.XToolkit
+--ID:1TS:1718359305359-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> classloader_00000000=org.jdownloader.update.launcher.ClassLoaderExtensionImpl
+--ID:1TS:1718359305359-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> classloader_00000001=org.jdownloader.update.launcher.CL2
+--ID:1TS:1718359305359-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.cosnaming.object.trustURLCodebase=false
+--ID:1TS:1718359305359-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.ldap.object.trustURLCodebase=false
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.rmi.object.trustURLCodebase=false
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> extlogmanager.avoidsystemclassloader.hack=org.jdownloader.updatev2.JDClassLoaderLauncher$JDCustomRootClassLoader@4c70fda8
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> file.encoding=UTF-8
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> file.encoding.pkg=sun.io
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> file.separator=/
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> ftpStyle=new
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.headless=true
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.printerjob=sun.print.PSPrinterJob
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.class.path=/opt/JDownloader/JDownloader.jar
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.class.version=54.0
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.home=/usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.io.tmpdir=/tmp
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.library.path=/lib;/lib32;/usr/lib:/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.net.preferIPv6Addresses=system
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.rmi.server.useCodebaseOnly=true
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.runtime.name=OpenJDK Runtime Environment
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.runtime.version=10.0.2-BellSoft+0
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.name=Java Platform API Specification
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.vendor=Oracle Corporation
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.version=10
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.util.Arrays.useLegacyMergeSort=true
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.util.logging.manager=org.appwork.utils.logging2.extmanager.ExtLogManager
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor=Oracle Corporation
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor.url=http://java.oracle.com/
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor.url.bug=http://bugreport.java.com/bugreport/
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.version=10.0.2-BellSoft
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.version.date=2018-07-17
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.compressedOopsMode=32-bit
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.info=mixed mode
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.name=OpenJDK 64-Bit Server VM
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.name=Java Virtual Machine Specification
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.vendor=Oracle Corporation
+--ID:1TS:1718359305360-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.version=10
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.vendor=Oracle Corporation
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.version=10.0.2-BellSoft+0
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.build.builddate=Wed Jun 12 12:56:20 CEST 2024
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.build.buildtimestamp=1718189780116
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.randomNumber=3209903958727720117
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.appworkutilsrevision=4055
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdbrowserrevision=48227
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdclosedrevision=961
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderrevision=48254
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderserveroptionsrevision=5691
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderupdaterrevision=5770
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.myjdownloaderclientrevision=46032
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.updateclientv2revision=1061
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> jdk.debug=release
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> k=0dd0ecf7f742873d745106adea00b64a
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> line.separator=
+
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> org.appwork.LoggerFactory=org.appwork.utils.logging2.LogSourceRedirector
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> org.jdownloader.revision=JDownloader2
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> os.arch=amd64
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> os.name=Linux
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> os.version=6.1.27
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> path.separator=:
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.arch.data.model=64
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.boot.library.path=/usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64/lib
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.cpu.endian=little
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.cpu.isalist=
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.io.unicode.encoding=UnicodeLittle
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.java.command=/opt/JDownloader/JDownloader.jar -norestart
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.java.launcher=SUN_STANDARD
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.jnu.encoding=UTF-8
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+--ID:1TS:1718359305361-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.os.patch.level=unknown
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.swing.enableImprovedDragGesture=true
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.country=US
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.dir=/opt/JDownloader
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.home=/root
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.language=en
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.name=root
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.timezone=GMT
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> OS:LINUX|ALPINE|64bit:true
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> CPU:X86|64bit:true
+--ID:1TS:1718359305362-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> JVM:10000002000000|10.0.2-BellSoft+0|64bit:true
+--ID:1TS:1718359305365-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> DOCKER detected:cdf56662e03f
+--ID:1TS:1718359305365-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> VMArgs: [-Dsun.jnu.encoding=UTF-8, -Dfile.encoding=UTF-8, -Djava.awt.headless=true]
+--ID:1TS:1718359305366-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> MaxMemory=2013265920bytes (1920Megabytes)
+--ID:1TS:1718359305366-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(mainStart)] -> JDownloader2
+--ID:1TS:1718359305366-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(go)] -> Initialize JDownloader2
+--ID:1TS:1718359305370-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.SilentModeSettings.json
+------------------------Thread: 27:Log.L.log-----------------------
+--ID:27TS:1718359305370-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.json
+--ID:27TS:1718359305510-6/14/24, 10:01:45 AM -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.jce.provider.BouncyCastleProvider
+--ID:27TS:1718359305543-6/14/24, 10:01:45 AM -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.crypto.CryptoServicesRegistrar
+--ID:27TS:1718359305593-6/14/24, 10:01:45 AM -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.jcajce.provider.drbg.EntropyDaemon
+--ID:27TS:1718359305650-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch$7(run)] -> Use 'AUTO' for default SSLSocketStreamFactory because: JSSE missing TLSv1.3 support! Java-10000002000000
+--ID:27TS:1718359305650-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.browsercommandline.json
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1718359305666-6/14/24, 10:01:45 AM -  [jd.SecondLevelLaunch(go)] -> Initialisation finished
+------------------------Thread: 29:Log.L.log-----------------------
+--ID:29TS:1718359305740-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.controlling.packagizer.PackagizerSettings.json
+--ID:29TS:1718359305743-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.packagizer.PackagizerSettings.rulelist.json
+--ID:29TS:1718359305764-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/jdownloader/translate/JdownloaderTranslation.en.lng/null
+--ID:29TS:1718359305805-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.downloadcontroller.DownloadControllerConfig.json
+--ID:29TS:1718359305821-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.json
+------------------------Thread: 37:Log.L.log-----------------------
+--ID:37TS:1718359305837-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.urlorder.json
+--ID:37TS:1718359305837-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.urldisplayorder.json
+--ID:37TS:1718359305843-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.json
+------------------------Thread: 29:Log.L.log-----------------------
+--ID:29TS:1718359305843-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.linkcollector.LinkCollectorConfig.json
+--ID:29TS:1718359305864-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /session = interface org.appwork.utils.net.httpserver.session.LoginAPIInterface
+--ID:29TS:1718359305867-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.api.RemoteAPIConfig.json
+--ID:29TS:1718359305873-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /events = interface org.appwork.remoteapi.events.EventsAPIInterface
+--ID:29TS:1718359305880-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.json
+--ID:29TS:1718359305887-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.controlling.filter.LinkFilterSettings.json
+--ID:29TS:1718359305895-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.api.myjdownloader.MyJDownloaderSettings.json
+--ID:29TS:1718359305904-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.AccountSettings.json
+--ID:29TS:1718359305912-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.linkchecker.LinkCheckerConfig.json
+--ID:29TS:1718359305918-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.reconnect.ReconnectConfig.json
+--ID:29TS:1718359305932-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.json
+--ID:29TS:1718359305940-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/org.jdownloader.gui.shortcuts.ShortcutSettings.json
+--ID:29TS:1718359305946-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.updatev2.LastChanceSettings.json
+--ID:29TS:1718359305947-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.appwork.utils.swing.dialog.ExtFileSystemViewSettings.json
+--ID:29TS:1718359305948-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.faviconcontroller.FavIconsConfig.json
+------------------------Thread: 37:Log.L.log-----------------------
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:37TS:1718359305950-6/14/24, 10:01:45 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 29:Log.L.log-----------------------
+--ID:29TS:1718359305951-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.SoundSettings.json
+--ID:29TS:1718359305952-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.gui.notify.gui.BubbleNotifyConfig.json
+--ID:29TS:1718359305958-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.captcha.CaptchaSettings.json
+--ID:29TS:1718359305968-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.captcha.CaptchaSettings.qualityensurancerules.json
+--ID:29TS:1718359305972-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /captcha = interface org.jdownloader.api.captcha.CaptchaAPI
+------------------------Thread: 37:Log.L.log-----------------------
+--ID:37TS:1718359305973-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/ddownload.com.json
+------------------------Thread: 29:Log.L.log-----------------------
+--ID:29TS:1718359305973-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /captchaforward = interface org.jdownloader.captcha.api.CaptchaForwarderAPIInterface
+--ID:29TS:1718359305973-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /jd = interface org.jdownloader.api.jd.JDAPI
+--ID:29TS:1718359305974-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloads = interface org.jdownloader.api.downloads.DownloadsAPI
+--ID:29TS:1718359305978-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadsV2 = interface org.jdownloader.api.downloads.v2.DownloadsAPIV2
+--ID:29TS:1718359305978-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadcontroller = interface org.jdownloader.api.downloads.v2.DownloadWatchdogAPI
+--ID:29TS:1718359305988-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.domainrules.json
+------------------------Thread: 37:Log.L.log-----------------------
+--ID:37TS:1718359305990-6/14/24, 10:01:45 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/drop.download.json
+------------------------Thread: 29:Log.L.log-----------------------
+--ID:29TS:1718359305992-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /config = interface org.jdownloader.api.config.AdvancedConfigManagerAPI
+--ID:29TS:1718359305994-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /toolbar = interface org.jdownloader.api.toolbar.JDownloaderToolBarAPI
+--ID:29TS:1718359305995-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /accounts = interface org.jdownloader.api.accounts.AccountAPI
+--ID:29TS:1718359305996-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /accountsV2 = interface org.jdownloader.api.accounts.v2.AccountAPIV2
+--ID:29TS:1718359305998-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /system = interface org.jdownloader.api.system.SystemAPI
+--ID:29TS:1718359305999-6/14/24, 10:01:45 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkcollector = interface org.jdownloader.api.linkcollector.LinkCollectorAPI
+--ID:29TS:1718359306002-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkgrabberv2 = interface org.jdownloader.api.linkcollector.v2.LinkCollectorAPIV2
+--ID:29TS:1718359306003-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /content = interface org.jdownloader.api.content.ContentAPI
+--ID:29TS:1718359306005-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /contentV2 = interface org.jdownloader.api.content.v2.ContentAPIV2
+--ID:29TS:1718359306005-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /ui = interface org.jdownloader.api.ui.UIAPI
+--ID:29TS:1718359306006-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /polling = interface org.jdownloader.api.polling.PollingAPI
+--ID:29TS:1718359306007-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /extraction = interface org.jdownloader.api.extraction.ExtractionAPI
+--ID:29TS:1718359306008-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkcrawler = interface org.jdownloader.api.linkcrawler.LinkCrawlerAPI
+--ID:29TS:1718359306008-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /plugins = interface org.jdownloader.api.plugins.PluginsAPI
+--ID:29TS:1718359306010-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace / = interface org.jdownloader.api.cnl2.Cnl2APIBasics
+--ID:29TS:1718359306010-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /flash = interface org.jdownloader.api.cnl2.Cnl2APIFlash
+--ID:29TS:1718359306014-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadevents = interface org.jdownloader.api.downloads.DownloadControllerEventPublisherInterface
+--ID:29TS:1718359306015-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /extensions = interface org.jdownloader.api.extensions.ExtensionsAPI
+--ID:29TS:1718359306015-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /update = interface org.jdownloader.api.update.UpdateAPI
+--ID:29TS:1718359306016-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /device = interface org.jdownloader.api.device.DeviceAPI
+--ID:29TS:1718359306017-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /reconnect = interface org.jdownloader.api.reconnect.ReconnectAPI
+--ID:29TS:1718359306020-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /log = interface org.jdownloader.api.logs.LogAPI
+--ID:29TS:1718359306022-6/14/24, 10:01:46 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /dialogs = interface org.jdownloader.api.dialog.DialogApiInterface
+------------------------Thread: 37:Log.L.log-----------------------
+--ID:37TS:1718359306046-6/14/24, 10:01:46 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/maxstream.video.json
+--ID:37TS:1718359306083-6/14/24, 10:01:46 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/send.cm.json
+--ID:37TS:1718359306089-6/14/24, 10:01:46 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/supervideo.tv.json
+--ID:37TS:1718359306126-6/14/24, 10:01:46 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/wolfstream.tv.json
+------------------------Thread: 29:Log.L.log-----------------------
+--ID:29TS:1718359307625-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.myjdownloader.MyJDownloaderSettings.deviceconnectports.json
+------------------------Thread: 48:Log.L.log-----------------------
+--ID:48TS:1718359307631-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace / = interface org.jdownloader.api.cnl2.Cnl2APIBasics
+--ID:48TS:1718359307632-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /flash = interface org.jdownloader.api.cnl2.Cnl2APIFlash
+------------------------Thread: 50:Log.L.log-----------------------
+--ID:50TS:1718359307649-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.AccountSettings.accounts.ejs
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1718359307650-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.json
+------------------------Thread: 29:Log.L.log-----------------------
+--ID:29TS:1718359307652-6/14/24, 10:01:47 AM -  [jd.controlling.DelayWriteController(init)] -> DelayWriteMode: AUTO
+--ID:29TS:1718359307653-6/14/24, 10:01:47 AM -  [jd.controlling.DelayWriteController(init)] -> DelayedWrites auto enabled because JDownloader is running in headless mode!
+------------------------Thread: 48:Log.L.log-----------------------
+--ID:48TS:1718359307653-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 9666->9666|LocalHost:true
+------------------------Thread: 49:Log.L.log-----------------------
+--ID:49TS:1718359307657-6/14/24, 10:01:47 AM -  [org.jdownloader.extensions.LazyExtension(_getClassLoader)] -> Use /opt/JDownloader/extensions/Extraction.jar classloader
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1718359307659-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.jacthreshold.json
+------------------------Thread: 49:Log.L.log-----------------------
+--ID:49TS:1718359307660-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.json
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1718359307663-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.json
+--ID:51TS:1718359307664-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:51TS:1718359307669-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.json
+--ID:51TS:1718359307670-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:51TS:1718359307674-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.json
+--ID:51TS:1718359307674-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:51TS:1718359307678-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.json
+--ID:51TS:1718359307678-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:51TS:1718359307685-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.json
+--ID:51TS:1718359307685-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+------------------------Thread: 49:Log.L.log-----------------------
+--ID:49TS:1718359307686-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/jdownloader/extensions/extraction/translate/ExtractionTranslation.en.lng/null
+------------------------Thread: 51:Log.L.log-----------------------
+--ID:51TS:1718359307688-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.json
+--ID:51TS:1718359307689-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:51TS:1718359307691-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.json
+--ID:51TS:1718359307692-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:51TS:1718359307696-6/14/24, 10:01:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.json
+--ID:51TS:1718359307696-6/14/24, 10:01:47 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+------------------------Thread: 63:Log.L.log-----------------------
+--ID:63TS:1718359367685-6/14/24, 10:02:47 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.filenameandpathcharacterregexreplacemap.json
+------------------------Thread: 64:Log.L.log-----------------------
+--ID:64TS:1718359367686-6/14/24, 10:02:47 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/rapidgator.net.json
+------------------------Thread: 3511:Log.L.log-----------------------
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:3511TS:1718373715737-6/14/24, 2:01:55 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 4337:Log.L.log-----------------------
+--ID:4337TS:1718377248286-6/14/24, 3:00:48 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.myjdownloader.MyJDownloaderSettings.customdeviceips.json
+------------------------Thread: 4348:Log.L.log-----------------------
+--ID:4348TS:1718377248634-6/14/24, 3:00:48 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.crawlerhostpluginblacklist.json
+--ID:4348TS:1718377248634-6/14/24, 3:00:48 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.crawlercrawlerpluginblacklist.json
+------------------------Thread: 4353:Log.L.log-----------------------
+--ID:4353TS:1718377248644-6/14/24, 3:00:48 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.linkcrawlerrules.json
+------------------------Thread: 4354:Log.L.log-----------------------
+--ID:4354TS:1718377248657-6/14/24, 3:00:48 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.filter.LinkFilterSettings.filterlist.json
+------------------------Thread: 4424:Log.L.log-----------------------
+--ID:4424TS:1718377310908-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:4424TS:1718377310909-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:4424TS:1718377310909-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:4424TS:1718377310909-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:4424TS:1718377310909-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:4424TS:1718377310909-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:4424TS:1718377310909-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:4424TS:1718377310909-6/14/24, 3:01:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 39:Log.L.log-----------------------
+--ID:39TS:1718377394468-6/14/24, 3:03:14 PM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed IDLE--1(1332425923) -> RUNNING--1(1448576126)
+------------------------Thread: 4721:Log.L.log-----------------------
+--ID:4721TS:1718377394474-6/14/24, 3:03:14 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.jdownloader.controlling.hosterrule.HosterRuleConfig|Path:null
+------------------------Thread: 4768:Log.L.log-----------------------
+--ID:4768TS:1718377400852-6/14/24, 3:03:20 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.faviconcontroller.FavIconsConfig.failedhosts.json
+------------------------Thread: 5745:Log.L.log-----------------------
+--ID:5745TS:1718377847930-6/14/24, 3:10:47 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.addretrycrawlertasks2.json
+------------------------Thread: 16615:Log.L.log-----------------------
+--ID:16615TS:1718379538041-6/14/24, 3:38:58 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.blacklistpatterns.json
+--ID:16615TS:1718379545624-6/14/24, 3:39:05 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.deepextractionblacklistpatterns.json
+------------------------Thread: 32547:Log.L.log-----------------------
+--ID:32547TS:1718381828984-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:32547TS:1718381828985-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:32547TS:1718381828985-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:32547TS:1718381828985-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:32547TS:1718381828985-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:32547TS:1718381828985-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:32547TS:1718381828985-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:32547TS:1718381828985-6/14/24, 4:17:08 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 33181:Log.L.log-----------------------
+--ID:33181TS:1718381891864-6/14/24, 4:18:11 PM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.downloaddestinationhistory.json
+------------------------Thread: 39817:Log.L.log-----------------------
+--ID:39817TS:1718383069028-6/14/24, 4:37:49 PM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed RUNNING--1(1448576126) -> STOPPING--1(117613737)
+--ID:39817TS:1718383069029-6/14/24, 4:37:49 PM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed STOPPING--1(117613737) -> STOPPED_STATE--1(234541017)
+------------------------Thread: 41677:Log.L.log-----------------------
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:41677TS:1718402547778-6/14/24, 10:02:27 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 42321:Log.L.log-----------------------
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:42321TS:1718405270875-6/14/24, 10:47:50 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 39817:Log.L.log-----------------------
+--ID:39817TS:1718405395591-6/14/24, 10:49:55 PM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed (reset) STOPPED_STATE--1(234541017) -> IDLE--1(1332425923)
+--ID:39817TS:1718405395591-6/14/24, 10:49:55 PM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed IDLE--1(1332425923) -> RUNNING--1(1448576126)
+------------------------Thread: 42520:Log.L.log-----------------------
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:42520TS:1718405396902-6/14/24, 10:49:56 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 42583:Log.L.log-----------------------
+--ID:42583TS:1718405405390-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:42583TS:1718405405390-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:42583TS:1718405405391-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:42583TS:1718405405391-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:42583TS:1718405405391-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:42583TS:1718405405391-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:42583TS:1718405405391-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:42583TS:1718405405391-6/14/24, 10:50:05 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 43136:Log.L.log-----------------------
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:43136TS:1718405480447-6/14/24, 10:51:20 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 43412:Log.L.log-----------------------
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:43412TS:1718405504615-6/14/24, 10:51:44 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 43944:Log.L.log-----------------------
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:43944TS:1718405641419-6/14/24, 10:54:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 44293:Log.L.log-----------------------
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:44293TS:1718405701723-6/14/24, 10:55:01 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 45193:Log.L.log-----------------------
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:45193TS:1718405937949-6/14/24, 10:58:57 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 45867:Log.L.log-----------------------
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:45867TS:1718406109839-6/14/24, 11:01:49 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 46517:Log.L.log-----------------------
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:46517TS:1718406244714-6/14/24, 11:04:04 PM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 47190:Log.L.log-----------------------
+--ID:47190TS:1718406384862-6/14/24, 11:06:24 PM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed RUNNING--1(1448576126) -> STOPPING--1(117613737)
+--ID:47190TS:1718406384862-6/14/24, 11:06:24 PM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed STOPPING--1(117613737) -> STOPPED_STATE--1(234541017)
+------------------------Thread: 47480:Log.L.log-----------------------
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:47480TS:1718409747911-6/15/24, 12:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 47659:Log.L.log-----------------------
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:47659TS:1718413310395-6/15/24, 1:01:50 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 47666:Log.L.log-----------------------
+--ID:47666TS:1718413322971-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:47666TS:1718413322972-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:47666TS:1718413322972-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:47666TS:1718413322972-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:47666TS:1718413322972-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:47666TS:1718413322972-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:47666TS:1718413322972-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:47666TS:1718413322972-6/15/24, 1:02:02 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 47881:Log.L.log-----------------------
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:47881TS:1718416948709-6/15/24, 2:02:28 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 46:Log.L.log-----------------------
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:46TS:1718419544745-6/15/24, 2:45:44 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 48078:Log.L.log-----------------------
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:48078TS:1718420518339-6/15/24, 3:01:58 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 48283:Log.L.log-----------------------
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:48283TS:1718424143439-6/15/24, 4:02:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 48348:Log.L.log-----------------------
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:48348TS:1718425007946-6/15/24, 4:16:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 48492:Log.L.log-----------------------
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:48492TS:1718427747879-6/15/24, 5:02:27 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 48653:Log.L.log-----------------------
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:48653TS:1718430474196-6/15/24, 5:47:54 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 48701:Log.L.log-----------------------
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:48701TS:1718431317132-6/15/24, 6:01:57 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 48908:Log.L.log-----------------------
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:48908TS:1718432203421-6/15/24, 6:16:43 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 47190:Log.L.log-----------------------
+--ID:47190TS:1718432471615-6/15/24, 6:21:11 AM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed (reset) STOPPED_STATE--1(234541017) -> IDLE--1(1332425923)
+--ID:47190TS:1718432471615-6/15/24, 6:21:11 AM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed IDLE--1(1332425923) -> RUNNING--1(1448576126)
+------------------------Thread: 49029:Log.L.log-----------------------
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:49029TS:1718432472915-6/15/24, 6:21:12 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 49182:Log.L.log-----------------------
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:49182TS:1718432483449-6/15/24, 6:21:23 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 49254:Log.L.log-----------------------
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:49254TS:1718432489465-6/15/24, 6:21:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 49298:Log.L.log-----------------------
+--ID:49298TS:1718432498530-6/15/24, 6:21:38 AM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed RUNNING--1(1448576126) -> STOPPING--1(117613737)
+--ID:49298TS:1718432498530-6/15/24, 6:21:38 AM -  [org.appwork.loggingv3.LogV3(finest)] -> jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac State changed STOPPING--1(117613737) -> STOPPED_STATE--1(234541017)
+------------------------Thread: 50033:Log.L.log-----------------------
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:50033TS:1718434967399-6/15/24, 7:02:47 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 50500:Log.L.log-----------------------
+--ID:50500TS:1718438059766-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/1fichier.com.json
+--ID:50500TS:1718438059770-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/8muses.com.json
+--ID:50500TS:1718438059772-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/adulttime.com.json
+--ID:50500TS:1718438059780-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com.json
+--ID:50500TS:1718438059781-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.AllDebridCom$AlldebridComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com
+--ID:50500TS:1718438059783-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/metart.com.json
+--ID:50500TS:1718438059786-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pervcity.com.json
+--ID:50500TS:1718438059787-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/animegg.org.json
+--ID:50500TS:1718438059789-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/archive.org.json
+--ID:50500TS:1718438059795-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/artstation.com.json
+--ID:50500TS:1718438059796-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/avxhm.se.json
+--ID:50500TS:1718438059798-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pornportal.com.json
+--ID:50500TS:1718438059801-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/bang.com.json
+--ID:50500TS:1718438059804-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/blowpass.com.json
+--ID:50500TS:1718438059805-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/bunkr.la.json
+--ID:50500TS:1718438059807-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/chip.de.json
+--ID:50500TS:1718438059808-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/czechav.com.json
+--ID:50500TS:1718438059811-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/danbooru.donmai.us.json
+--ID:50500TS:1718438059812-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/debrid-link.fr.json
+--ID:50500TS:1718438059814-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/deltabit.co.json
+--ID:50500TS:1718438059815-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/deviantart.com.json
+--ID:50500TS:1718438059816-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/dfxtra.com.json
+--ID:50500TS:1718438059817-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/douyin.com.json
+--ID:50500TS:1718438059818-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/drive.google.com.json
+--ID:50500TS:1718438059823-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/dropbox.com.json
+--ID:50500TS:1718438059824-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/e-hentai.org.json
+--ID:50500TS:1718438059827-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/eporner.com.json
+--ID:50500TS:1718438059829-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/evilangel.com.json
+--ID:50500TS:1718438059830-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/evilangel.com.json
+--ID:50500TS:1718438059831-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/facebook.com.json
+--ID:50500TS:1718438059832-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/fileboom.me.json
+--ID:50500TS:1718438059836-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/filemoon.sx.json
+--ID:50500TS:1718438059838-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/filestore.to.json
+--ID:50500TS:1718438059840-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/filthykings.com.json
+--ID:50500TS:1718438059840-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/flash-files.com.json
+--ID:50500TS:1718438059842-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/freedisc.pl.json
+--ID:50500TS:1718438059844-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/fshare.vn.json
+--ID:50500TS:1718438059845-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/gangbangcreampie.com.json
+--ID:50500TS:1718438059845-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/gelbooru.com.json
+--ID:50500TS:1718438059847-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/genderxfilms.com.json
+--ID:50500TS:1718438059848-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/gfycat.com.json
+--ID:50500TS:1718438059849-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/girlfriendsfilms.com.json
+--ID:50500TS:1718438059850-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/gloryholesecrets.com.json
+--ID:50500TS:1718438059850-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/goodporn.to.json
+--ID:50500TS:1718438059852-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/gopro.com.json
+--ID:50500TS:1718438059855-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/hitfile.net.json
+--ID:50500TS:1718438059855-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/hotlink.cc.json
+--ID:50500TS:1718438059856-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/instagram.com.json
+--ID:50500TS:1718438059861-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/issuu.com.json
+--ID:50500TS:1718438059862-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/iwara.tv.json
+--ID:50500TS:1718438059864-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/joinpeertube.org.json
+--ID:50500TS:1718438059866-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com.json
+--ID:50500TS:1718438059866-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.JulesjordanCom$JulesjordanComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com
+--ID:50500TS:1718438059868-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/k2s.cc.json
+--ID:50500TS:1718438059872-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com.json
+--ID:50500TS:1718438059872-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.LinkSnappyCom$LinkSnappyComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com
+--ID:50500TS:1718438059874-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/media.cm.json
+--ID:50500TS:1718438059875-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/mega.co.nz.json
+--ID:50500TS:1718438059880-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/missav.com.json
+--ID:50500TS:1718438059882-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/motherless.com.json
+--ID:50500TS:1718438059883-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/my.mail.ru.json
+--ID:50500TS:1718438059885-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/mydaddy.cc.json
+--ID:50500TS:1718438059887-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/mypervyfamily.com.json
+--ID:50500TS:1718438059888-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/naughtyamerica.com.json
+--ID:50500TS:1718438059891-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/nitroflare.com.json
+--ID:50500TS:1718438059893-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/odysee.com.json
+--ID:50500TS:1718438059900-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/offcloud.com.json
+--ID:50500TS:1718438059900-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OffCloudCom$OffCloudComPluginConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/offcloud.com
+--ID:50500TS:1718438059902-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/ok.ru.json
+--ID:50500TS:1718438059904-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/open3dlab.com.json
+--ID:50500TS:1718438059910-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net.json
+--ID:50500TS:1718438059910-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OtrDatenkellerNet$OtrDatenKellerInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net
+--ID:50500TS:1718438059912-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pixeldrain.com.json
+--ID:50500TS:1718438059915-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pixiv.net.json
+--ID:50500TS:1718438059916-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/pluralsight.com.json
+--ID:50500TS:1718438059919-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/my.mail.ru.json
+--ID:50500TS:1718438059922-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/porndoe.com.json
+--ID:50500TS:1718438059924-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pornone.com.json
+--ID:50500TS:1718438059926-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/porntrex.com.json
+--ID:50500TS:1718438059930-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/pornxp.net.json
+--ID:50500TS:1718438059931-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.PornxpNet$PornxpNetConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/pornxp.net
+--ID:50500TS:1718438059932-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/proleech.link.json
+--ID:50500TS:1718438059934-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/real-debrid.com.json
+--ID:50500TS:1718438059936-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/recurbate.com.json
+--ID:50500TS:1718438059938-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/reddit.com.json
+--ID:50500TS:1718438059944-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/redtube.com.json
+--ID:50500TS:1718438059946-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/srf.ch.json
+--ID:50500TS:1718438059952-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/rtbf.be.json
+--ID:50500TS:1718438059952-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.RtbfBe$RtbfBeConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/rtbf.be
+--ID:50500TS:1718438059956-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/rule34video.com.json
+--ID:50500TS:1718438059957-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/sankakucomplex.com.json
+--ID:50500TS:1718438059961-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/slideshare.net.json
+--ID:50500TS:1718438059961-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.SlideShareNet$SlideshareNetConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/slideshare.net
+--ID:50500TS:1718438059962-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/smutba.se.json
+--ID:50500TS:1718438059963-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/solidfiles.com.json
+--ID:50500TS:1718438059965-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tabooheat.com.json
+--ID:50500TS:1718438059966-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tezfiles.com.json
+--ID:50500TS:1718438059967-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tiktok.com.json
+--ID:50500TS:1718438059972-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tumblr.com.json
+--ID:50500TS:1718438059973-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/turbobit.net.json
+--ID:50500TS:1718438059976-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/udemy.com.json
+--ID:50500TS:1718438059978-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/upstore.net.json
+--ID:50500TS:1718438059979-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/upstream.to.json
+--ID:50500TS:1718438059981-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xvideosharing.com.json
+--ID:50500TS:1718438059982-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/voe.sx.json
+--ID:50500TS:1718438059984-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/webshare.cz.json
+--ID:50500TS:1718438059989-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com.json
+--ID:50500TS:1718438059990-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.WeTransferCom$WetransferConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com
+--ID:50500TS:1718438059991-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/whoreshub.com.json
+--ID:50500TS:1718438059992-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/wicked.com.json
+--ID:50500TS:1718438059994-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/x-art.com.json
+--ID:50500TS:1718438059994-6/15/24, 7:54:19 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.XArtCom$XArtConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/x-art.com
+--ID:50500TS:1718438059997-6/15/24, 7:54:19 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/x.com.json
+--ID:50500TS:1718438060005-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xempire.com.json
+--ID:50500TS:1718438060006-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/xfreehd.com.json
+--ID:50500TS:1718438060007-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xnxx.com.json
+--ID:50500TS:1718438060019-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xnxx.gold.json
+--ID:50500TS:1718438060022-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xtremestream.co.json
+--ID:50500TS:1718438060024-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xvideos.com.json
+--ID:50500TS:1718438060025-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youjizz.com.json
+--ID:50500TS:1718438060028-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youku.com.json
+--ID:50500TS:1718438060028-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.YoukuCom$YoukuComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/youku.com
+--ID:50500TS:1718438060030-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youporn.com.json
+--ID:50500TS:1718438060035-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/youtube/Youtube.json
+--ID:50500TS:1718438060054-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youtv.de.json
+--ID:50500TS:1718438060058-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/zdf.de.json
+--ID:50500TS:1718438060058-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.ZdfDeMediathek$ZdfmediathekConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/zdf.de
+--ID:50500TS:1718438060064-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/zerotolerancefilms.com.json
+--ID:50500TS:1718438060064-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/fembed.com.json
+--ID:50500TS:1718438060066-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/erome.com.json
+--ID:50500TS:1718438060066-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/raiplay.tv.json
+--ID:50500TS:1718438060067-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/bs.to.json
+--ID:50500TS:1718438060068-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/filecrypt.cc.json
+--ID:50500TS:1718438060069-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/wallpaperscraft.com.json
+--ID:50500TS:1718438060070-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/aparat.com.json
+--ID:50500TS:1718438060071-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/biqle.ru.json
+--ID:50500TS:1718438060072-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/playout.3qsdn.com.json
+--ID:50500TS:1718438060073-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/coomer.su.json
+--ID:50500TS:1718438060074-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/rule34.xxx.json
+--ID:50500TS:1718438060075-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/arte.tv.json
+--ID:50500TS:1718438060080-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/hitomi.la.json
+--ID:50500TS:1718438060081-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/wikifeet.com.json
+--ID:50500TS:1718438060082-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/goldesel.bz.json
+--ID:50500TS:1718438060083-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/m3u8.json
+--ID:50500TS:1718438060084-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/ardmediathek.de.json
+--ID:50500TS:1718438060088-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/daserste.de.json
+--ID:50500TS:1718438060089-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/sandmann.de.json
+--ID:50500TS:1718438060091-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/wdr.de.json
+--ID:50500TS:1718438060092-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/sportschau.de.json
+--ID:50500TS:1718438060094-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/wdrmaus.de.json
+--ID:50500TS:1718438060095-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/eurovision.de.json
+--ID:50500TS:1718438060097-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/sputnik.de.json
+--ID:50500TS:1718438060098-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/mdr.de.json
+--ID:50500TS:1718438060099-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/tagesschau.de.json
+--ID:50500TS:1718438060101-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/magentamusik.de.json
+--ID:50500TS:1718438060101-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/boards.4chan.org.json
+--ID:50500TS:1718438060102-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/s.to.json
+--ID:50500TS:1718438060103-6/15/24, 7:54:20 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/rumble.com.json
+--ID:50500TS:1718438060110-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.windowswindowmanageraltkeycombi.json
+--ID:50500TS:1718438060111-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.clipboardprocessblacklist.json
+--ID:50500TS:1718438060112-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.premiumexpirewarningmapv2.json
+--ID:50500TS:1718438060112-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.overviewpositions.json
+--ID:50500TS:1718438060114-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.autolearnextensionorigins.json
+--ID:50500TS:1718438060115-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.packagenamehistory.json
+--ID:50500TS:1718438060115-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.RemoteAPIConfig.externinterfaceauth.json
+--ID:50500TS:1718438060116-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2oggaudiocommand.json
+--ID:50500TS:1718438060116-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demux2aaccommand.json
+--ID:50500TS:1718438060116-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demux2m4acommand.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2m4acommand.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2aaccommand.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.muxtowebmcommand.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demuxandconvert2ogg.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.extensiontoformatmap.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.muxtomp4command.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.muxtomkvcommand.json
+--ID:50500TS:1718438060117-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demuxgenericcommand.json
+--ID:50500TS:1718438060118-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2opusaudiocommand.json
+--ID:50500TS:1718438060118-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demux2mp3command.json
+--ID:50500TS:1718438060120-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.blacklistentries.json
+--ID:50500TS:1718438060120-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.waitformap.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.whitelistentries.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.blacklistentries.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.waitformap.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.whitelistentries.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.blacklistentries.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.bubbletimeoutbyhostmap.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.waitformap.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.whitelistentries.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.blacklistentries.json
+--ID:50500TS:1718438060121-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.waitformap.json
+--ID:50500TS:1718438060122-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.whitelistentries.json
+--ID:50500TS:1718438060122-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.blacklistentries.json
+--ID:50500TS:1718438060122-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.waitformap.json
+--ID:50500TS:1718438060122-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.whitelistentries.json
+--ID:50500TS:1718438060122-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.blacklistentries.json
+--ID:50500TS:1718438060122-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.waitformap.json
+--ID:50500TS:1718438060122-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.whitelistentries.json
+--ID:50500TS:1718438060123-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.passwordlist.json
+--ID:50500TS:1718438060123-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.blacklistentries.json
+--ID:50500TS:1718438060123-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.waitformap.json
+--ID:50500TS:1718438060123-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.whitelistentries.json
+--ID:50500TS:1718438060123-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.blacklistentries.json
+--ID:50500TS:1718438060123-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.waitformap.json
+--ID:50500TS:1718438060123-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.whitelistentries.json
+--ID:50500TS:1718438060124-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.blacklistentries.json
+--ID:50500TS:1718438060124-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.waitformap.json
+--ID:50500TS:1718438060124-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.whitelistentries.json
+--ID:50500TS:1718438060124-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.whitelistentries.json
+--ID:50500TS:1718438060124-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.blacklistentries.json
+--ID:50500TS:1718438060124-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.bubbletimeoutbyhostmap.json
+--ID:50500TS:1718438060124-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.waitformap.json
+--ID:50500TS:1718438060125-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/HOSTER/gopro.com.typestocrawl.json
+--ID:50500TS:1718438060128-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.collections.json
+--ID:50500TS:1718438060129-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedprojections.json
+--ID:50500TS:1718438060129-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.extrasubtitles.json
+--ID:50500TS:1718438060129-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierordervideocodec.json
+--ID:50500TS:1718438060130-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderresolution.json
+--ID:50500TS:1718438060130-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierordervideoframerate.json
+--ID:50500TS:1718438060130-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderaudiobitrate.json
+--ID:50500TS:1718438060130-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderaudiocodec.json
+--ID:50500TS:1718438060130-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderfiletype.json
+--ID:50500TS:1718438060131-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorder.json
+--ID:50500TS:1718438060132-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.preferedsubtitlelanguages.json
+--ID:50500TS:1718438060132-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedaudiocodecs.json
+--ID:50500TS:1718438060132-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedgroups.json
+--ID:50500TS:1718438060132-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedvideoframerates.json
+--ID:50500TS:1718438060132-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.autotranslatedsubtitles.json
+--ID:50500TS:1718438060132-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.subtitlewhitelist.json
+--ID:50500TS:1718438060133-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedaudiobitrates.json
+--ID:50500TS:1718438060133-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedresolutions.json
+--ID:50500TS:1718438060133-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedvideocodecs.json
+--ID:50500TS:1718438060133-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedfilecontainers.json
+--ID:50500TS:1718438060133-6/15/24, 7:54:20 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.disabledvariants.json
+------------------------Thread: 50507:Log.L.log-----------------------
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:50507TS:1718438069417-6/15/24, 7:54:29 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 50764:Log.L.log-----------------------
+--ID:50764TS:1718439144369-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> No Vetos
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Fire onShutDownEvents:4
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: jd.controlling.linkcollector.LinkCollector@69d4abd7
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: jd.controlling.linkcollector.LinkCollector@69d4abd7
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: jd.controlling.downloadcontroller.DownloadWatchDog@13e880ac
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: org.jdownloader.api.myjdownloader.MyJDownloaderController@61873acb
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: org.jdownloader.api.myjdownloader.MyJDownloaderController@61873acb
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: org.jdownloader.extensions.extraction.ExtractionExtension$3@6b2abde0
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: org.jdownloader.extensions.extraction.ExtractionExtension$3@6b2abde0
+--ID:50764TS:1718439144370-6/15/24, 8:12:24 AM -  [org.appwork.loggingv3.LogV3(info)] -> Create ExitThread

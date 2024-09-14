@@ -1,0 +1,31 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/01 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/02 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/03 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/04 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/05 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/06 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/07 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/08 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/09 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/10 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/11 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/12 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/13 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/14 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/15 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/16 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Bernhard Hennen - Die Phileasson-Saga 05 - Schlangengrab (ungekürzt)/17 - Die Phileasson-Saga - Schlangengrab Phileasson 5.mp3"
+                                                             ]
+                                        },
+ "finalPassword"                      : "forall",
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

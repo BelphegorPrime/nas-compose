@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Der gestiefelte Kater (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Der gestiefelte Kater (microHD)/Der.gestiefelte.Kater.2011.GERMAN.1080p.microHD.x264-RED/Der gestiefelte Kater (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

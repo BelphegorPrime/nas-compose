@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Homeland",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E06.Ein.verdammtes.Wrack.German.BDRip.x264-iNTENTiON/itn-homeland.s02e06.480p.mkv",
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E06.Ein.verdammtes.Wrack.German.BDRip.x264-iNTENTiON/itn-homeland.s02e06.480p.nfo",
+                                                              "/opt/JDownloader/Downloads/Homeland/Homeland.S02E06.Ein.verdammtes.Wrack.German.BDRip.x264-iNTENTiON/Subs/itn-homeland.s02e06.480p-subs.rar"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

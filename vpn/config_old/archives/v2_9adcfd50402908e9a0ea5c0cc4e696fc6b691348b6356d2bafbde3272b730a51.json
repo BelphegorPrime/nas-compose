@@ -1,0 +1,16 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Andor S01E08 1080P",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Andor S01E08 1080P/Andor.S01E08.GERMAN.DL.1080P.WEB.H264-WAYNE/andor.s01e08.german.dl.1080p.web.h264-wayne.mkv",
+                                                              "/opt/JDownloader/Downloads/Andor S01E08 1080P/Andor.S01E08.GERMAN.DL.1080P.WEB.H264-WAYNE/andor.s01e08.german.dl.1080p.web.h264-wayne.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

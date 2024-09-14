@@ -1,0 +1,33 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 01.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 02.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 03.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 04.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 05.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 06.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 07.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 08.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 09.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/Schweigepflicht - 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/_play.m3u",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz - Schweigepflicht (ungekürzt)/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

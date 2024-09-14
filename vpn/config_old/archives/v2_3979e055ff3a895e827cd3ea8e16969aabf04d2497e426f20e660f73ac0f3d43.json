@@ -1,0 +1,13 @@
+{
+  "autoExtract" : "UNSET",
+  "extractionInfo" : {
+    "extractToFolder" : "/opt/JDownloader/Downloads/Hawkeye S01E04 720p",
+    "files" : [ "/opt/JDownloader/Downloads/Hawkeye S01E04 720p/Hawkeye.S01E04.German.DL.720p.WEB.h264-WvF/hawkeye.s01e04.german.dl.720p.web.h264-wvf.mkv", "/opt/JDownloader/Downloads/Hawkeye S01E04 720p/Hawkeye.S01E04.German.DL.720p.WEB.h264-WvF/hawkeye.s01e04.german.dl.720p.web.h264-wvf.nfo" ]
+  },
+  "extractPath" : null,
+  "finalPassword" : null,
+  "ifFileExistsAction" : null,
+  "passwords" : [ ],
+  "removeDownloadLinksAfterExtraction" : "UNSET",
+  "removeFilesAfterExtraction" : "UNSET"
+}

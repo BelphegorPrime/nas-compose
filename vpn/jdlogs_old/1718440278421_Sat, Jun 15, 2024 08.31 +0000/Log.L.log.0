@@ -1,0 +1,573 @@
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1718440278507-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: /opt/JDownloader
+--ID:1TS:1718440278525-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.update.lastchance.LastChanceConfig.json
+--ID:1TS:1718440278639-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.updatev2.UpdateSettings.json
+--ID:1TS:1718440278656-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/Setup.json
+--ID:1TS:1718440278657-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/updateclient/Setup.json
+--ID:1TS:1718440278657-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.Setup|Path:/opt/JDownloader/cfg/updateclient/Setup
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1718440278666-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings.json
+--ID:22TS:1718440278666-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.jdownloader.updatev2.InternetConnectionSettings|Path:/opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings
+--ID:22TS:1718440278674-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Load JSon Storage from Classpath url: jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/HttpSettings.json
+--ID:22TS:1718440278675-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/updateclient/HttpSettings.json
+--ID:22TS:1718440278675-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.UpdateHttpClientOptions|Path:/opt/JDownloader/cfg/updateclient/HttpSettings
+--ID:22TS:1718440278678-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/ProxySelector.json
+--ID:22TS:1718440278678-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.defaultimpl.http.ProxySelectorSettings|Path:/opt/JDownloader/cfg/ProxySelector
+--ID:22TS:1718440278679-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/ProxySelector.proxies.json
+--ID:22TS:1718440278692-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/update/versioninfo/JD/extensions.json
+--ID:22TS:1718440278693-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:/opt/JDownloader/update/versioninfo/JD/extensions
+--ID:22TS:1718440278697-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/org.appwork.updatesys.client.tracker.TrackConfig.json
+--ID:22TS:1718440278700-6/15/24, 8:31:18 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/update/versioninfo/JDU/extensions.json
+--ID:22TS:1718440278700-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:org.appwork.updatesys.client.extensions.ExtensionsStorage|Path:/opt/JDownloader/update/versioninfo/JDU/extensions
+------------------------Thread: 23:Log.L.log-----------------------
+--ID:23TS:1718440278708-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(info)] -> Translation file missing:org/jdownloader/updatev2/UpdaterTranslation.en.lngUse Annotation Dev fallback
+--ID:23TS:1718440278714-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(URL): jar:file:/opt/JDownloader/JDownloader.jar!/cfg/updateclient/Setup.updateservers.json
+--ID:23TS:1718440278737-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.InternetConnectionSettings.customproxylist.json
+--ID:23TS:1718440278740-6/15/24, 8:31:18 AM -  [org.appwork.loggingv3.LogV3(info)] -> Translation file missing:org/appwork/utils/locale/AWUTranslation.en.lngUse Annotation Dev fallback
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1718440283618-6/15/24, 8:31:23 AM -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: /opt/JDownloader
+--ID:1TS:1718440283871-6/15/24, 8:31:23 AM -  [org.appwork.loggingv3.LogV3(info)] -> Application Root: /opt/JDownloader
+--ID:1TS:1718440283888-6/15/24, 8:31:23 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.json
+--ID:1TS:1718440283916-6/15/24, 8:31:23 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/jdownloader/gui/translate/GuiTranslation.en.lng/null
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> setExecutable:true
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> LOG_INIT_DONE=2 instances
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> awt.toolkit=sun.awt.X11.XToolkit
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> classloader_00000000=org.jdownloader.update.launcher.ClassLoaderExtensionImpl
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> classloader_00000001=org.jdownloader.update.launcher.CL2
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.cosnaming.object.trustURLCodebase=false
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.ldap.object.trustURLCodebase=false
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> com.sun.jndi.rmi.object.trustURLCodebase=false
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> extlogmanager.avoidsystemclassloader.hack=org.jdownloader.updatev2.JDClassLoaderLauncher$JDCustomRootClassLoader@4c70fda8
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> file.encoding=UTF-8
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> file.encoding.pkg=sun.io
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> file.separator=/
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> ftpStyle=new
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.headless=true
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.awt.printerjob=sun.print.PSPrinterJob
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.class.path=/opt/JDownloader/JDownloader.jar
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.class.version=54.0
+--ID:1TS:1718440284208-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.home=/usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.io.tmpdir=/tmp
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.library.path=/lib;/lib32;/usr/lib:/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.net.preferIPv6Addresses=system
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.rmi.server.useCodebaseOnly=true
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.runtime.name=OpenJDK Runtime Environment
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.runtime.version=10.0.2-BellSoft+0
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.name=Java Platform API Specification
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.vendor=Oracle Corporation
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.specification.version=10
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.util.Arrays.useLegacyMergeSort=true
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.util.logging.manager=org.appwork.utils.logging2.extmanager.ExtLogManager
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor=Oracle Corporation
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor.url=http://java.oracle.com/
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vendor.url.bug=http://bugreport.java.com/bugreport/
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.version=10.0.2-BellSoft
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.version.date=2018-07-17
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.compressedOopsMode=32-bit
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.info=mixed mode
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.name=OpenJDK 64-Bit Server VM
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.name=Java Virtual Machine Specification
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.vendor=Oracle Corporation
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.specification.version=10
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.vendor=Oracle Corporation
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> java.vm.version=10.0.2-BellSoft+0
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.build.builddate=Sat Jun 15 02:02:04 CEST 2024
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.build.buildtimestamp=1718409724115
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.randomNumber=2944822064933013870
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.appworkutilsrevision=4055
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdbrowserrevision=48227
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdclosedrevision=961
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderrevision=48254
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderserveroptionsrevision=5691
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.jdownloaderupdaterrevision=5770
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.myjdownloaderclientrevision=46032
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jd.revision.updateclientv2revision=1061
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> jdk.debug=release
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> k=0dd0ecf7f742873d745106adea00b64a
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> line.separator=
+
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> org.appwork.LoggerFactory=org.appwork.utils.logging2.LogSourceRedirector
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> org.jdownloader.revision=JDownloader2
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> os.arch=amd64
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> os.name=Linux
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> os.version=6.1.27
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> path.separator=:
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.arch.data.model=64
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.boot.library.path=/usr/lib/jvm/jdk-10.0.2-bellsoft-x86_64/lib
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.cpu.endian=little
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.cpu.isalist=
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.io.unicode.encoding=UnicodeLittle
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.java.command=/opt/JDownloader/JDownloader.jar -norestart
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.java.launcher=SUN_STANDARD
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.jnu.encoding=UTF-8
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.os.patch.level=unknown
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> sun.swing.enableImprovedDragGesture=true
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.country=US
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.dir=/opt/JDownloader
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.home=/root
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.language=en
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.name=root
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> user.timezone=GMT
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> OS:LINUX|ALPINE|64bit:true
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> CPU:X86|64bit:true
+--ID:1TS:1718440284209-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> JVM:10000002000000|10.0.2-BellSoft+0|64bit:true
+--ID:1TS:1718440284213-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> DOCKER detected:408418b2540b
+--ID:1TS:1718440284213-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> VMArgs: [-Dsun.jnu.encoding=UTF-8, -Dfile.encoding=UTF-8, -Djava.awt.headless=true]
+--ID:1TS:1718440284214-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> MaxMemory=2013265920bytes (1920Megabytes)
+--ID:1TS:1718440284214-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(mainStart)] -> JDownloader2
+--ID:1TS:1718440284214-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(go)] -> Initialize JDownloader2
+--ID:1TS:1718440284217-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.SilentModeSettings.json
+------------------------Thread: 28:Log.L.log-----------------------
+--ID:28TS:1718440284217-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.json
+--ID:28TS:1718440284305-6/15/24, 8:31:24 AM -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.jce.provider.BouncyCastleProvider
+--ID:28TS:1718440284331-6/15/24, 8:31:24 AM -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.crypto.CryptoServicesRegistrar
+--ID:28TS:1718440284387-6/15/24, 8:31:24 AM -  [org.appwork.utils.logging2.extmanager.ExtLogManager(getLogger)] -> Ignored: org.bouncycastle.jcajce.provider.drbg.EntropyDaemon
+--ID:28TS:1718440284430-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch$7(run)] -> Use 'AUTO' for default SSLSocketStreamFactory because: JSSE missing TLSv1.3 support! Java-10000002000000
+--ID:28TS:1718440284431-6/15/24, 8:31:24 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.browsercommandline.json
+------------------------Thread: 1:Log.L.log-----------------------
+--ID:1TS:1718440284446-6/15/24, 8:31:24 AM -  [jd.SecondLevelLaunch(go)] -> Initialisation finished
+------------------------Thread: 22:Log.L.log-----------------------
+--ID:22TS:1718440284885-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/drop.download.json
+--ID:22TS:1718440284890-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/1fichier.com.json
+--ID:22TS:1718440284900-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/send.cm.json
+--ID:22TS:1718440284908-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xvideosharing.com.json
+--ID:22TS:1718440284914-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/media.cm.json
+--ID:22TS:1718440284942-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/upstream.to.json
+--ID:22TS:1718440284950-6/15/24, 8:31:24 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/jdownloader/translate/JdownloaderTranslation.en.lng/null
+--ID:22TS:1718440284976-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/maxstream.video.json
+--ID:22TS:1718440284994-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/ddownload.com.json
+--ID:22TS:1718440284995-6/15/24, 8:31:24 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/wolfstream.tv.json
+--ID:22TS:1718440285065-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/voe.sx.json
+--ID:22TS:1718440285091-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/hotlink.cc.json
+--ID:22TS:1718440285102-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/proleech.link.json
+--ID:22TS:1718440285104-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/filemoon.sx.json
+--ID:22TS:1718440285149-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/supervideo.tv.json
+--ID:22TS:1718440285173-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/deltabit.co.json
+------------------------Thread: 30:Log.L.log-----------------------
+--ID:30TS:1718440285213-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.controlling.packagizer.PackagizerSettings.json
+--ID:30TS:1718440285216-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.packagizer.PackagizerSettings.rulelist.json
+--ID:30TS:1718440285253-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.downloadcontroller.DownloadControllerConfig.json
+--ID:30TS:1718440285266-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.json
+--ID:30TS:1718440285276-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.linkcollector.LinkCollectorConfig.json
+------------------------Thread: 39:Log.L.log-----------------------
+--ID:39TS:1718440285280-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.urlorder.json
+--ID:39TS:1718440285280-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.urldisplayorder.json
+--ID:39TS:1718440285292-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.json
+------------------------Thread: 30:Log.L.log-----------------------
+--ID:30TS:1718440285293-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /session = interface org.appwork.utils.net.httpserver.session.LoginAPIInterface
+--ID:30TS:1718440285294-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.api.RemoteAPIConfig.json
+--ID:30TS:1718440285298-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /events = interface org.appwork.remoteapi.events.EventsAPIInterface
+--ID:30TS:1718440285301-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.json
+--ID:30TS:1718440285305-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.controlling.filter.LinkFilterSettings.json
+--ID:30TS:1718440285310-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.api.myjdownloader.MyJDownloaderSettings.json
+--ID:30TS:1718440285316-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.AccountSettings.json
+------------------------Thread: 39:Log.L.log-----------------------
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TITLE
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_BETTER_FILENAME
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_TEXT
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_PORTAL
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_USERID
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POSTID
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_DATE
+--ID:39TS:1718440285320-6/15/24, 8:31:25 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.KemonoParty has static immutable field: PROPERTY_POST_CONTENT_INDEX
+------------------------Thread: 30:Log.L.log-----------------------
+--ID:30TS:1718440285323-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.linkchecker.LinkCheckerConfig.json
+--ID:30TS:1718440285328-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.reconnect.ReconnectConfig.json
+--ID:30TS:1718440285336-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.json
+--ID:30TS:1718440285343-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/org.jdownloader.gui.shortcuts.ShortcutSettings.json
+--ID:30TS:1718440285346-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.updatev2.LastChanceSettings.json
+--ID:30TS:1718440285348-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.appwork.utils.swing.dialog.ExtFileSystemViewSettings.json
+--ID:30TS:1718440285350-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.faviconcontroller.FavIconsConfig.json
+--ID:30TS:1718440285353-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.settings.SoundSettings.json
+--ID:30TS:1718440285355-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.gui.notify.gui.BubbleNotifyConfig.json
+--ID:30TS:1718440285367-6/15/24, 8:31:25 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/jd.controlling.captcha.CaptchaSettings.json
+--ID:30TS:1718440285383-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.captcha.CaptchaSettings.qualityensurancerules.json
+--ID:30TS:1718440285388-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /captcha = interface org.jdownloader.api.captcha.CaptchaAPI
+--ID:30TS:1718440285389-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /captchaforward = interface org.jdownloader.captcha.api.CaptchaForwarderAPIInterface
+--ID:30TS:1718440285390-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /jd = interface org.jdownloader.api.jd.JDAPI
+--ID:30TS:1718440285391-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloads = interface org.jdownloader.api.downloads.DownloadsAPI
+--ID:30TS:1718440285397-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadsV2 = interface org.jdownloader.api.downloads.v2.DownloadsAPIV2
+--ID:30TS:1718440285397-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadcontroller = interface org.jdownloader.api.downloads.v2.DownloadWatchdogAPI
+--ID:30TS:1718440285420-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.domainrules.json
+--ID:30TS:1718440285426-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /config = interface org.jdownloader.api.config.AdvancedConfigManagerAPI
+--ID:30TS:1718440285428-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /toolbar = interface org.jdownloader.api.toolbar.JDownloaderToolBarAPI
+--ID:30TS:1718440285430-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /accounts = interface org.jdownloader.api.accounts.AccountAPI
+--ID:30TS:1718440285431-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /accountsV2 = interface org.jdownloader.api.accounts.v2.AccountAPIV2
+--ID:30TS:1718440285433-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /system = interface org.jdownloader.api.system.SystemAPI
+--ID:30TS:1718440285434-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkcollector = interface org.jdownloader.api.linkcollector.LinkCollectorAPI
+--ID:30TS:1718440285439-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkgrabberv2 = interface org.jdownloader.api.linkcollector.v2.LinkCollectorAPIV2
+--ID:30TS:1718440285440-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /content = interface org.jdownloader.api.content.ContentAPI
+--ID:30TS:1718440285442-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /contentV2 = interface org.jdownloader.api.content.v2.ContentAPIV2
+--ID:30TS:1718440285443-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /ui = interface org.jdownloader.api.ui.UIAPI
+--ID:30TS:1718440285444-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /polling = interface org.jdownloader.api.polling.PollingAPI
+--ID:30TS:1718440285446-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /extraction = interface org.jdownloader.api.extraction.ExtractionAPI
+--ID:30TS:1718440285446-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /linkcrawler = interface org.jdownloader.api.linkcrawler.LinkCrawlerAPI
+--ID:30TS:1718440285447-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /plugins = interface org.jdownloader.api.plugins.PluginsAPI
+--ID:30TS:1718440285449-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace / = interface org.jdownloader.api.cnl2.Cnl2APIBasics
+--ID:30TS:1718440285450-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /flash = interface org.jdownloader.api.cnl2.Cnl2APIFlash
+--ID:30TS:1718440285457-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /downloadevents = interface org.jdownloader.api.downloads.DownloadControllerEventPublisherInterface
+--ID:30TS:1718440285458-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /extensions = interface org.jdownloader.api.extensions.ExtensionsAPI
+--ID:30TS:1718440285458-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /update = interface org.jdownloader.api.update.UpdateAPI
+--ID:30TS:1718440285460-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /device = interface org.jdownloader.api.device.DeviceAPI
+--ID:30TS:1718440285461-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /reconnect = interface org.jdownloader.api.reconnect.ReconnectAPI
+--ID:30TS:1718440285465-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /log = interface org.jdownloader.api.logs.LogAPI
+--ID:30TS:1718440285469-6/15/24, 8:31:25 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /dialogs = interface org.jdownloader.api.dialog.DialogApiInterface
+--ID:30TS:1718440286861-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.myjdownloader.MyJDownloaderSettings.deviceconnectports.json
+------------------------Thread: 47:Log.L.log-----------------------
+--ID:47TS:1718440286869-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace / = interface org.jdownloader.api.cnl2.Cnl2APIBasics
+--ID:47TS:1718440286869-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Try to register API namespace /flash = interface org.jdownloader.api.cnl2.Cnl2APIFlash
+------------------------Thread: 50:Log.L.log-----------------------
+--ID:50TS:1718440286920-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.json
+------------------------Thread: 47:Log.L.log-----------------------
+--ID:47TS:1718440286920-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(fine)] -> Start HTTP Server. 9666->9666|LocalHost:true
+------------------------Thread: 30:Log.L.log-----------------------
+--ID:30TS:1718440286920-6/15/24, 8:31:26 AM -  [jd.controlling.DelayWriteController(init)] -> DelayWriteMode: AUTO
+--ID:30TS:1718440286921-6/15/24, 8:31:26 AM -  [jd.controlling.DelayWriteController(init)] -> DelayedWrites auto enabled because JDownloader is running in headless mode!
+------------------------Thread: 49:Log.L.log-----------------------
+--ID:49TS:1718440286921-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.AccountSettings.accounts.ejs
+------------------------Thread: 50:Log.L.log-----------------------
+--ID:50TS:1718440286929-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.jacthreshold.json
+--ID:50TS:1718440286932-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.json
+--ID:50TS:1718440286932-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:50TS:1718440286937-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.json
+--ID:50TS:1718440286937-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:50TS:1718440286939-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.json
+--ID:50TS:1718440286940-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:50TS:1718440286943-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.json
+--ID:50TS:1718440286943-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:50TS:1718440286946-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.json
+--ID:50TS:1718440286947-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:50TS:1718440286949-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.json
+--ID:50TS:1718440286950-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:50TS:1718440286952-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.json
+--ID:50TS:1718440286952-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+--ID:50TS:1718440286956-6/15/24, 8:31:26 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.json
+--ID:50TS:1718440286956-6/15/24, 8:31:26 AM -  [org.appwork.loggingv3.LogV3(info)] -> Overridden Config Key found public abstract boolean org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.isEnabled()<-->public abstract boolean org.jdownloader.captcha.v2.ChallengeSolverConfig.isEnabled()
+------------------------Thread: 48:Log.L.log-----------------------
+--ID:48TS:1718440287063-6/15/24, 8:31:27 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.json
+--ID:48TS:1718440287075-6/15/24, 8:31:27 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Load Translation file:/opt/JDownloader/translations/org/jdownloader/extensions/extraction/translate/ExtractionTranslation.en.lng/null
+------------------------Thread: 64:Log.L.log-----------------------
+--ID:64TS:1718440288426-6/15/24, 8:31:28 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.myjdownloader.MyJDownloaderSettings.customdeviceips.json
+------------------------Thread: 256:Log.L.log-----------------------
+--ID:256TS:1718440297809-6/15/24, 8:31:37 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.faviconcontroller.FavIconsConfig.failedhosts.json
+------------------------Thread: 471:Log.L.log-----------------------
+--ID:471TS:1718440322412-6/15/24, 8:32:02 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/jd.controlling.authentication.AuthenticationControllerSettings.json
+--ID:471TS:1718440322413-6/15/24, 8:32:02 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.authentication.AuthenticationControllerSettings.list.ejs
+------------------------Thread: 480:Log.L.log-----------------------
+--ID:480TS:1718440324575-6/15/24, 8:32:04 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/e-hentai.org.json
+------------------------Thread: 498:Log.L.log-----------------------
+--ID:498TS:1718440332897-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/8muses.com.json
+--ID:498TS:1718440332898-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/adulttime.com.json
+--ID:498TS:1718440332903-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com.json
+--ID:498TS:1718440332904-6/15/24, 8:32:12 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.AllDebridCom$AlldebridComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com
+--ID:498TS:1718440332905-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/metart.com.json
+--ID:498TS:1718440332906-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pervcity.com.json
+--ID:498TS:1718440332907-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/animegg.org.json
+--ID:498TS:1718440332908-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/archive.org.json
+--ID:498TS:1718440332912-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/artstation.com.json
+--ID:498TS:1718440332913-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/avxhm.se.json
+--ID:498TS:1718440332914-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pornportal.com.json
+--ID:498TS:1718440332917-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/bang.com.json
+--ID:498TS:1718440332922-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/blowpass.com.json
+--ID:498TS:1718440332922-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/bunkr.la.json
+--ID:498TS:1718440332923-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/chip.de.json
+--ID:498TS:1718440332926-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/czechav.com.json
+--ID:498TS:1718440332930-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/danbooru.donmai.us.json
+--ID:498TS:1718440332931-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/debrid-link.fr.json
+--ID:498TS:1718440332932-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/deviantart.com.json
+--ID:498TS:1718440332934-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/dfxtra.com.json
+--ID:498TS:1718440332940-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/douyin.com.json
+--ID:498TS:1718440332941-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/drive.google.com.json
+--ID:498TS:1718440332944-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/dropbox.com.json
+--ID:498TS:1718440332947-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/eporner.com.json
+--ID:498TS:1718440332949-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/evilangel.com.json
+--ID:498TS:1718440332950-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/evilangel.com.json
+--ID:498TS:1718440332951-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/facebook.com.json
+--ID:498TS:1718440332953-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/fileboom.me.json
+--ID:498TS:1718440332959-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/filestore.to.json
+--ID:498TS:1718440332961-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/filthykings.com.json
+--ID:498TS:1718440332963-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/flash-files.com.json
+--ID:498TS:1718440332968-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/freedisc.pl.json
+--ID:498TS:1718440332969-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/fshare.vn.json
+--ID:498TS:1718440332970-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/gangbangcreampie.com.json
+--ID:498TS:1718440332971-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/gelbooru.com.json
+--ID:498TS:1718440332972-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/genderxfilms.com.json
+--ID:498TS:1718440332973-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/gfycat.com.json
+--ID:498TS:1718440332974-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/girlfriendsfilms.com.json
+--ID:498TS:1718440332974-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/gloryholesecrets.com.json
+--ID:498TS:1718440332976-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/goodporn.to.json
+--ID:498TS:1718440332978-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/gopro.com.json
+--ID:498TS:1718440332984-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/hitfile.net.json
+--ID:498TS:1718440332991-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/instagram.com.json
+--ID:498TS:1718440332997-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/issuu.com.json
+--ID:498TS:1718440332998-6/15/24, 8:32:12 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/iwara.tv.json
+--ID:498TS:1718440333000-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/joinpeertube.org.json
+--ID:498TS:1718440333003-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com.json
+--ID:498TS:1718440333003-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.JulesjordanCom$JulesjordanComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com
+--ID:498TS:1718440333004-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/k2s.cc.json
+--ID:498TS:1718440333014-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com.json
+--ID:498TS:1718440333014-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.LinkSnappyCom$LinkSnappyComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com
+--ID:498TS:1718440333019-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/mega.co.nz.json
+--ID:498TS:1718440333026-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/missav.com.json
+--ID:498TS:1718440333030-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/motherless.com.json
+--ID:498TS:1718440333034-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/my.mail.ru.json
+--ID:498TS:1718440333037-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/mydaddy.cc.json
+--ID:498TS:1718440333039-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/mypervyfamily.com.json
+--ID:498TS:1718440333041-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/naughtyamerica.com.json
+--ID:498TS:1718440333048-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/nitroflare.com.json
+--ID:498TS:1718440333051-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/odysee.com.json
+--ID:498TS:1718440333058-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/offcloud.com.json
+--ID:498TS:1718440333058-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OffCloudCom$OffCloudComPluginConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/offcloud.com
+--ID:498TS:1718440333061-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/ok.ru.json
+--ID:498TS:1718440333064-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/open3dlab.com.json
+--ID:498TS:1718440333069-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.ORFMediathek has static immutable field: CONTENT_TYPE_IMAGE
+--ID:498TS:1718440333069-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.ORFMediathek has static immutable field: CONTENT_TYPE_SUBTITLE
+--ID:498TS:1718440333069-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.ORFMediathek has static immutable field: CONTENT_TYPE_VIDEO
+--ID:498TS:1718440333069-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.ORFMediathek has static immutable field: CONTENT_EXT_HINT
+--ID:498TS:1718440333072-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net.json
+--ID:498TS:1718440333072-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OtrDatenkellerNet$OtrDatenKellerInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net
+--ID:498TS:1718440333080-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pixeldrain.com.json
+--ID:498TS:1718440333083-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pixiv.net.json
+--ID:498TS:1718440333086-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/pluralsight.com.json
+--ID:498TS:1718440333091-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/my.mail.ru.json
+--ID:498TS:1718440333093-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/porndoe.com.json
+--ID:498TS:1718440333096-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pornone.com.json
+--ID:498TS:1718440333098-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/porntrex.com.json
+--ID:498TS:1718440333099-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/pornxp.net.json
+--ID:498TS:1718440333103-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/rapidgator.net.json
+--ID:498TS:1718440333107-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/real-debrid.com.json
+--ID:498TS:1718440333108-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/recurbate.com.json
+--ID:498TS:1718440333110-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/reddit.com.json
+--ID:498TS:1718440333115-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/redtube.com.json
+--ID:498TS:1718440333117-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/srf.ch.json
+--ID:498TS:1718440333121-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/rtbf.be.json
+--ID:498TS:1718440333122-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.RtbfBe$RtbfBeConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/rtbf.be
+--ID:498TS:1718440333127-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/rule34video.com.json
+--ID:498TS:1718440333128-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/sankakucomplex.com.json
+--ID:498TS:1718440333138-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/slideshare.net.json
+--ID:498TS:1718440333138-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.SlideShareNet$SlideshareNetConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/slideshare.net
+--ID:498TS:1718440333139-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/smutba.se.json
+--ID:498TS:1718440333141-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/solidfiles.com.json
+--ID:498TS:1718440333144-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> FIXME!!!! Class jd.plugins.hoster.SoundcloudCom has customized static field: phrasesEN!
+--ID:498TS:1718440333144-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> FIXME!!!! Class jd.plugins.hoster.SoundcloudCom has customized static field: phrasesDE!
+--ID:498TS:1718440333147-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tabooheat.com.json
+--ID:498TS:1718440333149-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tezfiles.com.json
+--ID:498TS:1718440333150-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tiktok.com.json
+--ID:498TS:1718440333156-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/tumblr.com.json
+--ID:498TS:1718440333157-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/turbobit.net.json
+--ID:498TS:1718440333163-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/udemy.com.json
+--ID:498TS:1718440333164-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/upstore.net.json
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_TITLE_PLAIN
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_DATE
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_UPLOADER
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_GENERAL_wall_post_id
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_VIDEO_LIST_ID
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_VIDEO_SELECTED_QUALITY
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: PROPERTY_VIDEO_STREAM_TYPE
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: VIDEO_STREAM_TYPE_HLS
+--ID:498TS:1718440333187-6/15/24, 8:32:13 AM -  [org.jdownloader.plugins.controller.PluginClassLoader$PluginClassLoaderChild(mapStaticFields)] -> Class jd.plugins.hoster.VKontakteRuHoster has static immutable field: VIDEO_STREAM_TYPE_HTTP
+--ID:498TS:1718440333192-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/webshare.cz.json
+--ID:498TS:1718440333196-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com.json
+--ID:498TS:1718440333196-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.WeTransferCom$WetransferConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com
+--ID:498TS:1718440333198-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/whoreshub.com.json
+--ID:498TS:1718440333199-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/wicked.com.json
+--ID:498TS:1718440333201-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/HOSTER/x-art.com.json
+--ID:498TS:1718440333201-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.XArtCom$XArtConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/x-art.com
+--ID:498TS:1718440333204-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/x.com.json
+--ID:498TS:1718440333210-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xempire.com.json
+--ID:498TS:1718440333211-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xfreehd.com.json
+--ID:498TS:1718440333215-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xnxx.com.json
+--ID:498TS:1718440333220-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xnxx.gold.json
+--ID:498TS:1718440333221-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xtremestream.co.json
+--ID:498TS:1718440333223-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/xvideos.com.json
+--ID:498TS:1718440333225-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youjizz.com.json
+--ID:498TS:1718440333229-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youku.com.json
+--ID:498TS:1718440333229-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.YoukuCom$YoukuComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/youku.com
+--ID:498TS:1718440333233-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youporn.com.json
+--ID:498TS:1718440333235-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/youtube/Youtube.json
+--ID:498TS:1718440333260-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/youtv.de.json
+--ID:498TS:1718440333267-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/zdf.de.json
+--ID:498TS:1718440333267-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.ZdfDeMediathek$ZdfmediathekConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/zdf.de
+--ID:498TS:1718440333276-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/HOSTER/zerotolerancefilms.com.json
+--ID:498TS:1718440333277-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/ardmediathek.de.json
+--ID:498TS:1718440333284-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/daserste.de.json
+--ID:498TS:1718440333287-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/sandmann.de.json
+------------------------Thread: 503:Log.L.log-----------------------
+--ID:503TS:1718440333291-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.AllDebridCom$AlldebridComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com
+------------------------Thread: 498:Log.L.log-----------------------
+--ID:498TS:1718440333293-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/wdr.de.json
+--ID:498TS:1718440333295-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/sportschau.de.json
+--ID:498TS:1718440333298-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/wdrmaus.de.json
+--ID:498TS:1718440333300-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/eurovision.de.json
+--ID:498TS:1718440333303-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/sputnik.de.json
+--ID:498TS:1718440333306-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/mdr.de.json
+--ID:498TS:1718440333308-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/tagesschau.de.json
+--ID:498TS:1718440333311-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/playout.3qsdn.com.json
+--ID:498TS:1718440333313-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/erome.com.json
+--ID:498TS:1718440333315-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/hitomi.la.json
+--ID:498TS:1718440333317-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/magentamusik.de.json
+--ID:498TS:1718440333320-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/coomer.su.json
+--ID:498TS:1718440333323-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/arte.tv.json
+--ID:498TS:1718440333333-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/rule34.xxx.json
+--ID:498TS:1718440333335-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/wikifeet.com.json
+--ID:498TS:1718440333337-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/raiplay.tv.json
+--ID:498TS:1718440333341-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/boards.4chan.org.json
+--ID:498TS:1718440333343-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/s.to.json
+--ID:498TS:1718440333345-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/fembed.com.json
+--ID:498TS:1718440333347-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/wallpaperscraft.com.json
+--ID:498TS:1718440333349-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/rumble.com.json
+--ID:498TS:1718440333351-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/aparat.com.json
+--ID:498TS:1718440333353-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/biqle.ru.json
+--ID:498TS:1718440333356-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/filecrypt.cc.json
+------------------------Thread: 503:Log.L.log-----------------------
+--ID:503TS:1718440333359-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.JulesjordanCom$JulesjordanComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com
+------------------------Thread: 498:Log.L.log-----------------------
+--ID:498TS:1718440333361-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> Prefer (merged) JSon Storage from File: /opt/JDownloader/cfg/plugins/CRAWLER/m3u8.json
+--ID:498TS:1718440333364-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/bs.to.json
+--ID:498TS:1718440333365-6/15/24, 8:32:13 AM -  [org.appwork.storage.JsonKeyValueStorage(<init>)] -> CFG File does not exist: /opt/JDownloader/cfg/plugins/CRAWLER/goldesel.bz.json
+------------------------Thread: 503:Log.L.log-----------------------
+--ID:503TS:1718440333367-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.LinkSnappyCom$LinkSnappyComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com
+--ID:503TS:1718440333373-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OffCloudCom$OffCloudComPluginConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/offcloud.com
+--ID:503TS:1718440333380-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OtrDatenkellerNet$OtrDatenKellerInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net
+--ID:503TS:1718440333382-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.RtbfBe$RtbfBeConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/rtbf.be
+--ID:503TS:1718440333384-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.SlideShareNet$SlideshareNetConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/slideshare.net
+--ID:503TS:1718440333387-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.WeTransferCom$WetransferConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com
+--ID:503TS:1718440333389-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.XArtCom$XArtConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/x-art.com
+--ID:503TS:1718440333391-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.YoukuCom$YoukuComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/youku.com
+--ID:503TS:1718440333394-6/15/24, 8:32:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.ZdfDeMediathek$ZdfmediathekConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/zdf.de
+------------------------Thread: 555:Log.L.log-----------------------
+--ID:555TS:1718440346942-6/15/24, 8:32:26 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.filenamecharacterregexreplacemap.json
+--ID:555TS:1718440346943-6/15/24, 8:32:26 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.packagenamecharacterregexreplacemap.json
+------------------------Thread: 569:Log.L.log-----------------------
+--ID:569TS:1718440370992-6/15/24, 8:32:50 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.AllDebridCom$AlldebridComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com
+--ID:569TS:1718440370998-6/15/24, 8:32:50 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.JulesjordanCom$JulesjordanComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com
+--ID:569TS:1718440371002-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.LinkSnappyCom$LinkSnappyComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com
+--ID:569TS:1718440371005-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OffCloudCom$OffCloudComPluginConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/offcloud.com
+--ID:569TS:1718440371007-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OtrDatenkellerNet$OtrDatenKellerInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net
+--ID:569TS:1718440371008-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.RtbfBe$RtbfBeConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/rtbf.be
+--ID:569TS:1718440371011-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.SlideShareNet$SlideshareNetConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/slideshare.net
+--ID:569TS:1718440371013-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.WeTransferCom$WetransferConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com
+--ID:569TS:1718440371014-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.XArtCom$XArtConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/x-art.com
+--ID:569TS:1718440371017-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.YoukuCom$YoukuComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/youku.com
+--ID:569TS:1718440371020-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.ZdfDeMediathek$ZdfmediathekConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/zdf.de
+--ID:569TS:1718440371026-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.blacklistpatterns.json
+--ID:569TS:1718440371027-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.passwordlist.json
+--ID:569TS:1718440371027-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.extensions.extraction.ExtractionExtension.deepextractionblacklistpatterns.json
+------------------------Thread: 572:Log.L.log-----------------------
+--ID:572TS:1718440371165-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.AllDebridCom$AlldebridComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com
+--ID:572TS:1718440371169-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.JulesjordanCom$JulesjordanComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com
+--ID:572TS:1718440371172-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.LinkSnappyCom$LinkSnappyComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com
+--ID:572TS:1718440371179-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OffCloudCom$OffCloudComPluginConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/offcloud.com
+--ID:572TS:1718440371182-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OtrDatenkellerNet$OtrDatenKellerInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net
+--ID:572TS:1718440371183-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.RtbfBe$RtbfBeConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/rtbf.be
+--ID:572TS:1718440371185-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.SlideShareNet$SlideshareNetConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/slideshare.net
+--ID:572TS:1718440371187-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.WeTransferCom$WetransferConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com
+--ID:572TS:1718440371188-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.XArtCom$XArtConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/x-art.com
+--ID:572TS:1718440371190-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.YoukuCom$YoukuComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/youku.com
+--ID:572TS:1718440371193-6/15/24, 8:32:51 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.ZdfDeMediathek$ZdfmediathekConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/zdf.de
+------------------------Thread: 585:Log.L.log-----------------------
+--ID:585TS:1718440393417-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.AllDebridCom$AlldebridComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/alldebrid.com
+--ID:585TS:1718440393420-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.JulesjordanCom$JulesjordanComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/julesjordan.com
+--ID:585TS:1718440393424-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.LinkSnappyCom$LinkSnappyComConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/linksnappy.com
+--ID:585TS:1718440393428-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OffCloudCom$OffCloudComPluginConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/offcloud.com
+--ID:585TS:1718440393431-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.OtrDatenkellerNet$OtrDatenKellerInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/otr.datenkeller.net
+--ID:585TS:1718440393433-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.RtbfBe$RtbfBeConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/rtbf.be
+--ID:585TS:1718440393437-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.SlideShareNet$SlideshareNetConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/slideshare.net
+--ID:585TS:1718440393440-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.WeTransferCom$WetransferConfig|Path:/opt/JDownloader/cfg/plugins/HOSTER/wetransfer.com
+--ID:585TS:1718440393442-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.XArtCom$XArtConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/x-art.com
+--ID:585TS:1718440393445-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.YoukuCom$YoukuComConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/youku.com
+--ID:585TS:1718440393450-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Init StorageHandler for Interface:jd.plugins.hoster.ZdfDeMediathek$ZdfmediathekConfigInterface|Path:/opt/JDownloader/cfg/plugins/HOSTER/zdf.de
+--ID:585TS:1718440393457-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.crawlerhostpluginblacklist.json
+--ID:585TS:1718440393457-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GeneralSettings.crawlercrawlerpluginblacklist.json
+--ID:585TS:1718440393459-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.filter.LinkFilterSettings.filterlist.json
+--ID:585TS:1718440393463-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.windowswindowmanageraltkeycombi.json
+--ID:585TS:1718440393464-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.clipboardprocessblacklist.json
+--ID:585TS:1718440393464-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.premiumexpirewarningmapv2.json
+--ID:585TS:1718440393465-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.settings.GraphicalUserInterfaceSettings.overviewpositions.json
+--ID:585TS:1718440393467-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.addretrycrawlertasks2.json
+--ID:585TS:1718440393467-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.autolearnextensionorigins.json
+--ID:585TS:1718440393468-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/jd.controlling.linkcrawler.LinkCrawlerConfig.linkcrawlerrules.json
+--ID:585TS:1718440393470-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.packagenamehistory.json
+--ID:585TS:1718440393471-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.gui.views.linkgrabber.addlinksdialog.LinkgrabberSettings.downloaddestinationhistory.json
+--ID:585TS:1718440393473-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.RemoteAPIConfig.externinterfaceauth.json
+--ID:585TS:1718440393473-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2oggaudiocommand.json
+--ID:585TS:1718440393473-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demux2aaccommand.json
+--ID:585TS:1718440393474-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demux2m4acommand.json
+--ID:585TS:1718440393474-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2aaccommand.json
+--ID:585TS:1718440393474-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2m4acommand.json
+--ID:585TS:1718440393474-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.muxtowebmcommand.json
+--ID:585TS:1718440393474-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demuxandconvert2ogg.json
+--ID:585TS:1718440393475-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.extensiontoformatmap.json
+--ID:585TS:1718440393475-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.muxtomp4command.json
+--ID:585TS:1718440393475-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.muxtomkvcommand.json
+--ID:585TS:1718440393475-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demuxgenericcommand.json
+--ID:585TS:1718440393475-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.dash2opusaudiocommand.json
+--ID:585TS:1718440393475-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.controlling.ffmpeg.FFmpegSetup.demux2mp3command.json
+--ID:585TS:1718440393478-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.blacklistentries.json
+--ID:585TS:1718440393478-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.waitformap.json
+--ID:585TS:1718440393479-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.api.captcha.CaptchaMyJDownloaderRemoteSolverSettings.whitelistentries.json
+--ID:585TS:1718440393479-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.blacklistentries.json
+--ID:585TS:1718440393479-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.waitformap.json
+--ID:585TS:1718440393479-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.jac.JACSolverConfig.whitelistentries.json
+--ID:585TS:1718440393479-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.blacklistentries.json
+--ID:585TS:1718440393479-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.bubbletimeoutbyhostmap.json
+--ID:585TS:1718440393480-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.waitformap.json
+--ID:585TS:1718440393480-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.dbc.DeathByCaptchaSettings.whitelistentries.json
+--ID:585TS:1718440393480-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.blacklistentries.json
+--ID:585TS:1718440393480-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.waitformap.json
+--ID:585TS:1718440393480-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.imagetyperz.ImageTyperzConfigInterface.whitelistentries.json
+--ID:585TS:1718440393480-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.blacklistentries.json
+--ID:585TS:1718440393481-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.waitformap.json
+--ID:585TS:1718440393481-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.cheapcaptcha.CheapCaptchaConfigInterface.whitelistentries.json
+--ID:585TS:1718440393481-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.blacklistentries.json
+--ID:585TS:1718440393481-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.waitformap.json
+--ID:585TS:1718440393481-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.captchasolutions.CaptchaSolutionsConfigInterface.whitelistentries.json
+--ID:585TS:1718440393481-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.blacklistentries.json
+--ID:585TS:1718440393481-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.waitformap.json
+--ID:585TS:1718440393482-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.twocaptcha.TwoCaptchaConfigInterface.whitelistentries.json
+--ID:585TS:1718440393482-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.blacklistentries.json
+--ID:585TS:1718440393482-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.waitformap.json
+--ID:585TS:1718440393482-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.antiCaptchaCom.AntiCaptchaComConfigInterface.whitelistentries.json
+--ID:585TS:1718440393482-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.blacklistentries.json
+--ID:585TS:1718440393482-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.waitformap.json
+--ID:585TS:1718440393483-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.endcaptcha.EndCaptchaConfigInterface.whitelistentries.json
+--ID:585TS:1718440393483-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.whitelistentries.json
+--ID:585TS:1718440393483-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.blacklistentries.json
+--ID:585TS:1718440393483-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.bubbletimeoutbyhostmap.json
+--ID:585TS:1718440393484-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/org.jdownloader.captcha.v2.solver.solver9kw.Captcha9kwSettings.waitformap.json
+--ID:585TS:1718440393487-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/HOSTER/gopro.com.typestocrawl.json
+--ID:585TS:1718440393491-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.collections.json
+--ID:585TS:1718440393493-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedprojections.json
+--ID:585TS:1718440393494-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.extrasubtitles.json
+--ID:585TS:1718440393494-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierordervideocodec.json
+--ID:585TS:1718440393494-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderresolution.json
+--ID:585TS:1718440393495-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierordervideoframerate.json
+--ID:585TS:1718440393495-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderaudiobitrate.json
+--ID:585TS:1718440393495-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderaudiocodec.json
+--ID:585TS:1718440393496-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorderfiletype.json
+--ID:585TS:1718440393497-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.qualitysortidentifierorder.json
+--ID:585TS:1718440393498-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.preferedsubtitlelanguages.json
+--ID:585TS:1718440393499-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedaudiocodecs.json
+--ID:585TS:1718440393499-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedgroups.json
+--ID:585TS:1718440393499-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedvideoframerates.json
+--ID:585TS:1718440393500-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.autotranslatedsubtitles.json
+--ID:585TS:1718440393500-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.subtitlewhitelist.json
+--ID:585TS:1718440393500-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedaudiobitrates.json
+--ID:585TS:1718440393501-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedresolutions.json
+--ID:585TS:1718440393501-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedvideocodecs.json
+--ID:585TS:1718440393501-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.blacklistedfilecontainers.json
+--ID:585TS:1718440393502-6/15/24, 8:33:13 AM -  [org.appwork.loggingv3.LogV3(finer)] -> Read Config(File): /opt/JDownloader/cfg/plugins/youtube/Youtube.disabledvariants.json
+------------------------Thread: 612:Log.L.log-----------------------
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> No Vetos
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Fire onShutDownEvents:4
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: jd.controlling.linkcollector.LinkCollector@10df3778
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: jd.controlling.linkcollector.LinkCollector@10df3778
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: jd.controlling.downloadcontroller.DownloadWatchDog@4888dd37
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: jd.controlling.downloadcontroller.DownloadWatchDog@4888dd37
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: org.jdownloader.api.myjdownloader.MyJDownloaderController@8afa26
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: org.jdownloader.api.myjdownloader.MyJDownloaderController@8afa26
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown: org.jdownloader.extensions.extraction.ExtractionExtension$3@282f9b23
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Call onShutdown done: org.jdownloader.extensions.extraction.ExtractionExtension$3@282f9b23
+--ID:612TS:1718440531887-6/15/24, 8:35:31 AM -  [org.appwork.loggingv3.LogV3(info)] -> Create ExitThread

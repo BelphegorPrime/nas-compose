@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373698",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/01 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/02 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/03 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/04 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/05 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/06 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/07 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/08 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/09 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/10 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/11 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/12 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/13 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/14 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/15 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/16 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/17 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/18 Die Wiederkehr.mp3",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/6373698/Wolfgang Hohlbein - Die Chronik der Unsterblichen - 05 Die Wiederkehr/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

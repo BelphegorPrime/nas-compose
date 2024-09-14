@@ -1,0 +1,15 @@
+{
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/TeLaS02E07",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/TeLaS02E07/Ted.Lasso.S02E07.Kopfsache.GERMAN.AC3.720p.WEB.x265-w00t.mkv"
+                                                             ]
+                                        },
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : "w00t",
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET"
+}

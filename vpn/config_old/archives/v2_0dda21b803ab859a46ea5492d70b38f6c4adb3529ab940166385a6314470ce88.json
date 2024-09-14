@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/The Northman AC3MD WEBRip",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/The Northman AC3MD WEBRip/The.Northman.2022.German.AC3MD.WEBRip.x264-HQSD/The.Northman.2022.German AC3MD  WEBRip x264 - HQSD.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

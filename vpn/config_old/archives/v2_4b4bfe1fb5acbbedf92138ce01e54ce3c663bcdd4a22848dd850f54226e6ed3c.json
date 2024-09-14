@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Highlander II - Die R_u00fcckkehr RENEGARDE VERSION (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Highlander II - Die R_u00fcckkehr RENEGARDE VERSION (microHD)/Highlander.II.Die.Rueckkehr.1991.RENEGADE.VERSION.GERMAN.800p.microHD.x264-RED/Highlander II - Die Rückkehr RENEGARDE VERSION (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

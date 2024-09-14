@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/466n5ebzv3w45w",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/466n5ebzv3w45w/Inspector.Clouseau.Der.irre.Flic.mit.dem.heissen.Blick.1978.German.DL.1080p.HDTV.x264-msd/Inspector.Clouseau.Der.irre.Flic.mit.dem.heissen.Blick.1978.German.DL.1080p.HDTV.x264-msd.mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

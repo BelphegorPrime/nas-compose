@@ -1,0 +1,27 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/01 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/02 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/03 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/04 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/05 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/06 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/07 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/08 Die Duene.mp3",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/_Unterstützung für Re-Uploads/ddl.to_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/_Unterstützung für Re-Uploads/NitroFlare _ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/_Unterstützung für Re-Uploads/Rapidgator_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/_Unterstützung für Re-Uploads/Turbobit.net_ Bitte klicken um meine Re-Uploads zu Unterstützen, Danke.html",
+                                                              "/opt/JDownloader/Downloads/Stephen King - Raststätte Mile 81 & Die Düne/_Unterstützung für Re-Uploads/_Bitte lesen - Please read.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

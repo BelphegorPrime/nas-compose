@@ -1,0 +1,15 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Spider-Man - A New Universe (microHD)",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Spider-Man - A New Universe (microHD)/Spider.Man.A.New.Universe.GERMAN.834p.microHD.x264-RED/Spider-Man \u2013 A New Universe (microHD).mkv"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,38 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/6373686",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/00 - Stimmen der Vergangenheit (Ripper's Daughters 1) (Audible Original).m3u",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/01 - Vorspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/02 - Kapitel 1.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/03 - Kapitel 2.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/04 - Kapitel 3.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/05 - Kapitel 4.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/06 - Kapitel 5.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/07 - Kapitel 6.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/08 - Kapitel 7.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/09 - Kapitel 8.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/10 - Kapitel 9.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/11 - Kapitel 10.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/12 - Kapitel 11.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/13 - Kapitel 12.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/14 - Kapitel 13.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/15 - Kapitel 14.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/16 - Kapitel 15.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/17 - Kapitel 16.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/18 - Abspann.mp3",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/REFLINK FÜR UNTERSTÜTZUNG.txt",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/__DDL Premium_200GB_PRO_TAG.url",
+                                                              "/opt/JDownloader/Downloads/6373686/Markus Heitz, Carsten Steenbergen - Ripper's Daughters 01 - Stimmen der Vergangenheit (Audible Original)/___Rapidgator 24TB_REFLINK für Unterstützung. DANKE.url"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

@@ -1,0 +1,17 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/House of the Dragon S01E02 HDR 2160p",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/House of the Dragon S01E02 HDR 2160p/House.of.the.Dragon.S01E02.GERMAN.DUBBED.DL.HDR.2160p.WEB.h265-TMSF/tmsf-houseofthedragon-s01e02-hdr-2160p.mkv",
+                                                              "/opt/JDownloader/Downloads/House of the Dragon S01E02 HDR 2160p/House.of.the.Dragon.S01E02.GERMAN.DUBBED.DL.HDR.2160p.WEB.h265-TMSF/tmsf-houseofthedragon-s01e02-hdr-2160p.nfo",
+                                                              "/opt/JDownloader/Downloads/House of the Dragon S01E02 HDR 2160p/House.of.the.Dragon.S01E02.GERMAN.DUBBED.DL.HDR.2160p.WEB.h265-TMSF/tvmaze.nfo"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

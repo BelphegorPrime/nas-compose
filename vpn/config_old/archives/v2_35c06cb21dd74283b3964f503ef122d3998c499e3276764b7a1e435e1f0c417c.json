@@ -1,0 +1,18 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E22.Das.Geiseldrama.German.720p.BluRay.x264-EXPiRED/exp-clonewarsx264-s01e22.mkv",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E22.Das.Geiseldrama.German.720p.BluRay.x264-EXPiRED/exp-clonewarsx264-s01e22.nfo",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E22.Das.Geiseldrama.German.720p.BluRay.x264-EXPiRED/Subs/exp-clonewarsx264-s01e22.idx",
+                                                              "/opt/JDownloader/Downloads/Star Wars The Clone Wars S01 German 720p BluRay x264-EXPiRED - serienfans org/Star.Wars.The.Clone.Wars.S01E22.Das.Geiseldrama.German.720p.BluRay.x264-EXPiRED/Subs/exp-clonewarsx264-s01e22.sub"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

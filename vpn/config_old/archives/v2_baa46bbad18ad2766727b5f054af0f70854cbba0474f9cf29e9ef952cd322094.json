@@ -1,0 +1,25 @@
+{
+ "ifFileExistsAction"                 : null,
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET",
+ "extractPath"                        : null,
+ "finalPassword"                      : null,
+ "passwords"                          : [],
+ "autoExtract"                        : "UNSET",
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads/Atypical",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e01.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e01.german.dl.web.x264-bigint.nfo",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e02.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e03.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e04.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e05.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e06.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e07.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e08.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e09.german.dl.web.x264-bigint.mkv",
+                                                              "/opt/JDownloader/Downloads/Atypical/Atypical.S02.COMPLETE.German.DL.WEB.x264-BiGiNT/atypical.s02e10.german.dl.web.x264-bigint.mkv"
+                                                             ]
+                                        }
+}

@@ -1,0 +1,37 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/01 - Sherlock Holmes und die Kartenspielrunde - Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/02 - Sherlock Holmes und die Kartenspielrunde - Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/03 - Sherlock Holmes und die Kartenspielrunde - Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/04 - Sherlock Holmes und die Kartenspielrunde - Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/05 - Sherlock Holmes und die Kartenspielrunde - Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/06 - Sherlock Holmes und die Kartenspielrunde - Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/07 - Sherlock Holmes und die Kartenspielrunde - Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/08 - Sherlock Holmes und die Kartenspielrunde - Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/09 - Sherlock Holmes und die Kartenspielrunde - Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/10 - Sherlock Holmes und die Kartenspielrunde - Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/11 - Sherlock Holmes und die Kartenspielrunde - Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/12 - Sherlock Holmes und die Kartenspielrunde - Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/13 - Sherlock Holmes und die Kartenspielrunde - Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/14 - Sherlock Holmes und die Kartenspielrunde - Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/15 - Sherlock Holmes und die Kartenspielrunde - Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/16 - Sherlock Holmes und die Kartenspielrunde - Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/17 - Sherlock Holmes und die Kartenspielrunde - Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/18 - Sherlock Holmes und die Kartenspielrunde - Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/19 - Sherlock Holmes und die Kartenspielrunde - Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/cover.jpg",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Die Abenteuer des alten Sherlock Holmes 21 - Sherlock Holmes und die Kartenspielrunde (ungekuerzt)/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}

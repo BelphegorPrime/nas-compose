@@ -1,0 +1,43 @@
+{
+ "autoExtract"                        : "UNSET",
+ "extractPath"                        : null,
+ "extractionInfo"                     : {
+                                         "extractToFolder" : "/opt/JDownloader/Downloads",
+                                         "files"           : [
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/01 - Folge 27_ Die drei Studenten, Teil 1.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/02 - Folge 27_ Die drei Studenten, Teil 2.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/03 - Folge 27_ Die drei Studenten, Teil 3.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/04 - Folge 27_ Die drei Studenten, Teil 4.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/05 - Folge 27_ Die drei Studenten, Teil 5.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/06 - Folge 27_ Die drei Studenten, Teil 6.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/07 - Folge 27_ Die drei Studenten, Teil 7.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/08 - Folge 27_ Die drei Studenten, Teil 8.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/09 - Folge 27_ Die drei Studenten, Teil 9.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/10 - Folge 27_ Die drei Studenten, Teil 10.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/11 - Folge 27_ Die drei Studenten, Teil 11.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/12 - Folge 27_ Die drei Studenten, Teil 12.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/13 - Folge 27_ Die drei Studenten, Teil 13.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/14 - Folge 27_ Die drei Studenten, Teil 14.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/15 - Folge 27_ Die drei Studenten, Teil 15.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/16 - Folge 27_ Die drei Studenten, Teil 16.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/17 - Folge 27_ Die drei Studenten, Teil 17.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/18 - Folge 27_ Die drei Studenten, Teil 18.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/19 - Folge 27_ Die drei Studenten, Teil 19.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/20 - Folge 27_ Die drei Studenten, Teil 20.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/21 - Folge 27_ Die drei Studenten, Teil 21.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/22 - Folge 27_ Die drei Studenten, Teil 22.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/23 - Folge 27_ Die drei Studenten, Teil 23.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/24 - Folge 27_ Die drei Studenten, Teil 24.mp3",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/folder.jpg",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/Hoerbuchsammlung - EINZELN LADBAR - Pastebin.com.html",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/HOERBUCH_SAMMLUNG.txt",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/playlist.m3u8",
+                                                              "/opt/JDownloader/Downloads/Arthur Conan Doyle - Sherlock Holmes Chronicles 027 - Die drei Studenten/Rapidgator 12TB_REFLINK für Unterstützung. DANKE.txt"
+                                                             ]
+                                        },
+ "finalPassword"                      : null,
+ "ifFileExistsAction"                 : null,
+ "passwords"                          : [],
+ "removeDownloadLinksAfterExtraction" : "UNSET",
+ "removeFilesAfterExtraction"         : "UNSET"
+}
