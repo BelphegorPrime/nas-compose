@@ -2,3 +2,10 @@
 wg0.conf
 downloads
 jdlogs
+
+config
+config_old
+extensions
+jdlogs_old
+transmission
+watch
