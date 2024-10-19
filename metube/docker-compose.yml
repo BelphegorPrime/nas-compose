@@ -1,0 +1,21 @@
+version: "3"
+services:
+  metube:
+    image: ghcr.io/alexta69/metube
+    container_name: metube
+    restart: unless-stopped
+    ports:
+      - 8014:8081
+    environment:
+      - UID=0
+      - GID=0
+    volumes:
+      - ytDownloads:/downloads
+
+volumes:
+    ytDownloads:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/youtube
+        o: username=marcel,password=Night17293

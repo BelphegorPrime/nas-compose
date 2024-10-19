@@ -239,5 +239,14 @@
 	"to": 3389
       }
     ]
+  },
+  {
+    "domain": "metube.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8014
+      }
+    ]
   }
 ]
