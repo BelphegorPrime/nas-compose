@@ -9,8 +9,10 @@ services:
     environment:
       - UID=0
       - GID=0
+      - YTDL_OPTIONS={"cookiefile":"/cookies/cookies.txt"}
     volumes:
       - ytDownloads:/downloads
+      - ./cookies:/cookies
 
 volumes:
     ytDownloads:
