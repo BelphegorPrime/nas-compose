@@ -248,5 +248,14 @@
         "to": 8014
       }
     ]
+  },
+  {
+    "domain": "immich.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8283
+      }
+    ]
   }
 ]
