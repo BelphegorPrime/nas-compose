@@ -10,7 +10,7 @@ services:
       - podcasts:/podcasts
       - ebooks:/ebooks
       - ./config:/config
-      - ./metadata:/metadata
+      - metadata:/metadata
     environment:
       - NODE_ENV=production
       - NODE_OPTIONS=--max-old-space-size=8192
@@ -34,4 +34,10 @@ volumes:
       driver_opts:
         type: cifs
         device: //192.168.1.100/media/Ebooks
+        o: username=marcel,password=Night17293
+  metadata:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/docker/data/audiobookshelf/metadata
         o: username=marcel,password=Night17293

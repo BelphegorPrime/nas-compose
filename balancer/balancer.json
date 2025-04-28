@@ -257,5 +257,14 @@
         "to": 8283
       }
     ]
+  },
+  {
+    "domain": "immich.marcel.codes",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8283
+      }
+    ]
   }
 ]

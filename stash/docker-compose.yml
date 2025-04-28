@@ -38,7 +38,7 @@ services:
       ## Where to store binary blob data (scene covers, images)
       - ./blobs:/blobs
       ## Where to store generated content (screenshots,previews,transcodes,sprites)
-      - ./generated:/generated
+      - generated:/generated
 
 volumes:
     cifs_mount:
@@ -46,4 +46,11 @@ volumes:
       driver_opts:
         type: cifs
         device: //192.168.1.100/media/porn
+        o: username=marcel,password=Night17293
+
+    generated:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/docker/data/stash/generated
         o: username=marcel,password=Night17293
