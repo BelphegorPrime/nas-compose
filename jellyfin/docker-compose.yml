@@ -16,6 +16,7 @@ services:
       - movies:/media/Movies
       - series:/media/Series
       - ebooks:/media/Ebooks
+      - music:/media/Music
     ports:
       - 8001:8096
       #- 4431:8920
@@ -62,4 +63,10 @@ volumes:
       driver_opts:
         type: cifs
         device: //192.168.1.100/media/Ebooks
+        o: username=marcel,password=Night17293
+    music:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Music
         o: username=marcel,password=Night17293

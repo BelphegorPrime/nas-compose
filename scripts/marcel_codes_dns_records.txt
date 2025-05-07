@@ -1,0 +1,169 @@
+# DNS Records Export for marcel.codes
+
+## marcel.codes ##
+marcel.codes.		3445	IN	A	76.76.21.21
+marcel.codes.		3445	IN	MX	20 mailsec.protonmail.ch.
+marcel.codes.		3445	IN	MX	10 mail.protonmail.ch.
+marcel.codes.		3445	IN	TXT	"protonmail-verification=1fc02e241f97317690e2adba2280f469a102ba0d"
+marcel.codes.		3445	IN	TXT	"v=spf1 include:_spf.protonmail.ch mx ~all"
+marcel.codes.		7045	IN	NS	ns1071.ui-dns.de.
+marcel.codes.		7045	IN	NS	ns1017.ui-dns.org.
+marcel.codes.		7045	IN	NS	ns1123.ui-dns.com.
+marcel.codes.		7045	IN	NS	ns1097.ui-dns.biz.
+marcel.codes.		7045	IN	SOA	ns1123.ui-dns.com. hostmaster.1und1.com. 2017060169 28800 7200 604800 600
+
+## audio.marcel.codes ##
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3445 IN	A	87.148.247.85
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audio.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## audiobookshelf.marcel.codes ##
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+audiobookshelf.marcel.codes. 3446 IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## auth.marcel.codes ##
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+auth.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## container.marcel.codes ##
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+container.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## dot.marcel.codes ##
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3445 IN	A	87.148.247.85
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+dot.marcel.codes.	3445	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## ha.marcel.codes ##
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 2186 IN	A	87.148.247.85
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+ha.marcel.codes.	2186	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## home.marcel.codes ##
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+home.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## immich.marcel.codes ##
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+immich.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## jarvis.marcel.codes ##
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+jarvis.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## mealie.marcel.codes ##
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+mealie.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## media.marcel.codes ##
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+media.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## paper.marcel.codes ##
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+paper.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+
+## pdf.marcel.codes ##
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+2mkxieiyztx2ogk3.myfritz.net. 3446 IN	A	87.148.247.85
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
+pdf.marcel.codes.	3446	IN	CNAME	2mkxieiyztx2ogk3.myfritz.net.
