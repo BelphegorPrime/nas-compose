@@ -28,6 +28,12 @@ services:
     restart: unless-stopped
 
 volumes:
+    config:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/docker/data/jellyfin/config
+        o: username=marcel,password=Night17293
     anime_german:
       driver: local
       driver_opts:
