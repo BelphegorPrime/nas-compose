@@ -27,6 +27,18 @@ services:
 #      - /dev/dri/card0:/dev/dri/card0
     restart: unless-stopped
 
+  jellyapp:
+    build:
+      context: ./jelly-app
+      dockerfile: Dockerfile
+      args:
+        VITE_DEFAULT_JELLYFIN_URL: https://media.marcel.codes
+        VITE_LOCK_JELLYFIN_URL: "true"
+    image: jelly-app:latest
+    ports:
+      - 8081:80
+    restart: unless-stopped
+
 volumes:
     config:
       driver: local
