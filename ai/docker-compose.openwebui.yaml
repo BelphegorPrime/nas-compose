@@ -8,5 +8,5 @@ services:
         volumes:
             - ./docker/open-webui:/app/backend/data
         container_name: open-webui
-        restart: always
+        restart: unless-stopped
         image: ghcr.io/open-webui/open-webui:main

@@ -1,0 +1,35 @@
+# Compose file for AMD GPU
+
+# If not working, try DirectML instead:
+# https://github.com/YanWenKun/ComfyUI-Docker/blob/main/docs/wsl-directml.adoc
+
+services:
+
+# Ref: https://hub.docker.com/r/rocm/pytorch
+# Ref: https://rocm.docs.amd.com/projects/install-on-linux/en/latest/how-to/docker.html
+
+  comfyui:
+    init: true
+    container_name: comfyui-rocm
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: "yanwk/comfyui-boot:rocm"
+    ports:
+      - "8188:8188"
+    volumes:
+      - "./storage:/root"
+    environment:
+      - CLI_ARGS=--use-pytorch-cross-attention
+    devices:
+      - /dev/kfd
+      - /dev/dri
+    group_add:
+      - video
+    ipc: host
+    cap_add:
+      - SYS_PTRACE
+    security_opt:
+      - seccomp:unconfined
+      - label:disable
+    restart: unless-stopped
