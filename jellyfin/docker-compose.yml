@@ -17,6 +17,8 @@ services:
       - series:/media/Series
       - ebooks:/media/Ebooks
       - music:/media/Music
+    tmpfs:
+      - /config/transcodes
     ports:
       - 8001:8096
       #- 4431:8920
@@ -28,13 +30,10 @@ services:
     restart: unless-stopped
 
   jellyapp:
-    build:
-      context: ./jelly-app
-      dockerfile: Dockerfile
-      args:
-        VITE_DEFAULT_JELLYFIN_URL: https://media.marcel.codes
-        VITE_LOCK_JELLYFIN_URL: "true"
-    image: jelly-app:latest
+    image: ghcr.io/stannnnn/jelly-music-app:latest
+    environment:
+        DEFAULT_JELLYFIN_URL: https://media.szb.marcel.codes
+        LOCK_JELLYFIN_URL: "true"
     ports:
       - 8081:80
     restart: unless-stopped
