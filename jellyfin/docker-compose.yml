@@ -85,5 +85,5 @@ volumes:
       driver: local
       driver_opts:
         type: cifs
-        device: //192.168.1.100/media/Music
+        device: //192.168.1.100/media/Musik
         o: username=marcel,password=Night17293

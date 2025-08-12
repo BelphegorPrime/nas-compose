@@ -1,0 +1,17 @@
+2025-08-07T00:00:03.624 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '22': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T00:00:05.991 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '60': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T00:00:07.782 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '77': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T00:00:08.414 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '86': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T00:00:09.944 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '105': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T00:00:10.642 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '114': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T00:00:11.698 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '126': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T00:00:15.118 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '164': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
+2025-08-07T18:19:04.001 INFO  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.metadata.igdb changed state to RESOLVED
+2025-08-07T18:19:04.012 INFO  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.metadata.steam changed state to RESOLVED
+2025-08-07T18:19:04.012 INFO  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.metadata.steamgriddb changed state to RESOLVED
+2025-08-07T18:19:04.012 INFO  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.download.direct changed state to RESOLVED
+2025-08-07T18:19:04.016 WARN  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.metadata.igdb has invalid configuration
+2025-08-07T18:19:04.019 INFO  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.metadata.steam changed state to STARTED
+2025-08-07T18:19:04.021 WARN  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.metadata.steamgriddb has invalid configuration
+2025-08-07T18:19:04.022 INFO  o.g.a.c.p.m.GameyfinPluginManager        : Plugin org.gameyfin.plugins.download.direct changed state to STARTED
+2025-08-07T18:19:04.023 INFO  o.g.a.c.p.m.PluginManagerConfig          : Loaded plugins: [org.gameyfin.plugins.metadata.igdb, org.gameyfin.plugins.metadata.steam, org.gameyfin.plugins.download.torrent, org.gameyfin.plugins.metadata.steamgriddb, org.gameyfin.plugins.download.direct]

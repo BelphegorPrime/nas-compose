@@ -1,22 +1,15 @@
 version: "3.5"
 services:
   diun:
-    image: ghcr.io/crazy-max/diun
+    image: crazymax/diun:latest
+    command: serve
     container_name: diun
     volumes:
       - ./data:/data
+      - ./diun.yml:/etc/diun/diun.yml:ro
       - /var/run/docker.sock:/var/run/docker.sock
-    env_file:
-      - .env
     environment:
       - TZ=Europe/Berlin
       - LOG_LEVEL=info
       - LOG_JSON=false
-      - DIUN_WATCH_WORKERS=20
-      - DIUN_WATCH_SCHEDULE=0 */6 * * *
-      - DIUN_PROVIDERS_DOCKER=true
-      - DIUN_PROVIDERS_DOCKER_WATCHSTOPPED=true
-    labels:
-      - diun.enable=true
-      - diun.watch_repo=true
     restart: unless-stopped
