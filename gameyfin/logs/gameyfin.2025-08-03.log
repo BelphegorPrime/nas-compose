@@ -1,4 +1,0 @@
-2025-08-03T00:00:05.769 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '22': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
-2025-08-03T00:00:09.935 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '77': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
-2025-08-03T00:00:13.071 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '114': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images
-2025-08-03T00:00:16.732 ERROR o.g.app.libraries.LibraryScanService     : Error updating game with id '164': A collection with orphan deletion was no longer referenced by the owning entity instance: org.gameyfin.app.games.entities.Game.images

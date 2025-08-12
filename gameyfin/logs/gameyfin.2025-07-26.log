@@ -1,2 +1,0 @@
-2025-07-26T00:00:18.933 ERROR o.g.app.libraries.LibraryScanService     : Error downloading images for game 'STAR WARS: The Force Unleashed II' (189): Query did not return a unique result: 2 results were returned
-2025-07-26T00:00:18.933 ERROR o.g.app.libraries.LibraryScanService     : Error downloading images for game 'STAR WARS: The Force Unleashed II' (130): Query did not return a unique result: 2 results were returned
