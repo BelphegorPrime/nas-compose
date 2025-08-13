@@ -1,0 +1,33 @@
+services:
+  foregjo:
+    image: codeberg.org/forgejo/forgejo:12
+    container_name: forgejo
+    environment:
+      - USER_UID=1000
+      - USER_GID=1000
+      - FORGEJO__database__DB_TYPE=postgres
+      - FORGEJO__database__HOST=db:5432
+      - FORGEJO__database__NAME=forgejo
+      - FORGEJO__database__USER=forgejo
+      - FORGEJO__database__PASSWD=forgejo
+      - ENABLE_NOTIFY_MAIL=true
+    restart: unless-stopped
+    volumes:
+      - /etc/timezone:/etc/timezone:ro
+      - /etc/localtime:/etc/localtime:ro
+      - ./forgejo:/data
+    ports:
+      - 8017:3000
+      - 222:22
+    depends_on:
+      - db
+
+  db:
+    image: postgres
+    restart: unless-stopped
+    environment:
+      - POSTGRES_USER=forgejo
+      - POSTGRES_PASSWORD=forgejo
+      - POSTGRES_DB=forgejo
+    volumes:
+      - ./db:/var/lib/postgresql/data

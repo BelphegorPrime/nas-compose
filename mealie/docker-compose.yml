@@ -1,7 +1,7 @@
 version: "3.7"
 services:
   mealie:
-    image: ghcr.io/mealie-recipes/mealie:nightly
+    image: ghcr.io/mealie-recipes/mealie
     container_name: mealie
     ports:
         - 8009:9000
