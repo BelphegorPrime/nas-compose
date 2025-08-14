@@ -68,7 +68,7 @@ services:
       - "host.docker.internal:host-gateway"
 
   broker:
-    image: redis:6.0
+    image: redis:6.2
     restart: unless-stopped
     volumes:
       - ./data/redis:/data
