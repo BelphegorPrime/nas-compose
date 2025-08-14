@@ -226,6 +226,45 @@
         "to": 8013
       }
     ]
+  },
+  {
+    "domain": "win.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8006
+      },
+      {
+	"from": 3389,
+	"to": 3389
+      }
+    ]
+  },
+  {
+    "domain": "metube.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8014
+      }
+    ]
+  },
+  {
+    "domain": "immich.local.net",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8283
+      }
+    ]
+  },
+  {
+    "domain": "immich.marcel.codes",
+    "portMap": [
+      {
+        "from": 80,
+        "to": 8283
+      }
+    ]
   }
-
 ]

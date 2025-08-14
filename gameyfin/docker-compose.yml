@@ -1,0 +1,33 @@
+services:
+  gameyfin:
+    image: ghcr.io/gameyfin/gameyfin:2
+    container_name: gameyfin
+    restart: unless-stopped
+    environment:
+      # Generate a new APP_KEY using the command `openssl rand -base64 32` or similar.
+      APP_KEY: 4v7fs6ES36JUFozPbzYEfuqDClTV4I+Kmy49JA1KYG0=
+
+      # (optional) Set the URL of your Gameyfin instance if you are using a reverse proxy.
+      APP_URL: https://games.szb.marcel.codes
+
+      # (optional) Set the user and group ID to run Gameyfin with a specific user.
+      PUID: 1000 # Change this to your user ID if needed
+      PGID: 1000 # Change this to your group ID if needed
+    volumes:
+      - ./db:/opt/gameyfin/db
+      - ./data:/opt/gameyfin/data
+      - ./logs:/opt/gameyfin/logs
+      - games:/data/games
+    ports:
+      - 8338:8080
+      # If you plan to use the included torrent plugin, uncomment the following lines (optional):
+      # - "6969:6969"
+      # - "6881:6881"
+
+volumes:
+    games:
+      driver: local
+      driver_opts:
+        type: cifs
+        device: //192.168.1.100/media/Games
+        o: username=marcel,password=Night17293

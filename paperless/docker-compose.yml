@@ -42,7 +42,9 @@ services:
       - broker
       - gotenberg
       - tika
-      - mail
+    networks:
+      - default
+      - protonmail_default
     ports:
       - 8008:8000
     healthcheck:
@@ -52,9 +54,9 @@ services:
       retries: 5
     volumes:
       - ./paperless:/usr/src/paperless/data
-      - /srv/dev-disk-by-label-media/media/Documents/media:/usr/src/paperless/media:rshared
-      - /srv/dev-disk-by-label-media/media/Documents/consume:/usr/src/paperless/consume:rshared
-      - /srv/dev-disk-by-label-media/media/Documents/export:/usr/src/paperless/export:rshared
+      - ./smbshare/media:/usr/src/paperless/media
+      - ./smbshare/consume:/usr/src/paperless/consume
+      - ./smbshare/export:/usr/src/paperless/export
     env_file: .env
     environment:
       PAPERLESS_REDIS: redis://broker:6379
@@ -69,12 +71,16 @@ services:
 
   broker:
     image: redis:6.2
+    networks:
+      - default
     restart: unless-stopped
     volumes:
       - ./data/redis:/data
 
   db:
     image: postgres:13
+    networks:
+      - default
     restart: unless-stopped
     volumes:
       - ./data/db:/var/lib/postgresql/data
@@ -85,20 +91,17 @@ services:
 
   gotenberg:
     image: gotenberg/gotenberg:7
+    networks:
+      - default
     restart: unless-stopped
     environment:
       CHROMIUM_DISABLE_ROUTES: 1
 
   tika:
     image: apache/tika
+    networks:
+      - default
     restart: unless-stopped
-
-  mail:
-    image: shenxn/protonmail-bridge:latest
-    container_name: mail
-    restart: unless-stopped
-    volumes:
-      - ./data/protonmail:/root
 
 #  rclone:
 #    image: rclone/rclone
@@ -121,3 +124,9 @@ services:
 #      - /dev/fuse
 #    command: "mount onedrive:Documents/paperless /data/documents --allow-non-empty --vfs-cache-mode full"
 #    command: "mount gd-tv:   /data/gd-tv    --allow-other --transfers 1 --dir-cache-time 1000h --buffer-size 8M --log-file /data/logs/tv.log --log-level DEBUG"
+
+networks:
+  default:
+  protonmail_default:
+    name: protonmail_default
+    external: true
